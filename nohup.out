@@ -1,0 +1,209 @@
+[I 11:07:11.639 NotebookApp] The port 10000 is already in use, trying another port.
+[I 11:07:11.642 NotebookApp] Serving notebooks from local directory: /data/insight_yelp
+[I 11:07:11.642 NotebookApp] 0 active kernels 
+[I 11:07:11.642 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:10001/
+[I 11:07:11.642 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 11:07:15.481 NotebookApp] 302 GET / (65.87.19.170) 1.21ms
+[I 11:08:07.336 NotebookApp] Kernel started: 72d4ce14-b74e-4702-800e-35b2c75b9dde
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Intel MKL FATAL ERROR: Cannot load libmkl_avx.so or libmkl_def.so.
+[I 11:08:13.336 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 72d4ce14-b74e-4702-800e-35b2c75b9dde restarted
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Intel MKL FATAL ERROR: Cannot load libmkl_avx.so or libmkl_def.so.
+[I 11:08:22.346 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 72d4ce14-b74e-4702-800e-35b2c75b9dde restarted
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:10:07.435 NotebookApp] Saving file at /notebooks/Download_data.ipynb
+[I 12:07:11.620 NotebookApp] Creating new notebook in /notebooks
+[I 12:07:16.640 NotebookApp] Kernel started: 2e0112a9-9e6f-4025-8962-9473b511a228
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 12:09:17.224 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+Intel MKL FATAL ERROR: Cannot load libmkl_avx.so or libmkl_def.so.
+[I 12:09:34.639 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 2e0112a9-9e6f-4025-8962-9473b511a228 restarted
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 12:11:16.701 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 14:44:01.476 NotebookApp] Kernel restarted: 2e0112a9-9e6f-4025-8962-9473b511a228
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:45:17.652 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 14:45:22.744 NotebookApp] Kernel restarted: 2e0112a9-9e6f-4025-8962-9473b511a228
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:47:17.620 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[C 14:48:41.746 NotebookApp] received signal 15, stopping
+[I 14:48:41.748 NotebookApp] Shutting down kernels
+[I 14:48:43.036 NotebookApp] Kernel shutdown: 2e0112a9-9e6f-4025-8962-9473b511a228
+[I 14:48:43.137 NotebookApp] Kernel shutdown: 72d4ce14-b74e-4702-800e-35b2c75b9dde
+[I 10:23:40.977 NotebookApp] Serving notebooks from local directory: /data/insight_yelp
+[I 10:23:40.977 NotebookApp] 0 active kernels 
+[I 10:23:40.977 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:10000/
+[I 10:23:40.977 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 10:23:44.005 NotebookApp] 302 GET / (65.87.19.170) 1.53ms
+[I 10:24:19.084 NotebookApp] Kernel started: f56d960c-9352-4304-b61d-83ab4a1b5b55
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 10:24:50.855 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 10:26:20.030 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:00:19.741 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:02:19.206 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:04:19.220 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:05:03.002 NotebookApp] Creating new notebook in /notebooks
+[I 11:05:04.647 NotebookApp] Kernel started: 3e43c827-9459-4375-9e7a-c2f1154b67da
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:06:19.295 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:06:35.063 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:07:41.799 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:08:19.215 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:09:31.748 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+Intel MKL FATAL ERROR: Cannot load libmkl_avx.so or libmkl_def.so.
+[I 11:10:04.085 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel f56d960c-9352-4304-b61d-83ab4a1b5b55 restarted
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:10:07.822 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:10:12.926 NotebookApp] Kernel restarted: f56d960c-9352-4304-b61d-83ab4a1b5b55
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:10:23.947 NotebookApp] Interrupted...
+[I 11:10:23.947 NotebookApp] Shutting down kernels
+[I 11:10:24.650 NotebookApp] Kernel shutdown: 3e43c827-9459-4375-9e7a-c2f1154b67da
+[I 11:10:24.651 NotebookApp] Kernel shutdown: f56d960c-9352-4304-b61d-83ab4a1b5b55
+[I 11:10:57.051 NotebookApp] Serving notebooks from local directory: /data/insight_yelp
+[I 11:10:57.051 NotebookApp] 0 active kernels 
+[I 11:10:57.051 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:10000/
+[I 11:10:57.051 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:11:00.185 NotebookApp] 404 GET /api/kernels/3e43c827-9459-4375-9e7a-c2f1154b67da/channels?session_id=E59AF6730386494AAC5AB8F2E08826BC (65.87.19.170): Kernel does not exist: 3e43c827-9459-4375-9e7a-c2f1154b67da
+[W 11:11:00.232 NotebookApp] 404 GET /api/kernels/3e43c827-9459-4375-9e7a-c2f1154b67da/channels?session_id=E59AF6730386494AAC5AB8F2E08826BC (65.87.19.170) 56.21ms referer=None
+[E 11:11:00.460 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/notebook/services/kernels/handlers.py", line 88, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/notebook/services/kernels/kernelmanager.py", line 109, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/notebook/services/kernels/kernelmanager.py", line 169, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    HTTPError: HTTP 404: Not Found (Kernel does not exist: f56d960c-9352-4304-b61d-83ab4a1b5b55)
+[E 11:11:00.462 NotebookApp] {
+      "Origin": "https://planck.ucsc.edu:10000", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.8", 
+      "Accept-Encoding": "gzip, deflate, br", 
+      "Host": "planck.ucsc.edu:10000", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "https://planck.ucsc.edu:10000/notebooks/notebooks/Word2Vec.ipynb", 
+      "Cookie": "_ga=GA1.2.307965431.1438571430; username-planck-ucsc-edu-10004=\"2|1:0|10:1462913830|30:username-planck-ucsc-edu-10004|48:YTNjNDJhMjAtMGE1YS00ZDAwLWJiY2YtOTMxMzcyZGQwOTMz|de313c4a0611c3a0678a42123bf03bb4d4050668211f174316e07b2559407e42\"; username-planck-ucsc-edu-10000=\"2|1:0|10:1464749823|30:username-planck-ucsc-edu-10000|48:MzY1ZTA2MTItMjkwMC00YzZlLTk1MjgtN2E5ZDQ3YzVhYmE4|2c36c449c6b81bc8db4df3d2b8efb7aca7352550fc1600b3ef83cf8ffa7652d3\"; username-planck-ucsc-edu-10001=\"2|1:0|10:1464886737|30:username-planck-ucsc-edu-10001|48:NjUwYThlNTEtNGViYi00YzY1LTlhN2EtMmU1OWZkN2E2ZDk5|ddc5e8861f626880f79d3ad2701132eaa58ab29fa81a34193c75b2e818643ad3\""
+    }
+[E 11:11:00.462 NotebookApp] 500 POST /api/kernels/f56d960c-9352-4304-b61d-83ab4a1b5b55/restart (65.87.19.170) 2.34ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/Word2Vec.ipynb
+[W 11:11:00.495 NotebookApp] Session not found: session_id=u'97eaed9f-a33b-4b00-a601-b7d2ddad145d'
+[W 11:11:00.496 NotebookApp] 404 DELETE /api/sessions/97eaed9f-a33b-4b00-a601-b7d2ddad145d (65.87.19.170) 3.20ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/Word2Vec.ipynb
+[W 11:11:02.597 NotebookApp] Session not found: session_id=u'97eaed9f-a33b-4b00-a601-b7d2ddad145d'
+[W 11:11:02.598 NotebookApp] 404 DELETE /api/sessions/97eaed9f-a33b-4b00-a601-b7d2ddad145d (65.87.19.170) 2.61ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/Word2Vec.ipynb
+[I 11:11:02.659 NotebookApp] Kernel started: f40fb043-bd5e-46b8-b662-d52d2683b704
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[W 11:11:39.149 NotebookApp] 404 GET /api/kernels/3e43c827-9459-4375-9e7a-c2f1154b67da/channels?session_id=E59AF6730386494AAC5AB8F2E08826BC (65.87.19.170): Kernel does not exist: 3e43c827-9459-4375-9e7a-c2f1154b67da
+[W 11:11:39.152 NotebookApp] 404 GET /api/kernels/3e43c827-9459-4375-9e7a-c2f1154b67da/channels?session_id=E59AF6730386494AAC5AB8F2E08826BC (65.87.19.170) 11.52ms referer=None
+[I 11:12:20.059 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[W 11:12:44.374 NotebookApp] 404 GET /api/kernels/3e43c827-9459-4375-9e7a-c2f1154b67da/channels?session_id=E59AF6730386494AAC5AB8F2E08826BC (65.87.19.170): Kernel does not exist: 3e43c827-9459-4375-9e7a-c2f1154b67da
+[W 11:12:44.376 NotebookApp] 404 GET /api/kernels/3e43c827-9459-4375-9e7a-c2f1154b67da/channels?session_id=E59AF6730386494AAC5AB8F2E08826BC (65.87.19.170) 9.88ms referer=None
+[I 11:14:55.734 NotebookApp] Kernel started: ec1833e3-892e-4514-bc29-7f3b69bb5f8e
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:14:59.104 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:16:19.244 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:18:19.243 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:20:03.448 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:20:20.079 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:21:17.566 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:21:30.219 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:22:19.262 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:23:18.080 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:24:19.274 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:26:19.270 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:28:20.102 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:32:19.278 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:34:19.333 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+WARNING:gensim.models.ldamodel:no word id mapping provided; initializing from corpus, assuming identity
+[I 11:36:20.135 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:39:18.123 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:42:19.306 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:44:19.325 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:46:19.316 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:48:19.324 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:50:19.323 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:52:19.333 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:54:20.287 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 11:56:19.345 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 12:25:28.722 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 12:30:19.440 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 12:38:20.191 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 12:40:19.468 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 12:42:20.339 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 12:44:19.495 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 12:46:21.050 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 12:55:19.103 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 13:00:19.587 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 13:01:18.352 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 13:02:19.565 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+[I 13:04:18.803 NotebookApp] Creating new notebook in /notebooks
+[I 13:04:20.489 NotebookApp] Kernel started: 9edef3c8-a245-4b09-9ad6-e8f79e8b3542
+[I 13:04:20.548 NotebookApp] Saving file at /notebooks/Word2Vec.ipynb
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+WARNING:sklearn.datasets.twenty_newsgroups:Downloading dataset from http://people.csail.mit.edu/jrennie/20Newsgroups/20news-bydate.tar.gz (14 MB)
+[I 13:06:20.465 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 13:10:20.477 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:26:21.217 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:28:21.623 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:30:15.762 NotebookApp] Kernel interrupted: 9edef3c8-a245-4b09-9ad6-e8f79e8b3542
+[I 17:30:15.765 NotebookApp] Kernel interrupted: 9edef3c8-a245-4b09-9ad6-e8f79e8b3542
+[I 17:30:24.818 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:32:21.223 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:34:21.224 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:54:20.439 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:56:21.204 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:56:21.846 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:58:21.202 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:58:21.355 NotebookApp] Saving file at /notebooks/LDA.ipynb
+[I 18:00:21.297 NotebookApp] Saving file at /notebooks/LDA.ipynb
+[I 18:04:21.309 NotebookApp] Saving file at /notebooks/LDA.ipynb
+[I 18:06:20.419 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:06:22.219 NotebookApp] Saving file at /notebooks/LDA.ipynb
+[I 18:12:20.433 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[W 18:15:51.126 NotebookApp] WebSocket ping timeout after 119993 ms.
+[W 18:16:03.106 NotebookApp] WebSocket ping timeout after 119972 ms.
+[I 08:41:01.943 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 08:41:03.581 NotebookApp] Saving file at /notebooks/LDA.ipynb
+[W 10:07:04.688 NotebookApp] WebSocket ping timeout after 119902 ms.
+[W 10:07:16.243 NotebookApp] WebSocket ping timeout after 119814 ms.
+[I 11:35:46.439 NotebookApp] 302 GET / (24.6.90.144) 3.30ms
+[I 11:35:46.473 NotebookApp] 302 GET /tree (24.6.90.144) 10.44ms
+[I 11:35:50.259 NotebookApp] 302 POST /login?next=%2Ftree (24.6.90.144) 4.82ms
+[W 11:36:13.607 NotebookApp] Notebook notebooks/02 - Word2Vec.ipynb is not trusted
+[I 11:38:14.202 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 11:40:56.613 NotebookApp] Creating new notebook in /notebooks
+[I 11:40:57.827 NotebookApp] Kernel started: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:42:57.838 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
+[I 11:44:57.834 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
+[I 11:46:57.847 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
+[I 11:48:57.843 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
+[I 11:49:19.195 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
+[I 11:50:57.837 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
+[I 11:51:50.333 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
+[I 11:52:28.711 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
+[I 11:52:32.518 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
+[I 11:58:58.198 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
+[I 12:06:57.942 NotebookApp] Saving file at /notebooks/03 - Gensim Cleaning.ipynb
