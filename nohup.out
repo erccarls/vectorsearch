@@ -432,3 +432,118 @@ WARNING:sklearn.datasets.twenty_newsgroups:Downloading dataset from http://peopl
 [I 14:37:44.579 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
 [I 14:37:46.926 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
 [I 14:38:07.743 NotebookApp] Kernel interrupted: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+[I 14:38:57.883 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:39:17.103 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:39:43.556 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 14:40:40.470 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 14:40:48.797 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 14:40:55.665 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 14:41:01.340 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 14:41:43.539 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 14:45:44.251 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 14:46:14.242 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 14:46:32.911 NotebookApp] Kernel interrupted: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+[I 14:46:57.903 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:47:30.520 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:47:36.760 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:48:03.360 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:48:06.233 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:48:57.887 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:50:57.902 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:51:10.751 NotebookApp] Kernel restarted: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:52:57.904 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:54:57.888 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:58:14.252 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 14:58:39.684 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 14:59:05.743 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 14:59:50.015 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 14:59:56.639 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:00:13.661 NotebookApp] Creating new notebook in /notebooks
+[I 15:00:14.324 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:00:15.151 NotebookApp] Kernel started: a8ec0e22-f1e6-4ca4-8639-78f4c78aa046
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:02:15.251 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:03:21.559 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:04:15.191 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:04:20.983 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:04:23.918 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:05:50.701 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:06:04.061 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:06:15.184 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:06:20.819 NotebookApp] Kernel shutdown: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+[I 15:06:24.316 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:06:24.539 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:06:40.847 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:06:42.830 NotebookApp] Kernel restarted: f40fb043-bd5e-46b8-b662-d52d2683b704
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:07:52.828 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:08:18.268 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:08:23.503 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:09:32.339 NotebookApp] Kernel restarted: 6d9e50fe-dc9b-43b1-b436-cb2165e368ca
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:09:44.262 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:09:45.889 NotebookApp] Kernel started: 3c165e1f-5459-4c51-aeeb-bbf63d4ea172
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:10:15.561 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:11:19.280 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:11:27.435 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:11:45.882 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:11:45.995 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:11:49.383 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:11:51.312 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:12:08.808 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:12:11.125 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 15:14:14.251 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:16:32.946 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:17:53.943 NotebookApp] Kernel interrupted: 3c165e1f-5459-4c51-aeeb-bbf63d4ea172
+[I 15:18:14.256 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 15:18:42.422 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:19:45.905 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:22:28.045 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:22:52.508 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:23:45.915 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:23:59.308 NotebookApp] Kernel interrupted: 3c165e1f-5459-4c51-aeeb-bbf63d4ea172
+[I 15:24:08.331 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:25:39.289 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:25:45.909 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:27:36.330 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:27:43.545 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:27:44.305 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:28:16.139 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:29:43.562 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:29:46.272 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:31:43.550 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:32:18.577 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:33:43.557 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:34:18.709 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:34:20.404 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:35:43.549 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:37:44.266 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:39:43.552 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:41:43.554 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:43:43.568 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:45:43.553 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:47:07.618 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:47:43.558 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:49:43.567 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:50:37.789 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:51:01.222 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:51:44.270 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:51:45.923 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:52:06.154 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:53:43.553 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:57:43.559 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:57:46.286 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:58:00.921 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 15:59:43.550 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 15:59:46.266 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 16:03:44.279 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 16:03:45.922 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 16:04:41.957 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
