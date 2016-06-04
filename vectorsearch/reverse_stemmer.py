@@ -1,6 +1,6 @@
 import nltk
 from collections import defaultdict
-
+import pickle
 
 class SnowCastleStemmer(nltk.stem.SnowballStemmer):
     """ A wrapper around snowball stemmer with a reverse lookip table """
@@ -21,6 +21,17 @@ class SnowCastleStemmer(nltk.stem.SnowballStemmer):
     def unstem(self, stemmed_word):
         """ Reverse lookup """
         return sorted(self._stem_memory[stemmed_word], key=len)
+
+    def loadstemmer(self, path):
+	""" Load a saved memory state """
+	self._stem_memory = pickle.loads(path)
+
+    def savestemmer(self, path):
+	""" Save a stemmer  memory to file for later reverse lookup"""
+	with open(path, 'wb') as f:
+            pickle.dump(self._stem_memory, f)
+
+
         
 if __name__=='__main__':
   stemmer= SnowCastleStemmer('english')

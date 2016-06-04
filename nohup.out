@@ -387,3 +387,48 @@ WARNING:sklearn.datasets.twenty_newsgroups:Downloading dataset from http://peopl
 [I 14:01:37.783 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
 [I 14:02:07.809 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
 [I 14:02:57.867 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:04:57.885 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:06:57.885 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:08:57.873 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:10:57.278 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:11:25.311 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:12:04.197 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:12:14.528 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:12:57.874 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:14:38.692 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:14:57.881 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:15:30.913 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:16:09.571 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:19:38.123 NotebookApp] Kernel restarted: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:20:57.901 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:21:47.520 NotebookApp] Kernel restarted: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:22:57.888 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:23:23.134 NotebookApp] Kernel restarted: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:24:21.015 NotebookApp] Kernel restarted: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:24:57.891 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:25:08.425 NotebookApp] Kernel restarted: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:25:56.678 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:26:34.672 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:26:57.883 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:28:00.008 NotebookApp] Kernel interrupted: 57336c7e-23a8-411a-afa4-4c00e671fb3c
+[I 14:28:57.899 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:28:58.321 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:30:31.291 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:30:57.894 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:32:57.888 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:34:57.896 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:36:18.063 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:36:57.894 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:37:44.579 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:37:46.926 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 14:38:07.743 NotebookApp] Kernel interrupted: 57336c7e-23a8-411a-afa4-4c00e671fb3c
