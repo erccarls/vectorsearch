@@ -624,3 +624,93 @@ WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smal
 [I 19:06:23.814 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
 [I 19:10:14.311 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
 [I 11:18:33.818 NotebookApp] 302 GET / (24.6.90.144) 0.67ms
+[I 11:21:32.348 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:21:45.241 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:22:25.790 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:23:50.434 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:23:54.684 NotebookApp] Creating new notebook in /notebooks
+[I 11:23:55.775 NotebookApp] Kernel started: 2c1a14e5-318a-4fc9-b726-104ba36ab0f3
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:24:44.223 NotebookApp] Saving file at /notebooks/IDEAS NOTEBOOK.ipynb
+[I 11:25:50.459 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:25:55.794 NotebookApp] Saving file at /notebooks/IDEAS NOTEBOOK.ipynb
+[I 11:27:06.928 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:27:12.133 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:27:31.739 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:27:50.439 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:27:52.578 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:28:15.888 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:28:31.098 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:28:47.702 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:28:55.016 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:28:58.574 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:29:15.075 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:29:40.370 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:29:50.435 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:30:25.053 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:31:18.313 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:31:22.031 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:31:43.852 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:31:50.456 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:33:50.439 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:34:38.029 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:34:56.774 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:35:50.443 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:37:11.636 NotebookApp] Saving file at /notebooks/IDEAS NOTEBOOK.ipynb
+[I 11:37:50.446 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:37:55.802 NotebookApp] Saving file at /notebooks/IDEAS NOTEBOOK.ipynb
+[I 11:38:07.729 NotebookApp] Saving file at /notebooks/IDEAS NOTEBOOK.ipynb
+[I 11:38:42.065 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:39:46.335 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:39:50.438 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:39:53.402 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:39:55.800 NotebookApp] Saving file at /notebooks/IDEAS NOTEBOOK.ipynb
+[I 11:40:10.191 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:40:37.918 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:41:34.547 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:41:50.444 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:42:00.150 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:42:04.153 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:42:29.080 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:43:50.435 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:44:01.571 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:45:50.458 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:46:38.984 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
+[I 11:47:04.832 NotebookApp] Saving file at /notebooks/03 - Word2Vec.ipynb
+[I 11:47:52.002 NotebookApp] Saving file at /notebooks/03 - Word2Vec.ipynb
+[I 11:48:26.034 NotebookApp] Saving file at /notebooks/03 - Word2Vec.ipynb
+[I 11:49:49.307 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:49:57.955 NotebookApp] Saving file at /notebooks/IDEAS NOTEBOOK.ipynb
+[I 11:50:27.296 NotebookApp] Kernel interrupted: ec1833e3-892e-4514-bc29-7f3b69bb5f8e
+[I 11:50:59.608 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:51:00.900 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:51:04.019 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:51:06.217 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:51:17.137 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:52:30.417 NotebookApp] Saving file at /notebooks/01 - Lookup Bar IDs.ipynb
+[I 11:53:29.295 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+[I 11:53:34.046 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+[I 11:54:08.621 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+[I 11:56:35.917 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 11:58:08.667 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+[I 11:58:36.164 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 11:59:08.820 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:00:35.896 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:01:53.706 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+[I 12:01:56.742 NotebookApp] Kernel shutdown: 3c165e1f-5459-4c51-aeeb-bbf63d4ea172
+[I 12:02:35.922 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:03:23.977 NotebookApp] Kernel interrupted: a8ec0e22-f1e6-4ca4-8639-78f4c78aa046
+[I 12:04:16.097 NotebookApp] Kernel interrupted: a8ec0e22-f1e6-4ca4-8639-78f4c78aa046
+[I 12:04:35.905 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:05:22.122 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:06:35.895 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:07:19.049 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:07:54.523 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:08:23.230 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:08:35.974 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:09:06.693 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:09:36.789 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:10:15.166 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:11:28.584 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:12:35.902 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
