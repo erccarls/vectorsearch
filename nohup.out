@@ -547,3 +547,80 @@ WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smal
 [I 16:03:44.279 NotebookApp] Saving file at /notebooks/10 - Query.ipynb
 [I 16:03:45.922 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
 [I 16:04:41.957 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 16:06:14.270 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:07:44.848 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:07:45.911 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 16:07:57.920 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:08:14.028 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:08:14.400 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:08:16.135 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:08:29.231 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:08:59.615 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:09:04.788 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:09:10.077 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:09:12.745 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:09:33.539 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:09:41.866 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:10:14.275 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:11:44.656 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:11:45.928 NotebookApp] Saving file at /notebooks/03 - NLTK Cleaning Reviews.ipynb
+[I 16:11:47.103 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:12:01.465 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:14:14.288 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:15:46.950 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:16:14.251 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:18:14.288 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 16:45:33.219 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:26:14.385 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:28:14.286 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:30:14.276 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:46:14.395 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:48:14.280 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:49:15.036 NotebookApp] Kernel interrupted: f40fb043-bd5e-46b8-b662-d52d2683b704
+[I 17:49:28.892 NotebookApp] Kernel interrupted: f40fb043-bd5e-46b8-b662-d52d2683b704
+[I 17:49:43.559 NotebookApp] Kernel interrupted: f40fb043-bd5e-46b8-b662-d52d2683b704
+[I 17:50:14.291 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:56:14.387 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 17:58:14.286 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:00:14.290 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:02:14.287 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:04:14.288 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:06:14.283 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:06:16.265 NotebookApp] Kernel interrupted: f40fb043-bd5e-46b8-b662-d52d2683b704
+[I 18:08:14.328 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:09:01.370 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:10:14.307 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:16:14.683 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:16:52.077 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:17:00.799 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:17:08.110 NotebookApp] Kernel interrupted: f40fb043-bd5e-46b8-b662-d52d2683b704
+[I 18:17:13.416 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:17:44.016 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:17:49.307 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:18:14.301 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:19:51.214 NotebookApp] Kernel interrupted: f40fb043-bd5e-46b8-b662-d52d2683b704
+[I 18:20:14.310 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:26:14.406 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:26:19.898 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:26:45.692 NotebookApp] Kernel restarted: f40fb043-bd5e-46b8-b662-d52d2683b704
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:27:29.755 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:27:49.538 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:27:57.678 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:30:14.294 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:44:14.444 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:56:11.103 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 18:56:18.968 NotebookApp] Kernel restarted: f40fb043-bd5e-46b8-b662-d52d2683b704
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:58:14.303 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 19:00:14.314 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 19:02:14.298 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 19:04:14.311 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 19:05:53.442 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 19:06:04.826 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 19:06:14.322 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 19:06:23.814 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 19:10:14.311 NotebookApp] Saving file at /notebooks/02 - Word2Vec.ipynb
+[I 11:18:33.818 NotebookApp] 302 GET / (24.6.90.144) 0.67ms
