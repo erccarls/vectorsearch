@@ -1030,3 +1030,569 @@ WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smal
   "You should import from ipykernel or jupyter_client instead.", ShimWarning)
 [I 23:23:56.407 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
 [I 23:23:57.677 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 09:37:51.243 NotebookApp] 302 GET / (65.87.19.170) 0.29ms
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 09:48:50.054 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 09:50:51.030 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 09:52:51.003 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 09:54:50.080 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 09:56:51.069 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 09:58:50.142 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 09:59:24.736 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 10:00:08.270 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 10:00:50.178 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 10:02:50.160 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 10:03:06.969 NotebookApp] Kernel restarted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 10:03:12.493 NotebookApp] Kernel restarted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 10:04:24.904 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 10:04:29.316 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 10:04:42.234 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 10:06:17.163 NotebookApp] WebSocket ping timeout after 119968 ms.
+[I 11:14:52.446 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 11:16:52.328 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 11:28:44.697 NotebookApp] Kernel interrupted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+[I 11:28:47.746 NotebookApp] Kernel restarted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:30:52.372 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 11:32:52.400 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 11:33:35.345 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 11:34:11.076 NotebookApp] Kernel interrupted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+[I 11:34:13.691 NotebookApp] Kernel restarted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:34:15.789 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:14:53.111 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:18:00.465 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:18:52.704 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:19:04.330 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:20:20.150 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:20:25.712 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:20:52.564 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:22:52.591 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:24:52.598 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:26:52.742 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 12:28:52.568 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 13:28:52.796 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 13:29:04.593 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 13:30:52.724 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 13:32:53.643 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 13:34:08.403 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 13:34:21.022 NotebookApp] Kernel interrupted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+[I 13:34:34.510 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 13:34:35.767 NotebookApp] Kernel interrupted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+[I 13:34:38.666 NotebookApp] Kernel restarted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 13:34:52.765 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 13:36:52.768 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 13:37:12.194 NotebookApp] Kernel interrupted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+[I 13:37:16.143 NotebookApp] Kernel restarted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 13:38:53.666 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 13:40:53.672 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 13:44:52.796 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 13:46:52.859 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 13:48:53.725 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:00:52.917 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:10:53.865 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:12:53.798 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:24:54.133 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:34:22.386 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:36:52.924 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:44:53.072 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:46:52.954 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:48:53.050 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:50:52.962 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:52:11.416 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:52:17.933 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:54:10.116 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:54:52.974 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:54:54.288 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:55:19.257 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 14:56:02.403 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 15:18:36.858 NotebookApp] Kernel restarted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:18:40.039 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:24:53.263 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:25:36.997 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 15:26:52.049 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 15:28:53.197 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:29:05.899 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:29:11.377 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:31:39.717 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 15:33:21.266 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 15:34:53.108 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 15:35:32.170 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 15:36:53.165 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:37:13.861 NotebookApp] Kernel restarted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:38:01.919 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:38:53.143 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:39:46.909 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 15:40:53.136 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:41:30.882 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:42:11.728 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:42:53.133 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:44:07.504 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:44:14.962 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:44:20.492 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:44:53.213 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:46:53.149 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:46:57.924 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:48:46.110 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:48:48.178 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:48:55.954 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:50:53.186 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:51:57.910 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:51:58.114 NotebookApp] Copying notebooks/04 - doc2vec.ipynb to /notebooks
+[W 15:51:58.131 NotebookApp] Notebook notebooks/04 - doc2vec.ipynb is not trusted
+[W 15:51:58.142 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec-Copy1.ipynb
+[W 15:52:04.125 NotebookApp] Notebook notebooks/04 - doc2vec-Copy1.ipynb is not trusted
+[I 15:52:04.509 NotebookApp] Kernel started: 286ba496-874c-4109-9a62-1c9108f8e07d
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:52:54.297 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:54:04.540 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 15:56:04.665 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 15:56:53.674 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 15:58:53.194 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 15:59:04.864 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:00:53.165 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:01:46.763 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:02:05.930 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:02:13.873 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:02:22.818 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:02:32.929 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:02:33.602 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:02:47.411 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:02:48.660 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:02:53.180 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:03:11.393 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:03:25.425 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:03:49.982 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:04:02.738 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:04:06.110 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:04:21.740 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:04:45.618 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:04:53.226 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:05:26.510 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:05:36.448 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:06:20.067 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:06:29.780 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:06:53.278 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:07:16.128 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:07:19.416 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:07:35.114 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:07:43.747 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:08:14.436 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:10:01.867 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:10:24.297 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:10:53.195 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:12:54.432 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:14:53.291 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:16:53.217 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:18:53.227 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:19:24.752 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:19:55.259 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:22:05.207 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 16:29:01.423 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:29:09.012 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:29:13.149 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:29:28.750 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:29:49.137 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:29:54.668 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:30:00.023 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:30:07.582 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:30:08.704 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:30:15.109 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:30:23.329 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:30:26.340 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:32:53.265 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:34:53.275 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:35:37.787 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:38:04.647 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 16:38:24.536 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 16:40:04.660 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 16:42:04.708 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 16:42:18.165 NotebookApp] Kernel shutdown: 286ba496-874c-4109-9a62-1c9108f8e07d
+[I 16:44:53.332 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:45:21.570 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:45:40.047 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:45:44.993 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:46:27.796 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:46:53.327 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:48:53.323 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:50:53.322 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:52:54.256 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:54:54.275 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:55:32.328 NotebookApp] Saving file at /notebooks/03 - Word2Vec.ipynb
+[I 16:56:53.339 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:58:53.362 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 16:59:01.902 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:22:56.423 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:24:56.102 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:26:56.094 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:28:56.239 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:30:56.157 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 18:32:46.694 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:32:49.448 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:32:56.149 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:33:01.764 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:34:56.124 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:36:10.161 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smaller `batch_words' for smoother alpha decay
+[I 18:36:41.897 NotebookApp] Kernel started: beff16c0-61b2-4d20-bde4-59ac098daa85
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:36:57.060 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:37:25.857 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 18:37:26.817 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 18:37:36.811 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 18:37:37.916 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 18:38:41.956 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 18:39:38.921 NotebookApp] Kernel shutdown: 6440ab95-8627-4420-8cdd-0e1083a6441a
+[I 18:40:42.020 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 18:40:56.137 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:42:56.124 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:43:28.457 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:44:56.136 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:45:01.394 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:45:10.822 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:45:30.907 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:45:32.108 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:46:03.869 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:46:12.848 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:46:27.146 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:46:37.959 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:46:56.228 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:47:05.217 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:47:17.331 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:47:18.373 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:47:42.582 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:47:54.597 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:48:04.491 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:48:07.350 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:48:08.178 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:48:26.595 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:48:29.413 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:48:56.169 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:50:33.362 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:50:56.183 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:51:23.292 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:51:26.405 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:51:44.120 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:52:39.938 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:52:43.477 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:53:15.783 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:53:28.661 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:53:35.394 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:53:40.047 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:53:48.482 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:54:22.998 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:55:42.141 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:55:48.544 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:55:54.732 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:56:31.477 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:56:56.240 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:57:01.799 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:57:06.996 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:58:57.101 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 18:59:27.386 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 18:59:49.263 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 18:59:53.930 NotebookApp] Kernel interrupted: beff16c0-61b2-4d20-bde4-59ac098daa85
+[I 19:00:09.079 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 19:00:24.333 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 19:00:31.289 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 19:16:56.297 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 19:18:56.226 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 19:22:53.245 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 19:26:42.141 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[W 19:39:18.605 NotebookApp] WebSocket ping timeout after 119942 ms.
+[W 19:39:18.638 NotebookApp] WebSocket ping timeout after 119975 ms.
+[W 19:39:46.356 NotebookApp] WebSocket ping timeout after 119992 ms.
+[I 21:44:42.086 NotebookApp] Kernel shutdown: beff16c0-61b2-4d20-bde4-59ac098daa85
+[I 21:47:09.372 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 21:47:49.490 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 21:48:16.264 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 21:49:09.438 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[I 21:49:10.797 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:49:16.375 NotebookApp] Notebook notebooks/04 - doc2vec.ipynb is not trusted
+[I 21:51:17.227 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:51:17.227 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:53:17.226 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:53:17.227 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:53:41.986 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:53:41.988 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:54:32.540 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:54:32.542 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:55:17.230 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:55:17.231 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:55:34.946 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:55:34.947 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:56:01.430 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:56:01.431 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:56:43.937 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:56:43.938 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:56:53.778 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:56:53.779 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:57:17.252 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:57:17.253 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:57:38.276 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:57:38.278 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 21:59:17.246 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 21:59:17.247 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 22:01:17.257 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 22:01:17.258 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 22:03:17.254 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 22:03:17.255 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 22:05:17.339 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 22:05:17.340 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 22:05:46.543 NotebookApp] Kernel interrupted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+[I 22:06:17.599 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 22:06:17.600 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 22:06:21.591 NotebookApp] Kernel restarted: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 22:07:02.893 NotebookApp] Creating new notebook in /notebooks
+[I 22:07:04.301 NotebookApp] Kernel started: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 22:07:17.512 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 22:07:17.514 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 22:09:04.332 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 22:09:17.413 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 22:09:17.415 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 22:11:04.334 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 22:13:04.342 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 22:15:04.345 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 22:17:04.346 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 22:17:34.489 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 22:18:40.830 NotebookApp] Kernel interrupted: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[I 22:19:04.365 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 22:21:04.375 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 22:23:04.525 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 22:24:20.212 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 22:27:04.461 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[W 23:45:02.048 NotebookApp] WebSocket ping timeout after 119983 ms.
+[W 23:45:09.055 NotebookApp] WebSocket ping timeout after 119979 ms.
+[W 23:45:26.439 NotebookApp] WebSocket ping timeout after 119955 ms.
+[W 09:37:31.849 NotebookApp] Notebook notebooks/04 - doc2vec.ipynb is not trusted
+[I 09:39:33.569 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 09:39:33.570 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 09:42:02.554 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:42:44.597 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:44:02.314 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:44:48.354 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:46:02.319 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:48:02.375 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:50:02.372 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:50:21.432 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:52:02.453 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:54:02.382 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:55:02.577 NotebookApp] Kernel interrupted: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[I 09:55:03.507 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:56:02.353 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:57:39.329 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:57:57.621 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:58:36.549 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 09:59:01.921 NotebookApp] Kernel interrupted: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[I 10:00:02.376 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
