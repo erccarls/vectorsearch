@@ -1596,3 +1596,530 @@ WARNING:gensim.models.word2vec:under 10 jobs per worker: consider setting a smal
 [I 09:58:36.549 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
 [I 09:59:01.921 NotebookApp] Kernel interrupted: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
 [I 10:00:02.376 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:06:13.409 NotebookApp] 302 GET / (65.87.19.170) 0.77ms
+[I 10:10:01.887 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:10:33.182 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:10:35.957 NotebookApp] Kernel interrupted: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[I 10:11:10.611 NotebookApp] Kernel interrupted: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[I 10:11:11.380 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:11:25.260 NotebookApp] Kernel interrupted: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[I 10:11:25.262 NotebookApp] Kernel interrupted: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[I 10:13:36.714 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:14:03.711 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:14:49.642 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:15:40.408 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:15:43.598 NotebookApp] Kernel interrupted: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[I 10:16:40.610 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:16:45.332 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:19:25.353 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:19:31.353 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:19:41.278 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:22:05.399 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:24:45.383 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:27:25.381 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:28:34.915 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:29:11.343 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:29:24.060 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:30:05.379 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:30:26.150 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:32:39.829 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:32:45.381 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:32:57.839 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:37:20.295 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:37:41.521 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:37:44.611 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:37:49.721 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:39:24.991 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:41:23.269 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:41:37.226 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:43:25.061 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:44:18.501 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:44:39.596 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:45:25.192 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:46:17.577 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:46:24.799 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:47:25.052 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:49:25.056 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:50:23.362 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:50:33.703 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:51:25.043 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:51:37.780 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+WARNING:gensim.models.ldamodel:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+[I 10:53:23.069 NotebookApp] Kernel started: f822088d-d1e2-45ca-9f72-e41b927822ad
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 10:53:25.880 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:55:25.898 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:56:45.955 NotebookApp] Saving file at /notebooks/05 - Similarity Measures.ipynb
+[I 10:57:22.682 NotebookApp] Kernel interrupted: e1ba6e2e-4cb0-40af-b975-7def11623e1c
+[I 10:57:25.909 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:58:59.085 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:59:02.975 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:59:30.900 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 10:59:33.358 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 10:59:35.185 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:59:46.389 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 11:01:56.358 NotebookApp] Kernel shutdown: 46b40c10-dad4-4fce-8d79-09cd5c045f2e
+[I 11:01:57.618 NotebookApp] Kernel shutdown: e1ba6e2e-4cb0-40af-b975-7def11623e1c
+[I 11:01:58.632 NotebookApp] Kernel shutdown: 5bc7d3ea-c81f-46e3-b05f-b1f88a2566a9
+[I 11:01:59.137 NotebookApp] Kernel shutdown: f822088d-d1e2-45ca-9f72-e41b927822ad
+[I 11:03:41.835 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 11:05:41.849 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:25:23.758 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 12:25:57.825 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 12:26:02.020 NotebookApp] Kernel started: e8ec712f-9cd3-4648-b373-5b61cc6d0d3b
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 12:27:51.516 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:28:02.419 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 12:33:42.253 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:37:42.215 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:39:42.178 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:40:33.342 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:41:42.136 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:43:42.368 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:47:42.160 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:49:42.189 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:49:52.309 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:50:00.696 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:50:34.493 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:53:04.629 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:53:42.188 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:55:42.204 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:56:46.326 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:57:42.247 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:58:02.278 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 12:58:04.647 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:58:08.479 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 12:58:12.427 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:07:42.672 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:08:40.667 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:08:56.619 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:11:42.588 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:12:37.173 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:12:41.113 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:12:43.389 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:13:42.588 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:13:56.695 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:15:25.432 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:15:42.604 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:16:08.629 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:16:10.940 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:16:45.893 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:17:14.852 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:17:18.271 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:17:42.588 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:18:21.645 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:18:25.230 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:19:42.604 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:21:42.607 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:23:42.698 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:37:42.912 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:39:42.676 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:40:12.558 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:40:13.769 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:40:20.593 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 15:40:24.454 NotebookApp] Creating new notebook in /notebooks
+[I 15:40:27.284 NotebookApp] Kernel started: 089f08e0-879c-4d17-9fd2-f9a838515d89
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:40:33.783 NotebookApp] Copying notebooks/03 - LDA.ipynb to /notebooks
+[I 15:40:36.055 NotebookApp] Kernel started: 0270bf9b-c3e9-45b1-8e75-98df6d57bcb6
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:42:15.834 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:42:33.932 NotebookApp] Kernel restarted: 0270bf9b-c3e9-45b1-8e75-98df6d57bcb6
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 15:42:36.091 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:42:38.541 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:43:24.569 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:43:41.313 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:43:47.178 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:43:48.671 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:44:08.737 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:44:36.168 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:45:49.301 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:46:36.160 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:48:36.111 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:49:10.576 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:49:11.214 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:49:27.804 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:49:43.455 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:49:49.471 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 15:49:55.133 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 16:24:36.333 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 16:48:02.988 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 16:48:36.333 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 16:50:36.310 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 16:52:36.957 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 16:53:05.464 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 16:57:42.911 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 17:07:43.038 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 17:09:42.928 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 17:10:17.474 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 17:12:02.912 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 17:12:51.591 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 17:12:52.004 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 17:13:01.794 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 17:13:05.144 NotebookApp] Kernel interrupted: e8ec712f-9cd3-4648-b373-5b61cc6d0d3b
+[I 17:13:07.138 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 17:14:23.776 NotebookApp] Creating new notebook in /notebooks
+[I 17:14:25.973 NotebookApp] Kernel started: e842f52f-7a90-4a6b-91a7-c6a858cf039d
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[W 17:14:36.176 NotebookApp] Timeout waiting for kernel_info reply from e842f52f-7a90-4a6b-91a7-c6a858cf039d
+[I 17:14:36.211 NotebookApp] Saving file at /notebooks/Untitled1.ipynb
+[I 17:15:02.720 NotebookApp] Kernel shutdown: e8ec712f-9cd3-4648-b373-5b61cc6d0d3b
+[I 17:15:03.224 NotebookApp] Kernel shutdown: 089f08e0-879c-4d17-9fd2-f9a838515d89
+[I 17:15:05.702 NotebookApp] Kernel shutdown: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[I 17:15:41.438 NotebookApp] Saving file at /notebooks/Untitled1.ipynb
+[I 17:16:00.569 NotebookApp] Saving file at /notebooks/Untitled1.ipynb
+[I 17:16:18.674 NotebookApp] Saving file at /notebooks/20 - Visualization.ipynb
+[I 17:17:43.046 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 17:29:43.094 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 17:51:43.126 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 17:53:36.597 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[W 17:55:08.457 NotebookApp] WebSocket ping timeout after 119991 ms.
+[W 17:55:10.219 NotebookApp] WebSocket ping timeout after 119991 ms.
+[W 17:55:11.933 NotebookApp] WebSocket ping timeout after 119990 ms.
+[W 17:55:15.513 NotebookApp] WebSocket ping timeout after 119990 ms.
+[W 17:55:26.844 NotebookApp] WebSocket ping timeout after 119991 ms.
+[I 19:30:22.199 NotebookApp] Kernel started: c16c272f-e655-4ed0-8068-5de94d2c23a9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 19:32:33.825 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 19:34:33.821 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[W 19:36:45.971 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33): Kernel does not exist: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[W 19:36:45.974 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33) 14.84ms referer=None
+[W 19:36:48.923 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33): Kernel does not exist: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[W 19:36:48.925 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33) 10.34ms referer=None
+[W 19:36:53.901 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33): Kernel does not exist: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[W 19:36:53.903 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33) 9.24ms referer=None
+[W 19:37:03.352 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33): Kernel does not exist: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[W 19:37:03.354 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33) 10.53ms referer=None
+[W 19:37:19.907 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33): Kernel does not exist: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[W 19:37:19.909 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33) 11.20ms referer=None
+[I 19:37:48.841 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[W 19:37:52.897 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33): Kernel does not exist: 6a680c05-b7e1-41a8-8bf9-45ebff2d4c43
+[W 19:37:52.900 NotebookApp] 404 GET /api/kernels/6a680c05-b7e1-41a8-8bf9-45ebff2d4c43/channels?session_id=E533328AB0254EA980E630037C6E805D (98.210.100.33) 11.34ms referer=None
+[I 19:48:23.279 NotebookApp] 302 GET / (98.210.100.33) 161.00ms
+[I 19:49:49.882 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 19:50:01.000 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 19:50:07.697 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:15:45.699 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:16:05.148 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:16:41.707 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:18:52.252 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:18:56.938 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:19:06.864 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:19:28.351 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:19:36.630 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:19:58.462 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:20:08.878 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:20:52.264 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:21:47.460 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:21:47.948 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:22:06.380 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:23:20.192 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:23:51.136 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:24:32.886 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:24:52.273 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:24:53.351 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:24:57.373 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:25:05.815 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:25:43.417 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:26:52.240 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:28:16.594 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:28:52.276 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:34:14.081 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:34:52.302 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:35:06.186 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:36:02.865 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:36:29.343 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:36:30.412 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:36:52.312 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:36:56.642 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:37:35.929 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:37:39.526 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:37:43.693 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:37:55.370 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:37:58.755 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:38:14.538 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:38:23.436 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:38:33.961 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:40:32.097 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:40:39.212 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:40:52.329 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:41:07.635 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:41:58.870 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:42:13.971 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:42:24.365 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:42:31.448 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:42:36.096 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:42:41.140 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:42:52.334 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:43:27.098 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:44:52.342 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:44:53.414 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:48:07.352 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:48:18.892 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:48:53.145 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:50:07.368 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:50:51.227 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:50:52.352 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:51:19.745 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:51:40.540 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:51:53.901 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:52:27.272 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:52:37.439 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:52:52.372 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:54:19.556 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:54:52.378 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:54:57.352 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:56:52.378 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 20:58:11.446 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 20:58:52.385 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:00:35.561 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:00:52.376 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:01:12.720 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 21:02:37.212 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:02:39.824 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:02:56.075 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:03:14.948 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:03:19.307 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:04:02.055 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:04:37.618 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:04:52.406 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:04:53.574 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:05:14.404 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:05:19.612 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:05:23.560 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:06:51.117 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:07:10.585 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:07:55.333 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:07:59.976 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:08:25.605 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:10:52.418 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:12:52.425 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:14:49.504 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:16:15.352 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:28:53.275 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:30:53.173 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:37:01.274 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 21:38:52.500 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:40:53.194 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:45:31.186 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 21:56:52.669 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:36:52.775 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:37:55.852 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:38:47.652 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:38:52.595 NotebookApp] Kernel restarted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 22:39:39.672 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:39:55.135 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:40:04.779 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:40:12.399 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:40:13.894 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:40:46.457 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:42:17.202 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:42:46.380 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:42:52.696 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:43:20.086 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:44:52.697 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 22:59:40.977 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:00:52.757 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:00:55.073 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:01:00.492 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:01:23.051 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:01:26.722 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:02:03.706 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:02:04.712 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:02:52.750 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:04:53.542 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:05:27.602 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:05:57.444 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:20:53.620 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:22:53.510 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:34:52.972 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:52:53.035 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 23:53:15.212 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 00:08:53.764 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 00:12:52.975 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 00:14:52.958 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 00:15:09.619 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 00:16:03.302 NotebookApp] Creating new notebook in /notebooks
+[I 00:16:05.096 NotebookApp] Kernel started: 31a0e0a2-49f3-4652-a3ee-0184aa1cf213
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 00:18:25.515 NotebookApp] Saving file at /notebooks/Review Stats.ipynb
+[I 00:20:17.981 NotebookApp] Saving file at /notebooks/Review Stats.ipynb
+[W 00:22:25.074 NotebookApp] WebSocket ping timeout after 119984 ms.
+[W 00:22:25.693 NotebookApp] WebSocket ping timeout after 119920 ms.
+[W 00:22:27.603 NotebookApp] WebSocket ping timeout after 119885 ms.
+[E 00:22:28.032 NotebookApp] Uncaught exception GET /api/kernels/83c61350-1d39-44a4-a464-07ebd8dabd7a/channels?session_id=930B494B624245E987976A78EB880E48 (98.210.100.33)
+    HTTPServerRequest(protocol='https', host='planck.ucsc.edu:10000', method='GET', uri='/api/kernels/83c61350-1d39-44a4-a464-07ebd8dabd7a/channels?session_id=930B494B624245E987976A78EB880E48', version='HTTP/1.1', remote_ip='98.210.100.33', headers={'Origin': 'https://planck.ucsc.edu:10000', 'Upgrade': 'websocket', 'Accept-Language': 'en-US,en;q=0.8', 'Accept-Encoding': 'gzip, deflate, sdch, br', 'Sec-Websocket-Version': '13', 'Host': 'planck.ucsc.edu:10000', 'Sec-Websocket-Key': 'bLlw62xQ6C+2Ue3aoiO1Dw==', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36', 'Connection': 'Upgrade', 'Cookie': '_ga=GA1.2.307965431.1438571430; username-planck-ucsc-edu-10004="2|1:0|10:1462913830|30:username-planck-ucsc-edu-10004|48:YTNjNDJhMjAtMGE1YS00ZDAwLWJiY2YtOTMxMzcyZGQwOTMz|de313c4a0611c3a0678a42123bf03bb4d4050668211f174316e07b2559407e42"; username-planck-ucsc-edu-10000="2|1:0|10:1464749823|30:username-planck-ucsc-edu-10000|48:MzY1ZTA2MTItMjkwMC00YzZlLTk1MjgtN2E5ZDQ3YzVhYmE4|2c36c449c6b81bc8db4df3d2b8efb7aca7352550fc1600b3ef83cf8ffa7652d3"; username-planck-ucsc-edu-10001="2|1:0|10:1464886737|30:username-planck-ucsc-edu-10001|48:NjUwYThlNTEtNGViYi00YzY1LTlhN2EtMmU1OWZkN2E2ZDk5|ddc5e8861f626880f79d3ad2701132eaa58ab29fa81a34193c75b2e818643ad3"', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Websocket-Extensions': 'permessage-deflate; client_max_window_bits'})
+    Traceback (most recent call last):
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/tornado/web.py", line 1401, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/zmq/eventloop/zmqstream.py", line 191, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/notebook/services/kernels/handlers.py", line 349, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/notebook/base/zmqhandlers.py", line 260, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/tornado/websocket.py", line 215, in write_message
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 08:33:33.126 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 08:34:06.244 NotebookApp] Kernel interrupted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[I 08:34:13.410 NotebookApp] Kernel restarted: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 08:34:16.410 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 08:34:19.413 NotebookApp] KernelRestarter: restarting kernel (2/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 08:34:22.417 NotebookApp] KernelRestarter: restarting kernel (3/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[I 08:34:25.420 NotebookApp] KernelRestarter: restarting kernel (4/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 451, in main
+    app.initialize()
+  File "<decorator-gen-122>", line 2, in initialize
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/traitlets/config/application.py", line 74, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 412, in initialize
+    self.init_sockets()
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 232, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelapp.py", line 174, in _bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "zmq/backend/cython/socket.pyx", line 487, in zmq.backend.cython.socket.Socket.bind (zmq/backend/cython/socket.c:5156)
+  File "zmq/backend/cython/checkrc.pxd", line 25, in zmq.backend.cython.checkrc._check_rc (zmq/backend/cython/socket.c:7535)
+    raise ZMQError(errno)
+ZMQError: Address already in use
+[W 08:34:28.424 NotebookApp] KernelRestarter: restart failed
+[W 08:34:28.424 NotebookApp] Kernel 83c61350-1d39-44a4-a464-07ebd8dabd7a died, removing from map.
+[W 08:34:28.424 NotebookApp] Restarting kernel failed: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[E 08:34:28.424 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/notebook/services/kernels/handlers.py", line 88, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/tornado/gen.py", line 1008, in run
+        value = future.result()
+      File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/tornado/concurrent.py", line 232, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 3, in raise_exc_info
+    RuntimeError: Restart failed
+[E 08:34:28.425 NotebookApp] {
+      "Origin": "https://planck.ucsc.edu:10000", 
+      "Content-Length": "0", 
+      "Accept-Language": "en-US,en;q=0.8", 
+      "Accept-Encoding": "gzip, deflate, br", 
+      "Host": "planck.ucsc.edu:10000", 
+      "Accept": "application/json, text/javascript, */*; q=0.01", 
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36", 
+      "Connection": "keep-alive", 
+      "X-Requested-With": "XMLHttpRequest", 
+      "Referer": "https://planck.ucsc.edu:10000/notebooks/notebooks/03%20-%20LDA.ipynb", 
+      "Cookie": "_ga=GA1.2.307965431.1438571430; username-planck-ucsc-edu-10004=\"2|1:0|10:1462913830|30:username-planck-ucsc-edu-10004|48:YTNjNDJhMjAtMGE1YS00ZDAwLWJiY2YtOTMxMzcyZGQwOTMz|de313c4a0611c3a0678a42123bf03bb4d4050668211f174316e07b2559407e42\"; username-planck-ucsc-edu-10000=\"2|1:0|10:1464749823|30:username-planck-ucsc-edu-10000|48:MzY1ZTA2MTItMjkwMC00YzZlLTk1MjgtN2E5ZDQ3YzVhYmE4|2c36c449c6b81bc8db4df3d2b8efb7aca7352550fc1600b3ef83cf8ffa7652d3\"; username-planck-ucsc-edu-10001=\"2|1:0|10:1464886737|30:username-planck-ucsc-edu-10001|48:NjUwYThlNTEtNGViYi00YzY1LTlhN2EtMmU1OWZkN2E2ZDk5|ddc5e8861f626880f79d3ad2701132eaa58ab29fa81a34193c75b2e818643ad3\""
+    }
+[E 08:34:28.425 NotebookApp] 500 POST /api/kernels/83c61350-1d39-44a4-a464-07ebd8dabd7a/restart (65.87.19.170) 16076.05ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/03%20-%20LDA.ipynb
+[W 08:34:28.455 NotebookApp] Kernel deleted before session
+[W 08:34:28.455 NotebookApp] 410 DELETE /api/sessions/38039c5a-3592-4e2f-93fc-da534b9b165a (65.87.19.170) 1.08ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/03%20-%20LDA.ipynb
+[W 08:34:34.803 NotebookApp] Kernel does not exist: 83c61350-1d39-44a4-a464-07ebd8dabd7a
+[W 08:34:34.803 NotebookApp] 404 POST /api/kernels/83c61350-1d39-44a4-a464-07ebd8dabd7a/interrupt (65.87.19.170) 5.32ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/03%20-%20LDA.ipynb
+[C 08:34:51.239 NotebookApp] received signal 15, stopping
+[I 08:34:51.241 NotebookApp] Shutting down kernels
+[I 08:34:52.398 NotebookApp] Kernel shutdown: 31a0e0a2-49f3-4652-a3ee-0184aa1cf213
+[I 08:34:53.400 NotebookApp] Kernel shutdown: 0270bf9b-c3e9-45b1-8e75-98df6d57bcb6
+[I 08:34:53.400 NotebookApp] Kernel shutdown: e842f52f-7a90-4a6b-91a7-c6a858cf039d
+[I 08:34:53.400 NotebookApp] Kernel shutdown: c16c272f-e655-4ed0-8068-5de94d2c23a9
+./start_ipyserver.sh: 1: ./start_ipyserver.sh: source: not found
+[I 08:35:48.348 NotebookApp] Serving notebooks from local directory: /data/insight_yelp
+[I 08:35:48.348 NotebookApp] 0 active kernels 
+[I 08:35:48.348 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:10000/
+[I 08:35:48.348 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 08:36:08.964 NotebookApp] Kernel started: edd52edc-8353-4a5d-8b3a-6e5b08ea0e72
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 08:36:54.821 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 08:38:09.738 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
