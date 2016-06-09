@@ -2123,3 +2123,918 @@ ZMQError: Address already in use
   "You should import from ipykernel or jupyter_client instead.", ShimWarning)
 [I 08:36:54.821 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
 [I 08:38:09.738 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 08:39:17.744 NotebookApp] Creating new notebook in /notebooks
+[I 08:39:19.587 NotebookApp] Kernel started: 076ae104-9eb6-4970-b77a-bf4611fbabf9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 08:41:19.606 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:42:54.342 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:43:19.614 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:45:19.634 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:47:19.624 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:49:19.633 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:49:27.438 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:50:09.835 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 08:50:55.468 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 08:51:17.825 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:51:18.515 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:53:19.645 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:54:09.856 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 08:55:16.796 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:57:19.657 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:57:37.061 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 08:59:19.743 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 09:01:19.673 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 09:02:18.970 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 09:04:09.803 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:05:08.685 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 09:05:19.682 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 09:07:19.695 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 09:08:02.856 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 09:08:34.626 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 09:08:36.387 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 09:08:49.949 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 09:10:09.726 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:12:09.301 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:14:09.286 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:16:09.300 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:17:31.714 NotebookApp] Kernel started: 8d2507e1-c1d7-4506-847f-9fc3fd096019
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 09:18:10.005 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:20:09.321 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:20:10.388 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:22:09.454 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:24:09.166 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:26:09.181 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:29:51.766 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:32:40.462 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:34:06.229 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:40:09.839 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:40:13.341 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:40:16.808 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:40:20.141 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:40:35.745 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:42:09.490 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:43:08.820 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:44:09.326 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:46:09.409 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:47:38.072 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:48:09.232 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:48:25.129 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:48:26.509 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:48:30.184 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:48:47.601 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:49:05.063 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:58:09.383 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:59:43.985 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:00:09.295 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:00:46.061 NotebookApp] Kernel interrupted: edd52edc-8353-4a5d-8b3a-6e5b08ea0e72
+[I 10:01:39.992 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:03:00.243 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:04:39.032 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:04:44.071 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:05:19.862 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:05:25.994 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:06:22.483 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:07:05.623 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:07:25.205 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:08:18.140 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:09:19.872 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:10:10.268 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:10:24.927 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:11:19.891 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:12:51.061 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:13:19.955 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:14:09.655 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:14:49.453 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:15:25.108 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:15:49.857 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:16:10.008 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:16:32.380 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:16:38.136 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:16:57.377 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:17:19.896 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:24:10.148 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 11:45:24.861 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 11:46:09.609 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 11:46:14.445 NotebookApp] Kernel interrupted: edd52edc-8353-4a5d-8b3a-6e5b08ea0e72
+[I 11:46:20.710 NotebookApp] Kernel interrupted: edd52edc-8353-4a5d-8b3a-6e5b08ea0e72
+[I 11:46:22.595 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 11:48:45.076 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 11:49:21.465 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:49:27.959 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:49:52.296 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:50:40.756 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:50:47.281 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:50:48.625 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:50:53.194 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:51:04.293 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:51:26.562 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:51:45.378 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:51:53.530 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:51:54.809 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:52:10.229 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:52:43.613 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:52:45.660 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:05:28.477 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:07:14.754 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:07:26.687 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:07:28.489 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 13:07:47.799 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 13:09:28.200 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:11:06.923 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:11:11.770 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:11:58.018 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:12:19.038 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:12:46.088 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:12:48.556 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:13:17.956 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:13:50.133 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:15:21.229 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 13:15:28.218 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:15:28.511 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 13:15:56.962 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:17:13.371 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:17:28.073 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:17:28.401 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:18:10.140 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:18:37.685 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:19:28.238 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:19:42.123 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:19:43.860 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:19:52.034 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:20:52.044 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:21:28.243 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:21:42.686 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:21:51.200 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:29:28.310 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:30:00.221 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:31:28.266 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:42:03.637 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:42:53.699 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:43:16.243 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:43:28.301 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:45:27.963 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:47:16.519 NotebookApp] Kernel shutdown: edd52edc-8353-4a5d-8b3a-6e5b08ea0e72
+[I 13:47:32.904 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:49:13.317 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:49:28.328 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:50:30.667 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:51:28.323 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:51:34.864 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:51:48.686 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:52:01.713 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:52:11.003 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:52:29.005 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:53:28.338 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:53:29.412 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:53:38.869 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:53:53.619 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:55:17.940 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:55:28.187 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:55:28.511 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:55:44.760 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:55:47.354 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:55:48.310 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 13:57:28.345 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:01:28.357 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:01:40.120 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:02:42.980 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:03:28.606 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:05:04.049 NotebookApp] Kernel started: 8db2d00c-d6b3-4864-b96d-c7e36d1be5b9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[W 14:05:14.556 NotebookApp] Timeout waiting for kernel_info reply from 8db2d00c-d6b3-4864-b96d-c7e36d1be5b9
+[I 14:05:28.685 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:06:24.030 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:06:27.097 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:06:36.256 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:07:28.375 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:07:34.572 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:07:41.226 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:07:56.938 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:09:28.381 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:11:28.387 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:12:10.089 NotebookApp] Kernel interrupted: 076ae104-9eb6-4970-b77a-bf4611fbabf9
+[I 14:12:35.161 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:14:45.327 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:15:23.252 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:15:28.400 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:15:36.832 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:17:28.405 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:18:22.337 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:19:28.414 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:21:28.419 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:23:28.435 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:25:28.717 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:27:28.719 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:29:28.447 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:31:28.475 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:33:28.454 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:34:57.357 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:34:58.446 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:35:28.461 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:35:33.433 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:35:38.850 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:37:28.472 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:39:28.473 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:40:09.714 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:43:05.596 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 14:43:49.919 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:44:29.067 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:45:21.430 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:45:44.427 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:45:56.228 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:47:19.127 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:47:28.494 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:49:17.769 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:49:28.499 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:51:19.689 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:52:04.930 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:53:28.516 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:55:28.521 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:55:47.288 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:57:28.528 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:57:53.729 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:58:09.285 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:59:28.553 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:01:28.539 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:03:29.017 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:05:28.574 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:07:29.513 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:07:37.909 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:08:21.951 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:09:28.584 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:11:28.588 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:12:08.476 NotebookApp] Kernel interrupted: 076ae104-9eb6-4970-b77a-bf4611fbabf9
+[I 15:12:11.783 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:12:22.483 NotebookApp] Kernel interrupted: 076ae104-9eb6-4970-b77a-bf4611fbabf9
+[I 15:13:29.025 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:13:50.797 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:15:28.582 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:15:57.646 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:16:07.094 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:16:21.802 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:16:38.308 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:17:06.596 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:17:28.601 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:17:39.579 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:18:03.203 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:18:20.698 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:19:19.255 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:19:23.033 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:19:28.593 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:19:41.389 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:19:52.679 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:21:28.600 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:22:55.703 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:24:50.238 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:25:28.610 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:26:32.065 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:26:45.434 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:26:49.884 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:27:28.619 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:27:41.534 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:27:45.717 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:27:47.839 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:27:54.182 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:28:29.200 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:28:40.304 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:28:45.631 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:29:07.448 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:29:26.721 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:29:43.604 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:29:51.244 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:29:55.438 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:30:22.528 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:30:46.690 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:31:07.381 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:31:19.358 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:32:39.005 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:33:28.645 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:35:16.488 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:35:25.208 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:35:28.653 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:36:12.897 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:37:28.656 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:37:37.456 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:38:00.565 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:39:28.674 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:41:28.663 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:41:30.250 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:42:40.788 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:42:43.795 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:43:28.662 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:44:03.780 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:45:28.948 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:46:30.851 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:46:34.880 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:46:39.194 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:47:20.846 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:47:28.674 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:48:42.601 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:49:18.259 NotebookApp] Kernel interrupted: 076ae104-9eb6-4970-b77a-bf4611fbabf9
+[I 15:49:28.700 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:50:32.540 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:51:28.697 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:52:14.617 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:52:26.713 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:52:55.122 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:53:28.692 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:54:25.872 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:54:39.483 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:55:28.699 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:55:49.061 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:55:54.426 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:56:05.622 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:56:22.603 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:57:28.708 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:58:49.548 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:59:28.722 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:01:28.733 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:02:19.560 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:03:23.536 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:03:24.185 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:03:28.737 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:03:39.020 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:03:40.045 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:04:01.136 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:04:39.433 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:04:55.477 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:04:57.429 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:05:08.385 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:05:10.654 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:05:18.984 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:05:21.047 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:05:23.400 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:05:39.708 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:05:50.818 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:06:12.708 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:06:47.889 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:07:02.396 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:07:09.050 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:07:17.312 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:07:21.438 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:07:39.594 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:08:22.271 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:08:37.710 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:08:49.444 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:08:58.091 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:09:28.744 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:09:42.799 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:09:53.807 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:11:28.756 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:12:02.624 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:12:04.098 NotebookApp] Kernel interrupted: 076ae104-9eb6-4970-b77a-bf4611fbabf9
+[I 16:13:01.921 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:13:04.022 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:13:10.096 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:13:18.049 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:13:28.772 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:13:29.125 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:15:28.760 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:17:27.487 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:18:29.156 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:19:28.777 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:19:42.036 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:20:09.115 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:20:12.642 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:20:19.423 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:20:30.966 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:21:08.918 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:21:22.494 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:22:02.646 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:22:06.122 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:22:11.786 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:22:23.946 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:22:35.620 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:23:10.794 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:23:33.746 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:23:45.223 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:23:55.858 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:24:55.786 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:25:03.677 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:25:28.791 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:26:22.751 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:26:28.440 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:26:33.950 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:27:28.792 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:29:28.805 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:29:29.953 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:32:08.143 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:32:11.036 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:32:14.539 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:33:12.541 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:33:13.971 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:33:23.820 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:33:28.808 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:33:46.414 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:34:20.738 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:34:21.898 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:35:01.425 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:35:08.914 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:35:15.089 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:35:28.838 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:37:28.845 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:37:48.185 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:37:49.632 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:39:27.777 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:39:28.845 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:39:37.622 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:41:29.149 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:46:46.945 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:46:51.521 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:47:28.170 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 228, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 426, in complete_request
+    matches = self.do_complete(code, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/ipkernel.py", line 263, in do_complete
+    txt, matches = self.shell.complete('', line, line_cursor)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/interactiveshell.py", line 1990, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1182, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1104, in dispatch_custom_completer
+    res = c(event)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 255, in module_completer
+    return module_completion(event.line)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 238, in module_completion
+    return try_import(mod)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 164, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 228, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 426, in complete_request
+    matches = self.do_complete(code, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/ipkernel.py", line 263, in do_complete
+    txt, matches = self.shell.complete('', line, line_cursor)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/interactiveshell.py", line 1990, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1182, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1104, in dispatch_custom_completer
+    res = c(event)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 255, in module_completer
+    return module_completion(event.line)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 238, in module_completion
+    return try_import(mod)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 164, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 228, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 426, in complete_request
+    matches = self.do_complete(code, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/ipkernel.py", line 263, in do_complete
+    txt, matches = self.shell.complete('', line, line_cursor)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/interactiveshell.py", line 1990, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1182, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1104, in dispatch_custom_completer
+    res = c(event)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 255, in module_completer
+    return module_completion(event.line)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 238, in module_completion
+    return try_import(mod)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 164, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[I 16:48:29.822 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:53:29.795 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:54:40.303 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 228, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 426, in complete_request
+    matches = self.do_complete(code, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/ipkernel.py", line 263, in do_complete
+    txt, matches = self.shell.complete('', line, line_cursor)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/interactiveshell.py", line 1990, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1182, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1104, in dispatch_custom_completer
+    res = c(event)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 255, in module_completer
+    return module_completion(event.line)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 238, in module_completion
+    return try_import(mod)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 164, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 228, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 426, in complete_request
+    matches = self.do_complete(code, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/ipkernel.py", line 263, in do_complete
+    txt, matches = self.shell.complete('', line, line_cursor)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/interactiveshell.py", line 1990, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1182, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1104, in dispatch_custom_completer
+    res = c(event)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 255, in module_completer
+    return module_completion(event.line)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 238, in module_completion
+    return try_import(mod)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 164, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 228, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 426, in complete_request
+    matches = self.do_complete(code, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/ipkernel.py", line 263, in do_complete
+    txt, matches = self.shell.complete('', line, line_cursor)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/interactiveshell.py", line 1990, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1182, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1104, in dispatch_custom_completer
+    res = c(event)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 255, in module_completer
+    return module_completion(event.line)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 238, in module_completion
+    return try_import(mod)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 164, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 228, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 426, in complete_request
+    matches = self.do_complete(code, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/ipkernel.py", line 263, in do_complete
+    txt, matches = self.shell.complete('', line, line_cursor)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/interactiveshell.py", line 1990, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1182, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1104, in dispatch_custom_completer
+    res = c(event)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 255, in module_completer
+    return module_completion(event.line)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 238, in module_completion
+    return try_import(mod)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 164, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[I 16:55:29.177 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:58:22.237 NotebookApp] Creating new notebook in /notebooks
+[I 16:58:23.881 NotebookApp] Kernel started: 9383c7cb-c0c4-40ed-b7a6-83ce6fb7b9b1
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 16:59:16.845 NotebookApp] Saving file at /notebooks/Untitled1.ipynb
+[I 17:08:07.423 NotebookApp] Saving file at /notebooks/Untitled1.ipynb
+[I 17:08:24.155 NotebookApp] Saving file at /notebooks/Untitled1.ipynb
+[I 17:08:26.327 NotebookApp] Saving file at /notebooks/Untitled1.ipynb
+[I 17:09:03.959 NotebookApp] Saving file at /notebooks/SigOpt.ipynb
+[I 17:10:23.913 NotebookApp] Saving file at /notebooks/SigOpt.ipynb
+[I 17:14:12.202 NotebookApp] Kernel restarted: 9383c7cb-c0c4-40ed-b7a6-83ce6fb7b9b1
+[W 17:14:12.207 NotebookApp] zmq message arrived on closed channel
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 17:14:22.400 NotebookApp] Saving file at /notebooks/SigOpt.ipynb
+[I 17:15:29.257 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 17:15:38.955 NotebookApp] Saving file at /notebooks/SigOpt.ipynb
+[I 17:15:47.593 NotebookApp] Saving file at /notebooks/SigOpt.ipynb
+[I 17:25:23.116 NotebookApp] Saving file at /notebooks/SigOpt.ipynb
+[W 17:27:00.539 NotebookApp] WebSocket ping timeout after 119992 ms.
+[W 17:27:17.055 NotebookApp] WebSocket ping timeout after 119993 ms.
+[I 17:53:24.776 NotebookApp] Saving file at /notebooks/SigOpt.ipynb
+[I 17:53:42.234 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 17:53:50.148 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 228, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/kernelbase.py", line 426, in complete_request
+    matches = self.do_complete(code, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/ipykernel/ipkernel.py", line 263, in do_complete
+    txt, matches = self.shell.complete('', line, line_cursor)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/interactiveshell.py", line 1990, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1182, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completer.py", line 1104, in dispatch_custom_completer
+    res = c(event)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 255, in module_completer
+    return module_completion(event.line)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 238, in module_completion
+    return try_import(mod)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/core/completerlib.py", line 164, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[I 17:54:48.821 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 17:54:55.857 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 17:55:24.711 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 17:55:55.461 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 17:56:04.467 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 17:56:57.547 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 17:57:04.717 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 17:57:55.464 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 17:59:55.476 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 18:09:56.337 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[I 18:17:55.607 NotebookApp] Saving file at /notebooks/07 - Neural Netword.ipynb
+[W 18:21:25.661 NotebookApp] WebSocket ping timeout after 119948 ms.
+[W 18:21:33.106 NotebookApp] WebSocket ping timeout after 119917 ms.
+[W 21:52:31.390 NotebookApp] SSL Error on 8 ('209.239.123.82', 46978): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 12:35:32.263 NotebookApp] 302 GET / (65.87.19.170) 0.68ms
+[I 12:54:02.961 NotebookApp] 302 GET / (65.87.19.170) 0.70ms
+[I 12:54:16.201 NotebookApp] Kernel started: d7d8c3d1-d8b2-479d-8f39-c9b83bf81263
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:46:53.678 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 14:47:08.734 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 14:47:38.133 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 14:48:07.401 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 14:48:10.385 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 14:54:11.316 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:54:23.604 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:54:36.759 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:54:37.752 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:55:03.158 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:57:03.366 NotebookApp] Creating new notebook in /notebooks
+[I 14:57:03.702 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 14:57:04.851 NotebookApp] Kernel started: 0cf5aee1-fd3b-42fd-8217-e0084a86317d
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:57:45.392 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 14:57:51.033 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 14:58:38.865 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 14:59:04.861 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 14:59:25.068 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 14:59:30.758 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 14:59:39.764 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:00:47.795 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:01:04.864 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:01:26.994 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:02:26.173 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:02:55.587 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:03:04.869 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:03:24.505 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:04:26.315 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:04:32.241 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:05:04.881 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:07:05.557 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:08:26.280 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:09:03.576 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:10:20.090 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:10:23.292 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:11:04.896 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:13:04.899 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:13:22.231 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:13:26.040 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:15:05.577 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:17:04.919 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:18:10.482 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:18:38.052 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:18:45.032 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:18:50.535 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:19:04.916 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:19:05.608 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:19:12.818 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:19:17.514 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:19:19.852 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:19:37.698 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:19:52.213 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:20:01.385 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:20:02.277 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:20:12.387 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:20:31.174 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:20:32.294 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:20:56.127 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:21:03.611 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:21:04.937 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:21:09.301 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:21:20.112 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:21:37.214 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:22:28.397 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:23:54.689 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:23:58.409 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:24:07.761 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:24:12.880 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:24:18.313 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:24:21.196 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:24:39.195 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:25:04.963 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:25:07.970 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:25:20.017 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:25:25.513 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:27:04.709 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:29:05.634 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:31:04.964 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:32:38.306 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:33:04.966 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:35:01.954 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:35:04.971 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:35:09.205 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:35:12.188 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:35:13.974 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:35:15.028 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:35:22.144 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:35:56.028 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:36:03.744 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:36:20.328 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:36:35.391 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:36:39.841 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:36:44.840 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:36:53.277 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:37:04.978 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:37:17.345 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:38:41.165 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:39:15.387 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:39:32.862 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:39:50.922 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:40:04.029 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:40:08.931 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:40:11.351 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:40:12.617 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:40:16.844 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:40:24.364 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:40:26.546 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:40:28.575 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:40:39.312 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:40:42.063 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:41:20.311 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:43:04.988 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:44:58.497 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:45:04.998 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:45:14.892 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:47:05.659 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:48:34.784 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:48:48.895 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:49:03.691 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:49:32.868 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:49:34.337 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:51:05.015 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:51:07.432 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:51:11.606 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:52:13.000 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:52:34.794 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:52:42.924 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:52:46.378 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:53:05.046 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:53:14.354 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:53:56.188 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:54:46.227 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:55:05.044 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:55:28.283 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:55:30.394 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:56:00.210 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:57:05.688 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:58:30.020 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:59:03.730 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 15:59:05.044 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 15:59:51.980 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:00:00.759 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:00:25.348 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:00:34.843 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:00:56.239 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:01:25.172 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:01:42.554 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:01:55.724 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:02:06.374 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:02:11.888 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:02:20.399 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:02:27.377 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:02:37.921 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:03:02.480 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:03:09.105 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:03:10.493 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:03:13.162 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:03:16.051 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:03:18.946 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:03:26.133 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:03:31.227 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:03:34.191 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:04:02.259 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:04:08.762 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:04:17.737 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:04:27.168 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:04:44.059 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:05:37.865 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:05:42.618 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:07:01.560 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:07:05.064 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:07:12.532 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:07:13.750 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:07:24.016 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:07:35.253 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:08:12.186 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:08:38.532 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:08:44.386 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:08:47.777 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:08:48.656 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:08:58.259 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:09:46.831 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:10:10.160 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:10:37.162 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:10:42.465 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:11:02.434 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:11:03.539 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:11:23.943 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:11:47.295 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:11:49.280 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:12:01.304 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:12:23.467 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:12:29.107 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:12:30.921 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:12:32.144 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:12:34.135 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:12:42.338 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:12:55.635 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:13:05.078 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:13:15.526 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:13:30.009 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:13:47.950 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:13:53.813 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:14:10.114 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:14:24.009 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:14:27.300 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:14:28.531 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:14:50.477 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:15:00.562 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:15:05.090 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:15:06.363 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:15:26.550 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:15:58.290 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:16:00.993 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:16:23.535 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:16:28.487 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:16:39.519 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:16:52.896 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:17:00.949 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:17:05.095 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:17:47.866 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:17:55.834 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:18:06.478 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:18:15.165 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:18:25.224 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:18:31.341 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:19:03.410 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:19:13.139 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:19:15.433 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:19:42.080 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:19:42.628 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:20:01.150 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:20:28.547 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:20:29.209 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:20:38.002 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:20:40.867 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:20:50.028 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:21:05.111 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:21:05.319 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:21:07.961 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:21:12.634 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:22:00.253 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:23:05.118 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:24:03.634 NotebookApp] Kernel restarted: 0cf5aee1-fd3b-42fd-8217-e0084a86317d
+[W 16:24:03.639 NotebookApp] zmq message arrived on closed channel
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 16:24:04.811 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:24:23.183 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:25:05.113 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:26:36.624 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:28:05.242 NotebookApp] Kernel restarted: 0cf5aee1-fd3b-42fd-8217-e0084a86317d
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 16:29:05.131 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:29:52.794 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:31:05.130 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:31:24.323 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:31:25.360 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:33:03.468 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:33:05.820 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:33:25.899 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:33:50.253 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 16:34:30.951 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:34:40.192 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:35:05.148 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:35:14.399 NotebookApp] Kernel restarted: 0cf5aee1-fd3b-42fd-8217-e0084a86317d
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 16:35:51.200 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:36:38.157 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:36:38.757 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:37:11.424 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:39:01.205 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
+[I 16:39:59.009 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb

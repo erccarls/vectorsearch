@@ -57,7 +57,7 @@ class LDA():
         tf_feature_names = self.tf_vectorizer.get_feature_names()
         for topic_idx, topic in enumerate(self.lda.components_):
             print("Topic #%d:" % topic_idx)
-            print(" ".join([feature_names[i]
+            print(" ".join([tf_feature_names[i]
                             for i in topic.argsort()[:-n_top_words - 1:-1]]))
         print()
 
@@ -80,10 +80,10 @@ class LDA():
 
         return self.tf_vectorizer.get_feature_names(), self.lda.components_
 
-    def get_doc_topics(self, doc):
-        
+    def get_doc_topics(self, docs):
+
         # Convert the document into feature space. 
-        feature_vec = self.tf_vectorizer.fit_transform(doc)
+        feature_vec = self.tf_vectorizer.fit_transform(docs)
         return self.lda.fit_transform(feature_vec)
 
 
