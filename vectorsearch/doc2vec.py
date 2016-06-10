@@ -44,6 +44,9 @@ from gensim import utils
 from gensim.models.doc2vec import DocvecsArray as DVA
 
 
+business = pd.read_pickle('../input/yelp_academic_dataset_business.pickle')
+
+
 class Doc2Vec(gensim.models.Doc2Vec):
 
     def __init__(self, *args, **kwargs):

@@ -5,13 +5,16 @@ from nltk.tokenize import WhitespaceTokenizer
 from unidecode import unidecode
 from nltk.stem import WordNetLemmatizer
 import string
-
+import os 
+import nltk
 whitespace_tokenizer = WhitespaceTokenizer()
 wnl = WordNetLemmatizer()
 
 # This is for multi-word-phrases. 
 MWE = [] 
-with open('../input/STREUSLE2.1-mwes.tsv') as f:
+path = "/".join(os.path.realpath(__file__).split("/")[:-2]) + '/input/'
+print 'path', path
+with open(path+'STREUSLE2.1-mwes.tsv') as f:
     for line in f.readlines():
         multiword_expression = line.split('\t')[0].split()[1:]
         MWE.append(multiword_expression)
@@ -26,6 +29,11 @@ stops = set([word for word in stops if word not in keep_list])
 
 
 table = string.maketrans("","")
+
+
+
+sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
+whitespace_tokenizer = WhitespaceTokenizer()
 
 
 def clean_text(text):
@@ -82,57 +90,6 @@ def clean_nltk(string):
 
 
 #  Adapted, but much improved from  ----   https://github.com/titipata/yelp_dataset_challenge
-
-
-import time
-import collections
-#import scipy.sparse as sp
-#import nltk.data
-from nltk.tokenize import WhitespaceTokenizer
-from unidecode import unidecode
-from itertools import chain
-import numpy as np
-#from nltk.tokenize.treebank import TreebankWordTokenizer
-from nltk.tokenize import MWETokenizer
-from nltk.corpus import stopwords
-from collections import defaultdict
-from nltk.stem import SnowballStemmer, WordNetLemmatizer
-import sys
-sys.path.append('../vectorsearch/')
-from reverse_stemmer import SnowCastleStemmer
-import nltk
-import pickle
-import string
-
-sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
-whitespace_tokenizer = WhitespaceTokenizer()
-# tb_tokenizer = TreebankWordTokenizer()
-stops = set(stopwords.words("english") + stopwords.words("spanish"))
-keep_list = ['after', 'during', 'not', 'between', 'other', 'over', 'under', 
-             'most', ' without', 'nor', 'no', 'very', 'against','don','aren']
-stops = set([word for word in stops if word not in keep_list])
-
-
-# Multiword tokenizer list taken from: 
-# http://www.cs.cmu.edu/~ark/LexSem/
-# http://www.cs.cmu.edu/~ark/LexSem/STREUSLE2.1-mwes.tsv
-
-# This parses a list of multiword expressions from # http://www.cs.cmu.edu/~ark/LexSem/STREUSLE2.1-mwes.tsv
-# into NLTK format
-MWE = [] 
-with open('../input/STREUSLE2.1-mwes.tsv') as f:
-    for line in f.readlines():
-        multiword_expression = line.split('\t')[0].split()[1:]
-        MWE.append(multiword_expression)
-MWE_tokenizer = MWETokenizer(MWE, separator='-')
-# Add whatever additional custom multi-word-expressions.
-MWE_tokenizer.add_mwe(('dive', 'bar'))
-MWE_tokenizer.add_mwe(('happy','hour'))
-
-# Stemmer
-stemmer = SnowCastleStemmer("english")
-wnl = WordNetLemmatizer()
-table = string.maketrans("","")
 
 def clean_text(text):
     """Clean and lower string

@@ -8,7 +8,7 @@
    <meta name="author" content="">
    <link rel="icon" href="../../favicon.ico">
 
-   <title>Starter Template for Bootstrap</title>
+   <title>Describe Your Bar</title>
 
    <!-- Bootstrap core CSS -->
    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
@@ -41,7 +41,7 @@
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
          </button>
-         <a class="navbar-brand" href="#">Project name</a>
+         <a class="navbar-brand" href="#">describeyourbar</a>
        </div>
        <div class="collapse navbar-collapse">
          <ul class="nav navbar-nav">
@@ -56,20 +56,25 @@
    <div class="container">
 
     <div class="starter-template">
-        <h2>Input Page</h2>
-        <p>Enter some user input</p>
+        <h2>Search the barz..</h2>
+        <p>Describe the bar you want to find in a style similar to a yelp review...</p>
     </div>
 
     <div class = "container">
 
       <form  action="/output" method="GET">
         <div class="form-group">
-          <label for="birth_month">Birth Month:</label>
+         <!--  <label for="birth_month">Birth Month:</label>
           <input type="text" id="birth_month" name='birth_month' placeholder="e.g. ">
+ -->
+          <textarea rows="4" cols="50" id="text_review" name='text_review'>They had great beer and wine! They even allow dogs. </textarea>
+        
         </div>
 
+
+
         <div>
-          <button type="submit" class="btn btn-default btn-lg">Find these Cesareans!</button>
+          <button type="submit" class="btn btn-default btn-lg">Search the Barz!</button>
         </div>
 
       </form>
