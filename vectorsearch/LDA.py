@@ -12,7 +12,7 @@ from sklearn.decomposition import NMF, LatentDirichletAllocation
 
 class LDA():
 
-    def __init__(self, n_topics=10, n_features=5000, max_df=.75, min_df=2, max_iter=5):
+    def __init__(self, n_topics=10, n_features=5000, max_df=.75, min_df=2, max_iter=5, alpha=None):
         '''
         '''
 
@@ -24,6 +24,7 @@ class LDA():
         self.lda = None
         self.tf = None
         self.topics = None
+        self.alpha = alpha
 
     def vectorizecounts(self, docs):
         '''
@@ -43,7 +44,7 @@ class LDA():
         '''
         print("Fitting LDA models with tf features, n_samples=%d and n_features=%d..."
               % (self.n_samples, self.n_features))
-        self.lda = LatentDirichletAllocation(n_topics=self.n_topics, max_iter=self.max_iter,
+        self.lda = LatentDirichletAllocation(doc_topic_prior=self.alpha, n_topics=self.n_topics, max_iter=self.max_iter,
                                         learning_method='online', learning_offset=10.,
                                         random_state=0, n_jobs=6)
         t0 = time()

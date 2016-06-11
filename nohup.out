@@ -3208,3 +3208,2202 @@ AttributeError: 'module' object has no attribute ''
 [I 22:49:06.254 NotebookApp] Saving file at /notebooks/11 - Search Businesses.ipynb
 [W 23:27:45.107 NotebookApp] WebSocket ping timeout after 113688 ms.
 [W 23:28:03.265 NotebookApp] WebSocket ping timeout after 119445 ms.
+/home/carlson/anaconda/lib/python2.7/site-packages/matplotlib/font_manager.py:273: UserWarning: Matplotlib is building the font cache using fc-list. This may take a moment.
+  warnings.warn('Matplotlib is building the font cache using fc-list. This may take a moment.')
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with inotify reloader
+/home/carlson/anaconda/lib/python2.7/site-packages/matplotlib/font_manager.py:273: UserWarning: Matplotlib is building the font cache using fc-list. This may take a moment.
+  warnings.warn('Matplotlib is building the font cache using fc-list. This may take a moment.')
+ * Debugger is active!
+ * Debugger pin code: 225-476-286
+65.87.19.170 - - [10/Jun/2016 09:36:55] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:36:55] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:36:55] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:36:55] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:36:55] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/sklearn/decomposition/online_lda.py:361: UserWarning: Multiprocessing backed parallel loops cannot be nested below threads, setting n_jobs=1
+  for idx_slice in gen_even_slices(X.shape[0], n_jobs))
+path /data/insight_yelp/input/
+[u'cocktail lounge bartender friend martini menu cool make music after', u'food taco salsa margarita chip mexican restaurant ordered menu chicken', u'food pizza wing chicken always beer sauce order hour happy', u'food restaurant steak dinner menu ordered meal dish dessert table', u'food table came server waitress order ordered beer after game']
+[ 0.          0.          0.00552326  0.00552326  0.00552326  0.          0.
+  0.          0.00552326  0.          0.          0.          0.          0.
+  0.          0.          0.          0.99971015  0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_ed646f7a-6177-4df1-8756-7e4f3c42c651.png
+Generating image  /images/insight/LoJpgBhfKhRUIAWSeJHWrQ.png
+[ 0.          0.          0.00552326  0.00552326  0.00552326  0.          0.
+  0.          0.00552326  0.          0.          0.          0.          0.
+  0.          0.          0.          0.99971015  0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/LoJpgBhfKhRUIAWSeJHWrQ.png
+Generating image  /images/insight/Lo-4nvX2J1Esg5f2yp-ivg.png
+[ 0.          0.          0.00293231  0.00293231  0.00293231  0.          0.
+  0.          0.00293231  0.          0.          0.          0.          0.
+  0.          0.          0.          0.99991831  0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/Lo-4nvX2J1Esg5f2yp-ivg.png
+Generating image  /images/insight/Sm8ErbRr1fLDyrD4HYVQCA.png
+[  0.00000000e+00   0.00000000e+00   3.54509250e-04   3.54509251e-04
+   3.54509256e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.54509254e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   9.98169973e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Sm8ErbRr1fLDyrD4HYVQCA.png
+Generating image  /images/insight/up-zdXnYgDCQBraf1484CA.png
+[  0.00000000e+00   0.00000000e+00   4.86590113e-05   4.86590107e-05
+   8.61520263e-02   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   4.86590108e-05   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   9.93898211e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/up-zdXnYgDCQBraf1484CA.png
+Generating image  /images/insight/Br9Ruk5yY9ui8OiKChWdgw.png
+[  0.00000000e+00   0.00000000e+00   3.76339430e-04   3.76339428e-04
+   3.76339431e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.76339430e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   9.90718944e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Br9Ruk5yY9ui8OiKChWdgw.png
+Generating image  /images/insight/TK_lMcyHcIo_LDhrldUMcg.png
+[  0.00000000e+00   0.00000000e+00   1.28253150e-05   1.28253150e-05
+   2.94438475e-03   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.28253150e-05   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   9.89792537e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/TK_lMcyHcIo_LDhrldUMcg.png
+Generating image  /images/insight/rVnY7LkVgtVyXcyQ7Dzx2Q.png
+[  0.00000000e+00   0.00000000e+00   2.94229005e-05   2.94229005e-05
+   2.94229005e-05   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.94229005e-05   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   9.89482966e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/rVnY7LkVgtVyXcyQ7Dzx2Q.png
+Generating image  /images/insight/GbI7f5CJtv5FtOnZ3yOasA.png
+[  0.00000000e+00   0.00000000e+00   5.36728071e-06   4.77018790e-03
+   5.36728070e-06   0.00000000e+00   0.00000000e+00   0.000000065.87.19.170 - - [10/Jun/2016 09:37:03] "GET /output?text_review=They+had+one+of+the+best+happy+hours+I+have+ever+had+and+my+wife+loved+the+cocktails.++Lots+of+cougars+too%21 HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:37:03] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:37:03] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:37:03] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+0e+00
+   5.36728071e-06   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   9.87883831e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/GbI7f5CJtv5FtOnZ3yOasA.png
+Generating image  /images/insight/6xCGyy7exgjPcGCsCMCbKw.png
+[  0.00000000e+00   0.00000000e+00   2.03433569e-04   2.03433570e-04
+   6.29819303e-02   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.03433570e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   9.87921760e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/6xCGyy7exgjPcGCsCMCbKw.png
+Generating image  /images/insight/RGOTHirDkTGcXrpoHKT3rA.png
+[  0.00000000e+00   0.00000000e+00   5.08628723e-02   1.80939292e-04
+   1.80939291e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.80939291e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   9.85364630e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/RGOTHirDkTGcXrpoHKT3rA.png
+[u'beer food selection tap brew brewery try ale love craft', u'cocktail lounge bartender friend martini menu cool make music after', u'food pizza wing chicken always beer sauce order hour happy', u'food taco salsa margarita chip mexican restaurant ordered menu chicken', u'sushi roll food oyster hour restaurant spicy tuna rice fresh']
+[ 0.          0.          0.00675967  0.          0.          0.          0.
+  0.          0.00675967  0.          0.          0.00675967  0.          0.
+  0.86568394  0.          0.          0.49976879  0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_7c8afe47-5bc1-4692-8565-9ab59751b24f.png
+Generating image  /images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+[  0.00000000e+00   0.00000000e+00   7.69120044e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.69120046e-05   0.00000000e+00   0.00000000e+00   7.69120043e-05
+   0.00000000e+00   0.00000000e+00   9.57945236e-01   0.00000000e+00
+   0.00000000e+00   2.68494562e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+Generating image  /images/insight/KvR2eBP6sEoPixazsk8Sww.png
+[  0.00000000e+00   0.00000000e+00   7.16503681e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.16503686e-05   0.00000000e+00   0.00000000e+00   7.16503692e-05
+   0.00000000e+00   0.00000000e+00   9.65192773e-01   0.00000000e+00
+   0.00000000e+00   2.25231065e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/KvR2eBP6sEoPixazsk8Sww.png
+Generating image  /images/insight/keC-Z_YMwd569_NnZ4koaw.png
+[  0.00000000e+00   0.00000000e+00   7.52264004e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.52264003e-05   0.00000000e+00   0.00000000e+00   7.52264002e-05
+   0.00000000e+00   0.00000000e+00   9.64873148e-01   0.00000000e+00
+   0.00000000e+00   2.13823926e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/keC-Z_YMwd569_NnZ4koaw.png
+Generating image  /images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+[  0.00000000e+00   0.00000000e+00   1.21325330e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.21325331e-04   0.00000000e+00   0.00000000e+00   1.21325330e-04
+   0.00000000e+00   0.00000000e+00   6.22844295e-01   0.00000000e+00
+   0.00000000e+00   7.82345652e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+Generating image  /images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+[  0.00000000e+00   0.00000000e+00   9.96711918e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.000000/home/carlson/anaconda/lib/python2.7/site-packages/matplotlib/pyplot.py:516: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  max_open_warning, RuntimeWarning)
+65.87.19.170 - - [10/Jun/2016 09:37:44] "GET /output?text_review=They+had+one+of+the+best+happy+hours+I+have+ever+had%2C+with+a+great+selection+of+craft+beers.+++My+wife+loved+the+cocktails.++ HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:37:44] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:37:44] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:37:44] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:38:19] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:38:19] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:38:19] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:38:19] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+00e+00
+   9.96711918e-05   0.00000000e+00   0.00000000e+00   9.96711916e-05
+   0.00000000e+00   0.00000000e+00   9.84217585e-01   0.00000000e+00
+   0.00000000e+00   1.41717876e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+Generating image  /images/insight/JmvSd56q7zskq_fxhYIs1w.png
+[  0.00000000e+00   0.00000000e+00   1.17995282e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.17995282e-04   0.00000000e+00   0.00000000e+00   1.17995281e-04
+   0.00000000e+00   0.00000000e+00   9.72179525e-01   0.00000000e+00
+   0.00000000e+00   1.57102312e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/JmvSd56q7zskq_fxhYIs1w.png
+Generating image  /images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+[  0.00000000e+00   0.00000000e+00   2.04485877e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   6.00881197e-02   0.00000000e+00   0.00000000e+00   2.04485876e-04
+   0.00000000e+00   0.00000000e+00   8.86927956e-01   0.00000000e+00
+   0.00000000e+00   2.91308689e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+Generating image  /images/insight/okvhzVSYwfN02cn3reYXHw.png
+[  0.00000000e+00   0.00000000e+00   3.59976988e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.59976989e-05   0.00000000e+00   0.00000000e+00   3.59976989e-05
+   0.00000000e+00   0.00000000e+00   9.95224091e-01   0.00000000e+00
+   0.00000000e+00   7.45652844e-02   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/okvhzVSYwfN02cn3reYXHw.png
+Generating image  /images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+[  0.00000000e+00   0.00000000e+00   2.79549008e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.79549008e-04   0.00000000e+00   0.00000000e+00   2.79549008e-04
+   0.00000000e+00   0.00000000e+00   8.77494140e-01   0.00000000e+00
+   0.00000000e+00   2.50280955e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+Generating image  /images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[  0.00000000e+00   0.00000000e+00   4.38265447e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.56046396e-02   0.00000000e+00   0.00000000e+00   4.38265447e-05
+   0.00000000e+00   0.00000000e+00   9.42137736e-01   0.00000000e+00
+   0.00000000e+00   1.32996609e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[u'vega strip hotel casino got pool day room fun pretty', u'music bartender fun always friend beer love old pretty game', u'madison food fry cheese beer fish curd brat sandwich gordon', u'club dance music girl floor line got table guy vega', u'beer food selection tap brew brewery try ale love craft']
+[ 0.99971015  0.          0.          0.          0.          0.          0.
+  0.00552326  0.          0.          0.          0.          0.          0.
+  0.00552326  0.          0.00552326  0.          0.          0.00552326]
+Saving image to path  /home/carlson/web//images/insight/query_71fc5c12-936d-47e3-a942-57d4674b9e76.png
+Generating image  /images/insight/W0TK5K3VLbnNrrzLTaaykw.png
+[  9.99958626e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   6.13698075e-03
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.49833408e-06   0.00000000e+00
+   3.49833407e-06   0.00000000e+00   0.00000000e+00   3.49833408e-06]
+Saving image to path  /home/carlson/web//images/insight/W0TK5K3VLbnNrrzLTaaykw.png
+Generating image  /images/insight/7_TlldzqWWtdeVT6tKa8OQ.png
+[  9.99998678e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.72994668e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.72994665e-04   0.00000000e+00
+   3.72994665e-04   0.00000000e+00   0.00000000e+00   3.72994668e-04]
+Saving image to path  /home/carlson/web//images/insight/7_TlldzqWWtdeVT6tKa8OQ.png
+Generating image  /images/insight/x3gXUj30nKUG1d-3RMO3ow.png
+[  9.99966110e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.97201183e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   5.97201183e-05   0.00000000e+00
+   5.97201181e-05   0.00000000e+00   0.00000000e+00   5.97201181e-05]
+Saving image to path  /home/carlson/web//images/insight/x3gXUj30nKUG1d-3RMO3ow.png
+Generating image  /images/insight/VRGLWJryfUIlYH_woaLkHw.png
+[  9.99865676e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.00757305e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   2.00757305e-04   0.00000000e+00
+   2.00757305e-04   0.00000000e+00   0.00000000e+00   2.00757305e-04]
+Saving image to path  /home/carlson/web//images/insight/VRGLWJryfUIlYH_woaLkHw.png
+Generating image  /images/insight/0Y3VWMpXoRKbvy9mjQ7wdw.png
+[  9.99655156e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.19817652e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   1.19817652e-05   0.00000000e+00
+   1.19817652e-05   0.00000000e+00   0.00000000e+00   1.19817652e-05]
+Saving image to path  /home/carlson/web//images/insight/0Y3VWMpXoRKbvy9mjQ7wdw.png
+Generating image  /images/insight/tYcbcJTq54Jg662bGA1drA.png
+[  9.99454192e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.77476629e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   1.15302036e-02   0.00000000e+00
+   5.77476627e-05   0.00000000e+00   0.00000000e+00   5.77476629e-05]
+Saving image to path  /home/carlson/web//images/insight/tYcbcJTq54Jg662bGA1drA.png
+Generating image  /images/insight/76aAcaTbLZwV5-ilnqjC5g.png
+[  9.99308453e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.54936395e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   1.54936394e-04   0.00000000e+00
+   1.54936394e-04   0.00000000e+00   0.00000000e+00   1.54936394e-04]
+Saving image to path  /home/carlson/web//images/insight/76aAcaTbLZwV5-ilnqjC5g.png
+Generating image  /images/insight/jM1E3FId2jV0V7YW9B0E2Q.png
+[  9.99237620e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.07415301e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.07415301e-05   0.00000000e+00
+   3.07415299e-05   0.00000000e+00   0.00000000e+00   3.07415299e-05]
+Saving image to path  /home/carlson/web//images/insight/jM1E3FId2jV0V7YW9B0E2Q.png
+Generating image  /images/insight/puJr3-pF8NRT2Hd3YkXndA.png
+[  9.97222622e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.46969887e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   2.12591428e-02   0.00000000e+00
+   5.46969884e-05   0.00000000e+00   0.00000000e+00   5.46969885e-05]
+Saving image to path  /home/carlson/web//images/insight/puJr3-pF8NRT2Hd3YkXndA.png
+Generating image  /images/insight/ule9jCPEVSeO7gWcPxj0aA.png
+[  9.96737343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.15420690e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   8.10041819e-06   0.00000000e+00
+   8.10041816e-06   0.00000000e+00   0.00000000e+00   3.2218695265.87.19.170 - - [10/Jun/2016 09:39:06] "GET /output?text_review=We+partied+down+frat+style+until+dawn%2C+and+lost+half+our+money+on+video+poker HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:39:07] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:39:07] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:39:07] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:39:07] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+e-02]
+Saving image to path  /home/carlson/web//images/insight/ule9jCPEVSeO7gWcPxj0aA.png
+[u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'music bartender fun always friend beer love old pretty game', u'madison food fry cheese beer fish curd brat sandwich gordon', u'food pizza wing chicken always beer sauce order hour happy']
+[ 0.89099     0.          0.          0.          0.          0.          0.
+  0.00738424  0.00738424  0.          0.          0.          0.          0.
+  0.          0.          0.00738424  0.          0.          0.45294077]
+Saving image to path  /home/carlson/web//images/insight/query_13b85d8c-50dd-48fb-93af-96f0035ac7b6.png
+Generating image  /images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+[  8.99512815e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.58087084e-04
+   3.58087083e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.58087082e-04   0.00000000e+00   0.00000000e+00   4.22429480e-01]
+Saving image to path  /home/carlson/web//images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+Generating image  /images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+[ 0.81612783  0.          0.          0.          0.          0.          0.
+  0.00085943  0.00085943  0.          0.          0.          0.          0.
+  0.          0.          0.00085943  0.          0.          0.57785991]
+Saving image to path  /home/carlson/web//images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+Generating image  /images/insight/ufpRzsHvtb-c9H87azPmRA.png
+[  7.76115559e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.16894646e-05
+   5.16894645e-05   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.16894644e-05   0.00000000e+00   0.00000000e+00   6.30588953e-01]
+Saving image to path  /home/carlson/web//images/insight/ufpRzsHvtb-c9H87azPmRA.png
+Generating image  /images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+[  8.41272560e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.30159578e-01
+   1.02922282e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.02922282e-04   0.00000000e+00   0.00000000e+00   4.83222384e-01]
+Saving image to path  /home/carlson/web//images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+Generating image  /images/insight/CDN--GWL8gm4TsFFtccpaA.png
+[  7.72235343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.72535668e-02
+   2.05933444e-05   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.05933444e-05   0.00000000e+00   0.00000000e+00   6.15679531e-01]
+Saving image to path  /home/carlson/web//images/insight/CDN--GWL8gm4TsFFtccpaA.png
+Generating image  /images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[  7.40051655e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.86237934e-05
+   5.86237931e-05   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.86237929e-05   0.00000000e+00   0.00000000e+00   6.59782940e-01]
+Saving image to path  /home/carlson/web//images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+Generating image  /images/insight/LmsPhGZ4XAD6UlhQYWBS-g.png
+[  7.32324969e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.17604863e-01
+   2.35060353e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.35060353e-04   0.00000000e+00   0.00000000e+00   6.70671755e-01]
+Saving image to path  /home/carlson/web//images/insight/LmsPhGZ4XAD6UlhQYWBS-g.png
+Generating image  /images/insight/7jP94jaXfaz8bxcmXtYwpA.pn65.87.19.170 - - [10/Jun/2016 09:39:42] "GET /output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+half+our+money+on+video+poker HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:39:42] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:39:42] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:39:42] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+g
+[  9.81250112e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.42196686e-05
+   3.93136895e-02   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.42196684e-05   0.00000000e+00   0.00000000e+00   1.81031302e-01]
+Saving image to path  /home/carlson/web//images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+Generating image  /images/insight/MErwBndMxEwJBujFSMSYxw.png
+[  8.35231810e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.25475548e-04
+   8.14435488e-02   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.25475549e-04   0.00000000e+00   0.00000000e+00   4.43567494e-01]
+Saving image to path  /home/carlson/web//images/insight/MErwBndMxEwJBujFSMSYxw.png
+Generating image  /images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+[  9.66167775e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.06846619e-04
+   2.06846619e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.06846618e-04   0.00000000e+00   0.00000000e+00   1.84719701e-01]
+Saving image to path  /home/carlson/web//images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+[u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'music bartender fun always friend beer love old pretty game', u'madison food fry cheese beer fish curd brat sandwich gordon', u'beer food selection tap brew brewery try ale love craft']
+[ 0.84328697  0.          0.          0.          0.          0.          0.
+  0.00851565  0.          0.          0.          0.          0.          0.
+  0.00851565  0.          0.00851565  0.          0.          0.53624788]
+Saving image to path  /home/carlson/web//images/insight/query_884d204e-da79-43c8-bd2e-c43061f752d5.png
+Generating image  /images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+[ 0.81612783  0.          0.          0.          0.          0.          0.
+  0.00085943  0.          0.          0.          0.          0.          0.
+  0.00085943  0.          0.00085943  0.          0.          0.57785991]
+Saving image to path  /home/carlson/web//images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+Generating image  /images/insight/ufpRzsHvtb-c9H87azPmRA.png
+[  7.76115559e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.16894646e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   5.16894645e-05   0.00000000e+00
+   5.16894644e-05   0.00000000e+00   0.00000000e+00   6.30588953e-01]
+Saving image to path  /home/carlson/web//images/insight/ufpRzsHvtb-c9H87azPmRA.png
+Generating image  /images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+[  8.99512815e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.58087084e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.58087083e-04   0.00000000e+00
+   3.58087082e-04   0.00000000e+00   0.00000000e+00   4.22429480e-01]
+Saving image to path  /home/carlson/web//images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+Generating image  /images/insight/CDN--GWL8gm4TsFFtccpaA.png
+[  7.72235343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.72535668e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   2.05933444e-05   0.00000000e+00
+   2.05933444e-05   0.00000000e+00   0.00000000e+00   6.15679531e-01]
+Saving image to path  /home/carlson/web//images/insight/CDN--GWL8gm4TsFFtccpaA.png
+Generating image  /images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[  7.40051655e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.86237934e-05
+   0.00000065.87.19.170 - - [10/Jun/2016 09:40:30] "GET /output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:40:30] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:40:30] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:40:30] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:40:30] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+00e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   5.86237932e-05   0.00000000e+00
+   5.86237929e-05   0.00000000e+00   0.00000000e+00   6.59782940e-01]
+Saving image to path  /home/carlson/web//images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+Generating image  /images/insight/LmsPhGZ4XAD6UlhQYWBS-g.png
+[  7.32324969e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.17604863e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   2.35060353e-04   0.00000000e+00
+   2.35060353e-04   0.00000000e+00   0.00000000e+00   6.70671755e-01]
+Saving image to path  /home/carlson/web//images/insight/LmsPhGZ4XAD6UlhQYWBS-g.png
+Generating image  /images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+[  8.41272560e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.30159578e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   1.02922282e-04   0.00000000e+00
+   1.02922282e-04   0.00000000e+00   0.00000000e+00   4.83222384e-01]
+Saving image to path  /home/carlson/web//images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+Generating image  /images/insight/gy5jh1qLZGanvNKJh2GTdQ.png
+[  6.66134533e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   6.58791005e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   6.58408457e-06   0.00000000e+00
+   6.58408458e-06   0.00000000e+00   0.00000000e+00   7.41145512e-01]
+Saving image to path  /home/carlson/web//images/insight/gy5jh1qLZGanvNKJh2GTdQ.png
+Generating image  /images/insight/Tkf5aRlNXMj_W6qC-I77GQ.png
+[  6.27834605e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.00384808e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   5.00384808e-05   0.00000000e+00
+   5.00384809e-05   0.00000000e+00   0.00000000e+00   7.78346750e-01]
+Saving image to path  /home/carlson/web//images/insight/Tkf5aRlNXMj_W6qC-I77GQ.png
+Generating image  /images/insight/MErwBndMxEwJBujFSMSYxw.png
+[  8.35231810e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.25475548e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   2.25475548e-04   0.00000000e+00
+   2.25475549e-04   0.00000000e+00   0.00000000e+00   4.43567494e-01]
+Saving image to path  /home/carlson/web//images/insight/MErwBndMxEwJBujFSMSYxw.png
+[u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'music bartender fun always friend beer love old pretty game', u'madison food fry cheese beer fish curd brat sandwich gordon', u'cocktail lounge bartender friend martini menu cool make music after']
+[ 0.91624109  0.          0.          0.          0.          0.          0.
+  0.00592828  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00592828  0.00592828  0.          0.39983705]
+Saving image to path  /home/carlson/web//images/insight/query_8a1c6fa0-21e7-490f-aa9d-ba340c2c9971.png
+Generating image  /images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+[  8.99512815e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.58087084e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.58087082e-04   3.58087085e-04   0.00000000e+00   4.22429480e-01]
+Saving image to path  /home/carlson/web//images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+Generating image  /images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+[ 0.81612783  0.          0.          0.          0.          0.          0.
+  0.00085943  0.          0.          0.          0.          0.          0.
+  0.          0.65.87.19.170 - - [10/Jun/2016 09:41:00] "GET /output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker.+++The+bartender+didn%27t+even+comp+our+drinks%21 HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:41:00] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:41:00] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:41:00] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+          0.00085943  0.00085943  0.          0.57785991]
+Saving image to path  /home/carlson/web//images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+Generating image  /images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+[  9.81250112e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.42196686e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.42196684e-05   5.17262023e-02   0.00000000e+00   1.81031302e-01]
+Saving image to path  /home/carlson/web//images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+Generating image  /images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+[  8.41272560e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.30159578e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.02922282e-04   1.02922282e-04   0.00000000e+00   4.83222384e-01]
+Saving image to path  /home/carlson/web//images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+Generating image  /images/insight/ufpRzsHvtb-c9H87azPmRA.png
+[  7.76115559e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.16894646e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.16894644e-05   1.47153634e-03   0.00000000e+00   6.30588953e-01]
+Saving image to path  /home/carlson/web//images/insight/ufpRzsHvtb-c9H87azPmRA.png
+Generating image  /images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+[  9.66167775e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.06846619e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.06846618e-04   1.34429934e-01   0.00000000e+00   1.84719701e-01]
+Saving image to path  /home/carlson/web//images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+Generating image  /images/insight/CDN--GWL8gm4TsFFtccpaA.png
+[  7.72235343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.72535668e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.05933444e-05   6.19694550e-02   0.00000000e+00   6.15679531e-01]
+Saving image to path  /home/carlson/web//images/insight/CDN--GWL8gm4TsFFtccpaA.png
+Generating image  /images/insight/MErwBndMxEwJBujFSMSYxw.png
+[  8.35231810e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.25475548e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.25475549e-04   3.09929330e-01   0.00000000e+00   4.43567494e-01]
+Saving image to path  /home/carlson/web//images/insight/MErwBndMxEwJBujFSMSYxw.png
+Generating image  /images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+[  9.93380415e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.07847201e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.78600610e-02   3.53315223e-05   0.00000000e+00   8.52552491e-02]
+Saving image to path  /home/carlson/web//images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+Generating image  /images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[  7.40051655e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.86237934e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.86237929e-05   5.86237934e-05   0.00000000e+00   6.59782940e-01]
+Saving image to path  /home/carlson/web//images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[u'vega strip hotel casino got pool day room fun pretty', u'madison food fry cheese beer fish curd brat sandwich gordon', u'club dance music girl floor line got table guy vega', u'music bartender fun always friend beer love old pretty game', u'sandwich food cheese pittsburgh menu chicken fry fried try bread']
+[ 0.78642328  0.          0.          0.          0.          0.          0.
+  0.00539828  0.          0.          0.          0.          0.          0.
+  0.          0.          0.52568744  0.          0.00539828  0.3235672 ]
+Saving image to path  /home/carlson/web//images/insight/query_246333e3-0bea-4424-b416-2a2825805e9f.png
+Generating image  /images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+[  8.99512815e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.58087084e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.58087082e-04   0.00000000e+00   3.58087081e-04   4.22429480e-01]
+Saving image to path  /home/carlson/web//images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+Generating image  /images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+[  9.93380415e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.07847201e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.78600610e-02   0.00000000e+00   3.53315221e-05   8.52552491e-02]
+Saving image to path  /home/carlson/web//images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+Generating image  /images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+[  9.81250112e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.42196686e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.42196684e-05   0.00000000e+00   5.42196684e-05   1.81031302e-01]
+Saving image to path  /home/carlson/web//images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+Generating image  /images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+[ 0.81612783  0.          0.          0.          0.          0.          0.
+  0.00085943  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00085943  0.          0.00085943  0.57785991]
+Saving image to path  /home/carlson/web//images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+Generating image  /images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+[  9.66167775e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.06846619e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.06846618e-04   0.00000000e+00   2.06846618e-04   1.84719701e-01]
+Saving image to path  /home/carlson/web//images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+Generating image  /images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+[  8.41272560e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.30159578e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.02922282e-04   0.00000000e+00   1.02922282e-04   4.83222384e-01]
+Saving image to path  /home/carlson/web//images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+Generating image  /images/insight/ufpRzsHvtb-c9H87azPmRA.png
+[  7.76115559e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.16894646e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.16894644e-05   0.00000000e+00   5.16894643e-05   6.30588953e-01]
+Saving image to path  /home/carlson/web//images/insight/ufpRzsHvtb-c9H87azPmRA.png
+Generating image  /images/insight/CDN--GWL8gm4TsFFtccpaA.png
+[  7.72235343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.0000000065.87.19.170 - - [10/Jun/2016 09:41:20] "GET /output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker.+++The+bartender+didn%27t+even+comp+our+drinks%21++Then+we+got+fried+cheese+in+madison%0D%0A HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:41:21] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:41:21] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:41:21] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:41:21] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+e+00   3.72535668e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.05933444e-05   0.00000000e+00   2.05933444e-05   6.15679531e-01]
+Saving image to path  /home/carlson/web//images/insight/CDN--GWL8gm4TsFFtccpaA.png
+Generating image  /images/insight/MErwBndMxEwJBujFSMSYxw.png
+[  8.35231810e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.25475548e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.25475549e-04   0.00000000e+00   2.25475549e-04   4.43567494e-01]
+Saving image to path  /home/carlson/web//images/insight/MErwBndMxEwJBujFSMSYxw.png
+Generating image  /images/insight/pCSbslNkq0fL5ZZ3RhUZMw.png
+[  9.95971899e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.53351071e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.53029024e-06   0.00000000e+00   3.53029025e-06   4.35240557e-02]
+Saving image to path  /home/carlson/web//images/insight/pCSbslNkq0fL5ZZ3RhUZMw.png
+[u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'music bartender fun always friend beer love old pretty game', u'madison food fry cheese beer fish curd brat sandwich gordon', u'cocktail lounge bartender friend martini menu cool make music after']
+[ 0.91624109  0.          0.          0.          0.          0.          0.
+  0.00592828  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00592828  0.00592828  0.          0.39983705]
+Saving image to path  /home/carlson/web//images/insight/query_f5ca2a18-32a5-4b34-aab8-70aeacad7944.png
+Generating image  /images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+[  8.99512815e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.58087084e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.58087082e-04   3.58087085e-04   0.00000000e+00   4.22429480e-01]
+Saving image to path  /home/carlson/web//images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+Generating image  /images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+[ 0.81612783  0.          0.          0.          0.          0.          0.
+  0.00085943  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00085943  0.00085943  0.          0.57785991]
+Saving image to path  /home/carlson/web//images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+Generating image  /images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+[  9.81250112e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.42196686e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.42196684e-05   5.17262023e-02   0.00000000e+00   1.81031302e-01]
+Saving image to path  /home/carlson/web//images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+Generating image  /images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+[  8.41272560e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.30159578e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.02922282e-04   1.02922282e-04   0.00000000e+00   4.83222384e-01]
+Saving image to path  /home/carlson/web//images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+Generating image  /images/insight/ufpRzsHvtb-c9H87azPmRA.png
+[  7.76115559e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.16894646e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e65.87.19.170 - - [10/Jun/2016 09:41:32] "GET /output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker.+++The+bartender+didn%27t+even+comp+our+drinks%21++%0D%0A HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:41:33] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:41:33] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:41:33] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:41:33] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:29] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:44:29] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:29] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:29] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:52] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:44:52] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:52] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:44:52] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:52] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:52] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:44:52] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:57] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:44:57] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:44:57] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:44:57] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:57] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:57] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:44:58] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:44:58] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:27] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:45:28] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:45:28] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:28] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:28] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:28] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:45:29] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:45:29] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:45:29] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:29] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:29] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:29] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:45:29] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:57] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:45:57] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:45:57] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:57] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:57] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:45:57] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:45:57] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
++00   0.00000000e+00
+   5.16894644e-05   1.47153634e-03   0.00000000e+00   6.30588953e-01]
+Saving image to path  /home/carlson/web//images/insight/ufpRzsHvtb-c9H87azPmRA.png
+Generating image  /images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+[  9.66167775e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.06846619e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.06846618e-04   1.34429934e-01   0.00000000e+00   1.84719701e-01]
+Saving image to path  /home/carlson/web//images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+Generating image  /images/insight/CDN--GWL8gm4TsFFtccpaA.png
+[  7.72235343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.72535668e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.05933444e-05   6.19694550e-02   0.00000000e+00   6.15679531e-01]
+Saving image to path  /home/carlson/web//images/insight/CDN--GWL8gm4TsFFtccpaA.png
+Generating image  /images/insight/MErwBndMxEwJBujFSMSYxw.png
+[  8.35231810e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.25475548e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.25475549e-04   3.09929330e-01   0.00000000e+00   4.43567494e-01]
+Saving image to path  /home/carlson/web//images/insight/MErwBndMxEwJBujFSMSYxw.png
+Generating image  /images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+[  9.93380415e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.07847201e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.78600610e-02   3.53315223e-05   0.00000000e+00   8.52552491e-02]
+Saving image to path  /home/carlson/web//images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+Generating image  /images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[  7.40051655e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.86237934e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.86237929e-05   5.86237934e-05   0.00000000e+00   6.59782940e-01]
+Saving image to path  /home/carlson/web//images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[u'beer food selection tap brew brewery try ale love craft', u'cocktail lounge bartender friend martini menu cool make music after', u'food taco salsa margarita chip mexican restaurant ordered menu chicken', u'food pizza wing chicken always beer sauce order hour happy', u'sushi roll food oyster hour restaurant spicy tuna rice fresh']
+[ 0.          0.          0.00618087  0.          0.          0.          0.
+  0.          0.00618087  0.          0.          0.00618087  0.          0.
+  0.85623803  0.          0.          0.51591548  0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_35377c3d-20cd-4f95-bf4d-fb5738bb5756.png
+Generating image  /images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+[  0.00000000e+00   0.00000000e+00   7.69120044e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.69120046e-05   0.00000000e+00   0.00000000e+00   7.69120043e-05
+   0.00000000e+00   0.00000000e+00   9.57945236e-01   0.00000000e+00
+   0.00000000e+00   2.68494562e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+Generating image  /images/insight/KvR2eBP6sEoPixazsk8Sww.png
+[  0.00000000e+00   0.00000000e+00   7.16503681e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.16503686e-05   0.00000000e+00   0.00000000e+00   7.16503692e-05
+   0.00000000e+00   0.00000000e+00   9.6519277365.87.19.170 - - [10/Jun/2016 09:47:43] "GET /output?text_review=hey+had+one+of+the+best+happy+hours+I+have+ever+had%2C+with+a+great+selection+of+craft+beers.+My+wife+loved+the+cocktails. HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:47:43] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:47:43] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:47:43] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:47:44] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+e-01   0.00000000e+00
+   0.00000000e+00   2.25231065e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/KvR2eBP6sEoPixazsk8Sww.png
+Generating image  /images/insight/keC-Z_YMwd569_NnZ4koaw.png
+[  0.00000000e+00   0.00000000e+00   7.52264004e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.52264003e-05   0.00000000e+00   0.00000000e+00   7.52264002e-05
+   0.00000000e+00   0.00000000e+00   9.64873148e-01   0.00000000e+00
+   0.00000000e+00   2.13823926e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/keC-Z_YMwd569_NnZ4koaw.png
+Generating image  /images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+[  0.00000000e+00   0.00000000e+00   1.21325330e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.21325331e-04   0.00000000e+00   0.00000000e+00   1.21325330e-04
+   0.00000000e+00   0.00000000e+00   6.22844295e-01   0.00000000e+00
+   0.00000000e+00   7.82345652e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+Generating image  /images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+[  0.00000000e+00   0.00000000e+00   9.96711918e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   9.96711918e-05   0.00000000e+00   0.00000000e+00   9.96711916e-05
+   0.00000000e+00   0.00000000e+00   9.84217585e-01   0.00000000e+00
+   0.00000000e+00   1.41717876e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+Generating image  /images/insight/JmvSd56q7zskq_fxhYIs1w.png
+[  0.00000000e+00   0.00000000e+00   1.17995282e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.17995282e-04   0.00000000e+00   0.00000000e+00   1.17995281e-04
+   0.00000000e+00   0.00000000e+00   9.72179525e-01   0.00000000e+00
+   0.00000000e+00   1.57102312e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/JmvSd56q7zskq_fxhYIs1w.png
+Generating image  /images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+[  0.00000000e+00   0.00000000e+00   2.04485877e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   6.00881197e-02   0.00000000e+00   0.00000000e+00   2.04485876e-04
+   0.00000000e+00   0.00000000e+00   8.86927956e-01   0.00000000e+00
+   0.00000000e+00   2.91308689e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+Generating image  /images/insight/okvhzVSYwfN02cn3reYXHw.png
+[  0.00000000e+00   0.00000000e+00   3.59976988e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.59976989e-05   0.00000000e+00   0.00000000e+00   3.59976989e-05
+   0.00000000e+00   0.00000000e+00   9.95224091e-01   0.00000000e+00
+   0.00000000e+00   7.45652844e-02   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/okvhzVSYwfN02cn3reYXHw.png
+Generating image  /images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+[  0.00000000e+00   0.00000000e+00   2.79549008e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.79549008e-04   0.00000000e+00   0.00000000e+00   2.79549008e-04
+   0.00000000e+00   0.00000000e+00   8.77494140e-01   0.00000000e+00
+   0.00000000e+00   2.50280955e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+Generating image  /images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[  0.00000000e+00   0.00000000e+00   4.38265447e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.56046396e-02   0.00000000e+00   0.00000000e+00   4.38265447e-05
+   0.00000000e+00   0.00000000e+00   9.42137736e-01   0.00000000e+00
+   0.00000000e+00   1.32996609e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[u'beer food selection tap brew brewery try ale love craft', u'cocktail lounge bartender friend martini menu cool make music after', u'food taco salsa margarita chip mexican restaurant ordered menu chicken', u'food pizza wing chicken always beer sauce order hour happy', u'sushi roll food oyster hour restaurant spicy tuna rice fresh']
+[ 0.          0.          0.00618087  0.          0.          0.          0.
+  0.          0.00618087  0.          0.          0.00618087  0.          0.
+  0.85623803  0.          0.          0.51591548  0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_25d6a9fb-e08b-45aa-bc02-e7d752d4e3b9.png
+Generating image  /images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+[  0.00000000e+00   0.00000000e+00   7.69120044e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.69120046e-05   0.00000000e+00   0.00000000e+00   7.69120043e-05
+   0.00000000e+00   0.00000000e+00   9.57945236e-01   0.00000000e+00
+   0.00000000e+00   2.68494562e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+Generating image  /images/insight/KvR2eBP6sEoPixazsk8Sww.png
+[  0.00000000e+00   0.00000000e+00   7.16503681e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.16503686e-05   0.00000000e+00   0.00000000e+00   7.16503692e-05
+   0.00000000e+00   0.00000000e+00   9.65192773e-01   0.00000000e+00
+   0.00000000e+00   2.25231065e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/KvR2eBP6sEoPixazsk8Sww.png
+Generating image  /images/insight/keC-Z_YMwd569_NnZ4koaw.png
+[  0.00000000e+00   0.00000000e+00   7.52264004e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.52264003e-05   0.00000000e+00   0.00000000e+00   7.52264002e-05
+   0.00000000e+00   0.00000000e+00   9.64873148e-01   0.00000000e+00
+   0.00000000e+00   2.13823926e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/keC-Z_YMwd569_NnZ4koaw.png
+Generating image  /images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+[  0.00000000e+00   0.00000000e+00   1.21325330e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.21325331e-04   0.00000000e+00   0.00000000e+00   1.21325330e-04
+   0.00000000e+00   0.00000000e+00   6.22844295e-01   0.00000000e+00
+   0.00000000e+00   7.82345652e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+Generating image  /images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+[  0.00000000e+00   0.00000000e+00   9.96711918e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   9.96711918e-05   0.00000000e+00   0.00000000e+00   9.96711916e-05
+   0.00000000e+00   0.00000000e+00   9.84217585e-01   0.00000000e+00
+   0.00000000e+00   1.41717876e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+Generating image  /images/insight/JmvSd56q7zskq_fxhYIs1w.png
+[  0.00000000e+00   0.00000000e+00   1.17995282e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.17995282e-04   0.00000000e+00   0.00000000e+00   1.17995281e-04
+   0.00000000e+00   0.00000000e+00   9.72179525e-01   0.00000000e+00
+   0.00000000e+00   1.57102312e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/JmvSd56q7zskq_fxhYIs1w.png
+Generating image  /images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+[  0.00000000e+00   0.00000000e+00   2.04485877e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   6.00881197e-02   0.00000000e+00   0.00000000e+00   2.04485876e-04
+   0.00000000e+00   0.00000000e+00   8.86927956e-01   0.00000000e+00
+   0.00000000e+00   2.91308689e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+65.87.19.170 - - [10/Jun/2016 09:48:52] "GET /output?text_review=hey+had+one+of+the+best+happy+hours+I+have+ever+had%2C+with+a+great+selection+of+craft+beers.+My+wife+loved+the+cocktails. HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:48:52] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:48:52] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:48:52] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:48:53] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:48:53] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+Generating image  /images/insight/okvhzVSYwfN02cn3reYXHw.png
+[  0.00000000e+00   0.00000000e+00   3.59976988e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.59976989e-05   0.00000000e+00   0.00000000e+00   3.59976989e-05
+   0.00000000e+00   0.00000000e+00   9.95224091e-01   0.00000000e+00
+   0.00000000e+00   7.45652844e-02   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/okvhzVSYwfN02cn3reYXHw.png
+Generating image  /images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+[  0.00000000e+00   0.00000000e+00   2.79549008e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.79549008e-04   0.00000000e+00   0.00000000e+00   2.79549008e-04
+   0.00000000e+00   0.00000000e+00   8.77494140e-01   0.00000000e+00
+   0.00000000e+00   2.50280955e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+Generating image  /images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[  0.00000000e+00   0.00000000e+00   4.38265447e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.56046396e-02   0.00000000e+00   0.00000000e+00   4.38265447e-05
+   0.00000000e+00   0.00000000e+00   9.42137736e-01   0.00000000e+00
+   0.00000000e+00   1.32996609e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[u'beer food selection tap brew brewery try ale love craft', u'cocktail lounge bartender friend martini menu cool make music after', u'food taco salsa margarita chip mexican restaurant ordered menu chicken', u'food pizza wing chicken always beer sauce order hour happy', u'sushi roll food oyster hour restaurant spicy tuna rice fresh']
+[ 0.          0.          0.00618087  0.          0.          0.          0.
+  0.          0.00618087  0.          0.          0.00618087  0.          0.
+  0.85623803  0.          0.          0.51591548  0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_784b472b-5f80-45f2-97be-23d6c0717919.png
+Generating image  /images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+[  0.00000000e+00   0.00000000e+00   7.69120044e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.69120046e-05   0.00000000e+00   0.00000000e+00   7.69120043e-05
+   0.00000000e+00   0.00000000e+00   9.57945236e-01   0.00000000e+00
+   0.00000000e+00   2.68494562e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+Generating image  /images/insight/KvR2eBP6sEoPixazsk8Sww.png
+[  0.00000000e+00   0.00000000e+00   7.16503681e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.16503686e-05   0.00000000e+00   0.00000000e+00   7.16503692e-05
+   0.00000000e+00   0.00000000e+00   9.65192773e-01   0.00000000e+00
+   0.00000000e+00   2.25231065e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/KvR2eBP6sEoPixazsk8Sww.png
+Generating image  /images/insight/keC-Z_YMwd569_NnZ4koaw.png
+[  0.00000000e+00   0.00000000e+00   7.52264004e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.52264003e-05   0.00000000e+00   0.00000000e+00   7.52264002e-05
+   0.00000000e+00   0.00000000e+00   9.64873148e-01   0.00000000e+00
+   0.00000000e+00   2.13823926e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/keC-Z_YMwd569_NnZ4koaw.png
+Generating image  /images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+[  0.00000000e+00   0.00000000e+00   1.21325330e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.21325331e-04   0.00000000e+00   0.00000000e+00   1.21325330e-04
+   0.00000000e+00   0.00000000e+00   6.22844295e-01   0.00000000e+00
+   0.00000000e+00   7.82345652e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/rMrAMFWTP9YWhKEQyYhduw.png65.87.19.170 - - [10/Jun/2016 09:49:43] "GET /output?text_review=hey+had+one+of+the+best+happy+hours+I+have+ever+had%2C+with+a+great+selection+of+craft+beers.+My+wife+loved+the+cocktails. HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:49:43] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:49:43] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:49:43] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:49:44] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+
+Generating image  /images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+[  0.00000000e+00   0.00000000e+00   9.96711918e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   9.96711918e-05   0.00000000e+00   0.00000000e+00   9.96711916e-05
+   0.00000000e+00   0.00000000e+00   9.84217585e-01   0.00000000e+00
+   0.00000000e+00   1.41717876e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+Generating image  /images/insight/JmvSd56q7zskq_fxhYIs1w.png
+[  0.00000000e+00   0.00000000e+00   1.17995282e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.17995282e-04   0.00000000e+00   0.00000000e+00   1.17995281e-04
+   0.00000000e+00   0.00000000e+00   9.72179525e-01   0.00000000e+00
+   0.00000000e+00   1.57102312e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/JmvSd56q7zskq_fxhYIs1w.png
+Generating image  /images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+[  0.00000000e+00   0.00000000e+00   2.04485877e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   6.00881197e-02   0.00000000e+00   0.00000000e+00   2.04485876e-04
+   0.00000000e+00   0.00000000e+00   8.86927956e-01   0.00000000e+00
+   0.00000000e+00   2.91308689e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+Generating image  /images/insight/okvhzVSYwfN02cn3reYXHw.png
+[  0.00000000e+00   0.00000000e+00   3.59976988e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.59976989e-05   0.00000000e+00   0.00000000e+00   3.59976989e-05
+   0.00000000e+00   0.00000000e+00   9.95224091e-01   0.00000000e+00
+   0.00000000e+00   7.45652844e-02   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/okvhzVSYwfN02cn3reYXHw.png
+Generating image  /images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+[  0.00000000e+00   0.00000000e+00   2.79549008e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.79549008e-04   0.00000000e+00   0.00000000e+00   2.79549008e-04
+   0.00000000e+00   0.00000000e+00   8.77494140e-01   0.00000000e+00
+   0.00000000e+00   2.50280955e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+Generating image  /images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[  0.00000000e+00   0.00000000e+00   4.38265447e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.56046396e-02   0.00000000e+00   0.00000000e+00   4.38265447e-05
+   0.00000000e+00   0.00000000e+00   9.42137736e-01   0.00000000e+00
+   0.00000000e+00   1.32996609e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[u'beer food selection tap brew brewery try ale love craft', u'cocktail lounge bartender friend martini menu cool make music after', u'food taco salsa margarita chip mexican restaurant ordered menu chicken', u'food pizza wing chicken always beer sauce order hour happy', u'sushi roll food oyster hour restaurant spicy tuna rice fresh']
+[ 0.          0.          0.00618087  0.          0.          0.          0.
+  0.          0.00618087  0.          0.          0.00618087  0.          0.
+  0.85623803  0.          0.          0.51591548  0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_280199cb-adc7-4ff9-b5fd-1c84aeb44c25.png
+Generating image  /images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+[  0.00000000e+00   0.00000000e+00   7.69120044e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.69120046e-05   0.00000000e+00   0.00000000e+00   7.69120043e-05
+   0.00000000e+00   0.00000000e+00   9.57945236e-01   0.00000000e+00
+   0.00000000e+00   2.68494562e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+Generating image  /images/insight/KvR2eBP6sEoPixazsk8Sww.png
+[  0.00000000e+00   0.00000000e+00   7.16503681e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.16503686e-05   0.00000000e+00   0.00000000e+00   7.16503692e-05
+   0.00000000e+00   0.00000000e+00   9.65192773e-01   0.00000000e+00
+   0.00000000e+00   2.25231065e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/KvR2eBP6sEoPixazsk8Sww.png
+Generating image  /images/insight/keC-Z_YMwd569_NnZ4koaw.png
+[  0.00000000e+00   0.00000000e+00   7.52264004e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.52264003e-05   0.00000000e+00   0.00000000e+00   7.52264002e-05
+   0.00000000e+00   0.00000000e+00   9.64873148e-01   0.00000000e+00
+   0.00000000e+00   2.13823926e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/keC-Z_YMwd569_NnZ4koaw.png
+Generating image  /images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+[  0.00000000e+00   0.00000000e+00   1.21325330e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.21325331e-04   0.00000000e+00   0.00000000e+00   1.21325330e-04
+   0.00000000e+00   0.00000000e+00   6.22844295e-01   0.00000000e+00
+   0.00000000e+00   7.82345652e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+Generating image  /images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+[  0.00000000e+00   0.00000000e+00   9.96711918e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   9.96711918e-05   0.00000000e+00   0.00000000e+00   9.96711916e-05
+   0.00000000e+00   0.00000000e+00   9.84217585e-01   0.00000000e+00
+   0.00000000e+00   1.41717876e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+Generating image  /images/insight/JmvSd56q7zskq_fxhYIs1w.png
+[  0.00000000e+00   0.00000000e+00   1.17995282e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.17995282e-04   0.00000000e+00   0.00000000e+00   1.17995281e-04
+   0.00000000e+00   0.00000000e+00   9.72179525e-01   0.00000000e+00
+   0.00000000e+00   1.57102312e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/JmvSd56q7zskq_fxhYIs1w.png
+Generating image  /images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+[  0.00000000e+00   0.00000000e+00   2.04485877e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   6.00881197e-02   0.00000000e+00   0.00000000e+00   2.04485876e-04
+   0.00000000e+00   0.00000000e+00   8.86927956e-01   0.00000000e+00
+   0.00000000e+00   2.91308689e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+Generating image  /images/insight/okvhzVSYwfN02cn3reYXHw.png
+[  0.00000000e+00   0.00000000e+00   3.59976988e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.59976989e-05   0.00000000e+00   0.00000000e+00   3.59976989e-05
+   0.00000000e+00   0.00000000e+00   9.95224091e-01   0.00000000e+00
+   0.00000000e+00   7.45652844e-02   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/okvhzVSYwfN02cn3reYXHw.png
+Generating image  /images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+[  0.00000000e+00   0.00000000e+00   2.79549008e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.79549008e-04   0.00000000e+00   0.00000000e+00   2.79549008e-04
+   0.00000000e+00   0.00000000e+00   8.77494140e-01   0.00000000e+00
+   0.00000000e+00   2.50280955e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+Generating image  /images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[  0.00000000e+00   0.00000000e+00   4.38265447e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.0000065.87.19.170 - - [10/Jun/2016 09:49:47] "GET /output?text_review=hey+had+one+of+the+best+happy+hours+I+have+ever+had%2C+with+a+great+selection+of+craft+beers.+My+wife+loved+the+cocktails. HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:49:47] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:49:47] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:49:47] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:49:47] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:49:47] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+000e+00   0.00000000e+00
+   7.56046396e-02   0.00000000e+00   0.00000000e+00   4.38265447e-05
+   0.00000000e+00   0.00000000e+00   9.42137736e-01   0.00000000e+00
+   0.00000000e+00   1.32996609e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[u'beer food selection tap brew brewery try ale love craft', u'cocktail lounge bartender friend martini menu cool make music after', u'food taco salsa margarita chip mexican restaurant ordered menu chicken', u'food pizza wing chicken always beer sauce order hour happy', u'sushi roll food oyster hour restaurant spicy tuna rice fresh']
+[ 0.          0.          0.00618087  0.          0.          0.          0.
+  0.          0.00618087  0.          0.          0.00618087  0.          0.
+  0.85623803  0.          0.          0.51591548  0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_82b25a2a-0720-4909-b249-9f225fd8f74e.png
+Generating image  /images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+[  0.00000000e+00   0.00000000e+00   7.69120044e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.69120046e-05   0.00000000e+00   0.00000000e+00   7.69120043e-05
+   0.00000000e+00   0.00000000e+00   9.57945236e-01   0.00000000e+00
+   0.00000000e+00   2.68494562e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/srRHrm6V4-KWKtB7TZR9vQ.png
+Generating image  /images/insight/KvR2eBP6sEoPixazsk8Sww.png
+[  0.00000000e+00   0.00000000e+00   7.16503681e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.16503686e-05   0.00000000e+00   0.00000000e+00   7.16503692e-05
+   0.00000000e+00   0.00000000e+00   9.65192773e-01   0.00000000e+00
+   0.00000000e+00   2.25231065e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/KvR2eBP6sEoPixazsk8Sww.png
+Generating image  /images/insight/keC-Z_YMwd569_NnZ4koaw.png
+[  0.00000000e+00   0.00000000e+00   7.52264004e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.52264003e-05   0.00000000e+00   0.00000000e+00   7.52264002e-05
+   0.00000000e+00   0.00000000e+00   9.64873148e-01   0.00000000e+00
+   0.00000000e+00   2.13823926e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/keC-Z_YMwd569_NnZ4koaw.png
+Generating image  /images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+[  0.00000000e+00   0.00000000e+00   1.21325330e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.21325331e-04   0.00000000e+00   0.00000000e+00   1.21325330e-04
+   0.00000000e+00   0.00000000e+00   6.22844295e-01   0.00000000e+00
+   0.00000000e+00   7.82345652e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/rMrAMFWTP9YWhKEQyYhduw.png
+Generating image  /images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+[  0.00000000e+00   0.00000000e+00   9.96711918e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   9.96711918e-05   0.00000000e+00   0.00000000e+00   9.96711916e-05
+   0.00000000e+00   0.00000000e+00   9.84217585e-01   0.00000000e+00
+   0.00000000e+00   1.41717876e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Kttv1HfeoBia7p3fX-UG3w.png
+Generating image  /images/insight/JmvSd56q7zskq_fxhYIs1w.png
+[  0.00000000e+00   0.00000000e+00   1.17995282e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.17995282e-04   0.00000000e+00   0.00000000e+00   1.17995281e-04
+   0.00000000e+00   0.00000000e+00   9.72179525e-01   0.00000000e+00
+   0.00000000e+00   1.57102312e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/JmvSd56q7zskq_fxhYIs1w.png
+Generating image  /images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+[  0.00000000e+00   0.00000000e+00   2.04485877e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.000065.87.19.170 - - [10/Jun/2016 09:51:19] "GET /output?text_review=hey+had+one+of+the+best+happy+hours+I+have+ever+had%2C+with+a+great+selection+of+craft+beers.+My+wife+loved+the+cocktails. HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 09:51:19] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:51:19] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:51:19] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:51:19] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 09:51:19] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 09:51:19] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:09:40] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:09:40] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:09:40] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:09:40] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:09:40] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:10:35] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:10:35] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:10:35] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:10:35] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:14:03] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:14:03] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:14:03] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:14:03] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 10:14:03] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:14:03] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 10:14:03] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:16:57] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:16:58] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:17:11] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:17:11] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+0000e+00   0.00000000e+00
+   6.00881197e-02   0.00000000e+00   0.00000000e+00   2.04485876e-04
+   0.00000000e+00   0.00000000e+00   8.86927956e-01   0.00000000e+00
+   0.00000000e+00   2.91308689e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Aiglik_21rAQDAKDtKmw-Q.png
+Generating image  /images/insight/okvhzVSYwfN02cn3reYXHw.png
+[  0.00000000e+00   0.00000000e+00   3.59976988e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.59976989e-05   0.00000000e+00   0.00000000e+00   3.59976989e-05
+   0.00000000e+00   0.00000000e+00   9.95224091e-01   0.00000000e+00
+   0.00000000e+00   7.45652844e-02   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/okvhzVSYwfN02cn3reYXHw.png
+Generating image  /images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+[  0.00000000e+00   0.00000000e+00   2.79549008e-04   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.79549008e-04   0.00000000e+00   0.00000000e+00   2.79549008e-04
+   0.00000000e+00   0.00000000e+00   8.77494140e-01   0.00000000e+00
+   0.00000000e+00   2.50280955e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/BVCW3y2fN6g6Ayl440uw8A.png
+Generating image  /images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[  0.00000000e+00   0.00000000e+00   4.38265447e-05   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   7.56046396e-02   0.00000000e+00   0.00000000e+00   4.38265447e-05
+   0.00000000e+00   0.00000000e+00   9.42137736e-01   0.00000000e+00
+   0.00000000e+00   1.32996609e-01   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/6xxlx1m1rm2jYvsWcERhSA.png
+[u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'music bartender fun always friend beer love old pretty game', u'madison food fry cheese beer fish curd brat sandwich gordon', u'cocktail lounge bartender friend martini menu cool make music after']
+[ 0.91624109  0.          0.          0.          0.          0.          0.
+  0.00592828  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00592828  0.00592828  0.          0.39983705]
+Saving image to path  /home/carlson/web//images/insight/query_f62f2571-e6f4-4045-9af7-d0132a560846.png
+Generating image  /images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+[  8.99512815e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.58087084e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.58087082e-04   3.58087085e-04   0.00000000e+00   4.22429480e-01]
+Saving image to path  /home/carlson/web//images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+Generating image  /images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+[ 0.81612783  0.          0.          0.          0.          0.          0.
+  0.00085943  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00085943  0.00085943  0.          0.57785991]
+Saving image to path  /home/carlson/web//images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+Generating image  /images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+[  9.81250112e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.42196686e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.42196684e-05   5.17262023e-02   0.00000000e+00   1.81031302e-01]
+Saving image to path  /home/carlson/web//images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+Generating image  /images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+[  8.41272560e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.30159578e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.0000065.87.19.170 - - [10/Jun/2016 10:17:13] "GET /output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker.+++The+bartender+didn%27t+even+comp+our+drinks%21++%0D%0A HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:17:13] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:17:13] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 10:17:13] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:17:13] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:17:13] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 10:17:14] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+000e+00   0.00000000e+00
+   1.02922282e-04   1.02922282e-04   0.00000000e+00   4.83222384e-01]
+Saving image to path  /home/carlson/web//images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+Generating image  /images/insight/ufpRzsHvtb-c9H87azPmRA.png
+[  7.76115559e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.16894646e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.16894644e-05   1.47153634e-03   0.00000000e+00   6.30588953e-01]
+Saving image to path  /home/carlson/web//images/insight/ufpRzsHvtb-c9H87azPmRA.png
+Generating image  /images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+[  9.66167775e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.06846619e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.06846618e-04   1.34429934e-01   0.00000000e+00   1.84719701e-01]
+Saving image to path  /home/carlson/web//images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+Generating image  /images/insight/CDN--GWL8gm4TsFFtccpaA.png
+[  7.72235343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.72535668e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.05933444e-05   6.19694550e-02   0.00000000e+00   6.15679531e-01]
+Saving image to path  /home/carlson/web//images/insight/CDN--GWL8gm4TsFFtccpaA.png
+Generating image  /images/insight/MErwBndMxEwJBujFSMSYxw.png
+[  8.35231810e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.25475548e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.25475549e-04   3.09929330e-01   0.00000000e+00   4.43567494e-01]
+Saving image to path  /home/carlson/web//images/insight/MErwBndMxEwJBujFSMSYxw.png
+Generating image  /images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+[  9.93380415e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.07847201e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.78600610e-02   3.53315223e-05   0.00000000e+00   8.52552491e-02]
+Saving image to path  /home/carlson/web//images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+Generating image  /images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[  7.40051655e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.86237934e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.86237929e-05   5.86237934e-05   0.00000000e+00   6.59782940e-01]
+Saving image to path  /home/carlson/web//images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'music bartender fun always friend beer love old pretty game', u'madison food fry cheese beer fish curd brat sandwich gordon', u'cocktail lounge bartender friend martini menu cool make music after']
+[ 0.91624109  0.          0.          0.          0.          0.          0.
+  0.00592828  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00592828  0.00592828  0.          0.39983705]
+Saving image to path  /home/carlson/web//images/insight/query_6edee5d5-b0a2-4a4d-92f4-8296e71d0799.png
+Generating image  /images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+[  8.99512815e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.58087084e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.58087082e-04   3.58087085e-04   0.00000000e+00   4.22429480e-01]
+Saving image to path  /home/carlson/web//images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+Generating image  /images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+[ 0.81612783  0.          0.          0.          0.          0.          0.
+  0.00085943  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00085943  0.00085943  0.          0.57785991]
+Saving image to path  /home/carlson/web//images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+Generating image  /images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+[  9.81250112e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.42196686e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.42196684e-05   5.17262023e-02   0.00000000e+00   1.81031302e-01]
+Saving image to path  /home/carlson/web//images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+Generating image  /images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+[  8.41272560e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.30159578e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.02922282e-04   1.02922282e-04   0.00000000e+00   4.83222384e-01]
+Saving image to path  /home/carlson/web//images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+Generating image  /images/insight/ufpRzsHvtb-c9H87azPmRA.png
+[  7.76115559e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.16894646e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.16894644e-05   1.47153634e-03   0.00000000e+00   6.30588953e-01]
+Saving image to path  /home/carlson/web//images/insight/ufpRzsHvtb-c9H87azPmRA.png
+Generating image  /images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+[  9.66167775e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.06846619e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.06846618e-04   1.34429934e-01   0.00000000e+00   1.84719701e-01]
+Saving image to path  /home/carlson/web//images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+Generating image  /images/insight/CDN--GWL8gm4TsFFtccpaA.png
+[  7.72235343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.72535668e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.05933444e-05   6.19694550e-02   0.00000000e+00   6.15679531e-01]
+Saving image to path  /home/carlson/web//images/insight/CDN--GWL8gm4TsFFtccpaA.png
+Generating image  /images/insight/MErwBndMxEwJBujFSMSYxw.png
+[  8.35231810e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.25475548e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.25475549e-04   3.09929330e-01   0.00000000e+00   4.43567494e-01]
+Saving image to path  /home/carlson/web//images/insight/MErwBndMxEwJBujFSMSYxw.png
+Generating image  /images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+[  9.93380415e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.07847201e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.78600610e-02   3.53315223e-05   0.00000000e+00   8.52552491e-02]
+Saving image to path  /home/carlson/web//images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+Generating image  /images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[  7.40051655e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.0065.87.19.170 - - [10/Jun/2016 10:18:47] "GET /output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker.+++The+bartender+didn%27t+even+comp+our+drinks%21++%0D%0A HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:18:47] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:18:47] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 10:18:47] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:18:47] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:18:47] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [10/Jun/2016 10:18:47] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+000000e+00   0.00000000e+00   0.00000000e+00   5.86237934e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.86237929e-05   5.86237934e-05   0.00000000e+00   6.59782940e-01]
+Saving image to path  /home/carlson/web//images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[u'music bartender fun always friend beer love old pretty game', u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'show see stage venue seat ticket band concert music act', u'sandwich food cheese pittsburgh menu chicken fry fried try bread']
+[ 0.01232784  0.01232784  0.          0.          0.          0.          0.
+  0.99855519  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.01232784  0.01232784]
+Saving image to path  /home/carlson/web//images/insight/query_ba05c696-3b08-447c-a5bf-e166601d76be.png
+Generating image  /images/insight/y5F3GzoHINR3hCdyHfN4Kw.png
+[ 0.00825911  0.00825911  0.          0.          0.          0.          0.
+  0.99935177  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.00825911  0.00825911]
+Saving image to path  /home/carlson/web//images/insight/y5F3GzoHINR3hCdyHfN4Kw.png
+Generating image  /images/insight/qY9gEd7z2VaM7fn94ivAHw.png
+[ 0.00708881  0.00708881  0.          0.          0.          0.          0.
+  0.9995225   0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.00708881  0.00708881]
+Saving image to path  /home/carlson/web//images/insight/qY9gEd7z2VaM7fn94ivAHw.png
+Generating image  /images/insight/DTbZiYWiEdYjrDUibUMe4w.png
+[ 0.00452401  0.00452401  0.          0.          0.          0.          0.
+  0.99980555  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.00452401  0.00452401]
+Saving image to path  /home/carlson/web//images/insight/DTbZiYWiEdYjrDUibUMe4w.png
+Generating image  /images/insight/9wN4QpzsaMej_mI_5FIKlA.png
+[ 0.00355829  0.00355829  0.          0.          0.          0.          0.
+  0.99987971  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.00355829  0.00355829]
+Saving image to path  /home/carlson/web//images/insight/9wN4QpzsaMej_mI_5FIKlA.png
+Generating image  /images/insight/PsiGV2UhlRUCrMjYcsLl7g.png
+[ 0.00332191  0.00332191  0.          0.          0.          0.          0.
+  0.99989516  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.00332191  0.00332191]
+Saving image to path  /home/carlson/web//images/insight/PsiGV2UhlRUCrMjYcsLl7g.png
+Generating image  /images/insight/s5HAJmxNrWjQv_MNLHAMFQ.png
+[ 0.00311498  0.00311498  0.          0.          0.          0.          0.
+  0.99990782  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.00311498  0.00311498]
+Saving image to path  /home/carlson/web//images/insight/s5HAJmxNrWjQv_MNLHAMFQ.png
+Generating image  /images/insight/mXr-1rBHjaGGnqX4MgLctA.png
+[ 0.00311498  0.00311498  0.          0.          0.          0.          0.
+  0.99990782  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.00311498  0.00311498]
+Saving image to path  /home/carlson/web//images/insight/mXr-1rBHjaGGnqX4MgLctA.png
+Generating image  /images/insight/Zj-QnHaUnxegQ8mDpP2W6g.png
+[ 0.0026245   0.0026245   0.          0.          0.          0.          0.
+  0.99993456  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.0026245   0.0026245 ]
+Saving image to path  /home/carlson/web//images/insight/Zj-QnHaUnxegQ8mDpP2W6g.png
+Generating image  /images/insight/qpa0TX7hQFf059T0kFC7kQ.png
+[ 0.00237517  0.00237517  0.          0.          0.          0.    65.87.19.170 - - [10/Jun/2016 10:19:23] "GET /output?text_review=Crazy+8+and+his+boys+whooped+us+in+pool.++What++a+great+dive+bar.+ HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:19:23] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:19:23] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:19:23] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+      0.
+  0.9999464   0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.00237517  0.00237517]
+Saving image to path  /home/carlson/web//images/insight/qpa0TX7hQFf059T0kFC7kQ.png
+Generating image  /images/insight/Iis83i7vOn_1QVKbKUifHw.png
+[ 0.00226746  0.00226746  0.          0.          0.          0.          0.
+  0.99995116  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.00226746  0.00226746]
+Saving image to path  /home/carlson/web//images/insight/Iis83i7vOn_1QVKbKUifHw.png
+[u'music bartender fun always friend beer love old pretty game', u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'show see stage venue seat ticket band concert music act', u'cocktail lounge bartender friend martini menu cool make music after']
+[ 0.00708881  0.00708881  0.          0.          0.          0.          0.
+  0.9995225   0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.00708881  0.          0.00708881]
+Saving image to path  /home/carlson/web//images/insight/query_3edb97a7-6959-4f9d-a99a-52a0832b57f6.png
+Generating image  /images/insight/qY9gEd7z2VaM7fn94ivAHw.png
+[ 0.00708881  0.00708881  0.          0.          0.          0.          0.
+  0.9995225   0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.00708881  0.          0.00708881]
+Saving image to path  /home/carlson/web//images/insight/qY9gEd7z2VaM7fn94ivAHw.png
+Generating image  /images/insight/y5F3GzoHINR3hCdyHfN4Kw.png
+[ 0.00825911  0.00825911  0.          0.          0.          0.          0.
+  0.99935177  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.00825911  0.          0.00825911]
+Saving image to path  /home/carlson/web//images/insight/y5F3GzoHINR3hCdyHfN4Kw.png
+Generating image  /images/insight/DTbZiYWiEdYjrDUibUMe4w.png
+[ 0.00452401  0.00452401  0.          0.          0.          0.          0.
+  0.99980555  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.00452401  0.          0.00452401]
+Saving image to path  /home/carlson/web//images/insight/DTbZiYWiEdYjrDUibUMe4w.png
+Generating image  /images/insight/9wN4QpzsaMej_mI_5FIKlA.png
+[ 0.00355829  0.00355829  0.          0.          0.          0.          0.
+  0.99987971  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.00355829  0.          0.00355829]
+Saving image to path  /home/carlson/web//images/insight/9wN4QpzsaMej_mI_5FIKlA.png
+Generating image  /images/insight/PsiGV2UhlRUCrMjYcsLl7g.png
+[ 0.00332191  0.00332191  0.          0.          0.          0.          0.
+  0.99989516  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.00332191  0.          0.00332191]
+Saving image to path  /home/carlson/web//images/insight/PsiGV2UhlRUCrMjYcsLl7g.png
+Generating image  /images/insight/s5HAJmxNrWjQv_MNLHAMFQ.png
+[ 0.00311498  0.00311498  0.          0.          0.          0.          0.
+  0.99990782  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.00311498  0.          0.00311498]
+Saving image to path  /home/carlson/web//images/insight/s5HAJmxNrWjQv_MNLHAMFQ.png
+Generating image  /images/insight/mXr-1rBHjaGGnqX4MgLctA.png
+[ 0.00311498  0.00311498  0.          0.          0.          0.          0.
+  0.99990782  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.00311498  0.          0.00311498]
+Saving image to path  /home/carlson/web//images/insight/mXr-1rBHjaGGnqX4MgLctA.png
+Generating image  /images/insight/Zj-QnHaUnxegQ8mDpP2W6g.png
+[ 0.0026245   0.0026245   0.          0.          0.          0.          0.
+  0.99993456  0.          0.          0.          0.          0.          0.
+  0.          0.     65.87.19.170 - - [10/Jun/2016 10:19:47] "GET /output?text_review=Crazy+8+and+his+boys+whooped+us+in+pool.++What++a+great+dive+bar.+++The+jukebox+only+plays+poison. HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:19:47] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:19:47] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:19:47] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:19:48] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+     0.          0.0026245   0.          0.0026245 ]
+Saving image to path  /home/carlson/web//images/insight/Zj-QnHaUnxegQ8mDpP2W6g.png
+Generating image  /images/insight/qpa0TX7hQFf059T0kFC7kQ.png
+[ 0.00237517  0.00237517  0.          0.          0.          0.          0.
+  0.9999464   0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.00237517  0.          0.00237517]
+Saving image to path  /home/carlson/web//images/insight/qpa0TX7hQFf059T0kFC7kQ.png
+Generating image  /images/insight/Iis83i7vOn_1QVKbKUifHw.png
+[ 0.00226746  0.00226746  0.          0.          0.          0.          0.
+  0.99995116  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.00226746  0.          0.00226746]
+Saving image to path  /home/carlson/web//images/insight/Iis83i7vOn_1QVKbKUifHw.png
+[u'music bartender fun always friend beer love old pretty game', u'sandwich food cheese pittsburgh menu chicken fry fried try bread', u'food restaurant steak dinner menu ordered meal dish dessert table', u'food pizza wing chicken always beer sauce order hour happy', u'burger food fry cheese menu breakfast ordered potato bacon sweet']
+[ 0.          0.          0.          0.00758101  0.          0.          0.
+  0.84336438  0.00758101  0.          0.          0.          0.
+  0.00758101  0.          0.          0.          0.          0.53637863
+  0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_fc2cd2a0-dad5-446a-8747-fdad4305114d.png
+Generating image  /images/insight/N-KDWD5WryO5K_ORj6brGw.png
+[ 0.          0.          0.          0.00140723  0.          0.          0.
+  0.82389872  0.00140723  0.          0.          0.          0.
+  0.00140723  0.          0.          0.          0.          0.5450847   0.        ]
+Saving image to path  /home/carlson/web//images/insight/N-KDWD5WryO5K_ORj6brGw.png
+Generating image  /images/insight/FD6OocZdFUfE2J5H0WN4fA.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.03099341e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   8.38956947e-01
+   1.04995074e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   7.02299677e-02   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   4.94394439e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/FD6OocZdFUfE2J5H0WN4fA.png
+Generating image  /images/insight/36IRBzrYrVnUI-aC8qytCQ.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   6.66399594e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   9.44869949e-01
+   3.97933245e-02   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   6.66399593e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.22305652e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/36IRBzrYrVnUI-aC8qytCQ.png
+Generating image  /images/insight/k8kHdYFsUGFAFK5Pus9soQ.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.96734475e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   7.31048853e-01
+   2.96734476e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   3.90864398e-02   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   6.47853903e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/k8kHdYFsUGFAFK5Pus9soQ.png
+Generating image  /images/insight/Px8TRCJn2P_Lby6qcLcecQ.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.47257762e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   7.38102519e-01
+   4.00971095e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   4.00971095e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   6.27746396e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Px8TRCJn2P_Lby6qcLcecQ.png
+Generating image  /images/insight/G5I2c2hs33Vy8DUAAkSF9g.png
+[ 0.          0.          0.          0.08990244  0.          0.          0.
+  0.83905871  0.08753682  0.          0.          0.          0.
+  0.17532436 65.87.19.170 - - [10/Jun/2016 10:21:47] "GET /output?text_review=I+want+a+dive+bar+where+the+jukebox+only+plays+Poison+and+they+serve+philly+cheese+steaks.+ HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:21:47] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:21:47] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:21:47] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:21:47] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:26:41] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:26:43] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:26:43] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:26:43] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:26:44] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:26:44] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 10:26:44] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 10:26:44] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+[I 11:17:14.284 NotebookApp] 302 GET / (65.87.19.170) 0.67ms
+[I 11:21:05.440 NotebookApp] Kernel started: c85db177-04f8-446b-ab21-db5ea50225c0
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:23:05.960 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:23:36.304 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 11:41:37.219 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 11:43:36.363 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 11:43:58.207 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 11:44:43.995 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 11:45:36.366 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 11:47:36.618 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 11:48:01.951 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 11:48:27.844 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 11:49:36.379 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+65.87.19.170 - - [10/Jun/2016 13:27:02] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 13:27:02] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 13:27:02] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 13:27:02] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 13:40:54] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 13:40:54] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 13:40:54] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 13:40:54] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 13:40:54] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 13:40:54] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 13:40:56] "GET /favicon.ico HTTP/1.1" 404 -
+ 0.          0.          0.          0.          0.44366243
+  0.        ]
+Saving image to path  /home/carlson/web//images/insight/G5I2c2hs33Vy8DUAAkSF9g.png
+Generating image  /images/insight/MonRZXpZ1vbBtw-q9bfGug.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   4.43884755e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   7.56710167e-01
+   6.19791263e-02   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   4.43884754e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   5.69662331e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/MonRZXpZ1vbBtw-q9bfGug.png
+Generating image  /images/insight/EyXFPk2jyuLIHidI7jNsLw.png
+[ 0.          0.          0.          0.00099145  0.          0.          0.
+  0.91325158  0.00099145  0.          0.          0.          0.
+  0.20987071  0.          0.          0.          0.          0.32399953
+  0.        ]
+Saving image to path  /home/carlson/web//images/insight/EyXFPk2jyuLIHidI7jNsLw.png
+Generating image  /images/insight/tQpYnf3P3Q_OQLYYJvlV-A.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   7.72071680e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   9.63319776e-01
+   1.20424127e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   7.72071682e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   2.39818551e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/tQpYnf3P3Q_OQLYYJvlV-A.png
+Generating image  /images/insight/hkvmfv2v6y5rmhWBqnSkSA.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.57514100e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   8.73033665e-01
+   2.57514101e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   2.57514101e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.67384753e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/hkvmfv2v6y5rmhWBqnSkSA.png
+[u'music bartender fun always friend beer love old pretty game', u'sandwich food cheese pittsburgh menu chicken fry fried try bread', u'food restaurant steak dinner menu ordered meal dish dessert table', u'food pizza wing chicken always beer sauce order hour happy', u'burger food fry cheese menu breakfast ordered potato bacon sweet']
+[ 0.          0.          0.          0.00758101  0.          0.          0.
+  0.84336438  0.00758101  0.          0.          0.          0.
+  0.00758101  0.          0.          0.          0.          0.53637863
+  0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_c5c79623-e319-4fd2-a5a3-264f4e5b0ace.png
+Generating image  /images/insight/N-KDWD5WryO5K_ORj6brGw.png
+[ 0.          0.          0.          0.00140723  0.          0.          0.
+  0.82389872  0.00140723  0.          0.          0.          0.
+  0.00140723  0.          0.          0.          0.          0.5450847   0.        ]
+Saving image to path  /home/carlson/web//images/insight/N-KDWD5WryO5K_ORj6brGw.png
+Generating image  /images/insight/FD6OocZdFUfE2J5H0WN4fA.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.03099341e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   8.38956947e-01
+   1.04995074e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   7.02299677e-02   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   4.94394439e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/FD6OocZdFUfE2J5H0WN4fA.png
+Generating image  /images/insight/36IRBzrYrVnUI-aC8qytCQ.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   6.66399594e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   9.44869949e-01
+   3.97933245e-02   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   6.66399593e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.22305652e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/36IRBzrYrVnUI-aC8qytCQ.png
+Generating image  /images/insight/k8kHdYFsUGFAFK5Pus9soQ.png
+[  0.00000000e+65.87.19.170 - - [10/Jun/2016 13:41:13] "GET /output?text_review=I+want+a+dive+bar+where+the+jukebox+only+plays+Poison+and+they+serve+philly+cheese+steaks.+ HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 13:41:13] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 13:41:13] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 13:41:13] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:41:24] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 16:41:24] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:41:24] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:41:24] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:41:24] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+00   0.00000000e+00   0.00000000e+00   2.96734475e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   7.31048853e-01
+   2.96734476e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   3.90864398e-02   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   6.47853903e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/k8kHdYFsUGFAFK5Pus9soQ.png
+Generating image  /images/insight/Px8TRCJn2P_Lby6qcLcecQ.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.47257762e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   7.38102519e-01
+   4.00971095e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   4.00971095e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   6.27746396e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Px8TRCJn2P_Lby6qcLcecQ.png
+Generating image  /images/insight/G5I2c2hs33Vy8DUAAkSF9g.png
+[ 0.          0.          0.          0.08990244  0.          0.          0.
+  0.83905871  0.08753682  0.          0.          0.          0.
+  0.17532436  0.          0.          0.          0.          0.44366243
+  0.        ]
+Saving image to path  /home/carlson/web//images/insight/G5I2c2hs33Vy8DUAAkSF9g.png
+Generating image  /images/insight/MonRZXpZ1vbBtw-q9bfGug.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   4.43884755e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   7.56710167e-01
+   6.19791263e-02   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   4.43884754e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   5.69662331e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/MonRZXpZ1vbBtw-q9bfGug.png
+Generating image  /images/insight/EyXFPk2jyuLIHidI7jNsLw.png
+[ 0.          0.          0.          0.00099145  0.          0.          0.
+  0.91325158  0.00099145  0.          0.          0.          0.
+  0.20987071  0.          0.          0.          0.          0.32399953
+  0.        ]
+Saving image to path  /home/carlson/web//images/insight/EyXFPk2jyuLIHidI7jNsLw.png
+Generating image  /images/insight/tQpYnf3P3Q_OQLYYJvlV-A.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   7.72071680e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   9.63319776e-01
+   1.20424127e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   7.72071682e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   2.39818551e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/tQpYnf3P3Q_OQLYYJvlV-A.png
+Generating image  /images/insight/hkvmfv2v6y5rmhWBqnSkSA.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.57514100e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   8.73033665e-01
+   2.57514101e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   2.57514101e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.67384753e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/hkvmfv2v6y5rmhWBqnSkSA.png
+[u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'music bartender fun always friend beer love old pretty game', u'madison food fry cheese beer fish curd brat sandwich gordon', u'cocktail lounge bartender friend martini menu cool make music after']
+[ 0.91624109  0.          0.          0.          0.          0.          0.
+  0.00592828  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00592828  0.00592828  0.          0.39983705]
+Saving image to path  /home/carlson/web//images/insight/query_0d971235-4187-4fe2-af24-f39cdc3b9720.png
+Generating image  /images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+[  8.99512815e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.58087084e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.58087082e-04   3.58087085e-04   0.00000000e+00   4.22429480e-01]
+Saving image to path  /home/carlson/web//images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+Generating image  /images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+[ 0.81612783  0.          0.          0.          0.          0.          0.
+  0.00085943  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00085943  0.00085943  0.          0.57785991]
+Saving image to path  /home/carlson/web//images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+Generating image  /images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+[  9.81250112e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.42196686e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.42196684e-05   5.17262023e-02   0.00000000e+00   1.81031302e-01]
+Saving image to path  /home/carlson/web//images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+Generating image  /images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+[  8.41272560e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.30159578e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.02922282e-04   1.02922282e-04   0.00000000e+00   4.83222384e-01]
+Saving image to path  /home/carlson/web//images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+Generating image  /images/insight/ufpRzsHvtb-c9H87azPmRA.png
+[  7.76115559e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.16894646e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.16894644e-05   1.47153634e-03   0.00000000e+00   6.30588953e-01]
+Saving image to path  /home/carlson/web//images/insight/ufpRzsHvtb-c9H87azPmRA.png
+Generating image  /images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+[  9.66167775e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.06846619e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.06846618e-04   1.34429934e-01   0.00000000e+00   1.84719701e-01]
+Saving image to path  /home/carlson/web//images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+Generating image  /images/insight/CDN--GWL8gm4TsFFtccpaA.png
+[  7.72235343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.72535668e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.05933444e-05   6.19694550e-02   0.00000000e+00   6.15679531e-01]
+Saving image to path  /home/carlson/web//images/insight/CDN--GWL8gm4TsFFtccpaA.png
+Generating image  /images/insight/MErwBndMxEwJBujFSMSYxw.png
+[  8.35231810e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.25475548e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.25475549e-04   3.09929330e-01   0.00000000e+00   4.43567494e-01]
+Saving image to path  /home/carlson/web//images/insight/MErwBndMxEwJBujFSMSYxw.png
+Generating image  /images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+[  9.93380415e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.07847201e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.78600610e-02   3.53315223e-05   0.00000000e+00   8.52552491e-02]
+Saving image to path  /home/carlson/web//images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+Generating image  /images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[  7.40051655e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.65.87.19.170 - - [10/Jun/2016 16:41:32] "GET /output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker.+++The+bartender+didn%27t+even+comp+our+drinks%21++%0D%0A HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 16:41:32] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:41:32] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:41:32] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+00000000e+00   0.00000000e+00   0.00000000e+00   5.86237934e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.86237929e-05   5.86237934e-05   0.00000000e+00   6.59782940e-01]
+Saving image to path  /home/carlson/web//images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[u'music bartender fun always friend beer love old pretty game', u'sandwich food cheese pittsburgh menu chicken fry fried try bread', u'food restaurant steak dinner menu ordered meal dish dessert table', u'food pizza wing chicken always beer sauce order hour happy', u'burger food fry cheese menu breakfast ordered potato bacon sweet']
+[ 0.          0.          0.          0.00758101  0.          0.          0.
+  0.84336438  0.00758101  0.          0.          0.          0.
+  0.00758101  0.          0.          0.          0.          0.53637863
+  0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_9c8ab8d5-38c0-4472-95b9-2590ac831966.png
+Generating image  /images/insight/N-KDWD5WryO5K_ORj6brGw.png
+[ 0.          0.          0.          0.00140723  0.          0.          0.
+  0.82389872  0.00140723  0.          0.          0.          0.
+  0.00140723  0.          0.          0.          0.          0.5450847   0.        ]
+Saving image to path  /home/carlson/web//images/insight/N-KDWD5WryO5K_ORj6brGw.png
+Generating image  /images/insight/FD6OocZdFUfE2J5H0WN4fA.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.03099341e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   8.38956947e-01
+   1.04995074e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   7.02299677e-02   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   4.94394439e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/FD6OocZdFUfE2J5H0WN4fA.png
+Generating image  /images/insight/36IRBzrYrVnUI-aC8qytCQ.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   6.66399594e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   9.44869949e-01
+   3.97933245e-02   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   6.66399593e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.22305652e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/36IRBzrYrVnUI-aC8qytCQ.png
+Generating image  /images/insight/k8kHdYFsUGFAFK5Pus9soQ.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.96734475e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   7.31048853e-01
+   2.96734476e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   3.90864398e-02   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   6.47853903e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/k8kHdYFsUGFAFK5Pus9soQ.png
+Generating image  /images/insight/Px8TRCJn2P_Lby6qcLcecQ.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.47257762e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   7.38102519e-01
+   4.00971095e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   4.00971095e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   6.27746396e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/Px8TRCJn2P_Lby6qcLcecQ.png
+Generating image  /images/insight/G5I2c2hs33Vy8DUAAkSF9g.png
+[ 0.          0.          0.          0.08990244  0.          0.          0.
+  0.83905871  0.08753682  0.          0.          0.          0.
+  0.17532436  0.          0.          0.          0.          0.44366243
+  0.        ]
+Saving image to path  /home/carlson/web//images/insight/G5I2c2hs33Vy8DUAAkSF9g.png
+Generating image  /images/insight/MonRZXpZ1vbBtw-q9bfGug.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   4.43884755e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   7.56710167e-01
+   6.19791263e-02   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   4.43884754e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e65.87.19.170 - - [10/Jun/2016 16:42:41] "GET /output?text_review=I+want+a+dive+bar+where+the+jukebox+only+plays+Poison+and+they+serve+philly+cheese+steaks.+ HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 16:42:41] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:42:41] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:42:41] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
++00   5.69662331e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/MonRZXpZ1vbBtw-q9bfGug.png
+Generating image  /images/insight/EyXFPk2jyuLIHidI7jNsLw.png
+[ 0.          0.          0.          0.00099145  0.          0.          0.
+  0.91325158  0.00099145  0.          0.          0.          0.
+  0.20987071  0.          0.          0.          0.          0.32399953
+  0.        ]
+Saving image to path  /home/carlson/web//images/insight/EyXFPk2jyuLIHidI7jNsLw.png
+Generating image  /images/insight/tQpYnf3P3Q_OQLYYJvlV-A.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   7.72071680e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   9.63319776e-01
+   1.20424127e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   7.72071682e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   2.39818551e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/tQpYnf3P3Q_OQLYYJvlV-A.png
+Generating image  /images/insight/hkvmfv2v6y5rmhWBqnSkSA.png
+[  0.00000000e+00   0.00000000e+00   0.00000000e+00   2.57514100e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   8.73033665e-01
+   2.57514101e-04   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   2.57514101e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   3.67384753e-01   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/hkvmfv2v6y5rmhWBqnSkSA.png
+[u'beer food selection tap brew brewery try ale love craft', u'wine food coffee love cheese little glass patio salad bruschetta', u'show see stage venue seat ticket band concert music act', u'music bartender fun always friend beer love old pretty game', u'vega strip hotel casino got pool day room fun pretty']
+[ 0.01583197  0.01583197  0.          0.          0.          0.          0.
+  0.01583197  0.          0.          0.          0.          0.3727066   0.
+  0.92551503  0.          0.          0.          0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_33e39279-827f-4a82-a70c-9f944669980c.png
+Generating image  /images/insight/vC7pDSKXsRxgov6W6RQpow.png
+[  2.71857251e-04   2.71857250e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.20126979e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.30778619e-01   0.00000000e+00   9.28732035e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/vC7pDSKXsRxgov6W6RQpow.png
+Generating image  /images/insight/QemPjyORlLB98ON0uCst5w.png
+[  6.45906975e-05   1.12863323e-02   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   6.45906977e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.56467819e-01   0.00000000e+00   9.87454181e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/QemPjyORlLB98ON0uCst5w.png
+Generating image  /images/insight/zfZd8L6UQqdyuof8zLpxuQ.png
+[ 0.0012192   0.0012192   0.          0.          0.          0.          0.
+  0.0012192   0.          0.          0.          0.          0.57230625
+  0.          0.82002366  0.          0.          0.          0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/zfZd8L6UQqdyuof8zLpxuQ.png
+Generating image  /images/insight/JmvSd56q7zskq_fxhYIs1w.png
+[  1.17995282e-04   1.17995281e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.17995282e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.73740031e-01   0.00000000e+00   9.72179525e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/JmvSd56q7zskq_fxhYIs1w.png
+Generating image  /images/insight/CR6mxkImZgkG4vXb_v2LaQ.png
+[  1.61154814e-04   1.61154814e-04   0.00000000e+00   0.00000000e+0065.87.19.170 - - [10/Jun/2016 16:43:41] "GET /output?text_review=They+had+great+beer+and+wine%21+They+even+allow+dogs.+ HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 16:43:41] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:43:41] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:43:41] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   6.71853106e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.30187283e-01   0.00000000e+00   9.89210273e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/CR6mxkImZgkG4vXb_v2LaQ.png
+Generating image  /images/insight/NnC14ctqyIKsknJqNcng-A.png
+[  2.67019710e-04   2.67019710e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.95231355e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.23110449e-01   0.00000000e+00   8.99131177e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/NnC14ctqyIKsknJqNcng-A.png
+Generating image  /images/insight/mp_Ws9ZJKcgSqKwr-2-Rgw.png
+[  4.63830924e-05   4.63830921e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   6.39028409e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.18531847e-01   0.00000000e+00   9.71280217e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/mp_Ws9ZJKcgSqKwr-2-Rgw.png
+Generating image  /images/insight/TYDIp4ANAtMMNca7HdhEhA.png
+[  4.60472741e-05   4.60472742e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.83993928e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.04895067e-01   0.00000000e+00   9.28918165e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/TYDIp4ANAtMMNca7HdhEhA.png
+Generating image  /images/insight/5eshKPkiEpZfceq8hbQmWQ.png
+[  8.38815544e-05   8.38815538e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   8.38815535e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   6.05902871e-02   0.00000000e+00   9.98162657e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/5eshKPkiEpZfceq8hbQmWQ.png
+Generating image  /images/insight/ebJngmBku-3K4LGkub0j0w.png
+[  3.02490687e-04   3.02490685e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.90832146e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.07318631e-01   0.00000000e+00   9.75687290e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/ebJngmBku-3K4LGkub0j0w.png
+[u'beer food selection tap brew brewery try ale love craft', u'wine food coffee love cheese little glass patio salad bruschetta', u'show see stage venue seat ticket band concert music act', u'music bartender fun always friend beer love old pretty game', u'vega strip hotel casino got pool day room fun pretty']
+[ 0.01381829  0.01381829  0.          0.          0.          0.          0.
+  0.01381829  0.          0.          0.          0.          0.66432018
+  0.          0.74514541  0.          0.          0.          0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/query_922f54d9-9b82-4c4a-bfc2-054ee60382c8.png
+Generating image  /images/insight/zfZd8L6UQqdyuof8zLpxuQ.png
+[ 0.0012192   0.0012192   0.          0.          0.          0.          0.
+  0.0012192   0.          0.          0.          0.          0.57230625
+  0.          0.82002366  0.          0.          0.          0.          0.        ]
+Saving image to path  /home/carlson/web//images/insight/zfZd8L6UQqdyuof8zLpxuQ.png
+Generating image  /images/insight/nCp7s62QjtcmbtnRt_6c4w.png
+[  4.19720251e-04   4.19720251e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.76964441e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.72682376e-01   0.00000000e+00   7.56946240e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/nCp7s62QjtcmbtnRt_6c4w.png
+Generating image  /images/insight/4jMoBw4215N9GNXWRqO2ZA.png
+[  4.80954005e-02   5.14806382e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.11061409e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   8.88204070e-01   0.00000000e+00   4.39625727e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/4jMoBw4215N9GNXWRqO2ZA.png
+Generating image  /images/insight/vC7pDSKXsRxgov6W6RQpow.png
+[  2.71857251e-04   2.71857250e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.20126979e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.30778619e-01   0.00000000e+00   9.28732035e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/vC7pDSKXsRxgov6W6RQpow.png
+Generating image  /images/insight/g0cxlpWfggd7_t9XwkNnTA.png
+[  9.41011389e-05   9.41011389e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   4.51642764e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   6.36861116e-01   0.00000000e+00   6.24799283e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/g0cxlpWfggd7_t9XwkNnTA.png
+Generating image  /images/insight/NnC14ctqyIKsknJqNcng-A.png
+[  2.67019710e-04   2.67019710e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.95231355e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.23110449e-01   0.00000000e+00   8.99131177e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/NnC14ctqyIKsknJqNcng-A.png
+Generating image  /images/insight/wNsmt1hF1uv3YvbwXZMAoQ.png
+[  4.07305590e-06   4.07305591e-06   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   4.06075618e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.24496293e-01   0.00000000e+00   8.35275999e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/wNsmt1hF1uv3YvbwXZMAoQ.png
+Generating image  /images/insight/JmvSd56q7zskq_fxhYIs1w.png
+[  1.17995282e-04   1.17995281e-04   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.17995282e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.73740031e-01   0.00000000e+00   9.72179525e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/JmvSd56q7zskq_fxhYIs1w.png
+Generating image  /images/insight/QemPjyORlLB98ON0uCst5w.png
+[  6.45906975e-05   1.12863323e-02   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   6.45906977e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.56467819e-01   0.00000000e+00   9.87454181e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /home/carlson/web//images/insight/QemPjyORlLB98ON0uCst5w.png
+Generating image  /images/insight/TYDIp4ANAtMMNca7HdhEhA.png
+[  4.60472741e-05   4.60472742e-05   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   1.83993928e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.04895067e-01   0.00000000e+00   9.28918165e-01   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00]
+Saving image to path  /h65.87.19.170 - - [10/Jun/2016 16:46:03] "GET /output?text_review=They+had+great+beer+and+wine%2C+wine+%21+They+even+allow+dogs.+ HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 16:46:04] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:46:04] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 16:46:04] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+[W 17:04:40.048 NotebookApp] WebSocket ping timeout after 119909 ms.
+[W 17:05:06.380 NotebookApp] WebSocket ping timeout after 119990 ms.
+65.87.19.170 - - [10/Jun/2016 18:05:11] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 18:05:11] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 18:05:12] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 18:05:12] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 18:05:12] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 18:05:12] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 18:05:14] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 18:05:14] "GET /favicon.ico HTTP/1.1" 404 -
+ome/carlson/web//images/insight/TYDIp4ANAtMMNca7HdhEhA.png
+[u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'music bartender fun always friend beer love old pretty game', u'madison food fry cheese beer fish curd brat sandwich gordon', u'cocktail lounge bartender friend martini menu cool make music after']
+[ 0.91624109  0.          0.          0.          0.          0.          0.
+  0.00592828  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00592828  0.00592828  0.          0.39983705]
+Saving image to path  /home/carlson/web//images/insight/query_5f328d35-1ee4-4bfc-b1c3-3da99166c686.png
+Generating image  /images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+[  8.99512815e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.58087084e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.58087082e-04   3.58087085e-04   0.00000000e+00   4.22429480e-01]
+Saving image to path  /home/carlson/web//images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+Generating image  /images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+[ 0.81612783  0.          0.          0.          0.          0.          0.
+  0.00085943  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00085943  0.00085943  0.          0.57785991]
+Saving image to path  /home/carlson/web//images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+Generating image  /images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+[  9.81250112e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.42196686e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.42196684e-05   5.17262023e-02   0.00000000e+00   1.81031302e-01]
+Saving image to path  /home/carlson/web//images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+Generating image  /images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+[  8.41272560e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.30159578e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.02922282e-04   1.02922282e-04   0.00000000e+00   4.83222384e-01]
+Saving image to path  /home/carlson/web//images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+Generating image  /images/insight/ufpRzsHvtb-c9H87azPmRA.png
+[  7.76115559e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.16894646e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.16894644e-05   1.47153634e-03   0.00000000e+00   6.30588953e-01]
+Saving image to path  /home/carlson/web//images/insight/ufpRzsHvtb-c9H87azPmRA.png
+Generating image  /images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+[  9.66167775e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.06846619e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.06846618e-04   1.34429934e-01   0.00000000e+00   1.84719701e-01]
+Saving image to path  /home/carlson/web//images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+Generating image  /images/insight/CDN--GWL8gm4TsFFtccpaA.png
+[  7.72235343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.72535668e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.05933444e-05   6.19694550e-02   0.00000000e+00   6.15679531e-01]
+Saving image to path  /home/carlson/web//images/insight/CDN--GWL8gm4TsFFtccpaA.png
+Generating image  /images/insight/MErwBndMxEwJBujFSMSYxw.png
+[  8.35231810e-01  65.87.19.170 - - [10/Jun/2016 18:05:23] "GET /output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker.+++The+bartender+didn%27t+even+comp+our+drinks%21++%0D%0A HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 18:05:23] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 18:05:23] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 18:05:23] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+ 0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.25475548e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.25475549e-04   3.09929330e-01   0.00000000e+00   4.43567494e-01]
+Saving image to path  /home/carlson/web//images/insight/MErwBndMxEwJBujFSMSYxw.png
+Generating image  /images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+[  9.93380415e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.07847201e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.78600610e-02   3.53315223e-05   0.00000000e+00   8.52552491e-02]
+Saving image to path  /home/carlson/web//images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+Generating image  /images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[  7.40051655e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.86237934e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.86237929e-05   5.86237934e-05   0.00000000e+00   6.59782940e-01]
+Saving image to path  /home/carlson/web//images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[u'vega strip hotel casino got pool day room fun pretty', u'club dance music girl floor line got table guy vega', u'music bartender fun always friend beer love old pretty game', u'madison food fry cheese beer fish curd brat sandwich gordon', u'cocktail lounge bartender friend martini menu cool make music after']
+[ 0.91624109  0.          0.          0.          0.          0.          0.
+  0.00592828  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00592828  0.00592828  0.          0.39983705]
+Saving image to path  /home/carlson/web//images/insight/query_36e1c108-9612-4c99-b289-1b599828f6d4.png
+Generating image  /images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+[  8.99512815e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.58087084e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   3.58087082e-04   3.58087085e-04   0.00000000e+00   4.22429480e-01]
+Saving image to path  /home/carlson/web//images/insight/QLXXARyV0B5iSR9sq2i_2g.png
+Generating image  /images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+[ 0.81612783  0.          0.          0.          0.          0.          0.
+  0.00085943  0.          0.          0.          0.          0.          0.
+  0.          0.          0.00085943  0.00085943  0.          0.57785991]
+Saving image to path  /home/carlson/web//images/insight/H04ZY57IUiKqHXGS0vy0rg.png
+Generating image  /images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+[  9.81250112e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.42196686e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.42196684e-05   5.17262023e-02   0.00000000e+00   1.81031302e-01]
+Saving image to path  /home/carlson/web//images/insight/7jP94jaXfaz8bxcmXtYwpA.png
+Generating image  /images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+[  8.41272560e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.30159578e-01
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   1.02922282e-04   1.02922282e-04   0.00000000e+00   4.83222384e-01]
+Saving image to path  /home/carlson/web//images/insight/6q-N4KtGR4YJCR4Ar3nIEg.png
+Generating image  /images/insight/ufpRzsHvtb-c9H87azPmRA.png
+[  7.76115559e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.16894646e-05
+   0.00000000e+00   65.87.19.170 - - [10/Jun/2016 18:15:11] "GET /output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker.+++The+bartender+didn%27t+even+comp+our+drinks%21++%0D%0A HTTP/1.1" 200 -
+65.87.19.170 - - [10/Jun/2016 18:15:11] "GET /starter-template.css HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 18:15:11] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [10/Jun/2016 18:15:11] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+[I 09:23:08.969 NotebookApp] 302 GET / (98.210.100.33) 0.73ms
+[I 09:25:16.440 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+ * Detected change in '/data/insight_yelp/vectorsearch/LDA.py', reloading
+0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.16894644e-05   1.47153634e-03   0.00000000e+00   6.30588953e-01]
+Saving image to path  /home/carlson/web//images/insight/ufpRzsHvtb-c9H87azPmRA.png
+Generating image  /images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+[  9.66167775e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.06846619e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.06846618e-04   1.34429934e-01   0.00000000e+00   1.84719701e-01]
+Saving image to path  /home/carlson/web//images/insight/drSIHCp7SOpYDwKEMAq2Nw.png
+Generating image  /images/insight/CDN--GWL8gm4TsFFtccpaA.png
+[  7.72235343e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   3.72535668e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.05933444e-05   6.19694550e-02   0.00000000e+00   6.15679531e-01]
+Saving image to path  /home/carlson/web//images/insight/CDN--GWL8gm4TsFFtccpaA.png
+Generating image  /images/insight/MErwBndMxEwJBujFSMSYxw.png
+[  8.35231810e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   2.25475548e-04
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   2.25475549e-04   3.09929330e-01   0.00000000e+00   4.43567494e-01]
+Saving image to path  /home/carlson/web//images/insight/MErwBndMxEwJBujFSMSYxw.png
+Generating image  /images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+[  9.93380415e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.07847201e-02
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.78600610e-02   3.53315223e-05   0.00000000e+00   8.52552491e-02]
+Saving image to path  /home/carlson/web//images/insight/UUwfLMowHkIGcwIRvR1bKw.png
+Generating image  /images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+[  7.40051655e-01   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   5.86237934e-05
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   0.00000000e+00   0.00000000e+00   0.00000000e+00   0.00000000e+00
+   5.86237929e-05   5.86237934e-05   0.00000000e+00   6.59782940e-01]
+Saving image to path  /home/carlson/web//images/insight/nMoPnZZC3wOCCh11IAMFeA.png
+ * Restarting with inotify reloader
+/home/carlson/anaconda/lib/python2.7/site-packages/matplotlib/font_manager.py:273: UserWarning: Matplotlib is building the font cache using fc-list. This may take a moment.
+  warnings.warn('Matplotlib is building the font cache using fc-list. This may take a moment.')
+ * Debugger is active!
+ * Debugger pin code: 225-476-286
+ * Detected change in '/data/insight_yelp/vectorsearch/LDA.py', reloading
+path /data/insight_yelp/input/
+ * Restarting with inotify reloader
+/home/carlson/anaconda/lib/python2.7/site-packages/matplotlib/font_manager.py:273: UserWarning: Matplotlib is building the font cache using fc-list. This may take a moment.
+  warnings.warn('Matplotlib is building the font cache using fc-list. This may take a moment.')
+ * Debugger is active!
+ * Debugger pin code: 225-476-286
+[I 09:32:06.226 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:33:16.098 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:37:16.113 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:45:16.597 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:47:51.380 NotebookApp] Kernel shutdown: 8d2507e1-c1d7-4506-847f-9fc3fd096019
+[I 09:47:52.625 NotebookApp] Kernel shutdown: 076ae104-9eb6-4970-b77a-bf4611fbabf9
+[I 09:47:53.150 NotebookApp] Kernel shutdown: 9383c7cb-c0c4-40ed-b7a6-83ce6fb7b9b1
+[I 09:47:53.878 NotebookApp] Kernel shutdown: 0cf5aee1-fd3b-42fd-8217-e0084a86317d
+[I 09:48:04.215 NotebookApp] Kernel shutdown: 35f87090-89c4-4bf9-a067-232723994dd3
+[I 09:48:04.718 NotebookApp] Kernel shutdown: c85db177-04f8-446b-ab21-db5ea50225c0
+[I 09:48:07.036 NotebookApp] Kernel shutdown: d7d8c3d1-d8b2-479d-8f39-c9b83bf81263
+[I 09:49:35.767 NotebookApp] Kernel started: 1481e894-0de0-4ed6-a127-485c92a8e797
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 09:49:41.937 NotebookApp] Kernel shutdown: 7ac5aada-1a70-4ddd-b935-8252421a5eb3
+[I 09:49:53.742 NotebookApp] Kernel shutdown: 75457299-5fb1-42f8-bb60-a7b6190a8efb
+[I 09:53:16.524 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 09:53:35.809 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+[I 09:54:44.482 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+[I 09:55:36.513 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+[I 09:58:43.633 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+path /data/insight_yelp/input/
+[I 10:01:16.549 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:02:07.436 NotebookApp] Kernel started: 145d09dc-e917-4a1e-9843-6ba85ef547e9
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[W 10:02:17.641 NotebookApp] Timeout waiting for kernel_info reply from 145d09dc-e917-4a1e-9843-6ba85ef547e9
+[I 10:03:02.573 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 10:03:06.075 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[I 10:05:16.578 NotebookApp] Saving file at /notebooks/03 - LDA.ipynb
+[I 10:06:10.597 NotebookApp] Saving file at /notebooks/04 - LDA Choosing N Topics.ipynb
+[W 10:06:22.728 NotebookApp] Notebook notebooks/06 - Prediction with Supervised.ipynb is not trusted
+[I 10:06:23.548 NotebookApp] Kernel started: ced221dc-a127-4b69-8768-ac537765d513
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[W 10:06:33.803 NotebookApp] Timeout waiting for kernel_info reply from ced221dc-a127-4b69-8768-ac537765d513
+[I 10:08:23.595 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:09:36.567 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+[I 10:10:23.588 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:12:24.572 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:32:24.742 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 10:36:24.648 NotebookApp] Saving file at /notebooks/06 - Prediction with Supervised.ipynb
+[I 11:41:12.668 NotebookApp] Creating new notebook in /notebooks
+[I 11:41:14.280 NotebookApp] Kernel started: a222fe7a-f9de-432f-9cc6-57e2e6f07163
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:41:43.360 NotebookApp] Saving file at /notebooks/Untitled1.ipynb
+[I 11:43:14.829 NotebookApp] Saving file at /notebooks/Untitled1.ipynb
+[I 11:45:00.797 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 11:45:14.853 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 11:48:00.299 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 11:48:26.728 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 11:48:55.078 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 11:49:14.323 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 11:49:37.242 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 11:50:34.486 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 11:51:14.339 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 11:53:14.408 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:02:51.411 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:03:08.601 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:05:14.373 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:07:14.397 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:09:14.386 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:11:14.399 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:11:29.242 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:11:34.842 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:13:14.398 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:17:45.440 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:18:34.088 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:19:14.422 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:19:15.158 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:19:31.644 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:20:35.269 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:21:14.418 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:21:23.402 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:21:28.907 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:23:14.430 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:23:37.057 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:23:40.294 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:24:06.891 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:24:45.613 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:25:14.431 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:25:19.790 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:25:32.511 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:26:31.716 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:27:48.028 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:28:00.230 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:28:43.350 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:29:55.265 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:30:32.754 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:30:43.357 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:31:06.334 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:31:39.135 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:31:40.952 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:32:44.068 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:33:17.061 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:34:43.376 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:35:29.087 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:36:43.380 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:37:30.207 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:38:44.092 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:40:44.102 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:41:14.755 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:41:21.578 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:42:33.088 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:43:17.119 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:44:31.557 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:46:43.411 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:48:44.143 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 12:50:43.430 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:04:44.326 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:06:43.481 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:07:07.564 NotebookApp] 302 GET / (98.210.100.33) 0.31ms
+[I 13:07:15.975 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:08:14.610 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:08:19.799 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:09:14.854 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:10:12.206 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:11:14.860 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:12:42.385 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[W 13:13:05.285 NotebookApp] 404 GET /static/components/backbone/backbone-min.map (98.210.100.33) 192.68ms referer=None
+[I 13:13:14.871 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:17:14.884 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:21:14.899 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:23:14.901 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:23:36.463 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb
+[I 13:25:14.939 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:30:27.326 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:30:49.670 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:31:14.927 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:31:27.333 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:31:46.706 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:33:14.935 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:35:14.938 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[I 13:39:47.105 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb

@@ -7,6 +7,8 @@ import psycopg2
 from flask import request
 import numpy as np 
 import pandas as pd
+import folium
+
 
 import os 
 path = "/".join(os.path.realpath(__file__).split("/")[:-2])
@@ -102,7 +104,7 @@ def cesareans_output():
 
   topic_listings = [" ".join(vectorsearch.GetTopicWords(topic, ))  for topic in top_n_topics]
   top_bus_id, top_bus_sim = vectorsearch.FindBusinessSimilarityLDA(rev_topic, business_ids=None)
-  print topic_listings
+  #print topic_listings
 
   # Visualize the search query.....
   img_path_query = '/images/insight/query_'+str(uuid.uuid4()) + '.png'
@@ -115,18 +117,45 @@ def cesareans_output():
 
       img_path = '/images/insight/'+bus_id+'.png'
       print 'Generating image ', img_path
+      lat = df_businesses.latitude[df_businesses.business_id==bus_id].values[0]
+      lon = df_businesses.longitude[df_businesses.business_id==bus_id].values[0]
+
       vectorsearch.visualize_topic(bus_topic_vec, num_topics=top_n, save_path='/home/carlson/web/'+img_path, top_topics=top_n_topics)
       # Append to list that gets passed to web page...
       top_businesses.append(dict(bus_id=bus_id, similarity=top_bus_sim[i], image_path='http://planck.ucsc.edu/'+img_path,
-                            bus_name=df_businesses.name[df_businesses.business_id==bus_id].values[0]))
+                            bus_name=df_businesses.name[df_businesses.business_id==bus_id].values[0],
+                            lat=lat, lon=lon))
 
 
 
-  
+  centroid_lat = np.average([biz['lat'] for biz in top_businesses])
+  centroid_lon = np.average([biz['lon'] for biz in top_businesses])
+
+  # Generate map....
+  map_path = img_path[:-4]+'.html'
+  print "PATH TO MAP", map_path
+  map_osm = folium.Map(location=[centroid_lat, centroid_lon], zoom_start=13, detect_retina=True, 
+                    tiles='http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', attr='Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.')               
+  map_osm.add_tile_layer(tile_url='http://tile.stamen.com/toner-labels/{z}/{x}/{y}.png', attr='labels',
+                         active=True, overlay=True)
+
+  for business in top_businesses:
+
+    html = r'''<div align="center"> <font size="5"><b>'''+business['bus_name']+'''</b></font> <br><img src="'''+business['image_path']+'''" alt="NOPE" style="width:200px;height:200px;"></div>'''
+    iframe = folium.element.IFrame(html=html,width=250,height=250)
+    popup = folium.Popup(html=iframe)
+    
+    icon = folium.Icon(color="blue", icon="ok")
+    marker = folium.Marker(location=[business['lat'], business['lon']], popup=popup, icon=icon)
+    map_osm.add_children(marker)
+
+  map_osm.save('/home/carlson/web/'+map_path)
+
+
 
 
   return render_template("output.html", review_text=review_text, topic_listings=topic_listings, top_businesses=top_businesses,
-                          image_path_query='http://planck.ucsc.edu/'+img_path_query)
+                          image_path_query='http://planck.ucsc.edu/'+img_path_query, map_path='http://planck.ucsc.edu/'+map_path)
   #return render_template("output.html", births=[1,5,2,], the_results=" ")
 
 

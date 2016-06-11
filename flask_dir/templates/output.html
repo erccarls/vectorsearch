@@ -55,8 +55,8 @@
 <br><br>
     <div class="container">
     <div class="starter-template">
-        <h2>Output Page</h2>
-        <p>Enter some user input</p>
+        <h2>Your results</h2>
+        <p>Search again?</p>
     </div>
 
     <div class = "container">
@@ -75,12 +75,17 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="static/js/bootstrap.min.js"></script>
 
-  </div> <!-- /.container-->
-
+  </div> 
+  <div class = "container">
       <div class="starter-template">
         <h3>Your Topic Profile:</h3>
-        <img src={{image_path_query}} alt="Image Not Found OHHHHH NOOOOOOOO!" style="width:300px;height:300px;">
+        <img src={{image_path_query}} margin-left:'auto' alt="Image Not Found OHHHHH NOOOOOOOO!" style="width:300px;height:300px;">
       </div>
+  </div>
+
+  <div>
+    <iframe width="100%" height="600" frameborder="0" src={{map_path}}></iframe>
+  </div>
 
     <div class="container">
       <div class="starter-template">
