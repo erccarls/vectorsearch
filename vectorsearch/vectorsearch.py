@@ -104,7 +104,7 @@ def visualize_topic(topic_vector, num_topics=6, save_path=None, top_topics=None)
 
     '''
 
-    fig = plt.figure(figsize=(4,4))
+    fig = plt.figure(figsize=(5,5), dpi=80)
     for radius in np.linspace(0,1,5)[1:]:
         circ = plt.Circle((0,0),radius=radius, fill=0)
         plt.gca().add_artist(circ)
@@ -144,7 +144,7 @@ def visualize_topic(topic_vector, num_topics=6, save_path=None, top_topics=None)
     plt.xlim(-1.25,1.25)
     plt.gca().axis('off')
     print 'Saving image to path ', save_path
-    fig.savefig(save_path)
+    fig.savefig(save_path, transparent=True)
     # if save_path is not None:
         
     #     plt.close(fig)    # close the figure

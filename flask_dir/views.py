@@ -43,17 +43,7 @@ def index():
 
 @app.route('/db')
 def birth_page():
-    sql_query = """                                                             
-                SELECT * FROM birth_data_table WHERE delivery_method='Cesarean'\
-;                                                                               
-                """
-    query_results = pd.read_sql_query(sql_query,con)
-    births = ""
-    print query_results[:10]
-    for i in range(0,10):
-        births += query_results.iloc[i]['birth_month']
-        births += "<br>"
-    return births
+  return render_template("stylish_test.html")
 
 @app.route('/db_fancy')
 def cesareans_page_fancy():

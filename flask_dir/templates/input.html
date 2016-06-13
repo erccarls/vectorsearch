@@ -10,11 +10,16 @@
 
    <title>Describe Your Bar</title>
 
-   <!-- Bootstrap core CSS -->
-   <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+   
+    <!-- Bootstrap Core CSS -->
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
 
-   <!-- Custom styles for this template -->
-   <link href="starter-template.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="../static/css/stylish-portfolio.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -41,7 +46,7 @@
            <span class="icon-bar"></span>
            <span class="icon-bar"></span>
          </button>
-         <a class="navbar-brand" href="#">describeyourbar</a>
+         <a class="navbar-brand" href="#">Describe Your Bar</a>
        </div>
        <div class="collapse navbar-collapse">
          <ul class="nav navbar-nav">
@@ -52,47 +57,58 @@
        </div><!--/.nav-collapse -->
      </div>
    </div>
-<br><br>
-   <div class="container">
 
-    <div class="starter-template">
-        <h2>Search the barz..</h2>
-        <p>Describe the bar you want to find in a style similar to a yelp review...</p>
-    </div>
+   
+    <!-- Header -->
+    <header id="top" class="header">
+        <div class="text-vertical-center">
+            <h1>Describe Your Bar</h1>
+            <h3>A Natural Language Search Engine for Bars and Restauants</h3>
+            <br><br><br>
 
-    <div class = "container">
+          
+            <form  action="/output" method="GET">
+              <label for="sel_city">Select City:</label>
+              <div align="center" style="width:800px; margin:0 auto;">
+                <select class="form-control" id="sel_city" data-live-search="true" style="width:auto;">
+                    <option>San Francisco, CA</option>
+                    <option>Las Vegas, NV</option>
+                    <option>Pheonix, AZ</option>
+                </select>
+              </div>
+              <br>
 
-      <form  action="/output" method="GET">
-        <div class="form-group">
-         <!--  <label for="birth_month">Birth Month:</label>
-          <input type="text" id="birth_month" name='birth_month' placeholder="e.g. ">
- -->
-          <textarea rows="4" cols="50" id="text_review" name='text_review'>They had great beer and wine! They even allow dogs. </textarea>
-        
+              <div class="form-group">
+                <textarea rows="6" cols="50" id="text_review" name='text_review'>They had great beer and wine! They even allow dogs. </textarea>
+              </div>
+              <div>
+                <button type="submit" class="btn btn-default btn-lg" width="300px" style:"padding: 18px 24px;
+  font-size: 24px;">Search</button>
+              </div>
+            </form>
+
+              <br><br>
+              <div>
+                  <label>Examples:</label> 
+              </div>
+              <div> 
+                <a href="http://planck.ucsc.edu:5000/output?text_review=I+want+a+dive+bar+where+the+jukebox+only+plays+Poison+and+they+serve+philly+cheese+steaks.+">- I want a dive bar where the jukebox only plays Poison and they serve philly cheese steaks.  </a>
+              </div>
+
+              <div>
+                <a href="http://planck.ucsc.edu:5000/output?text_review=hey+had+one+of+the+best+happy+hours+I+have+ever+had%2C+with+a+great+selection+of+craft+beers.+My+wife+loved+the+cocktails.">- They had one of the best happy hours I have ever had, with a great selection of craft beers.   My wife loved the cocktails.</a>
+              </div>
+              <div>
+                <a href="http://planck.ucsc.edu:5000/output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker.+++The+bartender+didn%27t+even+comp+our+drinks%21++%0D%0A">- We partied down frat style at the club, and then lost all our money on video poker.   The bartender didn't even comp our drinks!</a>
+              </div>
+
+            <!-- <a href="#about" class="btn btn-dark btn-lg">Find Out More</a> -->
         </div>
+    </header>
 
 
-
-        <div>
-          <button type="submit" class="btn btn-default btn-lg">Search the Barz!</button>
-        </div>
-
-      </form>
-    </div>
-
-    <div>
-        <label>Examples:</label> 
-    </div>
-    <div> 
-      <a href="http://planck.ucsc.edu:5000/output?text_review=I+want+a+dive+bar+where+the+jukebox+only+plays+Poison+and+they+serve+philly+cheese+steaks.+">- I want a dive bar where the jukebox only plays Poison and they serve philly cheese steaks.  </a>
-    </div>
-
-    <div>
-      <a href="http://planck.ucsc.edu:5000/output?text_review=hey+had+one+of+the+best+happy+hours+I+have+ever+had%2C+with+a+great+selection+of+craft+beers.+My+wife+loved+the+cocktails.">- They had one of the best happy hours I have ever had, with a great selection of craft beers.   My wife loved the cocktails.</a>
-    </div>
-    <div>
-      <a href="http://planck.ucsc.edu:5000/output?text_review=We+partied+down+frat+style+at+the+club%2C+and+then+lost+all+our+money+on+video+poker.+++The+bartender+didn%27t+even+comp+our+drinks%21++%0D%0A">- We partied down frat style at the club, and then lost all our money on video poker.   The bartender didn't even comp our drinks!</a>
-    </div>
+  <div>
+    
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="static/js/bootstrap.min.js"></script>
 
@@ -103,6 +119,6 @@
    ================================================== -->
    <!-- Placed at the end of the document so the pages load faster -->
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="static/js/bootstrap.min.js"></script>
+   <script src="static/js/bootstrap.min.js"></script>
 </body>
 </html>

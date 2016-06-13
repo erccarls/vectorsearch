@@ -5407,3 +5407,260 @@ path /data/insight_yelp/input/
 [I 13:33:14.935 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
 [I 13:35:14.938 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
 [I 13:39:47.105 NotebookApp] Saving file at /notebooks/19 - map visualization.ipynb
+[W 14:03:33.805 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 14:03:41.939 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 14:03:45.058 NotebookApp] WebSocket ping timeout after 119986 ms.
+[W 14:03:46.277 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 14:03:47.642 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 00:13:16.976 NotebookApp] SSL Error on 12 ('128.114.129.7', 54198): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[I 00:14:32.070 NotebookApp] 302 GET / (128.114.129.7) 0.28ms
+[W 00:14:32.076 NotebookApp] 405 OPTIONS / (128.114.129.7) 0.27ms referer=None
+[W 00:14:32.078 NotebookApp] 405 PROPFIND / (128.114.129.7) 0.28ms referer=None
+[W 00:14:32.249 NotebookApp] 404 OPTIONS * (128.114.129.7) 169.82ms referer=None
+[W 00:14:32.253 NotebookApp] SSL Error on 12 ('128.114.129.7', 42288): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:14:32.609 NotebookApp] SSL Error on 12 ('128.114.129.7', 42297): [SSL: NO_SHARED_CIPHER] no shared cipher (_ssl.c:590)
+[W 00:14:32.611 NotebookApp] SSL Error on 12 (not connected): [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:590)
+[W 00:14:32.614 NotebookApp] SSL Error on 12 (not connected): [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:590)
+[W 00:14:32.616 NotebookApp] SSL Error on 12 ('128.114.129.7', 42300): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:17:27.504 NotebookApp] 404 GET /console/login/LoginForm.jsp (128.114.129.7) 134.46ms referer=None
+[W 00:17:27.520 NotebookApp] 404 POST /sdk (128.114.129.7) 1.33ms referer=None
+[W 00:17:27.536 NotebookApp] 404 GET /dyndata.js (128.114.129.7) 0.91ms referer=None
+[W 00:17:27.550 NotebookApp] 404 GET /en/welcomeRes.js (128.114.129.7) 0.87ms referer=None
+[W 00:17:27.564 NotebookApp] 404 GET /Rapid7/JBoss/version-check-Ra1wKw.html (128.114.129.7) 0.87ms referer=None
+[W 00:17:27.715 NotebookApp] 404 GET /administrator/manifests/files/joomla.xml (128.114.129.7) 1.01ms referer=None
+[I 00:17:27.717 NotebookApp] 302 GET / (128.114.129.7) 0.24ms
+[I 00:17:27.720 NotebookApp] 302 GET /tree (128.114.129.7) 1.19ms
+[W 00:17:27.735 NotebookApp] 404 GET /administrator/language/en-GB/en-GB.xml (128.114.129.7) 0.85ms referer=None
+[W 00:17:27.749 NotebookApp] 404 GET /language/en-GB/en-GB.xml (128.114.129.7) 0.88ms referer=None
+[W 00:17:27.751 NotebookApp] 404 GET /reviews (128.114.129.7) 1.03ms referer=None
+[W 00:17:27.766 NotebookApp] 404 GET %. (128.114.129.7) 1.23ms referer=None
+[I 00:17:27.767 NotebookApp] 302 GET / (128.114.129.7) 0.22ms
+[I 00:17:27.769 NotebookApp] 302 GET /tree (128.114.129.7) 0.41ms
+[W 00:17:27.781 NotebookApp] 404 GET %server.policy (128.114.129.7) 0.84ms referer=None
+[W 00:17:27.799 NotebookApp] 404 GET %login-config.xml (128.114.129.7) 0.87ms referer=None
+[I 00:17:27.809 NotebookApp] 302 GET / (128.114.129.7) 0.23ms
+[I 00:17:27.811 NotebookApp] 302 GET /tree (128.114.129.7) 0.44ms
+[W 00:17:27.815 NotebookApp] 404 GET %org/jboss/version.properties (128.114.129.7) 0.83ms referer=None
+[I 00:17:27.830 NotebookApp] 302 GET / (128.114.129.7) 0.23ms
+[I 00:17:27.832 NotebookApp] 302 GET /tree (128.114.129.7) 0.36ms
+[W 00:17:27.862 NotebookApp] 404 POST /.jsp (128.114.129.7) 1.08ms referer=None
+[I 00:17:27.863 NotebookApp] 302 GET / (128.114.129.7) 0.23ms
+[I 00:17:27.866 NotebookApp] 302 GET /tree (128.114.129.7) 0.38ms
+[W 00:17:27.879 NotebookApp] 404 GET /jira/secure/Dashboard.jspa (128.114.129.7) 0.83ms referer=None
+[W 00:17:27.886 NotebookApp] 404 GET /login.action (128.114.129.7) 0.85ms referer=None
+[W 00:17:27.898 NotebookApp] 404 GET /secure/Dashboard.jspa (128.114.129.7) 0.87ms referer=None
+[W 00:17:27.915 NotebookApp] 404 GET /login.jsp (128.114.129.7) 0.83ms referer=None
+[I 00:17:27.930 NotebookApp] 302 GET / (128.114.129.7) 0.21ms
+[I 00:17:27.932 NotebookApp] 302 GET /tree (128.114.129.7) 0.37ms
+[W 00:17:27.946 NotebookApp] 404 GET /owa/auth/logon.aspx (128.114.129.7) 0.87ms referer=None
+[W 00:17:27.958 NotebookApp] 404 GET /spiffymcgee.cfm (128.114.129.7) 0.87ms referer=None
+[W 00:17:27.960 NotebookApp] 404 GET /owa/auth/logon.aspx (128.114.129.7) 0.83ms referer=None
+[I 00:17:27.973 NotebookApp] 302 GET /servlet/ (128.114.129.7) 0.24ms
+[W 00:17:27.974 NotebookApp] 404 GET /owa/auth/logon.aspx (128.114.129.7) 0.91ms referer=None
+[W 00:17:27.976 NotebookApp] 404 GET /servlet (128.114.129.7) 0.85ms referer=None
+[W 00:17:27.990 NotebookApp] 404 GET /console/App.html (128.114.129.7) 0.88ms referer=None
+[I 00:17:27.992 NotebookApp] 302 GET / (128.114.129.7) 0.25ms
+[I 00:17:27.993 NotebookApp] 302 GET /tree (128.114.129.7) 0.36ms
+[I 00:17:28.004 NotebookApp] 302 GET / (128.114.129.7) 0.21ms
+[I 00:17:28.006 NotebookApp] 302 GET /tree (128.114.129.7) 0.37ms
+[I 00:17:28.010 NotebookApp] 302 GET /jbossws/ (128.114.129.7) 0.23ms
+[W 00:17:28.012 NotebookApp] 404 GET /jbossws (128.114.129.7) 0.89ms referer=None
+[I 00:17:28.026 NotebookApp] 302 GET /invoker/ (128.114.129.7) 0.22ms
+[W 00:17:28.028 NotebookApp] 404 GET /invoker (128.114.129.7) 0.85ms referer=None
+[I 00:17:28.042 NotebookApp] 302 GET /jbossmq-httpil/ (128.114.129.7) 0.22ms
+[W 00:17:28.044 NotebookApp] 404 GET /jbossmq-httpil (128.114.129.7) 0.85ms referer=None
+[I 00:17:28.058 NotebookApp] 302 GET /status/ (128.114.129.7) 0.22ms
+[W 00:17:28.061 NotebookApp] 404 GET /status (128.114.129.7) 0.84ms referer=None
+[W 00:17:28.077 NotebookApp] 404 GET /spiffymcgee.jsp (128.114.129.7) 0.86ms referer=None
+[W 00:17:28.092 NotebookApp] 404 GET /spiffymcgee.nsf (128.114.129.7) 0.85ms referer=None
+[I 00:17:28.107 NotebookApp] 302 GET / (128.114.129.7) 0.22ms
+[I 00:17:28.109 NotebookApp] 302 GET /tree (128.114.129.7) 0.35ms
+[W 00:17:28.130 NotebookApp] 404 GET /xmldata?item=All (128.114.129.7) 0.86ms referer=None
+[I 00:17:28.150 NotebookApp] 302 GET / (128.114.129.7) 0.22ms
+[I 00:17:28.152 NotebookApp] 302 GET /tree (128.114.129.7) 0.35ms
+[I 00:17:28.177 NotebookApp] 302 GET /phpmyadmin/ (128.114.129.7) 0.27ms
+[W 00:17:28.179 NotebookApp] 404 GET /phpmyadmin (128.114.129.7) 0.92ms referer=None
+[W 00:17:28.195 NotebookApp] 404 GET /console/faces/com_sun_web_ui/jsp/version/version_30.jsp (128.114.129.7) 0.84ms referer=None
+[W 00:17:28.209 NotebookApp] 404 GET /console/faces/com_sun_web_ui/jsp/version/version_4.jsp (128.114.129.7) 0.86ms referer=None
+[W 00:18:01.767 NotebookApp] 404 GET /r7.txt (128.114.129.7) 1.15ms referer=None
+[W 00:18:01.783 NotebookApp] 404 GET /CFIDE/administrator/enter.cfm?locale=../../../../../../../lib/password.properties%00en (128.114.129.7) 2.44ms referer=None
+[W 00:18:01.784 NotebookApp] 404 PUT /r7.txt (128.114.129.7) 0.97ms referer=None
+[W 00:18:01.799 NotebookApp] 404 GET /CFIDE/componentutils/cfcexplorer.cfc?method=getcfcinhtml&name=CFIDE.componentutils.cfcexplorer&path=../../../license.txt (128.114.129.7) 0.96ms referer=None
+[W 00:18:01.800 NotebookApp] 404 GET /r7.txt (128.114.129.7) 0.92ms referer=None
+[W 00:18:01.802 NotebookApp] 404 GET /CFIDE/componentutils/cfcexplorer.cfc?method=getcfcinhtml&name=CFIDE.componentutils.cfcexplorer&path=../../../../license.html (128.114.129.7) 0.94ms referer=None
+[W 00:18:01.818 NotebookApp] 404 HEAD /index.php (128.114.129.7) 1.01ms referer=None
+[W 00:18:01.819 NotebookApp] 404 GET /CFIDE/adminapi/customtags/soft404validationcheck.cfm (128.114.129.7) 0.88ms referer=None
+[W 00:18:01.824 NotebookApp] 404 GET /CFIDE/soft404validationcheck.cfm (128.114.129.7) 0.92ms referer=None
+[I 00:18:01.834 NotebookApp] 302 GET / (128.114.129.7) 0.24ms
+[I 00:18:01.835 NotebookApp] 302 GET /tree (128.114.129.7) 0.39ms
+[W 00:18:01.839 NotebookApp] 404 GET /CFIDE/adminapi/customtags/fusebox.cfm (128.114.129.7) 0.83ms referer=None
+[W 00:18:01.842 NotebookApp] 404 GET /CFIDE/adminapi/customtags/adss.cfm (128.114.129.7) 0.86ms referer=None
+[W 00:18:01.846 NotebookApp] 404 GET /CFIDE/h.cfm (128.114.129.7) 0.91ms referer=None
+[W 00:18:01.849 NotebookApp] 404 GET /CFIDE/h9.cfm (128.114.129.7) 0.85ms referer=None
+[W 00:18:01.852 NotebookApp] 404 GET /CFIDE/help.cfm (128.114.129.7) 0.87ms referer=None
+[W 00:18:01.854 NotebookApp] 404 GET /portal/diag/index.jsp (128.114.129.7) 0.88ms referer=None
+[W 00:18:01.856 NotebookApp] 404 GET /CFIDE/i.cfm (128.114.129.7) 0.89ms referer=None
+[W 00:18:01.859 NotebookApp] 404 GET /CFIDE/r.cfm (128.114.129.7) 0.87ms referer=None
+[W 00:18:01.869 NotebookApp] 404 POST /cgi-bin/webcgi/login (128.114.129.7) 0.97ms referer=None
+[W 00:18:01.879 NotebookApp] 404 POST /CFIDE/adminapi/administrator.cfc? (128.114.129.7) 0.97ms referer=None
+[W 00:18:01.897 NotebookApp] 404 GET /CFIDE/adminapi/customtags/l10n.cfm?attributes.id=test&attributes.file=../../administrator/mail/download.cfm&filename=../../lib/password.properties&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=test (128.114.129.7) 0.99ms referer=None
+[W 00:18:01.901 NotebookApp] 404 GET /CFIDE/adminapi/customtags/l10n.cfm?attributes.id=test&attributes.file=../../administrator/mail/download.cfm&filename=../lib/password.properties&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=test (128.114.129.7) 0.91ms referer=None
+[I 00:18:01.914 NotebookApp] Malformed HTTP message from 128.114.129.7: Malformed HTTP headers: '\nHost: 128.114.130.39:10000\r\nSomeHeader: SomeValue\r\nR7TESTR7TESTR7TESTR7TESTR7TESTR7T'
+[I 00:18:01.927 NotebookApp] Malformed HTTP message from 128.114.129.7: Malformed HTTP headers: '\nHost: 128.114.130.39:10000\r\nSomeHeader: SomeValue\r\nR7TESTR7TESTR7TESTR7TESTR7TESTR7T'
+[W 00:18:01.941 NotebookApp] 404 GET /struts2-blank/example/HelloWorld.action (128.114.129.7) 1.13ms referer=None
+[W 00:18:01.955 NotebookApp] 404 GET /struts2-showcase/employee/save.action (128.114.129.7) 0.87ms referer=None
+[W 00:18:01.971 NotebookApp] 404 GET /conf/ssl/apache/integrity.key (128.114.129.7) 0.85ms referer=None
+[W 00:18:01.975 NotebookApp] 404 GET /conf/ssl/apache/integrity-smartcenter.key (128.114.129.7) 0.83ms referer=None
+[W 00:18:01.990 NotebookApp] 404 POST /index.htm (128.114.129.7) 1.01ms referer=None
+[W 00:18:02.005 NotebookApp] 404 POST /flex2gateway/http (128.114.129.7) 1.23ms referer=None
+[W 00:18:02.008 NotebookApp] 404 POST /flex2gateway/httpsecure (128.114.129.7) 1.07ms referer=None
+[W 00:18:02.012 NotebookApp] 404 POST /messagebroker/http (128.114.129.7) 1.00ms referer=None
+[W 00:18:02.015 NotebookApp] 404 POST /messagebroker/httpsecure (128.114.129.7) 0.96ms referer=None
+[W 00:18:02.018 NotebookApp] 404 POST /blazeds/messagebroker/http (128.114.129.7) 0.96ms referer=None
+[W 00:18:02.022 NotebookApp] 404 POST /blazeds/messagebroker/httpsecure (128.114.129.7) 0.96ms referer=None
+[W 00:18:02.025 NotebookApp] 404 POST /samples/messagebroker/http (128.114.129.7) 1.01ms referer=None
+[W 00:18:02.028 NotebookApp] 404 POST /samples/messagebroker/httpsecure (128.114.129.7) 0.96ms referer=None
+[W 00:18:02.032 NotebookApp] 404 POST /lcds/messagebroker/http (128.114.129.7) 1.15ms referer=None
+[W 00:18:02.035 NotebookApp] 404 POST /lcds/messagebroker/httpsecure (128.114.129.7) 0.96ms referer=None
+[W 00:18:02.038 NotebookApp] 404 POST /lcds-samples/messagebroker/http (128.114.129.7) 0.99ms referer=None
+[W 00:18:02.041 NotebookApp] 404 POST /lcds-samples/messagebroker/httpsecure (128.114.129.7) 0.96ms referer=None
+[W 00:18:02.056 NotebookApp] 404 GET /cgi-bin/awstats.pl?debug=1 (128.114.129.7) 0.87ms referer=None
+[W 00:18:02.059 NotebookApp] 404 GET /cgi-bin/awstats/awstats.pl?debug=1 (128.114.129.7) 0.86ms referer=None
+[W 00:18:02.075 NotebookApp] 404 GET /cgi-bin/awstats.pl?PluginMode=:print+%22x%22%2e(1042+%2b+1099)%2e%22x%22; (128.114.129.7) 0.88ms referer=None
+[W 00:18:02.078 NotebookApp] 404 GET /cgi-bin/awstats/awstats.pl?PluginMode=:print+%22x%22%2e(1042+%2b+1099)%2e%22x%22; (128.114.129.7) 0.85ms referer=None
+[I 00:18:02.092 NotebookApp] 302 GET /bb/ (128.114.129.7) 0.22ms
+[W 00:18:02.094 NotebookApp] 404 GET /bb (128.114.129.7) 0.85ms referer=None
+[W 00:18:02.108 NotebookApp] 404 GET /cgi-bin/faxsurvey?/bin/cat%20/etc/passwd (128.114.129.7) 0.84ms referer=None
+[W 00:18:02.112 NotebookApp] 404 GET /cgi-bin/faxquery?/bin/cat%20/etc/passwd (128.114.129.7) 0.89ms referer=None
+[W 00:18:02.128 NotebookApp] 404 GET /cgi-bin/htsearch?Exclude=%60/etc/passwd%60 (128.114.129.7) 2.30ms referer=None
+[W 00:18:02.142 NotebookApp] 404 GET /cgi-bin/htgrep/file=index.html&hdr=/etc/passwd (128.114.129.7) 0.84ms referer=None
+[W 00:18:02.157 NotebookApp] 404 GET /cgi-bin/htmlscript?../../../../../../../etc/passwd (128.114.129.7) 0.87ms referer=None
+[W 00:18:02.172 NotebookApp] 404 POST /cgi-bin/test-cgi (128.114.129.7) 1.07ms referer=None
+[W 00:18:02.188 NotebookApp] 404 GET /cgi-bin/view-source?../../../../../../../etc/passwd (128.114.129.7) 0.86ms referer=None
+[W 00:18:02.203 NotebookApp] 404 GET /CFIDE/adminapi/base.cfc?wsdl (128.114.129.7) 0.90ms referer=None
+[I 00:18:02.218 NotebookApp] 302 GET /CFIDE/adminiapi/ (128.114.129.7) 0.22ms
+[W 00:18:02.220 NotebookApp] 404 GET /CFIDE/adminiapi (128.114.129.7) 0.84ms referer=None
+[I 00:18:02.235 NotebookApp] 302 GET /CFIDE/administrator/ (128.114.129.7) 0.25ms
+[W 00:18:02.237 NotebookApp] 404 GET /CFIDE/administrator (128.114.129.7) 1.04ms referer=None
+[W 00:18:02.240 NotebookApp] 404 GET /CFIDE/administrator/enter.cfm (128.114.129.7) 0.84ms referer=None
+[I 00:18:02.255 NotebookApp] 302 GET /CFIDE/AIR/ (128.114.129.7) 0.22ms
+[W 00:18:02.258 NotebookApp] 404 GET /CFIDE/AIR (128.114.129.7) 0.85ms referer=None
+[I 00:18:02.272 NotebookApp] 302 GET /CFIDE/appdeployment/ (128.114.129.7) 0.22ms
+[W 00:18:02.274 NotebookApp] 404 GET /CFIDE/appdeployment (128.114.129.7) 0.85ms referer=None
+[I 00:18:02.289 NotebookApp] 302 GET /CFIDE/componentutils/ (128.114.129.7) 0.22ms
+[W 00:18:02.291 NotebookApp] 404 GET /CFIDE/componentutils (128.114.129.7) 0.86ms referer=None
+[I 00:18:02.306 NotebookApp] 302 GET /CFIDE/orm/ (128.114.129.7) 0.23ms
+[W 00:18:02.308 NotebookApp] 404 GET /CFIDE/orm (128.114.129.7) 0.88ms referer=None
+[I 00:18:02.323 NotebookApp] 302 GET /CFIDE/portlets/ (128.114.129.7) 0.22ms
+[W 00:18:02.325 NotebookApp] 404 GET /CFIDE/portlets (128.114.129.7) 0.85ms referer=None
+[I 00:18:02.339 NotebookApp] 302 GET /CFIDE/scheduler/ (128.114.129.7) 0.23ms
+[W 00:18:02.342 NotebookApp] 404 GET /CFIDE/scheduler (128.114.129.7) 0.85ms referer=None
+[I 00:18:02.356 NotebookApp] 302 GET /CFIDE/servermanager/ (128.114.129.7) 0.22ms
+[W 00:18:02.358 NotebookApp] 404 GET /CFIDE/servermanager (128.114.129.7) 0.85ms referer=None
+[I 00:18:02.372 NotebookApp] 302 GET /CFIDE/services/ (128.114.129.7) 0.22ms
+[W 00:18:02.374 NotebookApp] 404 GET /CFIDE/services (128.114.129.7) 0.84ms referer=None
+[I 00:18:02.388 NotebookApp] 302 GET /CFIDE/websocket/ (128.114.129.7) 0.22ms
+[W 00:18:02.391 NotebookApp] 404 GET /CFIDE/websocket (128.114.129.7) 0.85ms referer=None
+[I 00:18:02.405 NotebookApp] 302 GET /CFIDE/wizards/common/ (128.114.129.7) 0.22ms
+[W 00:18:02.407 NotebookApp] 404 GET /CFIDE/wizards/common (128.114.129.7) 0.86ms referer=None
+[W 00:18:02.423 NotebookApp] 404 GET /CFIDE/wizards/common/utils.cfc?method=verifyldapserver&vserver=localhost&vport=22&vstart=&vusername=&vpassword=&returnformat=json (128.114.129.7) 0.92ms referer=None
+[W 00:18:02.440 NotebookApp] 404 POST /cgi/login (128.114.129.7) 1.01ms referer=None
+[W 00:18:02.456 NotebookApp] 404 POST /data/login (128.114.129.7) 1.03ms referer=None
+[W 00:18:02.470 NotebookApp] 404 GET /_vti_bin/_vti_aut/author.dll (128.114.129.7) 1.00ms referer=None
+[W 00:18:02.485 NotebookApp] 404 GET /common/index.jsf (128.114.129.7) 0.86ms referer=None
+[W 00:18:02.501 NotebookApp] 404 GET /scripts/tools/newdsn.exe?driver=Microsoft%2BAccess%2BDriver%2B%28*.mdb%29&dsn=Web%20SQL&dbq=c:%5Ctemp%5Cxyz.mdb&newdb=CREATE_DB&attr= (128.114.129.7) 2.35ms referer=None
+[W 00:18:02.515 NotebookApp] 404 GET /AdvWorks/equipment/catalog_type.asp?ProductType=|shell(%22c:cmd.exe%22)| (128.114.129.7) 0.86ms referer=None
+[W 00:18:02.530 NotebookApp] 404 GET /ASPSamp/AdvWorks/equipment/catalog_type.asp?ProductType=|shell(%22c:cmd.exe%22)| (128.114.129.7) 0.88ms referer=None
+[W 00:18:02.545 NotebookApp] 404 GET /~bin/true (128.114.129.7) 0.86ms referer=None
+[W 00:18:02.560 NotebookApp] 404 POST /cgi-bin/home.tcl (128.114.129.7) 1.04ms referer=None
+[W 00:18:02.575 NotebookApp] 404 HEAD http://www.google.com:80/ (128.114.129.7) 0.82ms referer=None
+[W 00:18:02.590 NotebookApp] 404 GET /cgi-bin/php.ini (128.114.129.7) 0.87ms referer=None
+[W 00:18:02.605 NotebookApp] 404 POST /xmlrpc.php (128.114.129.7) 1.00ms referer=None
+[W 00:18:02.608 NotebookApp] 404 POST /serendipity/serendipity_xmlrpc.php (128.114.129.7) 0.95ms referer=None
+[W 00:18:02.612 NotebookApp] 404 POST /serendipity/xmlrpc.php (128.114.129.7) 1.04ms referer=None
+[W 00:18:02.615 NotebookApp] 404 POST /drupal/xmlrpc.php (128.114.129.7) 0.97ms referer=None
+[W 00:18:02.618 NotebookApp] 404 POST /bblog/xmlrpc.php (128.114.129.7) 0.95ms referer=None
+[W 00:18:02.621 NotebookApp] 404 POST /blogs/xmlsrv/xmlrpc.php (128.114.129.7) 0.98ms referer=None
+[W 00:18:02.625 NotebookApp] 404 POST /xmlsrv/xmlrpc.php (128.114.129.7) 0.95ms referer=None
+[W 00:18:02.628 NotebookApp] 404 POST /xmlrpc/xmlrpc.php (128.114.129.7) 0.96ms referer=None
+[W 00:18:02.631 NotebookApp] 404 POST /script/xmlrpc.php (128.114.129.7) 0.95ms referer=None
+[I 00:18:02.649 NotebookApp] 302 GET /phpmyadmin/ (128.114.129.7) 0.22ms
+[W 00:18:02.651 NotebookApp] 404 GET /phpmyadmin (128.114.129.7) 0.89ms referer=None
+[W 00:18:02.667 NotebookApp] 404 GET /README.txt (128.114.129.7) 0.85ms referer=None
+[I 00:18:02.681 NotebookApp] 302 GET /jkstatus/ (128.114.129.7) 0.22ms
+[W 00:18:02.684 NotebookApp] 404 GET /jkstatus (128.114.129.7) 0.86ms referer=None
+[W 00:18:02.698 NotebookApp] 405 TRACE / (128.114.129.7) 0.24ms referer=None
+[W 00:18:02.712 NotebookApp] 405 TRACK / (128.114.129.7) 0.25ms referer=None
+[W 00:18:02.726 NotebookApp] 404 GET /crossdomain.xml (128.114.129.7) 0.83ms referer=None
+[W 00:18:02.743 NotebookApp] 404 GET /c99.php (128.114.129.7) 0.87ms referer=None
+[W 00:18:31.935 NotebookApp] SSL Error on 12 ('128.114.129.7', 42984): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:18:31.950 NotebookApp] SSL Error on 12 ('128.114.129.7', 42985): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:18:32.072 NotebookApp] SSL Error on 12 ('128.114.129.7', 42986): [SSL: NO_SHARED_CIPHER] no shared cipher (_ssl.c:590)
+[W 00:18:32.078 NotebookApp] SSL Error on 12 ('128.114.129.7', 42987): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:18:32.082 NotebookApp] SSL Error on 12 ('128.114.129.7', 42988): [SSL: NO_SHARED_CIPHER] no shared cipher (_ssl.c:590)
+[W 00:18:32.268 NotebookApp] SSL Error on 12 ('128.114.129.7', 42989): [SSL: CCS_RECEIVED_EARLY] ccs received early (_ssl.c:590)
+[W 00:18:32.269 NotebookApp] SSL Error on 12 ('128.114.129.7', 42990): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:590)
+[W 00:18:32.275 NotebookApp] SSL Error on 12 ('128.114.129.7', 42991): [SSL: NO_SHARED_CIPHER] no shared cipher (_ssl.c:590)
+[I 18:10:34.049 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[I 18:10:34.424 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:35.280 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:35.539 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:35.767 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:40.433 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:41.285 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:41.543 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:41.785 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:43.087 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:46.092 NotebookApp] KernelRestarter: restarting kernel (2/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:46.438 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:47.290 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:10:47.547 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[I 18:10:47.790 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:11:07.097 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:11:07.442 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:11:08.293 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:11:08.551 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:11:08.793 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 18:11:29.297 NotebookApp] KernelRestarter: restarting kernel (1/5)
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
