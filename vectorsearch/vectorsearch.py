@@ -75,22 +75,21 @@ def FindBusinessSimilarityLDA(rev_topic, business_ids=None, top_n=10):
         LDA cosine similarites for the top_n businesses. 
     '''
     
-    # TODO: NEED TO LIMIT SEARCH TO BUSINESS_IDS. 
-    # Find the indices of businesses 
-#     if business_ids is None:
-#         bus_indices = bus_lda_topics.business_id.index
-# #     else: 
-# #         bus_ids = 
 
+    # By default select all businesses. 
+    idx = np.arange(0, len(bus_lda_topics.business_id.values))
+    # If passed a list of relevant IDs, use that.
+    if business_ids is not None:
+        idx = np.where(bus_lda_topics.business_id.isin(business_ids))[0]
 
     # Normalize the input review topic 
     rev_topic_normed = rev_topic/np.sqrt(np.dot(rev_topic,rev_topic))
     # Get cosine product
     bus_similarities = np.dot(normed_topic_vecs, rev_topic_normed)
     # Find the top_n entries. 
-    top_n_topic_indices = bus_similarities.argsort()[-top_n:][::-1]
+    top_n_topic_indices = bus_similarities[idx].argsort()[-top_n:][::-1]
     # Return top_n business_ids and simlarities.
-    return bus_lda_topics.business_id.iloc[top_n_topic_indices].values,  bus_similarities[top_n_topic_indices] 
+    return bus_lda_topics.business_id.values[idx][top_n_topic_indices],  bus_similarities[top_n_topic_indices] 
 
 
 

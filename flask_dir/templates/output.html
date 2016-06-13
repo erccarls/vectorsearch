@@ -20,7 +20,9 @@
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <!-- <link href="https://github.com/silviomoreto/bootstrap-select/blob/master/dist/css/bootstrap-select.min.css" rel="stylesheet"> -->
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
 
 
    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
@@ -138,18 +140,22 @@
               </div>
 
             <div id="right_col">
-              <form  action="/output" method="GET">
+              <form  action="/output" method="POST">
+                
+                <div class="form-group">
                 <label for="sel_city">Select City:</label>
                 <div align="center" style="width:auto; margin:0 auto;">
-                  <select class="form-control" id="sel_city" data-live-search="true" style="width:auto;">
-                      <option>San Francisco, CA</option>
-                      <option>Las Vegas, NV</option>
-                      <option>Pheonix, AZ</option>
+                  <!-- <select class="form-control" id="sel_city" name="sel_city" data-live-search="true" style="width:auto;"> -->
+                  <select class="selectpicker" data-live-search="true" id="sel_city" name="sel_city" style="width:auto;">
+                      <option selected>San Francisco, CA</option>
+                      {% for city_state in city_state_list %}
+                        <option>{{ city_state['city'] }}</option>
+                      {% endfor %}
+<!--                       <option>Las Vegas, NV</option>
+                      <option>Pheonix, AZ</option> -->
                   </select>
                 </div>
                 <br>
-
-                <div class="form-group">
                   <textarea rows="6" cols="50" id="text_review" name='text_review'>They had great beer and wine! They even allow dogs. </textarea>
                 </div>
                 
@@ -190,19 +196,17 @@
 
     <div class="container">
 
-
-
-      <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-      <script src="static/js/bootstrap.min.js"></script>
-
-
      </div><!-- /.container -->
 
+
+   $('selectpicker').selectpicker();
 
    <!-- Bootstrap core JavaScript
    ================================================== -->
    <!-- Placed at the end of the document so the pages load faster -->
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
    <script src="static/js/bootstrap.min.js"></script>
+       <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
 </body>
 </html>

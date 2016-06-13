@@ -5664,3 +5664,26 @@ path /data/insight_yelp/input/
 [I 18:11:29.297 NotebookApp] KernelRestarter: restarting kernel (1/5)
 /home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
   "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:19:56.625 NotebookApp] Kernel started: 52e7c270-00a2-44c8-b0d5-3cc213941737
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 11:21:56.660 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:25:56.648 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:27:25.387 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:27:35.798 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:29:57.037 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:33:56.672 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:34:18.272 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:34:33.703 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:34:49.060 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:35:57.025 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:37:45.196 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 11:37:49.537 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 12:11:56.942 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 13:02:53.166 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 13:03:12.421 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 13:03:56.979 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 13:04:03.516 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 13:04:15.882 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 13:05:56.979 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:34:48.052 NotebookApp] Saving file at /notebooks/02 - NLTK Cleaning Reviews.ipynb

@@ -8,7 +8,7 @@ from flask import request
 import numpy as np 
 import pandas as pd
 import folium
-
+import pickle
 
 import os 
 path = "/".join(os.path.realpath(__file__).split("/")[:-2])
@@ -30,13 +30,15 @@ con = psycopg2.connect(database = dbname, user = user)
 
 
 
+city_state_list = sorted(pickle.load(open(path+'/output/city_state_list.pickle', 'rb')))[1:]
 
 
 
 @app.route('/')
 @app.route('/index')
 def index():
-    return render_template("input.html")
+    city_state_dict = [dict(city=city) for city in city_state_list]
+    return render_template("input.html", city_state_list=city_state_dict)
     #return render_template("index.html",
     #   title = 'Home', user = { 'nickname': 'Miguel' },
     #   )
@@ -59,7 +61,8 @@ def cesareans_page_fancy():
 
 @app.route('/input')
 def cesareans_input():
-    return render_template("input.html")
+    city_state_list = [dict(city=city) for city in city_state_list]
+    return render_template("input.html", city_state_list=city_state_list)
 
 
 # @app.route('/output')
@@ -78,13 +81,18 @@ def cesareans_input():
 #   # return render_template("output.html", births = births, the_result = the_result)
 #   return render_template("output.html")
 
-@app.route('/output')
+def get_bus_ids_city_state(city, state):
+    return list(df_businesses.business_id[(df_businesses.city.str.lower()==city.lower()) 
+                                     & (df_businesses.state.str.lower()==state.lower())].values)
+
+
+@app.route('/output', )
 def cesareans_output():
   #pull 'birth_month' from input field and store it
   
   review_text = request.args.get('text_review')
-
-
+  city_state_dict = [dict(city=city) for city in city_state_list]
+  city, state = request.args.get('sel_city').split(",")
   # SearchBusinesses(review)
   top_n = 5 # Number of topics to choose for top of list. 
   rev_topic = np.array(vectorsearch.GetDocTopic(review_text))
@@ -92,8 +100,11 @@ def cesareans_output():
   top_n_topics = rev_topic.argsort()[-top_n:][::-1]
   # print rev_topic # Print the topic vector. 
 
+
+  bus_ids_in_city_state = get_bus_ids_city_state(city.strip(), state.strip())
+
   topic_listings = [" ".join(vectorsearch.GetTopicWords(topic, ))  for topic in top_n_topics]
-  top_bus_id, top_bus_sim = vectorsearch.FindBusinessSimilarityLDA(rev_topic, business_ids=None)
+  top_bus_id, top_bus_sim = vectorsearch.FindBusinessSimilarityLDA(rev_topic, business_ids=bus_ids_in_city_state)
   #print topic_listings
 
   # Visualize the search query.....
@@ -124,15 +135,15 @@ def cesareans_output():
   # Generate map....
   map_path = img_path[:-4]+'.html'
   print "PATH TO MAP", map_path
-  map_osm = folium.Map(location=[centroid_lat, centroid_lon], zoom_start=13, detect_retina=True, 
+  map_osm = folium.Map(location=[centroid_lat, centroid_lon], zoom_start=12, detect_retina=True, 
                     tiles='http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', attr='Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.')               
   map_osm.add_tile_layer(tile_url='http://tile.stamen.com/toner-labels/{z}/{x}/{y}.png', attr='labels',
                          active=True, overlay=True)
 
   for business in top_businesses:
 
-    html = r'''<div align="center"> <font size="5"><b>'''+business['bus_name']+'''</b></font> <br><img src="'''+business['image_path']+'''" alt="NOPE" style="width:200px;height:200px;"></div>'''
-    iframe = folium.element.IFrame(html=html,width=250,height=250)
+    html = r'''<div align="center"> <font size="4"><b>'''+business['bus_name']+'''</b></font> <br><img src="'''+business['image_path']+'''" alt="NOPE" style="width:250px;height:250px;"></div>'''
+    iframe = folium.element.IFrame(html=html,width=300,height=300)
     popup = folium.Popup(html=iframe)
     
     icon = folium.Icon(color="blue", icon="ok")
@@ -145,7 +156,8 @@ def cesareans_output():
 
 
   return render_template("output.html", review_text=review_text, topic_listings=topic_listings, top_businesses=top_businesses,
-                          image_path_query='http://planck.ucsc.edu/'+img_path_query, map_path='http://planck.ucsc.edu/'+map_path)
+                          image_path_query='http://planck.ucsc.edu/'+img_path_query, map_path='http://planck.ucsc.edu/'+map_path,
+                          city_state_list=city_state_dict)
   #return render_template("output.html", births=[1,5,2,], the_results=" ")
 
 
