@@ -10,6 +10,10 @@ import nltk
 whitespace_tokenizer = WhitespaceTokenizer()
 wnl = WordNetLemmatizer()
 
+from spacy.en import English
+nlp = English()
+
+
 # This is for multi-word-phrases. 
 MWE = [] 
 path = "/".join(os.path.realpath(__file__).split("/")[:-2]) + '/input/'
@@ -72,9 +76,13 @@ def clean_nltk(string):
     tokenized: Tokenized cleaned sentence
     '''
     text_cleaned = clean_text(string)
+
+    noun_chunks = map(lambda x: get_noun_chunks(x.decode('unicode-escape')), text_clean)
+    noun_chunks = [x for x in noun_chunks if x != []]
+
     # Multiword expression tokenizer
     text_tokenize = whitespace_tokenizer.tokenize(text_cleaned)
-    text_tokenize = MWE_tokenizer.tokenize(text_tokenize)
+    #text_tokenize = MWE_tokenizer.tokenize(text_tokenize)
 
     # remove stop words
     text_filtered = [word for word in text_tokenize if word not in stops]
@@ -84,7 +92,8 @@ def clean_nltk(string):
     # unstem with the simplest word.  This helps readability of results...
     text_stemmed = [wnl.lemmatize(word) for word in text_filtered]
     
-    #return text_stemmed
+    noun_chunks = map(lambda x: get_noun_chunks(x), text_stemmed)
+    text_stemmed = text_stemmed + noun_chunks
     return text_stemmed
 
 
@@ -119,10 +128,13 @@ def clean_and_tokenize(text):
     sentence = sent_detector.tokenize(unidecode(text))
     # Clean text: (remove) Remove extra puncuations marks...
     text_clean = map(clean_text, sentence)
-
+    
+    noun_chunks = map(lambda x: get_noun_chunks(x.decode('unicode-escape')), text_clean)
+    noun_chunks = [x for x in noun_chunks if x != []]
+    
     # Multiword expression tokenizer
     text_tokenize = map(lambda x: whitespace_tokenizer.tokenize(x), text_clean)
-    text_tokenize = map(lambda x: MWE_tokenizer.tokenize(x), text_tokenize)
+    #text_tokenize = map(lambda x: MWE_tokenizer.tokenize(x), text_tokenize)
     
     # remove stop words
     text_filtered = map(lambda x: [word for word in x if word not in stops], text_tokenize)
@@ -133,6 +145,10 @@ def clean_and_tokenize(text):
 #                                   for word in x], text_filtered)
     text_stemmed = map(lambda x: [wnl.lemmatize(word) for word in x], text_filtered)
     #text_stemmed = map(lambda x: [stemmer.stem(word) for word in x], text_filtered)
+
+    noun_chunks = map(lambda x: get_noun_chunks(x), text_stemmed)
+    text_stemmed = text_stemmed + noun_chunks
+
     return text_stemmed
 
 

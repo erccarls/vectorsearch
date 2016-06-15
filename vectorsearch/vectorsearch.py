@@ -116,10 +116,14 @@ def FindBusinessSimilarityLDA(rev_topic, business_ids=None, top_n=10, method='co
         #print "Using Jenson-Shannon Divergence"
         # This is giving really bad results right now.....
         bus_similarities = np.array([JSD(normed_topic_vec, rev_topic_normed) for normed_topic_vec in normed_topic_vecs])
+    elif method=='Hel':
+        "Using Hellinger Distance."
+        bus_similarities = np.array([hellinger1(normed_topic_vec, rev_topic_normed) for normed_topic_vec in normed_topic_vecs])
     else:
         #print "Using KL Divergence"
         # This is giving really bad results right now.....
         bus_similarities = np.array([entropy(normed_topic_vec, rev_topic_normed) for normed_topic_vec in normed_topic_vecs])
+    
     # Find the top_n entries. 
     top_n_topic_indices = bus_similarities[idx].argsort()[-top_n:][::-1]
     # Return top_n business_ids and simlarities.
@@ -190,3 +194,9 @@ def JSD(P, Q):
     _Q = Q / norm(Q, ord=1)
     _M = 0.5 * (_P + _Q)
     return 0.5 * (entropy(_P, _M) + entropy(_Q, _M))
+
+
+
+_SQRT2 = np.sqrt(2)     # sqrt(2) with default precision np.float64
+def hellinger1(p, q):
+    return norm(np.sqrt(p) - np.sqrt(q)) / _SQRT2
