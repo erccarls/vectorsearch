@@ -42,7 +42,7 @@ from gensim.models.doc2vec import TaggedDocument
 import numpy as np
 from gensim import utils
 from gensim.models.doc2vec import DocvecsArray as DVA
-
+import pandas as pd
 
 business = pd.read_pickle('../input/yelp_academic_dataset_business.pickle')
 

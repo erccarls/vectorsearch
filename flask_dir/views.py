@@ -9,7 +9,7 @@ import numpy as np
 import pandas as pd
 import folium
 import pickle
-
+import time
 import os 
 path = "/".join(os.path.realpath(__file__).split("/")[:-2])
 # print 'path', path
@@ -19,14 +19,7 @@ import uuid
 import sys
 sys.path.append('./vectorsearch/')
 import vectorsearch
-df_businesses = pd.read_pickle(path+'/input/yelp_academic_dataset_business.pickle')
-
-user = 'carlson' #add your username here (same as previous postgreSQL)            
-host = 'localhost'
-dbname = 'birth_db'
-db = create_engine('postgres://%s%s/%s'%(user,host,dbname))
-con = None
-con = psycopg2.connect(database = dbname, user = user)
+df_businesses = pd.read_pickle(path+'/input/yelp_academic_dataset_business_SF.pickle')
 
 
 
@@ -46,17 +39,6 @@ def index():
 @app.route('/db')
 def birth_page():
   return render_template("stylish_test.html")
-
-@app.route('/db_fancy')
-def cesareans_page_fancy():
-    sql_query = """
-               SELECT index, attendant, birth_month FROM birth_data_table WHERE delivery_method='Cesarean';
-                """
-    query_results=pd.read_sql_query(sql_query,con)
-    births = []
-    for i in range(0,query_results.shape[0]):
-        births.append(dict(index=query_results.iloc[i]['index'], attendant=query_results.iloc[i]['attendant'], birth_month=query_results.iloc[i]['birth_month']))
-    return render_template('cesareans.html',births=births)
 
 
 @app.route('/input')
@@ -104,7 +86,11 @@ def cesareans_output():
   bus_ids_in_city_state = get_bus_ids_city_state(city.strip(), state.strip())
 
   topic_listings = [" ".join(vectorsearch.GetTopicWords(topic, ))  for topic in top_n_topics]
-  top_bus_id, top_bus_sim = vectorsearch.FindBusinessSimilarityLDA(rev_topic, business_ids=bus_ids_in_city_state)
+
+  start = time.time()
+
+  top_bus_id, top_bus_sim = vectorsearch.FindBusinessSimilarityLDA(rev_topic, business_ids=bus_ids_in_city_state, method='cos')
+  print "Similarity took", time.time()-start, "seconds" 
   #print topic_listings
 
   # Visualize the search query.....
@@ -134,8 +120,8 @@ def cesareans_output():
 
   # Generate map....
   map_path = img_path[:-4]+'.html'
-  print "PATH TO MAP", map_path
-  map_osm = folium.Map(location=[centroid_lat, centroid_lon], zoom_start=12, detect_retina=True, 
+  print "\nPATH TO MAP, lat, lon", map_path, '\n', centroid_lat, centroid_lon
+  map_osm = folium.Map(location=[centroid_lat, centroid_lon], zoom_start=13, detect_retina=True, 
                     tiles='http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', attr='Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.')               
   map_osm.add_tile_layer(tile_url='http://tile.stamen.com/toner-labels/{z}/{x}/{y}.png', attr='labels',
                          active=True, overlay=True)
