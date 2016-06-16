@@ -112,17 +112,19 @@ def FindBusinessSimilarityLDA(rev_topic, business_ids=None, top_n=10, method='co
         # Get cosine product
         #print "Using Cosine Similarity"
         bus_similarities = np.dot(normed_topic_vecs, rev_topic_normed)
+    elif method=='Hel':
+        # Helanger Distance....
+        # Normalize PDFs to 1 not length.....
+        normed_topic_vecs = (normed_topic_vecs.T/np.sum(normed_topic_vecs, axis=1)).T
+        # Negative because unlike the cos similarity we minimize the distance....
+        bus_similarities = -np.linalg.norm(np.sqrt(normed_topic_vecs) - np.sqrt(rev_topic_normed), axis=1) / np.sqrt(2)
     elif method=='JSD': 
         #print "Using Jenson-Shannon Divergence"
-        # This is giving really bad results right now.....
-        bus_similarities = np.array([JSD(normed_topic_vec, rev_topic_normed) for normed_topic_vec in normed_topic_vecs])
-    elif method=='Hel':
-        "Using Hellinger Distance."
-        bus_similarities = np.array([hellinger1(normed_topic_vec, rev_topic_normed) for normed_topic_vec in normed_topic_vecs])
+        normed_topic_vecs = (normed_topic_vecs.T/np.sum(normed_topic_vecs, axis=1)).T
+        bus_similarities = -JSD(normed_topic_vecs, rev_topic_normed)
     else:
-        #print "Using KL Divergence"
-        # This is giving really bad results right now.....
-        bus_similarities = np.array([entropy(normed_topic_vec, rev_topic_normed) for normed_topic_vec in normed_topic_vecs])
+        normed_topic_vecs = (normed_topic_vecs.T/np.sum(normed_topic_vecs, axis=1)).T
+        bus_similarities = -np.array([entropy(normed_topic_vec, rev_topic_normed) for normed_topic_vec in normed_topic_vecs])
     
     # Find the top_n entries. 
     top_n_topic_indices = bus_similarities[idx].argsort()[-top_n:][::-1]
@@ -190,13 +192,8 @@ def visualize_topic(topic_vector, num_topics=6, save_path=None, top_topics=None)
 
 
 def JSD(P, Q):
-    _P = P / norm(P, ord=1)
+    _P = P / norm(P, ord=1, axis=1)
     _Q = Q / norm(Q, ord=1)
     _M = 0.5 * (_P + _Q)
     return 0.5 * (entropy(_P, _M) + entropy(_Q, _M))
 
-
-
-_SQRT2 = np.sqrt(2)     # sqrt(2) with default precision np.float64
-def hellinger1(p, q):
-    return norm(np.sqrt(p) - np.sqrt(q)) / _SQRT2
