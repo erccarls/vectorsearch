@@ -13,10 +13,10 @@ from random import shuffle
 
 n_topics=30
 n_features=10000
-max_df=.75
+max_df=.85
 min_df=3
 max_iter=10
-alpha=6./n_topics
+alpha=15./n_topics
 
 
 # Load the bar review dataset 

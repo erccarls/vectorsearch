@@ -22,7 +22,7 @@
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
     <!-- <link href="https://github.com/silviomoreto/bootstrap-select/blob/master/dist/css/bootstrap-select.min.css" rel="stylesheet"> -->
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
 
 
    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
@@ -57,6 +57,35 @@
    padding-top: 10%;
    padding-left:0px;
  }
+
+#wrap_map {
+
+   width:100%;
+    min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 0 -30px 0;
+}
+#left_col_map {
+   float:left;
+   width:50%;
+   height:100%;
+}
+#right_col_map {
+   float:right;
+   width:50%;
+   min-height: 100%;
+   height: auto !important;
+  margin: 0 0 -30px 0;
+ }
+iframe {
+    display: block;
+    background: #000;
+    border: none;
+    height: calc(100vh - 30px);
+    width: 100%;
+}
+
 </style>
 
    
@@ -120,8 +149,51 @@
     </header> -->
 
 <section id="about" class="about">
-  <div padding-top: 5%;>
-    <iframe width="100%" height="600" frameborder="0" src={{map_path}}></iframe>
+
+  <div id="wrap_map">
+      <div id="left_col_map">
+            <table class="table table-hover">
+            {% for top_bus in top_businesses %}
+            <tr><td><h4>{{ top_bus['bus_name']}}</h4><br>Test2</td>
+              <!-- <td>{{top_bus['image_path']}}</td></tr> -->
+              <td><img src={{top_bus['image_path']}} alt="uh oh!" style="width:250px;height:250px;"></td></tr>
+            {% endfor %}
+            </table>
+      </div>
+      <div id="right_col_map">
+          <iframe width="100%" frameborder="0" src={{map_path}}></iframe>
+
+          <form  action="/output" method="GET">
+                
+                <div class="form-group" align="center">
+                <label for="sel_city">Select City:</label>
+                <div class="btn-group bootstrap-select dropdown" align="center" style="width:auto; margin:0 auto;">
+                    <select class="selectpicker" data-live-search="true" id="sel_city" name="sel_city" style="width:auto;">
+                      <option selected>San Francisco, CA</option>
+                      {% for city_state in city_state_list %}
+                        <option>{{ city_state['city'] }}</option>
+                      {% endfor %}
+<!--                       <option>Las Vegas, NV</option>
+                      <option>Pheonix, AZ</option> -->
+                  </select>
+                </div>
+                <br>
+                  <textarea align="center" rows="6" cols="50" id="text_review" name='text_review'>They had great beer and wine! They even allow dogs. </textarea>
+                </div>
+                
+                <div align="center">
+                  <button type="submit" class="btn btn-default btn-lg" width="300px" 
+                          style:"padding: 18px 24px;font-size: 24px;">Search</button>
+                </div>
+
+              </form>
+
+      </div>
+
+
+
+  <div <div align="center" style="width:auto; margin:0 auto;padding-top:2%;"  >
+    <iframe width="80%" height="640" frameborder="0" src={{map_path}}></iframe>
   </div> 
 </section>
 
@@ -170,13 +242,15 @@
         </div>
     </section>    
     
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="static/js/bootstrap.min.js"></script>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+   <script src="static/js/bootstrap.min.js"></script>
+       <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
 </div> 
 
 
 
-    <div class="container">
+<!--     <div class="container">
       <div class="stylish-portfolio">
         <h3>Here are bars matching your style...</h3>
         <br>
@@ -186,25 +260,107 @@
       <tr><th>Business Name</th><th>Business ID</th><th>Similarity</th></tr>
       {% for top_bus in top_businesses %}
       <tr><td>{{ top_bus['bus_name']}}</td><td>{{ top_bus['bus_id'] }}</td><td>{{ top_bus['similarity']}}</td>
-        <!-- <td>{{top_bus['image_path']}}</td></tr> -->
+        <!-- <td>{{top_bus['image_path']}}</td></tr>
         <td><img src={{top_bus['image_path']}} alt="uh oh!" style="width:250px;height:250px;"></td></tr>
       {% endfor %}
       </table>
 
 
-     </div><!-- /.container -->
+     </div><!-- /.container
 
     <div class="container">
 
-     </div><!-- /.container -->
+     </div><!-- /.container --> --> --> -->
 
 
    <!-- Bootstrap core JavaScript
    ================================================== -->
    <!-- Placed at the end of the document so the pages load faster -->
-   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-   <script src="static/js/bootstrap.min.js"></script>
-       <!-- Latest compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
+   // <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+   // <script src="static/js/bootstrap.min.js"></script>
+   //     <!-- Latest compiled and minified JavaScript -->
+   //  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
+
+
+<div id="map"></div>
+    <script>
+
+      // This example requires the Visualization library. Include the libraries=visualization
+      // parameter when you first load the API. For example:
+      // <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=visualization">
+
+      var map, heatmap;
+
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 13,
+          center: {lat: 37.775, lng: -122.434},
+          mapTypeId: google.maps.MapTypeId.SATELLITE
+        });
+
+        heatmap = new google.maps.visualization.HeatmapLayer({
+          data: getPoints(),
+          map: map
+        });
+      }
+
+      function toggleHeatmap() {
+        heatmap.setMap(heatmap.getMap() ? null : map);
+      }
+
+      function changeGradient() {
+        var gradient = [
+          'rgba(0, 255, 255, 0)',
+          'rgba(0, 255, 255, 1)',
+          'rgba(0, 191, 255, 1)',
+          'rgba(0, 127, 255, 1)',
+          'rgba(0, 63, 255, 1)',
+          'rgba(0, 0, 255, 1)',
+          'rgba(0, 0, 223, 1)',
+          'rgba(0, 0, 191, 1)',
+          'rgba(0, 0, 159, 1)',
+          'rgba(0, 0, 127, 1)',
+          'rgba(63, 0, 91, 1)',
+          'rgba(127, 0, 63, 1)',
+          'rgba(191, 0, 31, 1)',
+          'rgba(255, 0, 0, 1)'
+        ]
+        heatmap.set('gradient', heatmap.get('gradient') ? null : gradient);
+      }
+
+      function changeRadius() {
+        heatmap.set('radius', heatmap.get('radius') ? null : 20);
+      }
+
+      function changeOpacity() {
+        heatmap.set('opacity', heatmap.get('opacity') ? null : 0.2);
+      }
+
+      // Heatmap data: 500 Points
+      function getPoints() {
+        return [
+          new google.maps.LatLng(37.782551, -122.445368),
+          new google.maps.LatLng(37.782745, -122.444586),
+          new google.maps.LatLng(37.782842, -122.443688),
+          new google.maps.LatLng(37.782919, -122.442815),
+          new google.maps.LatLng(37.782992, -122.442112),
+          new google.maps.LatLng(37.783100, -122.441461),
+          new google.maps.LatLng(37.783206, -122.440829),
+          new google.maps.LatLng(37.783273, -122.440324),
+          new google.maps.LatLng(37.783316, -122.440023),
+          new google.maps.LatLng(37.783357, -122.439794),
+          new google.maps.LatLng(37.783371, -122.439687),
+          new google.maps.LatLng(37.783368, -122.439666),
+        ];
+      }
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsTw9mRQRsE3wvqpOVYJJwd3RK59SEWrY&libraries=visualization&callback=initMap">
+    </script>
+
+
+
+
+
 </body>
 </html>

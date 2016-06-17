@@ -27,6 +27,9 @@ bus_lda = LDA.LoadLDAModel(path+'/output/LDA_model_bus.pickle')
 bus_lda_topics = pd.read_pickle(path+'/output/business_LDA_vectors.pickle')
 normed_topic_vecs = np.vstack(map(lambda topic_vec: topic_vec/np.sqrt(np.dot(topic_vec, topic_vec)),
                         bus_lda_topics.topic_vector))
+# Normalize PDF!!!
+normed_topic_vecs_ = (normed_topic_vecs.T/np.sum(normed_topic_vecs, axis=1)).T
+
 from matplotlib import pyplot as plt
 
 
@@ -74,7 +77,7 @@ def GetTopicWords(topic_idx, n_top_words=10):
     return [tf_feature_names[i] for i in topic.argsort()[:-n_top_words - 1:-1]]
 
 
-def FindBusinessSimilarityLDA(rev_topic, business_ids=None, top_n=10, method='cos'):
+def FindBusinessSimilarityLDA(rev_topic, business_ids=None, top_n=10, method='Hel'):
     '''
     Get the cosine similarity (dot) of the review topic vector onto
     each business contained in business_ids
@@ -106,24 +109,22 @@ def FindBusinessSimilarityLDA(rev_topic, business_ids=None, top_n=10, method='co
         idx = np.where(bus_lda_topics.business_id.isin(business_ids))[0]
 
     # Normalize the input review topic 
-    rev_topic_normed = rev_topic/np.sqrt(np.dot(rev_topic,rev_topic))
+    #rev_topic_normed = rev_topic/np.sqrt(np.dot(rev_topic,rev_topic))
+    rev_topic_normed = rev_topic/np.sum(rev_topic) # Normalize PDF 
     
-    if method=='cos':
-        # Get cosine product
-        #print "Using Cosine Similarity"
-        bus_similarities = np.dot(normed_topic_vecs, rev_topic_normed)
-    elif method=='Hel':
+    # if method=='cos':
+    #     # Get cosine product
+    #     #print "Using Cosine Similarity"
+    #     bus_similarities = np.dot(normed_topic_vecs, rev_topic_normed)
+    if method=='Hel':
         # Helanger Distance....
-        # Normalize PDFs to 1 not length.....
-        normed_topic_vecs = (normed_topic_vecs.T/np.sum(normed_topic_vecs, axis=1)).T
         # Negative because unlike the cos similarity we minimize the distance....
         bus_similarities = -np.linalg.norm(np.sqrt(normed_topic_vecs) - np.sqrt(rev_topic_normed), axis=1) / np.sqrt(2)
     elif method=='JSD': 
         #print "Using Jenson-Shannon Divergence"
-        normed_topic_vecs = (normed_topic_vecs.T/np.sum(normed_topic_vecs, axis=1)).T
         bus_similarities = -JSD(normed_topic_vecs, rev_topic_normed)
     else:
-        normed_topic_vecs = (normed_topic_vecs.T/np.sum(normed_topic_vecs, axis=1)).T
+        normed_topic_vecs_ = (normed_topic_vecs.T/np.sum(normed_topic_vecs, axis=1)).T
         bus_similarities = -np.array([entropy(normed_topic_vec, rev_topic_normed) for normed_topic_vec in normed_topic_vecs])
     
     # Find the top_n entries. 

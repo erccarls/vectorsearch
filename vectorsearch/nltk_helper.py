@@ -40,6 +40,18 @@ sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
 whitespace_tokenizer = WhitespaceTokenizer()
 
 
+def get_noun_chunks(words):
+    '''
+    Get noun chunks from spacy's library.  
+
+    words : A list of sentences where each sentence is a list of tokens. 
+    '''
+    doc = nlp(u". ".join(words)) # Join the sentences. back into natural text and process with spacy.
+    # Pull out chunks and add them.
+    chunks = [u"-".join(chunk.orth_.split()) for chunk in doc.noun_chunks if len(chunk.orth_.split())>1]
+    return chunks
+
+
 def clean_text(text):
     """Clean and lower string.  Cleaning removes all punctuation
     Parameters
@@ -77,8 +89,8 @@ def clean_nltk(string):
     '''
     text_cleaned = clean_text(string)
 
-    noun_chunks = map(lambda x: get_noun_chunks(x.decode('unicode-escape')), text_clean)
-    noun_chunks = [x for x in noun_chunks if x != []]
+    noun_chunks = map(lambda x: get_noun_chunks(x), [[text_cleaned,],])
+    noun_chunks = [x for x in noun_chunks if x != []][0]
 
     # Multiword expression tokenizer
     text_tokenize = whitespace_tokenizer.tokenize(text_cleaned)
@@ -92,7 +104,6 @@ def clean_nltk(string):
     # unstem with the simplest word.  This helps readability of results...
     text_stemmed = [wnl.lemmatize(word) for word in text_filtered]
     
-    noun_chunks = map(lambda x: get_noun_chunks(x), text_stemmed)
     text_stemmed = text_stemmed + noun_chunks
     return text_stemmed
 
@@ -129,7 +140,7 @@ def clean_and_tokenize(text):
     # Clean text: (remove) Remove extra puncuations marks...
     text_clean = map(clean_text, sentence)
     
-    noun_chunks = map(lambda x: get_noun_chunks(x.decode('unicode-escape')), text_clean)
+    noun_chunks = map(lambda x: get_noun_chunks(x), [text_clean,])
     noun_chunks = [x for x in noun_chunks if x != []]
     
     # Multiword expression tokenizer
@@ -146,7 +157,6 @@ def clean_and_tokenize(text):
     text_stemmed = map(lambda x: [wnl.lemmatize(word) for word in x], text_filtered)
     #text_stemmed = map(lambda x: [stemmer.stem(word) for word in x], text_filtered)
 
-    noun_chunks = map(lambda x: get_noun_chunks(x), text_stemmed)
     text_stemmed = text_stemmed + noun_chunks
 
     return text_stemmed
