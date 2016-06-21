@@ -11,14 +11,13 @@ import LDA
 from random import shuffle
 
 
-n_topics=60
-n_features=10000
-max_df=.75
+n_topics=100
+n_features=5000
+max_df=.35
 min_df=2
-max_iter=5
-alpha=60./float(n_topics)
-eta = 30./float(n_topics)
-
+max_iter=10
+alpha=30./float(n_topics)
+eta = 10./float(n_topics)
 # Load the bar review dataset 
 review = pd.read_pickle('../output/bar_reviews_cleaned_and_tokenized_SF.pickle')
 review.head(5)

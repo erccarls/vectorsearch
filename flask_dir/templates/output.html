@@ -12,16 +12,14 @@
 
    
     <!-- Bootstrap Core CSS -->
-    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../static/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="../static/css/stylish-portfolio.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="../static/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-    <!-- <link href="https://github.com/silviomoreto/bootstrap-select/blob/master/dist/css/bootstrap-select.min.css" rel="stylesheet"> -->
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
 
 
@@ -42,21 +40,9 @@
  <body>
 
 <style type="text/css">
-#wrap {
-   width:900px;
-   margin:0 auto;
-}
-#left_col {
-   float:left;
-   width:450px;
-   padding-right:75px;
-}
-#right_col {
-   float:right;
-   width:450px;
-   padding-top: 10%;
-   padding-left:0px;
- }
+.column-left{ float: left; width: 40%; }
+.column-right{ float: right; width=100px; padding-top: 5px;}
+.column-center{ display: inline-block; width: 330px;  padding-top: 5px;}
 
 #wrap_map {
 
@@ -65,7 +51,7 @@
   height: auto !important;
   height: 100%;
   margin: 0 0 -30px 0;
-  padding-top: 25px;
+  padding-top: 0px;
 }
 #left_col_map {
    float:left;
@@ -87,46 +73,55 @@ iframe {
     height: calc(100vh - 30px);
     width: 100%;
 }
+    .wrapper{margin: 0 0 -30px 0;position:relative;}
+    .right,.left{width:50%; position:absolute;}
+    .right{right:0;}
+    .left{left:0;}
+</style>
+
+
 
 
 </style>
 
    
-   <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+   <div class="navbar navbar-inverse" role="navigation" style:"margin_bottom:0px;">
      <div class="container">
+      <div class="column-left">
        <div class="navbar-header">
-         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-           <span class="sr-only">Toggle navigation</span>
-           <span class="icon-bar"></span>
-           <span class="icon-bar"></span>
-           <span class="icon-bar"></span>
-         </button>
-         <a class="navbar-brand" href="#">Describe Your Bar</a>
-       </div>
-       <div class="collapse navbar-collapse">
-         <ul class="nav navbar-nav">
-           <li class="active"><a href="#">Home</a></li>
-           <li><a href="#about">About</a></li>
-           <li><a href="#contact">Contact</a></li>
-         </ul>
-         <form  action="/output" method="GET">
-          <p>
-          <textarea align="right" rows="2" cols="50" id="text_review" name='text_review' style:"padding-bottom:10px;">{{review_text}} </textarea>
-          <button type="submit" class="btn btn-default btn-lg" width="300px" 
-                          style:"font-size: 24px; vertical-align: middle;">Search</button>
-            <select class="selectpicker" data-live-search="true" id="sel_city" name="sel_city" style="width:auto;">
+             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+               <span class="sr-only">Toggle navigation</span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+             </button>
+             <a class="navbar-brand" href="#">Describe Your Bar</a>
+        </div>
+        <div class="collapse navbar-collapse">
+           <ul class="nav navbar-nav">
+             <!-- <li class="active"><a href="#">Home</a></li> -->
+<!--              <li><a href="#about">About</a></li>
+             <li><a href="#contact">Contact</a></li> -->
+           </ul>
+        </div>
+      </div>
+      <form  action="/output" method="GET">
+      <div class="column-center">
+            
+                    <textarea align="right" rows="2" cols="50" id="text_review" name='text_review'>{{review_text}} </textarea>
+                    <select class="selectpicker" data-live-search="true" id="sel_city" name="sel_city" style="width:auto;">
                       <option selected>San Francisco, CA</option>
                         {% for city_state in city_state_list %}
                           <option>{{ city_state['city'] }}</option>
                         {% endfor %}                       
-            </select>
-          </p>
-
-          
-          
-          </form>
-       </div><!--/.nav-collapse -->
-
+                    </select>
+           
+         </div>
+           <div class="column-right">
+                   <button type="submit" class="btn btn-default btn-lg" width="300px" 
+                            style:"font-size: 24px; vertical-align: top; ">Search</button>
+           </div>
+         </form>
      </div>
    </div>
 
@@ -168,8 +163,8 @@ iframe {
       </div>
     </header> -->
 
-<section id="about" class="about">
-
+<!-- <section id="about" class="about" style:"padding:0px;"> -->
+<section id="about" style:"padding:0px;">
   <div id="wrap_map">
       <div id="left_col_map">    
 <!--                 <br>
@@ -182,10 +177,197 @@ iframe {
                     <button type="submit" class="btn btn-default btn-lg" width="300px" 
                             style:"padding-bottom:10%; font-size: 24px;">Search</button>
                 </div> -->
+
+  <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+<script>
+
+// Mike Bostock "margin conventions"
+var margin = {top: 20, right: 20, bottom: 20, left: 20},
+    width = 340 - margin.left - margin.right,
+    height = 540 - margin.top - margin.bottom;
+
+// D3 scales = just math
+// x is a function that transforms from "domain" (data) into "range" (usual pixels)
+// domain gets set after the data loads
+var x = d3.scale.ordinal()
+    .rangeRoundBands([0, width], .1);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+// D3 Axis - renders a d3 scale in SVG
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    //.ticks(10, "%");
+
+// create an SVG element (appended to body)
+// set size
+// add a "g" element (think "group")
+// annoying d3 gotcha - the 'svg' variable here is a 'g' element
+// the final line sets the transform on <g>, not on <svg>
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+
+
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xAxis)
+    .selectAll("text")  
+        .style("text-anchor", "end")
+        .attr("dx", "-.8em")
+        .attr("dy", ".15em")
+        //.attr("transform", "rotate(-65)" );
+
+
+// Y-Axis
+// svg.append("g")
+//     .attr("class", "y axis")
+//   .append("text") // just for the title (ticks are automatic)
+//     .attr("transform", "rotate(-90)") // rotate the text!
+//     .attr("y", 6)
+//     .attr("dy", "4em")
+//     .style("text-anchor", "end")
+//     .text("Importance");
+
+// d3.tsv is a wrapper around XMLHTTPRequest, returns array of arrays (?) for a TSV file
+// type function transforms strings to numbers, dates, etc.
+// d3.tsv("data.tsv", type, function(error, data) {
+//     console.log(data);
+//     //replay(data);
+//     draw(data);
+// });
+
+var req = new XMLHttpRequest()
+req.onreadystatechange = function()
+{
+    if (req.readyState == 4)
+    {
+        if (req.status != 200)
+        {
+            //error handling code here
+        }
+        else
+        {
+
+            var response = JSON.parse(req.responseText)
+
+            console.log(response.mean_topic);
+            console.log(response.topic_words);
+
+            var arr = [];
+
+            for(var x in response.topic_words){
+              arr.push( {letter:response.topic_words[x], frequency:response.mean_topic[x]} );
+            }
+
+            //var dict = {letter:"Test", frequency:1};
+
+            draw(arr);
+            //alert("Response "+ response.lat +"," + response.lon);
+
+            //document.getElementById('myDiv').innerHTML = response.username
+        }
+    }
+}
+
+
+var lat = 37.7836341646 ;
+var lon = -122.418980494;
+req.open('GET', 'http://planck.ucsc.edu:5000/ajax?lat='+String(lat)+'&lon='+String(lon))
+req.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
+req.send()
+
+
+
+function type(d) {
+  // + coerces to a Number from a String (or anything)
+  d.frequency = +d.frequency;
+  return d;
+}
+
+function replay(data) {
+  var slices = [];
+  for (var i = 0; i < data.length; i++) {
+    slices.push(data.slice(0, i+1));
+  }
+  slices.forEach(function(slice, index){
+    setTimeout(function(){
+      draw(slice);
+    }, index * 50);
+  });
+}
+
+function draw(data) {
+  // measure the domain (for x, unique letters) (for y [0,maxFrequency])
+  // now the scales are finished and usable
+  x.domain(data.map(function(d) { return d.letter; }));
+  y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
+
+  // another g element, this time to move the origin to the bottom of the svg element
+  // someSelection.call(thing) is roughly equivalent to thing(someSelection[i])
+  //   for everything in the selection\
+  // the end result is g populated with text and lines!
+  svg.select('.x.axis').transition().duration(200).call(xAxis);
+
+  // same for yAxis but with more transform and a title
+  svg.select(".y.axis").transition().duration(200).call(yAxis);
+  //svg.attr("translate(0,400)")
+
+  // THIS IS THE ACTUAL WORK!
+  var bars = svg.selectAll(".bar").data(data, function(d) { return d.letter; })  // (data) is an array/iterable thing, second argument is an ID generator function
+
+  svg.selectAll("text")  
+        .style("text-anchor", "start")
+        // .attr("x", "2em")
+        .attr("dx", "1em")
+        .attr("dy", ".15em")
+        .attr("transform", "rotate(-90)" )
+        .attr("font-size","20px")
+
+    svg.attr("transform", "rotate(0)" );
+
+  bars.exit()
+    .transition()
+      .duration(200)
+    .attr("y", y(0))
+    .attr("height", height - y(0))
+    .style('fill-opacity', 1e-6)
+    .remove();
+
+  // data that needs DOM = enter() (a set/selection, not an event!)
+  bars.enter().append("rect")
+    .attr("class", "bar")
+    .attr("y", y(0))
+    .attr("height", height - y(0));
+
+  // the "UPDATE" set:
+  
+  bars.transition().duration(200)
+    .attr("x", function(d) { return x(d.letter); }) // (d) is one item from the data array, x is the scale object from above
+    .attr("width", x.rangeBand()) // constant, so no callback function(d) here
+    .attr("y", function(d) { return y(d.frequency); })
+    .attr("height", function(d) { return height - y(d.frequency); }) // flip the height, because y's domain is bottom up, but SVG renders top down
+
+ svg.attr("transform","rotate(90,250,250)"); 
+  
+}
+
+ </script>
+
             <table class="table table-hover">
             {% for top_bus in top_businesses %}
-            <tr><td><h4><a href={{ top_bus['URL'] }}> {{ top_bus['bus_name'] }}</a></h4><br>
-              <img src={{ top_bus['image_URL'] }} alt="" style="width:150px;height:150px;"></td>
+            <tr><td><h4><a href={{ top_bus['URL'] }}> {{ top_bus['bus_name'] }}</a></h4>
+              <img src={{ top_bus['image_URL'] }} alt="" style="width:100px;height:100px;"> {{ bus_id }} </td>
               <!-- <td>{{top_bus['image_path']}}</td></tr> -->
               <!-- <td><img src={{top_bus['image_path']}} alt="uh oh!" style="width:200px;height:200px;"></td></tr> -->
             {% endfor %}
@@ -274,7 +456,7 @@ iframe {
     </section>   -->  
     
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-   <script src="static/js/bootstrap.min.js"></script>
+   <script src="static/js/bootstrap.js"></script>
        <!-- Latest compiled and minified JavaScript -->
 </div> 
 

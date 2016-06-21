@@ -3262,3 +3262,2515 @@ WARNING:root:kernel e808d8f9-5f8b-4e0d-b2ae-3f17c2b45918 restarted
 [I 13:54:12.849 NotebookApp] Saving file at /notebooks/Untitled.ipynb
 [I 13:56:13.536 NotebookApp] Saving file at /notebooks/Untitled.ipynb
 [W 20:27:12.411 NotebookApp] WebSocket ping timeout after 112019 ms.
+python: can't open file 'Build_LDA_Model.py': [Errno 2] No such file or directory
+[I 08:28:11.128 NotebookApp] 302 GET / (65.87.19.170) 0.79ms
+[W 08:28:31.803 NotebookApp] Deprecated files/ URL: notebooks/files/nv.d3.css
+[W 08:28:31.805 NotebookApp] 404 GET /notebooks/notebooks/files/nv.d3.css (65.87.19.170) 3.94ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/20%20-%20Visualization.ipynb
+[W 08:28:31.809 NotebookApp] Deprecated files/ URL: notebooks/files/nv.d3.js
+[W 08:28:31.811 NotebookApp] 404 GET /notebooks/notebooks/files/nv.d3.js?_=1466522909297 (65.87.19.170) 3.59ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/20%20-%20Visualization.ipynb
+[W 08:28:31.814 NotebookApp] Deprecated files/ URL: notebooks/files/d3.v3.js
+[W 08:28:31.816 NotebookApp] 404 GET /notebooks/notebooks/files/d3.v3.js?_=1466522909298 (65.87.19.170) 3.66ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/20%20-%20Visualization.ipynb
+[W 08:28:31.818 NotebookApp] Deprecated files/ URL: notebooks/files/d3.v3.js
+[W 08:28:31.820 NotebookApp] 404 GET /notebooks/notebooks/files/d3.v3.js?_=1466522909299 (65.87.19.170) 3.20ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/20%20-%20Visualization.ipynb
+[W 08:28:31.845 NotebookApp] Deprecated files/ URL: notebooks/files/nv.d3.js
+[W 08:28:31.847 NotebookApp] 404 GET /notebooks/notebooks/files/nv.d3.js?_=1466522909300 (65.87.19.170) 3.05ms referer=https://planck.ucsc.edu:10000/notebooks/notebooks/20%20-%20Visualization.ipynb
+[I 08:28:40.771 NotebookApp] Kernel started: ba212b78-4d15-45d1-928a-c7b8df7b91b6
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 08:30:40.837 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 08:32:40.849 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 08:34:40.836 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 08:36:40.862 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 08:38:40.877 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 08:39:28.736 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 08:40:40.865 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 08:42:40.857 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 08:50:40.964 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 08:52:18.557 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+path /data/insight_yelp/input/
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with inotify reloader
+path /data/insight_yelp/input/
+ * Debugger is active!
+ * Debugger pin code: 272-822-756
+65.87.19.170 - - [21/Jun/2016 08:55:40] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 08:55:40] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 08:55:40] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 08:55:40] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+Similarity took 0.0201089382172 seconds
+Saving image to path  /home/carlson/web//images/insight/query_20e1b872-74d7-45a2-a1c1-b7385010c371.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Saving image to path  /home/carlson/web//images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Saving image to path  /home/carlson/web//images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Generating image  /images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Saving image to path  /home/carlson/web//images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Generating image  /images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Saving image to path  /home/carlson/web//images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Generating image  /images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Saving image to path  /home/carlson/web//images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Generating image  /images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Saving image to path  /home/carlson/web//images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Generating image  /images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.png
+Saving image to path  /home/carlson/web//images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.png
+Generating image  /images/insight/0aebf9cb332edffad14c6fce6795e8c015640a27.png
+Saving image to path  /home/carlson/web//images/insight/0aebf9cb332edffad14c6fce6795e8c015640a27.png
+Generating image  /images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.png
+Saving image to path  /home/carlson/web//images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.png
+Generating image  /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Saving image to path  /home/carlson/web//images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Generating image  /images/insight/c3e68624f69cc28a6de26d07f3958e28166d2fb3.png
+Saving image to path  /home/carlson/web//images/insight/c3e68624f69cc28a6de26d07f3958e28166d2fb3.png
+Generating image  /images/insight/0ae867cf666f138a7f31e641cc012f61413951e0.png
+Saving image to path  /home/carlson/web//images/insight/0ae867cf666f138a7f31e641cc012f61413951e0.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Saving image to path  /home/carlson/web//images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/9e1c2219594409bf0a7592df19e80ee801900e3d.png
+Saving image to path  /home/carlson/web//images/insight/9e1c2219594409bf0a7592df19e80ee801900e3d.png
+Generating image  /images/insight/99b5d2c443282267fed765011081a2132f5e98de.png
+Saving image to path  /home/carlson/web//images/insight/99b5d2c443282267fed765011081a2132f5e98de.png
+
+PATH TO MAP, lat, lon /images/insight/99b5d2c443282267fed765011081a2132f5e98de.html 
+37.785105187 -122.423411802
+65.87.19.170 - - [21/Jun/2016 08:56:33] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+would+love+to+eat+oysters+on+the+with+a+view+of+the+bay HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 08:56:34] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 08:56:34] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 08:56:34] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+Similarity took 0.0293889045715 seconds
+Saving image to path  /home/carlson/web//images/insight/query_ccc299c8-292b-4e9f-bdfb-587bf8b42083.png
+Generating image  /images/insight/6fa7713acac225a535514b0133f9b58a507b08c3.png
+Saving image to path  /home/carlson/web//images/insight/6fa7713acac225a535514b0133f9b58a507b08c3.png
+Generating image  /images/insight/02ef18a93c6b829f0c78790ce5709a3887fcd139.png
+Saving image to path  /home/carlson/web//images/insight/02ef18a93c6b829f0c78790ce5709a3887fcd139.png
+Generating image  /images/insight/4d14276b3514f2974a6cd382f3b6edb0fc93b2f2.png
+Saving image to path  /home/carlson/web//images/insight/4d14276b3514f2974a6cd382f3b6edb0fc93b2f2.png
+Generating image  /images/insight/66094d91c756122e827c6e45690c1569ca904bc9.png
+Saving image to path  /home/carlson/web//images/insight/66094d91c756122e827c6e45690c1569ca904bc9.png
+Generating image  /images/insight/1daad68d30f5ad2288c7ac865be408e0efa3b759.png
+Saving image to path  /home/carlson/web//images/insight/1daad68d30f5ad2288c7ac865be408e0efa3b759.png
+Generating image  /images/insight/0c8ea398e3970b71743ab95b68cdf14588cdd407.png
+Saving image to path  /home/carlson/web//images/insight/0c8ea398e3970b71743ab95b68cdf14588cdd407.png
+Generating image  /images/insight/ef987d90d412b275b1a18038143e77da03565835.png
+Saving image to path  /home/carlson/web//images/insight/ef987d90d412b275b1a18038143e77da03565835.png
+Generating image  /images/insight/861139b95ab7f2e8e1d1e247548c86e225121982.png
+Saving image to path  /home/carlson/web//images/insight/861139b95ab7f2e8e1d1e247548c86e225121982.png
+Generating image  /images/insight/f6b2a5f657db9133566287d5745e688d7fc8e4bc.png
+Saving image to path  /home/carlson/web//images/insight/f6b2a5f657db9133566287d5745e688d7fc8e4bc.png
+Generating image  /images/insight/7ace401c146e9e9124ab85b925bede446d86598a.png
+Saving image to path  /home/carlson/web//images/insight/7ace401c146e9e9124ab85b925bede446d86598a.png
+Generating image  /images/insight/6e906f330d5241225fe808e3e4081e2c8d194eed.png
+Saving image to path  /home/carlson/web//images/insight/6e906f330d5241225fe808e3e4081e2c8d194eed.png
+Generating image  /images/insight/ad634d365dc5aa5317716fd81a24a5038870999c.png
+Saving image to path  /home/carlson/web//images/insight/ad634d365dc5aa5317716fd81a24a5038870999c.png
+Generating image  /images/insight/06bbebf8fa810e709d27378597501d8c854ce2ed.png
+Saving image to path  /home/carlson/web//images/insight/06bbebf8fa810e709d27378597501d8c854ce2ed.png
+Generating image  /images/insight/351f3dddb9363c13092b57f8ef6ba03f64b2f9f4.png
+Saving image to path  /home/carlson/web//images/insight/351f3dddb9363c13092b57f8ef6ba03f64b2f9f4.png
+Generating image  /images/insight/214878939c5202125cafcdbfdadfd86c3c5a3c0d.png
+Saving image to path  /home/carlson/web//images/insight/214878939c5202125cafcdbfdadfd86c3c5a3c0d.png
+
+PATH TO MAP, lat, lon /images/insight/214878939c5202125cafcdbfdadfd86c3c5a3c0d.html 
+37.7803781069 -122.415290918
+65.87.19.170 - - [21/Jun/2016 08:57:29] "GET /output?text_review=I+would+love+to+eat+oysters+in+a+dark+closet&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 08:57:30] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 08:57:30] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 08:57:30] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+Similarity took 0.0336611270905 seconds
+Saving image to path  /home/carlson/web//images/insight/query_8ba9e022-43f2-4d4b-be5d-179947e3eb64.png
+Generating image  /images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Saving image to path  /home/carlson/web//images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Generating image  /images/insight/0995f3546cc8d56a1850642b40ab82091a09d928.png
+Saving image to path  /home/carlson/web//images/insight/0995f3546cc8d56a1850642b40ab82091a09d928.png
+Generating image  /images/insight/0ae867cf666f138a7f31e641cc012f61413951e0.png
+Saving image to path  /home/carlson/web//images/insight/0ae867cf666f138a7f31e641cc012f61413951e0.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Saving image to path  /home/carlson/web//images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/a5658b39eb9ca8fb65acb2f34aa2afbc9d714edc.png
+Saving image to path  /home/carlson/web//images/insight/a5658b39eb9ca8fb65acb2f34aa2afbc9d714edc.png
+Generating image  /images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Saving image to path  /home/carlson/web//images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Generating image  /images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Saving image to path  /home/carlson/web//images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Generating image  /images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Saving image to path  /home/carlson/web//images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Generating image  /images/insight/e71cf3d84d35ce3125c3fc26f54a802415166eef.png
+Saving image to path  /home/carlson/web//images/insight/e71cf3d84d35ce3125c3fc26f54a802415166eef.png
+Generating image  /images/insight/6864ea827fda895308d29c0f774e38e11586a36a.png
+Saving image to path  /home/carlson/web//images/insight/6864ea827fda895308d29c0f774e38e11586a36a.png
+Generating image  /images/insight/6deb04a4a6c131a2d5df1eaa742d6a6510723242.png
+Saving image to path  /home/carlson/web//images/insight/6deb04a4a6c131a2d5df1eaa742d6a6510723242.png
+Generating image  /images/insight/0aebf9cb332edffad14c6fce6795e8c015640a27.png
+Saving image to path  /home/carlson/web//images/insight/0aebf9cb332edffad14c6fce6795e8c015640a27.png
+Generating image  /images/insight/d339d8b2e23423c46c091d56adb996a3dc783c8e.png
+Saving image to path  /home/carlson/web//images/insight/d339d8b2e23423c46c091d56adb996a3dc783c8e.png
+Generating image  /images/insight/acfbf39cd61fae8c67729b409317d7fd6ad5a368.png
+Saving image to path  /home/carlson/web//images/insight/acfbf39cd61fae8c67729b409317d7fd6ad5a368.png
+Generating image  /images/insight/ea339252c8509dca577e518a4ed4e2bd8e601beb.png
+Saving image to path  /home/carlson/web//images/insight/ea339252c8509dca577e518a4ed4e2bd8e601beb.png
+
+PATH TO MAP, lat, lon /images/insight/ea339252c8509dca577e518a4ed4e2bd8e601beb.html 
+37.7795955537 -122.410264119
+65.87.19.170 - - [21/Jun/2016 08:57:53] "GET /output?text_review=I+would+love+to+eat+oysters+in+a+dark+hole+in+the+wall%0D%0A+&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 08:57:53] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 08:57:54] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 08:57:54] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:14:17] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 09:14:17] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:14:17] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:14:17] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:15:02] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 09:15:02] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [21/Jun/2016 09:15:02] "GET /static/css/stylish-portfolio.css HTTP/1.1" 304 -
+65.87.19.170 - - [21/Jun/2016 09:15:02] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:15:02] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:15:02] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:15:02] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [21/Jun/2016 09:15:02] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:15:02] "GET /static/img/bg.jpg HTTP/1.1" 304 -
+Similarity took 0.0331130027771 seconds
+Saving image to path  /home/carlson/web//images/insight/query_e066088f-2e58-42b9-a90c-deb6f13c1bac.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Saving image to path  /home/carlson/web//images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Saving image to path  /home/carlson/web//images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Generating image  /images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Saving image to path  /home/carlson/web//images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Generating image  /images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Saving image to path  /home/carlson/web//images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Generating image  /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Saving image to path  /home/carlson/web//images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Generating image  /images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Saving image to path  /home/carlson/web//images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Generating image  /images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Saving image to path  /home/carlson/web//images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Generating image  /images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.png
+Saving image to path  /home/carlson/web//images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.png
+Generating image  /images/insight/0ae867cf666f138a7f31e641cc012f61413951e0.png
+Saving image to path  /home/carlson/web//images/insight/0ae867cf666f138a7f31e641cc012f61413951e0.png
+Generating image  /images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.png
+Saving image to path  /home/carlson/web//images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Saving image to path  /home/carlson/web//images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/99b5d2c443282267fed765011081a2132f5e98de.png
+Saving image to path  /home/carlson/web//images/insight/99b5d2c443282267fed765011081a2132f5e98de.png
+Generating image  /images/insight/9e1c2219594409bf0a7592df19e80ee801900e3d.png
+Saving image to path  /home/carlson/web//images/insight/9e1c2219594409bf0a7592df19e80ee801900e3d.png
+Generating image  /images/insight/d339d8b2e23423c46c091d56adb996a3dc783c8e.png
+Saving image to path  /home/carlson/web//images/insight/d339d8b2e23423c46c091d56adb996a3dc783c8e.png
+Generating image  /images/insight/ba18778594a8d9360f8b35091d577d6a0d756cac.png
+Saving image to path  /home/carlson/web//images/insight/ba18778594a8d9360f8b35091d577d6a0d756cac.png
+
+PATH TO MAP, lat, lon /images/insight/ba18778594a8d9360f8b35091d577d6a0d756cac.html 
+37.781373447 -122.423959748
+65.87.19.170 - - [21/Jun/2016 09:15:56] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+would+love+to+eat+oysters+with+a+view+of+the+bay. HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 09:15:56] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:15:56] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:15:56] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:30:00] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 09:30:00] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 09:30:00] "GET /static/css/stylish-portfolio.css HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 09:30:00] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:30:00] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:30:00] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:30:00] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 09:30:01] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:30:01] "GET /static/img/bg.jpg HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 09:30:01] "GET /favicon.ico HTTP/1.1" 404 -
+Similarity took 0.0333690643311 seconds
+Saving image to path  /home/carlson/web//images/insight/query_6f64522d-0d66-43f0-b192-eeef056e148f.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Saving image to path  /home/carlson/web//images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Saving image to path  /home/carlson/web//images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Generating image  /images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Saving image to path  /home/carlson/web//images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Generating image  /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Saving image to path  /home/carlson/web//images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Generating image  /images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Saving image to path  /home/carlson/web//images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Generating image  /images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Saving image to path  /home/carlson/web//images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Generating image  /images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.png
+Saving image to path  /home/carlson/web//images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Saving image to path  /home/carlson/web//images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Saving image to path  /home/carlson/web//images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Generating image  /images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.png
+Saving image to path  /home/carlson/web//images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.png
+Generating image  /images/insight/9e1c2219594409bf0a7592df19e80ee801900e3d.png
+Saving image to path  /home/carlson/web//images/insight/9e1c2219594409bf0a7592df19e80ee801900e3d.png
+Generating image  /images/insight/0aebf9cb332edffad14c6fce6795e8c015640a27.png
+Saving image to path  /home/carlson/web//images/insight/0aebf9cb332edffad14c6fce6795e8c015640a27.png
+Generating image  /images/insight/a5658b39eb9ca8fb65acb2f34aa2afbc9d714edc.png
+Saving image to path  /home/carlson/web//images/insight/a5658b39eb9ca8fb65acb2f34aa2afbc9d714edc.png
+Generating image  /images/insight/ba18778594a8d9360f8b35091d577d6a0d756cac.png
+Saving image to path  /home/carlson/web//images/insight/ba18778594a8d9360f8b35091d577d6a0d756cac.png
+Generating image  /images/insight/99b5d2c443282267fed765011081a2132f5e98de.png
+Saving image to path  /home/carlson/web//images/insight/99b5d2c443282267fed765011081a2132f5e98de.png
+
+PATH TO MAP, lat, lon /images/insight/99b5d2c443282267fed765011081a2132f5e98de.html 
+37.7825445533 -122.423613352
+65.87.19.170 - - [21/Jun/2016 09:32:53] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+would+love+to+eat+oysters+with+a+view+of+the+bay. HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 09:32:54] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:32:54] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:32:54] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+Similarity took 0.0263500213623 seconds
+Saving image to path  /home/carlson/web//images/insight/query_4010a61e-e092-46e1-8c90-3c9973e4de87.png
+Generating image  /images/insight/6fa7713acac225a535514b0133f9b58a507b08c3.png
+Saving image to path  /home/carlson/web//images/insight/6fa7713acac225a535514b0133f9b58a507b08c3.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Saving image to path  /home/carlson/web//images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/0995f3546cc8d56a1850642b40ab82091a09d928.png
+Saving image to path  /home/carlson/web//images/insight/0995f3546cc8d56a1850642b40ab82091a09d928.png
+Generating image  /images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Saving image to path  /home/carlson/web//images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Generating image  /images/insight/0ae867cf666f138a7f31e641cc012f61413951e0.png
+Saving image to path  /home/carlson/web//images/insight/0ae867cf666f138a7f31e641cc012f61413951e0.png
+Generating image  /images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Saving image to path  /home/carlson/web//images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Generating image  /images/insight/2fea3eff1bbc99f42171eadb711fb1769214c839.png
+Saving image to path  /home/carlson/web//images/insight/2fea3eff1bbc99f42171eadb711fb1769214c839.png
+Generating image  /images/insight/7ad7df218f2356bbef0ae17576202e2c28ce39b2.png
+Saving image to path  /home/carlson/web//images/insight/7ad7df218f2356bbef0ae17576202e2c28ce39b2.png
+Generating image  /images/insight/194e79c17293e5ff4068bdeb8dfab2158d7374bf.png
+Saving image to path  /home/carlson/web//images/insight/194e79c17293e5ff4068bdeb8dfab2158d7374bf.png
+Generating image  /images/insight/64901c9f95c1b94d1342b9f492c55fd9c24023a4.png
+Saving image to path  /home/carlson/web//images/insight/64901c9f95c1b94d1342b9f492c55fd9c24023a4.png
+Generating image  /images/insight/6e4faa0f2d8d821493d135ffb12142f3d2509085.png
+Saving image to path  /home/carlson/web//images/insight/6e4faa0f2d8d821493d135ffb12142f3d2509085.png
+Generating image  /images/insight/27dd58da9c09329083883f5e257f624753fed751.png
+Saving image to path  /home/carlson/web//images/insight/27dd58da9c09329083883f5e257f624753fed751.png
+Generating image  /images/insight/dd7bb7dc29c862f9136def4f700cc0bbf39385ee.png
+Saving image to path  /home/carlson/web//images/insight/dd7bb7dc29c862f9136def4f700cc0bbf39385ee.png
+Generating image  /images/insight/e71cf3d84d35ce3125c3fc26f54a802415166eef.png
+Saving image to path  /home/carlson/web//images/insight/e71cf3d84d35ce3125c3fc26f54a802415166eef.png
+Generating image  /images/insight/8da3968767cb02d4cff63a0ec77df3af7727f2b4.png
+Saving image to path  /home/carlson/web//images/insight/8da3968767cb02d4cff63a0ec77df3af7727f2b4.png
+
+PATH TO MAP, lat, lon /images/insight/8da3968767cb02d4cff63a0ec77df3af7727f2b4.html 
+37.7683628041 -122.418853559
+65.87.19.170 - - [21/Jun/2016 09:33:44] "GET /output?text_review=I+would+love+to+eat+oysters+in+a+dark+closet&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 09:33:44] "GET /font-awesome/css/font-awesome.min.css HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:33:44] "GET /assets/js/ie-emulation-modes-warning.js HTTP/1.1" 404 -
+65.87.19.170 - - [21/Jun/2016 09:33:44] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 -
+Queried...  ImmutableMultiDict([('lat', u'37.78713175115391'), ('lon', u'-122.43863582611083')])
+(150, 18)
+65.87.19.170 - - [21/Jun/2016 10:10:36] "GET /ajax?lat=37.78713175115391&lon=-122.43863582611083 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77247872458732'), ('lon', u'-122.42164134979248')])
+(150, 48)
+65.87.19.170 - - [21/Jun/2016 10:10:37] "GET /ajax?lat=37.77247872458732&lon=-122.42164134979248 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.776583221635725'), ('lon', u'-122.42425918579102')])
+(150, 34)
+65.87.19.170 - - [21/Jun/2016 10:10:38] "GET /ajax?lat=37.776583221635725&lon=-122.42425918579102 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.778584505321376'), ('lon', u'-122.42374420166016')])
+(150, 34)
+65.87.19.170 - - [21/Jun/2016 10:10:38] "GET /ajax?lat=37.778584505321376&lon=-122.42374420166016 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77807570952049'), ('lon', u'-122.4213409423828')])
+(150, 39)
+65.87.19.170 - - [21/Jun/2016 10:10:39] "GET /ajax?lat=37.77807570952049&lon=-122.4213409423828 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.781060594893326'), ('lon', u'-122.4150323867798')])
+(150, 57)
+65.87.19.170 - - [21/Jun/2016 10:10:39] "GET /ajax?lat=37.781060594893326&lon=-122.4150323867798 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78102667641841'), ('lon', u'-122.41477489471434')])
+(150, 61)
+65.87.19.170 - - [21/Jun/2016 10:10:39] "GET /ajax?lat=37.78102667641841&lon=-122.41477489471434 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78116235022467'), ('lon', u'-122.41443157196045')])
+(150, 60)
+65.87.19.170 - - [21/Jun/2016 10:10:40] "GET /ajax?lat=37.78116235022467&lon=-122.41443157196045 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78133194213229'), ('lon', u'-122.41400241851807')])
+(150, 63)
+65.87.19.170 - - [21/Jun/2016 10:10:40] "GET /ajax?lat=37.78133194213229&lon=-122.41400241851807 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.781433697090094'), ('lon', u'-122.41395950317383')])
+(150, 65)
+65.87.19.170 - - [21/Jun/2016 10:10:40] "GET /ajax?lat=37.781433697090094&lon=-122.41395950317383 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78201030587168'), ('lon', u'-122.41344451904295')])
+(150, 70)
+65.87.19.170 - - [21/Jun/2016 10:10:41] "GET /ajax?lat=37.78201030587168&lon=-122.41344451904295 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78217989583374'), ('lon', u'-122.41305828094484')])
+(150, 72)
+65.87.19.170 - - [21/Jun/2016 10:10:41] "GET /ajax?lat=37.78217989583374&lon=-122.41305828094484 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78217989583374'), ('lon', u'-122.41305828094484')])
+(150, 72)
+65.87.19.170 - - [21/Jun/2016 10:10:42] "GET /ajax?lat=37.78217989583374&lon=-122.41305828094484 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76979880604299'), ('lon', u'-122.42885112762451')])
+(150, 43)
+65.87.19.170 - - [21/Jun/2016 10:11:21] "GET /ajax?lat=37.76979880604299&lon=-122.42885112762451 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78638560240497'), ('lon', u'-122.43494510650635')])
+(150, 21)
+65.87.19.170 - - [21/Jun/2016 10:11:22] "GET /ajax?lat=37.78638560240497&lon=-122.43494510650635 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76460830784308'), ('lon', u'-122.4491500854492')])
+(150, 15)
+65.87.19.170 - - [21/Jun/2016 10:11:25] "GET /ajax?lat=37.76460830784308&lon=-122.4491500854492 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75755136001271'), ('lon', u'-122.43541717529298')])
+(150, 27)
+65.87.19.170 - - [21/Jun/2016 10:11:25] "GET /ajax?lat=37.75755136001271&lon=-122.43541717529298 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75727992549716'), ('lon', u'-122.43370056152344')])
+(150, 29)
+65.87.19.170 - - [21/Jun/2016 10:11:25] "GET /ajax?lat=37.75727992549716&lon=-122.43370056152344 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75782279353237'), ('lon', u'-122.43061065673827')])
+(150, 35)
+65.87.19.170 - - [21/Jun/2016 10:11:26] "GET /ajax?lat=37.75782279353237&lon=-122.43061065673827 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75890851765176'), ('lon', u'-122.42614746093749')])
+65.87.19.170 - - [21/Jun/2016 10:11:26] "GET /ajax?lat=37.75890851765176&lon=-122.42614746093749 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.75727992549716'), ('lon', u'-122.41945266723631')])
+65.87.19.170 - - [21/Jun/2016 10:11:26] "GET /ajax?lat=37.75727992549716&lon=-122.41945266723631 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.75565129748959'), ('lon', u'-122.41395950317383')])
+65.87.19.170 - - [21/Jun/2016 10:11:27] "GET /ajax?lat=37.75565129748959&lon=-122.41395950317383 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.75605845785265'), ('lon', u'-122.40966796874999')])
+65.87.19.170 - - [21/Jun/2016 10:11:27] "GET /ajax?lat=37.75605845785265&lon=-122.40966796874999 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.75605845785265'), ('lon', u'-122.40983963012695')])
+65.87.19.170 - - [21/Jun/2016 10:11:27] "GET /ajax?lat=37.75605845785265&lon=-122.40983963012695 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.752665386359325'), ('lon', u'-122.41189956665039')])
+65.87.19.170 - - [21/Jun/2016 10:11:28] "GET /ajax?lat=37.752665386359325&lon=-122.41189956665039 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.751851026046666'), ('lon', u'-122.41464614868164')])
+65.87.19.170 - - [21/Jun/2016 10:11:28] "GET /ajax?lat=37.751851026046666&lon=-122.41464614868164 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.74669320259962'), ('lon', u'-122.41275787353516')])
+(150, 18)
+65.87.19.170 - - [21/Jun/2016 10:11:28] "GET /ajax?lat=37.74669320259962&lon=-122.41275787353516 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.7464217282493'), ('lon', u'-122.41601943969727')])
+(150, 30)
+65.87.19.170 - - [21/Jun/2016 10:11:29] "GET /ajax?lat=37.7464217282493&lon=-122.41601943969727 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75062946877242'), ('lon', u'-122.41464614868164')])
+65.87.19.170 - - [21/Jun/2016 10:11:30] "GET /ajax?lat=37.75062946877242&lon=-122.41464614868164 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.75388691002291'), ('lon', u'-122.4125862121582')])
+65.87.19.170 - - [21/Jun/2016 10:11:30] "GET /ajax?lat=37.75388691002291&lon=-122.4125862121582 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.75863708811579'), ('lon', u'-122.40983963012695')])
+65.87.19.170 - - [21/Jun/2016 10:11:30] "GET /ajax?lat=37.75863708811579&lon=-122.40983963012695 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.761487048570935'), ('lon', u'-122.40915298461914')])
+65.87.19.170 - - [21/Jun/2016 10:11:30] "GET /ajax?lat=37.761487048570935&lon=-122.40915298461914 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.76420119453823'), ('lon', u'-122.40846633911133')])
+65.87.19.170 - - [21/Jun/2016 10:11:31] "GET /ajax?lat=37.76420119453823&lon=-122.40846633911133 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.763522667383626'), ('lon', u'-122.41069793701172')])
+65.87.19.170 - - [21/Jun/2016 10:11:32] "GET /ajax?lat=37.763522667383626&lon=-122.41069793701172 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.763115548102924'), ('lon', u'-122.4125862121582')])
+65.87.19.170 - - [21/Jun/2016 10:11:32] "GET /ajax?lat=37.763115548102924&lon=-122.4125862121582 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.76379407899244'), ('lon', u'-122.42700576782227')])
+(150, 78)
+65.87.19.170 - - [21/Jun/2016 10:11:32] "GET /ajax?lat=37.76379407899244&lon=-122.42700576782227 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77125750792944'), ('lon', u'-122.4367904663086')])
+(150, 21)
+65.87.19.170 - - [21/Jun/2016 10:11:33] "GET /ajax?lat=37.77125750792944&lon=-122.4367904663086 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77193596411837'), ('lon', u'-122.4367904663086')])
+(150, 21)
+65.87.19.170 - - [21/Jun/2016 10:11:34] "GET /ajax?lat=37.77193596411837&lon=-122.4367904663086 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77071473849609'), ('lon', u'-122.44966506958006')])
+(150, 18)
+65.87.19.170 - - [21/Jun/2016 10:11:34] "GET /ajax?lat=37.77071473849609&lon=-122.44966506958006 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.770307658806495'), ('lon', u'-122.45018005371094')])
+(150, 18)
+65.87.19.170 - - [21/Jun/2016 10:11:36] "GET /ajax?lat=37.770307658806495&lon=-122.45018005371094 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.766643840752764'), ('lon', u'-122.44949340820312')])
+(150, 15)
+65.87.19.170 - - [21/Jun/2016 10:11:36] "GET /ajax?lat=37.766643840752764&lon=-122.44949340820312 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.770307658806495'), ('lon', u'-122.44983673095705')])
+(150, 18)
+65.87.19.170 - - [21/Jun/2016 10:11:37] "GET /ajax?lat=37.770307658806495&lon=-122.44983673095705 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.786046441392244'), ('lon', u'-122.41052627563477')])
+(150, 111)
+65.87.19.170 - - [21/Jun/2016 10:11:37] "GET /ajax?lat=37.786046441392244&lon=-122.41052627563477 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78998061344339'), ('lon', u'-122.39953994750977')])
+(150, 104)
+65.87.19.170 - - [21/Jun/2016 10:11:38] "GET /ajax?lat=37.78998061344339&lon=-122.39953994750977 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79255806087506'), ('lon', u'-122.40365982055663')])
+(150, 126)
+65.87.19.170 - - [21/Jun/2016 10:11:38] "GET /ajax?lat=37.79255806087506&lon=-122.40365982055663 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.793643275000754'), ('lon', u'-122.40365982055663')])
+(150, 110)
+65.87.19.170 - - [21/Jun/2016 10:11:39] "GET /ajax?lat=37.793643275000754&lon=-122.40365982055663 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79391457604158'), ('lon', u'-122.40297317504881')])
+(150, 108)
+65.87.19.170 - - [21/Jun/2016 10:11:39] "GET /ajax?lat=37.79391457604158&lon=-122.40297317504881 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.7947284731866'), ('lon', u'-122.3997116088867')])
+(150, 94)
+65.87.19.170 - - [21/Jun/2016 10:11:39] "GET /ajax?lat=37.7947284731866&lon=-122.3997116088867 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.7947284731866'), ('lon', u'-122.39902496337889')])
+(150, 92)
+65.87.19.170 - - [21/Jun/2016 10:11:40] "GET /ajax?lat=37.7947284731866&lon=-122.39902496337889 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.795406713958236'), ('lon', u'-122.3961067199707')])
+(150, 62)
+65.87.19.170 - - [21/Jun/2016 10:11:41] "GET /ajax?lat=37.795406713958236&lon=-122.3961067199707 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.7971701108238'), ('lon', u'-122.39147186279297')])
+(150, 28)
+65.87.19.170 - - [21/Jun/2016 10:11:41] "GET /ajax?lat=37.7971701108238&lon=-122.39147186279297 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79798397210339'), ('lon', u'-122.39061355590819')])
+(150, 20)
+65.87.19.170 - - [21/Jun/2016 10:11:41] "GET /ajax?lat=37.79798397210339&lon=-122.39061355590819 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.798662182986945'), ('lon', u'-122.38992691040038')])
+(150, 16)
+65.87.19.170 - - [21/Jun/2016 10:11:42] "GET /ajax?lat=37.798662182986945&lon=-122.38992691040038 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.802460048862656'), ('lon', u'-122.38786697387694')])
+(150, 1)
+65.87.19.170 - - [21/Jun/2016 10:11:42] "GET /ajax?lat=37.802460048862656&lon=-122.38786697387694 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.80530832011811'), ('lon', u'-122.38597869873045')])
+65.87.19.170 - - [21/Jun/2016 10:11:42] "GET /ajax?lat=37.80530832011811&lon=-122.38597869873045 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.80639334694058'), ('lon', u'-122.38597869873045')])
+65.87.19.170 - - [21/Jun/2016 10:11:42] "GET /ajax?lat=37.80639334694058&lon=-122.38597869873045 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.80693585437371'), ('lon', u'-122.38597869873045')])
+65.87.19.170 - - [21/Jun/2016 10:11:43] "GET /ajax?lat=37.80693585437371&lon=-122.38597869873045 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.807478357821374'), ('lon', u'-122.38597869873045')])
+65.87.19.170 - - [21/Jun/2016 10:11:44] "GET /ajax?lat=37.807478357821374&lon=-122.38597869873045 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.80897022175241'), ('lon', u'-122.38735198974608')])
+65.87.19.170 - - [21/Jun/2016 10:11:44] "GET /ajax?lat=37.80897022175241&lon=-122.38735198974608 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.80991957401557'), ('lon', u'-122.38803863525392')])
+65.87.19.170 - - [21/Jun/2016 10:11:44] "GET /ajax?lat=37.80991957401557&lon=-122.38803863525392 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.81168262440736'), ('lon', u'-122.39215850830078')])
+65.87.19.170 - - [21/Jun/2016 10:11:44] "GET /ajax?lat=37.81168262440736&lon=-122.39215850830078 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.81317440339608'), ('lon', u'-122.40297317504881')])
+(150, 1)
+65.87.19.170 - - [21/Jun/2016 10:11:45] "GET /ajax?lat=37.81317440339608&lon=-122.40297317504881 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.8126319417967'), ('lon', u'-122.41189956665039')])
+(150, 3)
+65.87.19.170 - - [21/Jun/2016 10:11:45] "GET /ajax?lat=37.8126319417967&lon=-122.41189956665039 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.81127577036112'), ('lon', u'-122.41052627563477')])
+(150, 5)
+65.87.19.170 - - [21/Jun/2016 10:11:45] "GET /ajax?lat=37.81127577036112&lon=-122.41052627563477 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.81168262440736'), ('lon', u'-122.41104125976564')])
+(150, 5)
+65.87.19.170 - - [21/Jun/2016 10:11:46] "GET /ajax?lat=37.81168262440736&lon=-122.41104125976564 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.81208947621171'), ('lon', u'-122.41327285766602')])
+(150, 4)
+65.87.19.170 - - [21/Jun/2016 10:11:46] "GET /ajax?lat=37.81208947621171&lon=-122.41327285766602 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.8126319417967'), ('lon', u'-122.41790771484375')])
+(150, 9)
+65.87.19.170 - - [21/Jun/2016 10:11:46] "GET /ajax?lat=37.8126319417967&lon=-122.41790771484375 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.8126319417967'), ('lon', u'-122.42237091064453')])
+(150, 7)
+65.87.19.170 - - [21/Jun/2016 10:11:47] "GET /ajax?lat=37.8126319417967&lon=-122.42237091064453 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.81208947621171'), ('lon', u'-122.42631912231445')])
+(150, 2)
+65.87.19.170 - - [21/Jun/2016 10:11:47] "GET /ajax?lat=37.81208947621171&lon=-122.42631912231445 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.81073329481209'), ('lon', u'-122.431640625')])
+(150, 1)
+65.87.19.170 - - [21/Jun/2016 10:11:47] "GET /ajax?lat=37.81073329481209&lon=-122.431640625 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.81019081527746'), ('lon', u'-122.43455886840819')])
+(150, 1)
+65.87.19.170 - - [21/Jun/2016 10:11:48] "GET /ajax?lat=37.81019081527746&lon=-122.43455886840819 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.81005519477107'), ('lon', u'-122.43541717529298')])
+(150, 1)
+65.87.19.170 - - [21/Jun/2016 10:11:48] "GET /ajax?lat=37.81005519477107&lon=-122.43541717529298 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.808292105520174'), ('lon', u'-122.43953704833984')])
+(150, 1)
+65.87.19.170 - - [21/Jun/2016 10:11:48] "GET /ajax?lat=37.808292105520174&lon=-122.43953704833984 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.80612209172951'), ('lon', u'-122.44073867797852')])
+(150, 9)
+65.87.19.170 - - [21/Jun/2016 10:11:49] "GET /ajax?lat=37.80612209172951&lon=-122.44073867797852 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.8044945395396'), ('lon', u'-122.44125366210936')])
+(150, 11)
+65.87.19.170 - - [21/Jun/2016 10:11:49] "GET /ajax?lat=37.8044945395396&lon=-122.44125366210936 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.803680749994065'), ('lon', u'-122.44073867797852')])
+(150, 16)
+65.87.19.170 - - [21/Jun/2016 10:11:49] "GET /ajax?lat=37.803680749994065&lon=-122.44073867797852 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.802324414158235'), ('lon', u'-122.4393653869629')])
+(150, 20)
+65.87.19.170 - - [21/Jun/2016 10:11:50] "GET /ajax?lat=37.802324414158235&lon=-122.4393653869629 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.80069677827669'), ('lon', u'-122.4367904663086')])
+(150, 25)
+65.87.19.170 - - [21/Jun/2016 10:11:50] "GET /ajax?lat=37.80069677827669&lon=-122.4367904663086 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79974730744888'), ('lon', u'-122.435245513916')])
+(150, 26)
+65.87.19.170 - - [21/Jun/2016 10:11:50] "GET /ajax?lat=37.79974730744888&lon=-122.435245513916 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79920474721051'), ('lon', u'-122.43507385253906')])
+(150, 26)
+65.87.19.170 - - [21/Jun/2016 10:11:51] "GET /ajax?lat=37.79920474721051&lon=-122.43507385253906 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79879782441643'), ('lon', u'-122.43455886840819')])
+(150, 27)
+65.87.19.170 - - [21/Jun/2016 10:11:51] "GET /ajax?lat=37.79879782441643&lon=-122.43455886840819 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79811961477825'), ('lon', u'-122.43318557739256')])
+(150, 25)
+65.87.19.170 - - [21/Jun/2016 10:11:52] "GET /ajax?lat=37.79811961477825&lon=-122.43318557739256 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.797441398913286'), ('lon', u'-122.431640625')])
+(150, 26)
+65.87.19.170 - - [21/Jun/2016 10:11:52] "GET /ajax?lat=37.797441398913286&lon=-122.431640625 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.797034466405485'), ('lon', u'-122.43095397949219')])
+(150, 29)
+65.87.19.170 - - [21/Jun/2016 10:11:53] "GET /ajax?lat=37.797034466405485&lon=-122.43095397949219 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79635624057777'), ('lon', u'-122.42889404296875')])
+(150, 33)
+65.87.19.170 - - [21/Jun/2016 10:11:53] "GET /ajax?lat=37.79635624057777&lon=-122.42889404296875 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79527106630204'), ('lon', u'-122.42614746093749')])
+(150, 35)
+65.87.19.170 - - [21/Jun/2016 10:11:54] "GET /ajax?lat=37.79527106630204&lon=-122.42614746093749 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79499977024245'), ('lon', u'-122.42494583129883')])
+(150, 38)
+65.87.19.170 - - [21/Jun/2016 10:11:54] "GET /ajax?lat=37.79499977024245&lon=-122.42494583129883 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79228675485302'), ('lon', u'-122.4213409423828')])
+(150, 47)
+65.87.19.170 - - [21/Jun/2016 10:11:55] "GET /ajax?lat=37.79228675485302&lon=-122.4213409423828 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78957363984067'), ('lon', u'-122.42013931274413')])
+(150, 56)
+65.87.19.170 - - [21/Jun/2016 10:11:56] "GET /ajax?lat=37.78957363984067&lon=-122.42013931274413 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78875968591083'), ('lon', u'-122.42013931274413')])
+(150, 55)
+65.87.19.170 - - [21/Jun/2016 10:11:56] "GET /ajax?lat=37.78875968591083&lon=-122.42013931274413 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78781006166099'), ('lon', u'-122.42082595825194')])
+(150, 50)
+65.87.19.170 - - [21/Jun/2016 10:11:56] "GET /ajax?lat=37.78781006166099&lon=-122.42082595825194 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78658909826544'), ('lon', u'-122.42202758789061')])
+(150, 43)
+65.87.19.170 - - [21/Jun/2016 10:11:57] "GET /ajax?lat=37.78658909826544&lon=-122.42202758789061 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78577511146142'), ('lon', u'-122.42271423339842')])
+(150, 40)
+65.87.19.170 - - [21/Jun/2016 10:11:57] "GET /ajax?lat=37.78577511146142&lon=-122.42271423339842 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.786046441392244'), ('lon', u'-122.42237091064453')])
+(150, 42)
+65.87.19.170 - - [21/Jun/2016 10:11:59] "GET /ajax?lat=37.786046441392244&lon=-122.42237091064453 HTTP/1.1" 200 -
+ * Detected change in '/data/insight_yelp/notebooks/Build_LDA_Model.py', reloading
+ * Restarting with inotify reloader
+path /data/insight_yelp/input/
+ * Debugger is active!
+ * Debugger pin code: 272-822-756
+Queried...  ImmutableMultiDict([('lat', u'37.798526541308384'), ('lon', u'-122.39765167236327')])
+(150, 58)
+65.87.19.170 - - [21/Jun/2016 10:13:22] "GET /ajax?lat=37.798526541308384&lon=-122.39765167236327 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.81127577036112'), ('lon', u'-122.41533279418945')])
+(150, 11)
+65.87.19.170 - - [21/Jun/2016 10:13:22] "GET /ajax?lat=37.81127577036112&lon=-122.41533279418945 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.8210396486882'), ('lon', u'-122.45790481567383')])
+65.87.19.170 - - [21/Jun/2016 10:13:22] "GET /ajax?lat=37.8210396486882&lon=-122.45790481567383 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.783604436152636'), ('lon', u'-122.43799209594725')])
+(150, 20)
+65.87.19.170 - - [21/Jun/2016 10:13:23] "GET /ajax?lat=37.783604436152636&lon=-122.43799209594725 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78672476186115'), ('lon', u'-122.43885040283203')])
+(150, 18)
+65.87.19.170 - - [21/Jun/2016 10:13:23] "GET /ajax?lat=37.78672476186115&lon=-122.43885040283203 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75429408009598'), ('lon', u'-122.51575469970703')])
+65.87.19.170 - - [21/Jun/2016 10:13:48] "GET /ajax?lat=37.75429408009598&lon=-122.51575469970703 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.82022604148547'), ('lon', u'-122.50648498535156')])
+65.87.19.170 - - [21/Jun/2016 10:13:48] "GET /ajax?lat=37.82022604148547&lon=-122.50648498535156 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.77736338951601'), ('lon', u'-122.48262405395506')])
+(150, 6)
+65.87.19.170 - - [21/Jun/2016 10:13:50] "GET /ajax?lat=37.77736338951601&lon=-122.48262405395506 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76040136229719'), ('lon', u'-122.43885040283203')])
+(150, 27)
+65.87.19.170 - - [21/Jun/2016 10:13:51] "GET /ajax?lat=37.76040136229719&lon=-122.43885040283203 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.7627084265813'), ('lon', u'-122.43301391601562')])
+(150, 40)
+65.87.19.170 - - [21/Jun/2016 10:13:51] "GET /ajax?lat=37.7627084265813&lon=-122.43301391601562 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75646561597495'), ('lon', u'-122.42631912231445')])
+65.87.19.170 - - [21/Jun/2016 10:13:51] "GET /ajax?lat=37.75646561597495&lon=-122.42631912231445 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.75619417747575'), ('lon', u'-122.41807937622069')])
+65.87.19.170 - - [21/Jun/2016 10:13:52] "GET /ajax?lat=37.75619417747575&lon=-122.41807937622069 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.76026565039251'), ('lon', u'-122.41413116455077')])
+65.87.19.170 - - [21/Jun/2016 10:13:52] "GET /ajax?lat=37.76026565039251&lon=-122.41413116455077 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.76135133865817'), ('lon', u'-122.39130020141603')])
+(150, 20)
+65.87.19.170 - - [21/Jun/2016 10:13:52] "GET /ajax?lat=37.76135133865817&lon=-122.39130020141603 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76297984117803'), ('lon', u'-122.3928451538086')])
+(150, 22)
+65.87.19.170 - - [21/Jun/2016 10:13:53] "GET /ajax?lat=37.76297984117803&lon=-122.3928451538086 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.70894871808501'), ('lon', u'-122.45515823364258')])
+(150, 4)
+65.87.19.170 - - [21/Jun/2016 10:14:00] "GET /ajax?lat=37.70894871808501&lon=-122.45515823364258 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77505678240509'), ('lon', u'-122.46768951416016')])
+(150, 5)
+65.87.19.170 - - [21/Jun/2016 10:14:00] "GET /ajax?lat=37.77505678240509&lon=-122.46768951416016 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77722770873696'), ('lon', u'-122.4956703186035')])
+(150, 2)
+65.87.19.170 - - [21/Jun/2016 10:14:03] "GET /ajax?lat=37.77722770873696&lon=-122.4956703186035 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76487971546801'), ('lon', u'-122.4755859375')])
+(150, 5)
+65.87.19.170 - - [21/Jun/2016 10:14:36] "GET /ajax?lat=37.76487971546801&lon=-122.4755859375 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.74967935472825'), ('lon', u'-122.50579833984375')])
+(150, 2)
+65.87.19.170 - - [21/Jun/2016 10:14:36] "GET /ajax?lat=37.74967935472825&lon=-122.50579833984375 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75836565758392'), ('lon', u'-122.47249603271484')])
+(150, 5)
+65.87.19.170 - - [21/Jun/2016 10:14:36] "GET /ajax?lat=37.75836565758392&lon=-122.47249603271484 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.760808496517235'), ('lon', u'-122.45309829711913')])
+(150, 5)
+65.87.19.170 - - [21/Jun/2016 10:14:37] "GET /ajax?lat=37.760808496517235&lon=-122.45309829711913 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76107991808567'), ('lon', u'-122.4367904663086')])
+(150, 33)
+65.87.19.170 - - [21/Jun/2016 10:14:37] "GET /ajax?lat=37.76107991808567&lon=-122.4367904663086 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.757008489985665'), ('lon', u'-122.43043899536133')])
+(150, 32)
+65.87.19.170 - - [21/Jun/2016 10:14:38] "GET /ajax?lat=37.757008489985665&lon=-122.43043899536133 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75483697004109'), ('lon', u'-122.43181228637695')])
+(150, 23)
+65.87.19.170 - - [21/Jun/2016 10:14:39] "GET /ajax?lat=37.75483697004109&lon=-122.43181228637695 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.751579570617366'), ('lon', u'-122.42958068847656')])
+(150, 13)
+65.87.19.170 - - [21/Jun/2016 10:14:39] "GET /ajax?lat=37.751579570617366&lon=-122.42958068847656 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75619417747575'), ('lon', u'-122.43301391601562')])
+(150, 28)
+65.87.19.170 - - [21/Jun/2016 10:14:39] "GET /ajax?lat=37.75619417747575&lon=-122.43301391601562 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75782279353237'), ('lon', u'-122.43301391601562')])
+(150, 29)
+65.87.19.170 - - [21/Jun/2016 10:14:41] "GET /ajax?lat=37.75782279353237&lon=-122.43301391601562 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75836565758392'), ('lon', u'-122.42340087890624')])
+65.87.19.170 - - [21/Jun/2016 10:14:41] "GET /ajax?lat=37.75836565758392&lon=-122.42340087890624 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.76026565039251'), ('lon', u'-122.42237091064453')])
+65.87.19.170 - - [21/Jun/2016 10:14:41] "GET /ajax?lat=37.76026565039251&lon=-122.42237091064453 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.7627084265813'), ('lon', u'-122.41790771484375')])
+65.87.19.170 - - [21/Jun/2016 10:14:42] "GET /ajax?lat=37.7627084265813&lon=-122.41790771484375 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.76420119453823'), ('lon', u'-122.41189956665039')])
+65.87.19.170 - - [21/Jun/2016 10:14:42] "GET /ajax?lat=37.76420119453823&lon=-122.41189956665039 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.765151122096945'), ('lon', u'-122.40863800048828')])
+65.87.19.170 - - [21/Jun/2016 10:14:42] "GET /ajax?lat=37.765151122096945&lon=-122.40863800048828 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.76406548960529'), ('lon', u'-122.40846633911133')])
+65.87.19.170 - - [21/Jun/2016 10:14:42] "GET /ajax?lat=37.76406548960529&lon=-122.40846633911133 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.76447260365713'), ('lon', u'-122.40863800048828')])
+65.87.19.170 - - [21/Jun/2016 10:14:43] "GET /ajax?lat=37.76447260365713&lon=-122.40863800048828 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.75877280300828'), ('lon', u'-122.37018585205077')])
+65.87.19.170 - - [21/Jun/2016 10:14:43] "GET /ajax?lat=37.75877280300828&lon=-122.37018585205077 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.76420119453823'), ('lon', u'-122.38666534423827')])
+(150, 14)
+65.87.19.170 - - [21/Jun/2016 10:14:44] "GET /ajax?lat=37.76420119453823&lon=-122.38666534423827 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.767050940611725'), ('lon', u'-122.39765167236327')])
+(150, 11)
+65.87.19.170 - - [21/Jun/2016 10:14:44] "GET /ajax?lat=37.767050940611725&lon=-122.39765167236327 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.771664582389825'), ('lon', u'-122.41241455078125')])
+(150, 42)
+65.87.19.170 - - [21/Jun/2016 10:14:44] "GET /ajax?lat=37.771664582389825&lon=-122.41241455078125 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77342854582093'), ('lon', u'-122.41207122802734')])
+(150, 39)
+65.87.19.170 - - [21/Jun/2016 10:14:45] "GET /ajax?lat=37.77342854582093&lon=-122.41207122802734 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.7738356083287'), ('lon', u'-122.41104125976564')])
+(150, 41)
+65.87.19.170 - - [21/Jun/2016 10:14:45] "GET /ajax?lat=37.7738356083287&lon=-122.41104125976564 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77437835485281'), ('lon', u'-122.40966796874999')])
+(150, 39)
+65.87.19.170 - - [21/Jun/2016 10:14:45] "GET /ajax?lat=37.77437835485281&lon=-122.40966796874999 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77437835485281'), ('lon', u'-122.40537643432617')])
+(150, 25)
+65.87.19.170 - - [21/Jun/2016 10:14:46] "GET /ajax?lat=37.77437835485281&lon=-122.40537643432617 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76732233927271'), ('lon', u'-122.40142822265625')])
+(150, 14)
+65.87.19.170 - - [21/Jun/2016 10:14:46] "GET /ajax?lat=37.76732233927271&lon=-122.40142822265625 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.7580942260561'), ('lon', u'-122.4151611328125')])
+65.87.19.170 - - [21/Jun/2016 10:14:47] "GET /ajax?lat=37.7580942260561&lon=-122.4151611328125 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.73977029560411'), ('lon', u'-122.4161911010742')])
+(150, 18)
+65.87.19.170 - - [21/Jun/2016 10:14:47] "GET /ajax?lat=37.73977029560411&lon=-122.4161911010742 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75565129748959'), ('lon', u'-122.42460250854492')])
+65.87.19.170 - - [21/Jun/2016 10:14:47] "GET /ajax?lat=37.75565129748959&lon=-122.42460250854492 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.76107991808567'), ('lon', u'-122.41790771484375')])
+65.87.19.170 - - [21/Jun/2016 10:14:48] "GET /ajax?lat=37.76107991808567&lon=-122.41790771484375 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.763251254778815'), ('lon', u'-122.40812301635742')])
+65.87.19.170 - - [21/Jun/2016 10:14:48] "GET /ajax?lat=37.763251254778815&lon=-122.40812301635742 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.762165594399924'), ('lon', u'-122.40606307983398')])
+65.87.19.170 - - [21/Jun/2016 10:14:48] "GET /ajax?lat=37.762165594399924&lon=-122.40606307983398 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.765422527729875'), ('lon', u'-122.37396240234375')])
+65.87.19.170 - - [21/Jun/2016 10:14:48] "GET /ajax?lat=37.765422527729875&lon=-122.37396240234375 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.763251254778815'), ('lon', u'-122.40142822265625')])
+65.87.19.170 - - [21/Jun/2016 10:14:48] "GET /ajax?lat=37.763251254778815&lon=-122.40142822265625 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.75768707689704'), ('lon', u'-122.4100112915039')])
+65.87.19.170 - - [21/Jun/2016 10:14:49] "GET /ajax?lat=37.75768707689704&lon=-122.4100112915039 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.75822994194451'), ('lon', u'-122.4100112915039')])
+65.87.19.170 - - [21/Jun/2016 10:14:49] "GET /ajax?lat=37.75822994194451&lon=-122.4100112915039 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.76813652927959'), ('lon', u'-122.41636276245117')])
+(150, 60)
+65.87.19.170 - - [21/Jun/2016 10:14:50] "GET /ajax?lat=37.76813652927959&lon=-122.41636276245117 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76800083156762'), ('lon', u'-122.41636276245117')])
+(150, 60)
+65.87.19.170 - - [21/Jun/2016 10:14:51] "GET /ajax?lat=37.76800083156762&lon=-122.41636276245117 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76257271890943'), ('lon', u'-122.41825103759764')])
+65.87.19.170 - - [21/Jun/2016 10:14:51] "GET /ajax?lat=37.76257271890943&lon=-122.41825103759764 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.761622758234715'), ('lon', u'-122.41979598999023')])
+65.87.19.170 - - [21/Jun/2016 10:14:52] "GET /ajax?lat=37.761622758234715&lon=-122.41979598999023 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.7627084265813'), ('lon', u'-122.43009567260741')])
+(150, 61)
+65.87.19.170 - - [21/Jun/2016 10:14:52] "GET /ajax?lat=37.7627084265813&lon=-122.43009567260741 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.7627084265813'), ('lon', u'-122.43198394775389')])
+(150, 45)
+65.87.19.170 - - [21/Jun/2016 10:14:52] "GET /ajax?lat=37.7627084265813&lon=-122.43198394775389 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76854362092148'), ('lon', u'-122.43507385253906')])
+(150, 36)
+65.87.19.170 - - [21/Jun/2016 10:14:52] "GET /ajax?lat=37.76854362092148&lon=-122.43507385253906 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.767865133606655'), ('lon', u'-122.4374771118164')])
+(150, 34)
+65.87.19.170 - - [21/Jun/2016 10:14:53] "GET /ajax?lat=37.767865133606655&lon=-122.4374771118164 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.767865133606655'), ('lon', u'-122.43902206420898')])
+(150, 20)
+65.87.19.170 - - [21/Jun/2016 10:14:53] "GET /ajax?lat=37.767865133606655&lon=-122.43902206420898 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76949349270407'), ('lon', u'-122.44400024414062')])
+(150, 17)
+65.87.19.170 - - [21/Jun/2016 10:14:54] "GET /ajax?lat=37.76949349270407&lon=-122.44400024414062 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76867931763743'), ('lon', u'-122.4481201171875')])
+(150, 15)
+65.87.19.170 - - [21/Jun/2016 10:14:54] "GET /ajax?lat=37.76867931763743&lon=-122.4481201171875 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76732233927271'), ('lon', u'-122.45464324951172')])
+(150, 14)
+65.87.19.170 - - [21/Jun/2016 10:14:54] "GET /ajax?lat=37.76732233927271&lon=-122.45464324951172 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.767050940611725'), ('lon', u'-122.45601654052734')])
+(150, 14)
+65.87.19.170 - - [21/Jun/2016 10:14:55] "GET /ajax?lat=37.767050940611725&lon=-122.45601654052734 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76596533600783'), ('lon', u'-122.4584197998047')])
+(150, 14)
+65.87.19.170 - - [21/Jun/2016 10:14:55] "GET /ajax?lat=37.76596533600783&lon=-122.4584197998047 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75863708811579'), ('lon', u'-122.45893478393553')])
+(150, 2)
+65.87.19.170 - - [21/Jun/2016 10:14:55] "GET /ajax?lat=37.75863708811579&lon=-122.45893478393553 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75334401310656'), ('lon', u'-122.45704650878905')])
+65.87.19.170 - - [21/Jun/2016 10:14:56] "GET /ajax?lat=37.75334401310656&lon=-122.45704650878905 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.74859349516863'), ('lon', u'-122.46391296386719')])
+65.87.19.170 - - [21/Jun/2016 10:14:56] "GET /ajax?lat=37.74859349516863&lon=-122.46391296386719 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.74723614831276'), ('lon', u'-122.46665954589844')])
+(150, 3)
+65.87.19.170 - - [21/Jun/2016 10:14:56] "GET /ajax?lat=37.74723614831276&lon=-122.46665954589844 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.747507619675595'), ('lon', u'-122.4671745300293')])
+65.87.19.170 - - [21/Jun/2016 10:14:56] "GET /ajax?lat=37.747507619675595&lon=-122.4671745300293 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.75429408009598'), ('lon', u'-122.47352600097658')])
+(150, 3)
+65.87.19.170 - - [21/Jun/2016 10:14:57] "GET /ajax?lat=37.75429408009598&lon=-122.47352600097658 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76732233927271'), ('lon', u'-122.46580123901367')])
+(150, 10)
+65.87.19.170 - - [21/Jun/2016 10:14:57] "GET /ajax?lat=37.76732233927271&lon=-122.46580123901367 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.774106982088796'), ('lon', u'-122.46322631835938')])
+(150, 3)
+65.87.19.170 - - [21/Jun/2016 10:14:58] "GET /ajax?lat=37.774106982088796&lon=-122.46322631835938 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77709202770888'), ('lon', u'-122.48931884765626')])
+(150, 5)
+65.87.19.170 - - [21/Jun/2016 10:14:58] "GET /ajax?lat=37.77709202770888&lon=-122.48931884765626 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.779398571318765'), ('lon', u'-122.50545501708984')])
+(150, 1)
+65.87.19.170 - - [21/Jun/2016 10:14:58] "GET /ajax?lat=37.779398571318765&lon=-122.50545501708984 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77790611014198'), ('lon', u'-122.50768661499022')])
+(150, 1)
+65.87.19.170 - - [21/Jun/2016 10:15:00] "GET /ajax?lat=37.77790611014198&lon=-122.50768661499022 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77831314799669'), ('lon', u'-122.50562667846678')])
+(150, 1)
+65.87.19.170 - - [21/Jun/2016 10:15:07] "GET /ajax?lat=37.77831314799669&lon=-122.50562667846678 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.778991539440696'), ('lon', u'-122.48708724975586')])
+(150, 6)
+65.87.19.170 - - [21/Jun/2016 10:15:08] "GET /ajax?lat=37.778991539440696&lon=-122.48708724975586 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77654930110635'), ('lon', u'-122.46562957763673')])
+(150, 11)
+65.87.19.170 - - [21/Jun/2016 10:15:08] "GET /ajax?lat=37.77654930110635&lon=-122.46562957763673 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77288579232436'), ('lon', u'-122.45464324951172')])
+(150, 11)
+65.87.19.170 - - [21/Jun/2016 10:15:08] "GET /ajax?lat=37.77288579232436&lon=-122.45464324951172 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77736338951601'), ('lon', u'-122.4491500854492')])
+(150, 5)
+65.87.19.170 - - [21/Jun/2016 10:15:09] "GET /ajax?lat=37.77736338951601&lon=-122.4491500854492 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.783740105227224'), ('lon', u'-122.42992401123045')])
+(150, 16)
+65.87.19.170 - - [21/Jun/2016 10:15:09] "GET /ajax?lat=37.783740105227224&lon=-122.42992401123045 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.7766849831305'), ('lon', u'-122.42408752441405')])
+(150, 34)
+65.87.19.170 - - [21/Jun/2016 10:15:10] "GET /ajax?lat=37.7766849831305&lon=-122.42408752441405 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.778448826783546'), ('lon', u'-122.398681640625')])
+(150, 43)
+65.87.19.170 - - [21/Jun/2016 10:15:10] "GET /ajax?lat=37.778448826783546&lon=-122.398681640625 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.783740105227224'), ('lon', u'-122.41498947143556')])
+(150, 71)
+65.87.19.170 - - [21/Jun/2016 10:15:11] "GET /ajax?lat=37.783740105227224&lon=-122.41498947143556 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78265474565738'), ('lon', u'-122.40726470947266')])
+(150, 94)
+65.87.19.170 - - [21/Jun/2016 10:15:11] "GET /ajax?lat=37.78265474565738&lon=-122.40726470947266 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78211205989562'), ('lon', u'-122.44726181030273')])
+(150, 6)
+65.87.19.170 - - [21/Jun/2016 10:15:19] "GET /ajax?lat=37.78211205989562&lon=-122.44726181030273 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.779805600955584'), ('lon', u'-122.26341247558594')])
+65.87.19.170 - - [21/Jun/2016 10:15:21] "GET /ajax?lat=37.779805600955584&lon=-122.26341247558594 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.722392304715825'), ('lon', u'-122.34134674072267')])
+65.87.19.170 - - [21/Jun/2016 10:15:21] "GET /ajax?lat=37.722392304715825&lon=-122.34134674072267 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.7918345745559'), ('lon', u'-122.2562026977539')])
+65.87.19.170 - - [21/Jun/2016 10:15:22] "GET /ajax?lat=37.7918345745559&lon=-122.2562026977539 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.7921058822383'), ('lon', u'-122.38906860351562')])
+(150, 21)
+65.87.19.170 - - [21/Jun/2016 10:15:23] "GET /ajax?lat=37.7921058822383&lon=-122.38906860351562 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.78464455798011'), ('lon', u'-122.42443084716797')])
+(150, 31)
+65.87.19.170 - - [21/Jun/2016 10:15:23] "GET /ajax?lat=37.78464455798011&lon=-122.42443084716797 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76659860591635'), ('lon', u'-122.39009857177734')])
+(150, 9)
+65.87.19.170 - - [21/Jun/2016 10:15:24] "GET /ajax?lat=37.76659860591635&lon=-122.39009857177734 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.71465235578256'), ('lon', u'-122.30598449707031')])
+65.87.19.170 - - [21/Jun/2016 10:15:24] "GET /ajax?lat=37.71465235578256&lon=-122.30598449707031 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.765151122096945'), ('lon', u'-122.41430282592772')])
+65.87.19.170 - - [21/Jun/2016 10:15:25] "GET /ajax?lat=37.765151122096945&lon=-122.41430282592772 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.760808496517235'), ('lon', u'-122.43078231811525')])
+(150, 42)
+65.87.19.170 - - [21/Jun/2016 10:15:25] "GET /ajax?lat=37.760808496517235&lon=-122.43078231811525 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76257271890943'), ('lon', u'-122.44056701660155')])
+(150, 28)
+65.87.19.170 - - [21/Jun/2016 10:15:26] "GET /ajax?lat=37.76257271890943&lon=-122.44056701660155 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.763251254778815'), ('lon', u'-122.43713378906249')])
+(150, 34)
+65.87.19.170 - - [21/Jun/2016 10:15:26] "GET /ajax?lat=37.763251254778815&lon=-122.43713378906249 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76257271890943'), ('lon', u'-122.43438720703125')])
+(150, 39)
+65.87.19.170 - - [21/Jun/2016 10:15:27] "GET /ajax?lat=37.76257271890943&lon=-122.43438720703125 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.761622758234715'), ('lon', u'-122.43352890014648')])
+(150, 36)
+65.87.19.170 - - [21/Jun/2016 10:15:27] "GET /ajax?lat=37.761622758234715&lon=-122.43352890014648 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.759315660088305'), ('lon', u'-122.43352890014648')])
+(150, 31)
+65.87.19.170 - - [21/Jun/2016 10:15:27] "GET /ajax?lat=37.759315660088305&lon=-122.43352890014648 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75755136001271'), ('lon', u'-122.43473052978517')])
+(150, 28)
+65.87.19.170 - - [21/Jun/2016 10:15:28] "GET /ajax?lat=37.75755136001271&lon=-122.43473052978517 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75551557687061'), ('lon', u'-122.43404388427733')])
+(150, 25)
+65.87.19.170 - - [21/Jun/2016 10:15:28] "GET /ajax?lat=37.75551557687061&lon=-122.43404388427733 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.754565525566484'), ('lon', u'-122.431640625')])
+(150, 19)
+65.87.19.170 - - [21/Jun/2016 10:15:28] "GET /ajax?lat=37.754565525566484&lon=-122.431640625 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75347973770911'), ('lon', u'-122.43009567260741')])
+(150, 13)
+65.87.19.170 - - [21/Jun/2016 10:15:29] "GET /ajax?lat=37.75347973770911&lon=-122.43009567260741 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.751851026046666'), ('lon', u'-122.42820739746094')])
+(150, 17)
+65.87.19.170 - - [21/Jun/2016 10:15:29] "GET /ajax?lat=37.751851026046666&lon=-122.42820739746094 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.74995081712854'), ('lon', u'-122.42958068847656')])
+(150, 11)
+65.87.19.170 - - [21/Jun/2016 10:15:30] "GET /ajax?lat=37.74995081712854&lon=-122.42958068847656 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.747507619675595'), ('lon', u'-122.45601654052734')])
+(150, 2)
+65.87.19.170 - - [21/Jun/2016 10:15:30] "GET /ajax?lat=37.747507619675595&lon=-122.45601654052734 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.759994225836245'), ('lon', u'-122.44159698486328')])
+(150, 18)
+65.87.19.170 - - [21/Jun/2016 10:15:31] "GET /ajax?lat=37.759994225836245&lon=-122.44159698486328 HTTP/1.1" 200 -
+ * Detected change in '/data/insight_yelp/flask_dir/views.py', reloading
+ * Detected change in '/data/insight_yelp/flask_dir/views.py', reloading
+Exception in thread Thread-2 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/watchdog/observers/api.py", line 200, in run
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'Empty'
+Exception in thread Thread-11 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/watchdog/observers/api.py", line 146, in run
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/watchdog/observers/inotify.py", line 129, in queue_events
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/watchdog/observers/inotify_buffer.py", line 43, in read_event
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/watchdog/utils/delayed_queue.py", line 66, in get
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'time'
+Exception in thread Thread-1 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/threading.py", line 754, in run
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/werkzeug/serving.py", line 659, in inner
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/werkzeug/serving.py", line 499, in serve_forever
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/SocketServer.py", line 238, in serve_forever
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/SocketServer.py", line 297, in _handle_request_noblock
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/werkzeug/serving.py", line 508, in handle_error
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute 'handle_error'
+Exception in thread Thread-12 (most likely raised during interpreter shutdown):
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/watchdog/observers/inotify_buffer.py", line 59, in run
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/watchdog/observers/inotify_c.py", line 304, in read_events
+<type 'exceptions.AttributeError'>: 'NoneType' object has no attribute '_parse_event_buffer'
+ * Restarting with inotify reloader
+path /data/insight_yelp/input/
+ * Debugger is active!
+ * Debugger pin code: 272-822-756
+Queried...  ImmutableMultiDict([('lat', u'37.72565098865453'), ('lon', u'-122.52021789550783')])
+65.87.19.170 - - [21/Jun/2016 10:17:04] "GET /ajax?lat=37.72565098865453&lon=-122.52021789550783 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.726058314066165'), ('lon', u'-122.51386642456055')])
+65.87.19.170 - - [21/Jun/2016 10:17:04] "GET /ajax?lat=37.726058314066165&lon=-122.51386642456055 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.7109857819458'), ('lon', u'-122.49532699584961')])
+65.87.19.170 - - [21/Jun/2016 10:17:04] "GET /ajax?lat=37.7109857819458&lon=-122.49532699584961 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.7624370109886'), ('lon', u'-122.41979598999023')])
+65.87.19.170 - - [21/Jun/2016 10:17:04] "GET /ajax?lat=37.7624370109886&lon=-122.41979598999023 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 266, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Queried...  ImmutableMultiDict([('lat', u'37.77872018361018'), ('lon', u'-122.42168426513672')])
+(150, 40)
+65.87.19.170 - - [21/Jun/2016 10:17:04] "GET /ajax?lat=37.77872018361018&lon=-122.42168426513672 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77573520373188'), ('lon', u'-122.42923736572264')])
+(150, 32)
+65.87.19.170 - - [21/Jun/2016 10:17:05] "GET /ajax?lat=37.77573520373188&lon=-122.42923736572264 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77017196507861'), ('lon', u'-122.44537353515625')])
+(150, 16)
+65.87.19.170 - - [21/Jun/2016 10:17:05] "GET /ajax?lat=37.77017196507861&lon=-122.44537353515625 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76949349270407'), ('lon', u'-122.44537353515625')])
+(150, 16)
+65.87.19.170 - - [21/Jun/2016 10:17:05] "GET /ajax?lat=37.76949349270407&lon=-122.44537353515625 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77464972662077'), ('lon', u'-122.43610382080078')])
+(150, 19)
+65.87.19.170 - - [21/Jun/2016 10:17:06] "GET /ajax?lat=37.77464972662077&lon=-122.43610382080078 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76949349270407'), ('lon', u'-122.44503021240233')])
+(150, 17)
+65.87.19.170 - - [21/Jun/2016 10:17:06] "GET /ajax?lat=37.76949349270407&lon=-122.44503021240233 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77831314799669'), ('lon', u'-122.41979598999023')])
+(150, 42)
+65.87.19.170 - - [21/Jun/2016 10:17:06] "GET /ajax?lat=37.77831314799669&lon=-122.41979598999023 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77397129533325'), ('lon', u'-122.42528915405272')])
+(150, 42)
+65.87.19.170 - - [21/Jun/2016 10:17:06] "GET /ajax?lat=37.77397129533325&lon=-122.42528915405272 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77587088725018'), ('lon', u'-122.42271423339842')])
+(150, 40)
+65.87.19.170 - - [21/Jun/2016 10:17:07] "GET /ajax?lat=37.77587088725018&lon=-122.42271423339842 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77641361883315'), ('lon', u'-122.42305755615234')])
+(150, 37)
+65.87.19.170 - - [21/Jun/2016 10:17:07] "GET /ajax?lat=37.77641361883315&lon=-122.42305755615234 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77641361883315'), ('lon', u'-122.42271423339842')])
+(150, 38)
+65.87.19.170 - - [21/Jun/2016 10:17:07] "GET /ajax?lat=37.77641361883315&lon=-122.42271423339842 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.803002585189645'), ('lon', u'-122.42391586303711')])
+(150, 24)
+65.87.19.170 - - [21/Jun/2016 10:17:07] "GET /ajax?lat=37.803002585189645&lon=-122.42391586303711 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79893346559687'), ('lon', u'-122.44331359863283')])
+(150, 17)
+65.87.19.170 - - [21/Jun/2016 10:17:08] "GET /ajax?lat=37.79893346559687&lon=-122.44331359863283 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79730575499307'), ('lon', u'-122.43850708007811')])
+(150, 25)
+65.87.19.170 - - [21/Jun/2016 10:17:08] "GET /ajax?lat=37.79730575499307&lon=-122.43850708007811 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.79323632157157'), ('lon', u'-122.4403953552246')])
+(150, 15)
+65.87.19.170 - - [21/Jun/2016 10:17:08] "GET /ajax?lat=37.79323632157157&lon=-122.4403953552246 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75388691002291'), ('lon', u'-122.49103546142578')])
+(150, 2)
+65.87.19.170 - - [21/Jun/2016 10:17:08] "GET /ajax?lat=37.75388691002291&lon=-122.49103546142578 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.76759373693769'), ('lon', u'-122.37361907958984')])
+65.87.19.170 - - [21/Jun/2016 10:24:26] "GET /ajax?lat=37.76759373693769&lon=-122.37361907958984 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.80788523279169'), ('lon', u'-122.4203109741211')])
+(150, 13)
+65.87.19.170 - - [21/Jun/2016 10:24:27] "GET /ajax?lat=37.80788523279169&lon=-122.4203109741211 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.751851026046666'), ('lon', u'-122.52536773681639')])
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.751851026046666&lon=-122.52536773681639 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.75388691002291'), ('lon', u'-122.46271133422852')])
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.75388691002291&lon=-122.46271133422852 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.75727992549716'), ('lon', u'-122.45309829711913')])
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.75727992549716&lon=-122.45309829711913 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.75782279353237'), ('lon', u'-122.44348526000977')])
+(150, 1)
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.75782279353237&lon=-122.44348526000977 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.753208288255074'), ('lon', u'-122.44588851928712')])
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.753208288255074&lon=-122.44588851928712 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.75917994619179'), ('lon', u'-122.44331359863283')])
+(150, 5)
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.75917994619179&lon=-122.44331359863283 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.75768707689704'), ('lon', u'-122.44400024414062')])
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.75768707689704&lon=-122.44400024414062 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 59, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/helpers.py", line 183, in make_response
+    return current_app.make_response(args)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1566, in make_response
+    raise ValueError('View function did not return a response')
+ValueError: View function did not return a response
+Queried...  ImmutableMultiDict([('lat', u'37.773157169570695'), ('lon', u'-122.43438720703125')])
+(150, 21)
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.773157169570695&lon=-122.43438720703125 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.773699921075114'), ('lon', u'-122.43387222290038')])
+(150, 20)
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.773699921075114&lon=-122.43387222290038 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77831314799669'), ('lon', u'-122.42837905883789')])
+(150, 25)
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.77831314799669&lon=-122.42837905883789 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.779669924659004'), ('lon', u'-122.42683410644533')])
+(150, 26)
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.779669924659004&lon=-122.42683410644533 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.780483978703025'), ('lon', u'-122.42425918579102')])
+(150, 26)
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.780483978703025&lon=-122.42425918579102 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.781433697090094'), ('lon', u'-122.42992401123045')])
+(150, 18)
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.781433697090094&lon=-122.42992401123045 HTTP/1.1" 200 -
+Queried...  ImmutableMultiDict([('lat', u'37.77804178967593'), ('lon', u'-122.43335723876952')])
+(150, 24)
+65.87.19.170 - - [21/Jun/2016 10:27:59] "GET /ajax?lat=37.77804178967593&lon=-122.43335723876952 HTTP/1.1" 200 -
+ * Detected change in '/data/insight_yelp/flask_dir/views.py', reloading
+[I 10:53:19.722 NotebookApp] Kernel started: ec59e078-ae81-4045-b384-a5a0d2885b7d
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 10:53:53.150 NotebookApp] Kernel shutdown: ec59e078-ae81-4045-b384-a5a0d2885b7d
+[I 11:52:20.340 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 11:52:34.214 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 11:52:38.472 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 11:52:43.916 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 11:53:29.835 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 11:54:44.101 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 12:21:14.257 NotebookApp] 302 GET / (65.87.19.170) 0.85ms
+[W 12:21:23.796 NotebookApp] Notebook notebooks/04 - doc2vec.ipynb is not trusted
+[I 12:21:24.506 NotebookApp] Kernel started: 9338a2bf-1631-4159-af44-cbc0b4ad9f9c
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 12:21:36.519 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 12:21:36.520 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 12:23:24.715 NotebookApp] Saving file at /notebooks/04 - doc2vec.ipynb
+[W 12:23:24.729 NotebookApp] Saving untrusted notebook notebooks/04 - doc2vec.ipynb
+[I 12:23:33.030 NotebookApp] Kernel started: 131d4d3b-3ad2-4219-8e70-8c635646f3f6
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 12:23:55.508 NotebookApp] Kernel shutdown: 9338a2bf-1631-4159-af44-cbc0b4ad9f9c
+[I 12:24:19.374 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 12:25:11.351 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 12:27:14.989 NotebookApp] Kernel shutdown: ba212b78-4d15-45d1-928a-c7b8df7b91b6
+[I 12:27:16.007 NotebookApp] Kernel shutdown: e9a4c186-3539-4cdc-8c7b-cbf9a69bf827
+[I 12:27:17.029 NotebookApp] Kernel shutdown: 303971fa-9909-4052-a8e5-3730d0d8a551
+[I 12:27:18.051 NotebookApp] Kernel shutdown: e808d8f9-5f8b-4e0d-b2ae-3f17c2b45918
+[I 12:27:32.184 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 12:47:33.202 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 14:04:22.278 NotebookApp] Kernel started: c0aac8be-09db-4ba8-a0cf-383215268472
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 14:06:22.327 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 14:08:22.529 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 14:10:22.356 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 14:18:22.597 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 14:28:22.393 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 14:29:07.435 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 14:41:32.881 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 15:03:06.936 NotebookApp] Kernel interrupted: c0aac8be-09db-4ba8-a0cf-383215268472
+[I 15:03:56.728 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 15:05:39.035 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 15:14:22.874 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 15:18:22.764 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 15:18:31.568 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 15:18:55.424 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 15:19:32.652 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 15:35:32.797 NotebookApp] Saving file at /notebooks/04 - doc2vec- training.ipynb
+[I 15:43:21.018 NotebookApp] Kernel interrupted: c0aac8be-09db-4ba8-a0cf-383215268472
+[I 15:43:59.380 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 15:54:23.094 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb

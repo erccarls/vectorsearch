@@ -142,15 +142,29 @@ def cesareans_output():
   start = time.time()
 
   #top_bus_id, top_bus_sim = vectorsearch.FindBusinessSimilarityLDA(rev_topic, business_ids=bus_ids_in_city_state, method='Hel', top_n=30)
-  top_bus_id, top_bus_sim = vectorsearch.FindBusinessSimilaritydoc2vec(review_text, bus_ids_in_city_state, top_n=40)
+  top_bus_id, top_bus_sim = vectorsearch.FindBusinessSimilaritydoc2vec(review_text, bus_ids_in_city_state, top_n=50)
   print "Similarity took", time.time()-start, "seconds" 
   #print topic_listings
 
+  # Check that the names are not already included. 
+  names, valid_biz, biz_sims = [], [], [] 
+  for i_bus, bus_id in enumerate(top_bus_id):
+    name = df_businesses.name[df_businesses.business_id==bus_id].values[0]
+    if name not in names:
+      names.append(name)
+      valid_biz.append(bus_id)
+      biz_sims.append(top_bus_sim[i_bus])
+
+  top_bus_id  = valid_biz
+  top_bus_sim = biz_sims
+
+
   # Visualize the search query.....
   img_path_query = '/images/insight/query_'+str(uuid.uuid4()) + '.png'
-  vectorsearch.visualize_topic(rev_topic, num_topics=top_n, save_path='/home/carlson/web/'+img_path_query)
+  #vectorsearch.visualize_topic(rev_topic, num_topics=top_n, save_path='/home/carlson/web/'+img_path_query)
   # Find the top businesses.
   top_businesses = [] 
+
   for i, bus_id in enumerate(top_bus_id[:15]):
       # This is the full topic array for the business. 
       bus_topic_vec = vectorsearch.bus_lda_topics[vectorsearch.bus_lda_topics.business_id==bus_id].topic_vector.values[0]
@@ -162,7 +176,7 @@ def cesareans_output():
       URL = df_businesses.URL[df_businesses.business_id==bus_id].values[0]
       image_URL = df_businesses.image_URL[df_businesses.business_id==bus_id].values[0]
 
-      vectorsearch.visualize_topic(bus_topic_vec, num_topics=top_n, save_path='/home/carlson/web/'+img_path, top_topics=top_n_topics)
+      #vectorsearch.visualize_topic(bus_topic_vec, num_topics=top_n, save_path='/home/carlson/web/'+img_path, top_topics=top_n_topics)
       # Append to list that gets passed to web page...
       top_businesses.append(dict(bus_id=bus_id, similarity=top_bus_sim[i], image_path='http://planck.ucsc.edu/'+img_path,
                             bus_name=df_businesses.name[df_businesses.business_id==bus_id].values[0],
@@ -245,7 +259,7 @@ def distance(origin, destination):
 @crossdomain(origin='*')
 def query_lat_lon(): 
 
-    print "Queried... ", request.args
+    #print "Queried... ", request.args
 
     # Find distance to each business.
 
@@ -257,10 +271,10 @@ def query_lat_lon():
 
     distances = distance((lat1, lon1), (lat2,lon2))
 
-    nearby_bids = df_businesses.business_id[distances<.5].values
+    nearby_bids = df_businesses.business_id[distances<.75].values
     # Threshold
-    distances[distances<.1] = .1 
-    weights = 1./distances[distances<.5]
+    distances[distances<.075] = .075
+    weights = 1./distances[distances<.75]**1.5
 
     bus_topics = np.array([vectorsearch.bus_lda_topics[vectorsearch.bus_lda_topics.business_id==biz].topic_vector.values[0] 
                                           for biz in nearby_bids])
@@ -269,10 +283,11 @@ def query_lat_lon():
       return None
     print bus_topics.shape
     bus_topics = np.sum(bus_topics, axis=1)
+    bus_topics /= np.sum(bus_topics)
 
-    topic_idx = bus_topics.argsort().argsort()[-8:][::-1]
+    topic_idx = bus_topics.argsort()[-6:][::-1]
 
-    topic_words = [", ".join(vectorsearch.GetTopicWords(i, n_top_words=3)) for i in topic_idx]
+    topic_words = ["  ".join(vectorsearch.GetTopicWords(i, n_top_words=3)).title() for i in topic_idx]
 
-    return jsonify(lat=lat1, lon=lon1, mean_topic=list(bus_topics), topic_words=topic_words)
+    return jsonify(lat=lat1, lon=lon1, mean_topic=list(bus_topics[topic_idx]), topic_words=topic_words)
 

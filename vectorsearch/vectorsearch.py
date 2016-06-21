@@ -75,7 +75,7 @@ def GetDocLength(review):
 def GetTopicWords(topic_idx, n_top_words=10):
     tf_feature_names = bus_lda.tf_vectorizer.get_feature_names()
     topic = bus_lda.lda.components_[topic_idx]
-    return [tf_feature_names[i] for i in topic.argsort()[-n_top_words:][::-1]#[:-n_top_words - 1:-1]]
+    return [tf_feature_names[i] for i in topic.argsort()[-n_top_words:][::-1]]#[:-n_top_words - 1:-1]]
 
 
 def FindBusinessSimilarityLDA(rev_topic, business_ids=None, top_n=10, method='Hel'):
