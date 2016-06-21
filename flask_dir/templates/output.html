@@ -22,7 +22,7 @@
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
     <!-- <link href="https://github.com/silviomoreto/bootstrap-select/blob/master/dist/css/bootstrap-select.min.css" rel="stylesheet"> -->
 
-       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
 
 
    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
@@ -60,23 +60,25 @@
 
 #wrap_map {
 
-   width:100%;
-    min-height: 100%;
+  width:100%;
+  min-height: 100%;
   height: auto !important;
   height: 100%;
   margin: 0 0 -30px 0;
+  padding-top: 25px;
 }
 #left_col_map {
    float:left;
-   width:50%;
+   width:30%;
    height:100%;
 }
 #right_col_map {
    float:right;
-   width:50%;
+   width:70%;
    min-height: 100%;
    height: auto !important;
-  margin: 0 0 -30px 0;
+    margin: 0 0 -30px 0;
+    padding-top: 5px;
  }
 iframe {
     display: block;
@@ -85,6 +87,7 @@ iframe {
     height: calc(100vh - 30px);
     width: 100%;
 }
+
 
 </style>
 
@@ -106,7 +109,24 @@ iframe {
            <li><a href="#about">About</a></li>
            <li><a href="#contact">Contact</a></li>
          </ul>
+         <form  action="/output" method="GET">
+          <p>
+          <textarea align="right" rows="2" cols="50" id="text_review" name='text_review' style:"padding-bottom:10px;">{{review_text}} </textarea>
+          <button type="submit" class="btn btn-default btn-lg" width="300px" 
+                          style:"font-size: 24px; vertical-align: middle;">Search</button>
+            <select class="selectpicker" data-live-search="true" id="sel_city" name="sel_city" style="width:auto;">
+                      <option selected>San Francisco, CA</option>
+                        {% for city_state in city_state_list %}
+                          <option>{{ city_state['city'] }}</option>
+                        {% endfor %}                       
+            </select>
+          </p>
+
+          
+          
+          </form>
        </div><!--/.nav-collapse -->
+
      </div>
    </div>
 
@@ -151,47 +171,58 @@ iframe {
 <section id="about" class="about">
 
   <div id="wrap_map">
-      <div id="left_col_map">
+      <div id="left_col_map">    
+<!--                 <br>
+                <div align="center" style:"padding-top: 50px;">
+                  <div style="float:left;"> 
+                    <textarea align="center" rows="4" cols="60" id="text_review" name='text_review', >{{review_text}} </textarea>
+                  </div>
+
+                  <div style="float:right;">
+                    <button type="submit" class="btn btn-default btn-lg" width="300px" 
+                            style:"padding-bottom:10%; font-size: 24px;">Search</button>
+                </div> -->
             <table class="table table-hover">
             {% for top_bus in top_businesses %}
-            <tr><td><h4>{{ top_bus['bus_name']}}</h4><br>Test2</td>
+            <tr><td><h4><a href={{ top_bus['URL'] }}> {{ top_bus['bus_name'] }}</a></h4><br>
+              <img src={{ top_bus['image_URL'] }} alt="" style="width:150px;height:150px;"></td>
               <!-- <td>{{top_bus['image_path']}}</td></tr> -->
-              <td><img src={{top_bus['image_path']}} alt="uh oh!" style="width:250px;height:250px;"></td></tr>
+              <!-- <td><img src={{top_bus['image_path']}} alt="uh oh!" style="width:200px;height:200px;"></td></tr> -->
             {% endfor %}
             </table>
       </div>
-      <div id="right_col_map">
+      <div id="right_col_map" onmousemove="return MouseMove(event)">
           <iframe width="100%" frameborder="0" src={{map_path}}></iframe>
 
           <form  action="/output" method="GET">
                 
                 <div class="form-group" align="center">
                 <label for="sel_city">Select City:</label>
-                <div class="btn-group bootstrap-select dropdown" align="center" style="width:auto; margin:0 auto;">
+                    <div class="btn-group bootstrap-select dropdown" align="center" style="width:auto; margin:0 auto;">
                     <select class="selectpicker" data-live-search="true" id="sel_city" name="sel_city" style="width:auto;">
                       <option selected>San Francisco, CA</option>
-                      {% for city_state in city_state_list %}
-                        <option>{{ city_state['city'] }}</option>
-                      {% endfor %}
-<!--                       <option>Las Vegas, NV</option>
-                      <option>Pheonix, AZ</option> -->
-                  </select>
-                </div>
-                <br>
-                  <textarea align="center" rows="6" cols="50" id="text_review" name='text_review'>They had great beer and wine! They even allow dogs. </textarea>
+                        {% for city_state in city_state_list %}
+                          <option>{{ city_state['city'] }}</option>
+                        {% endfor %}                       
+                    </select>
+                  </div>
+<!--                 <br>
+                  <textarea align="center" rows="6" cols="50" id="text_review" name='text_review'>{{review_text}} </textarea>
                 </div>
                 
                 <div align="center">
                   <button type="submit" class="btn btn-default btn-lg" width="300px" 
                           style:"padding: 18px 24px;font-size: 24px;">Search</button>
-                </div>
+                </div> -->
 
               </form>
+
+              <p id="coords"></p>
 
       </div>
 
 
-
+<!-- 
   <div <div align="center" style="width:auto; margin:0 auto;padding-top:2%;"  >
     <iframe width="80%" height="640" frameborder="0" src={{map_path}}></iframe>
   </div> 
@@ -217,14 +248,14 @@ iframe {
                 <div class="form-group">
                 <label for="sel_city">Select City:</label>
                 <div align="center" style="width:auto; margin:0 auto;">
-                  <!-- <select class="form-control" id="sel_city" name="sel_city" data-live-search="true" style="width:auto;"> -->
+                   <select class="form-control" id="sel_city" name="sel_city" data-live-search="true" style="width:auto;"> 
                   <select class="selectpicker" data-live-search="true" id="sel_city" name="sel_city" style="width:auto;">
                       <option selected>San Francisco, CA</option>
                       {% for city_state in city_state_list %}
                         <option>{{ city_state['city'] }}</option>
                       {% endfor %}
-<!--                       <option>Las Vegas, NV</option>
-                      <option>Pheonix, AZ</option> -->
+                       <option>Las Vegas, NV</option>
+                      <option>Pheonix, AZ</option> 
                   </select>
                 </div>
                 <br>
@@ -240,12 +271,11 @@ iframe {
             </div>
         </div>
         </div>
-    </section>    
+    </section>   -->  
     
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
    <script src="static/js/bootstrap.min.js"></script>
        <!-- Latest compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
 </div> 
 
 
@@ -270,16 +300,9 @@ iframe {
 
     <div class="container">
 
-     </div><!-- /.container --> --> --> -->
+     </div><!-- /.container --> 
 
 
-   <!-- Bootstrap core JavaScript
-   ================================================== -->
-   <!-- Placed at the end of the document so the pages load faster -->
-   // <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-   // <script src="static/js/bootstrap.min.js"></script>
-   //     <!-- Latest compiled and minified JavaScript -->
-   //  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
 
 
 <div id="map"></div>
@@ -354,12 +377,53 @@ iframe {
         ];
       }
     </script>
+
+
+    <script>
+      function MouseMove(e) {
+          var x = e.clientX;
+          var y = e.clientY;
+          var coor = "Coordinates: (" + x + "," + y + ")";
+          document.getElementById("coords").innerHTML = coor;
+      }
+    </script> 
+
+
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsTw9mRQRsE3wvqpOVYJJwd3RK59SEWrY&libraries=visualization&callback=initMap">
     </script>
 
 
+<div>
+<style>
+</style>
+</head>
 
+
+<body>
+
+<div onmousemove="myFunction(event)" onmouseout="clearCoor()"></div>
+
+<p>Mouse over the rectangle above, and get the coordinates of your mouse pointer.</p>
+
+<p>When the mouse is moved over the div, the p element will display the horizontal and vertical coordinates of your mouse pointer, whose values are returned from the clientX and clientY properties on the
+MouseEvent object.</p>
+
+<p id="demo"></p>
+
+<script>
+function myFunction(e) {
+    var x = e.clientX;
+    var y = e.clientY;
+    var coor = "Coordinates: (" + x + "," + y + ")";
+    document.getElementById("demo").innerHTML = coor;
+}
+
+function clearCoor() {
+    document.getElementById("demo").innerHTML = "";
+}
+</script>
+</div>
 
 
 </body>

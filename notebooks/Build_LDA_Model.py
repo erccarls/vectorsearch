@@ -11,13 +11,13 @@ import LDA
 from random import shuffle
 
 
-n_topics=30
+n_topics=60
 n_features=10000
-max_df=.85
-min_df=3
-max_iter=10
-alpha=15./n_topics
-
+max_df=.75
+min_df=2
+max_iter=5
+alpha=60./float(n_topics)
+eta = 30./float(n_topics)
 
 # Load the bar review dataset 
 review = pd.read_pickle('../output/bar_reviews_cleaned_and_tokenized_SF.pickle')
@@ -80,7 +80,8 @@ with open('../output/bus_ids_bars_LDA.pickle', 'wb') as f:
 
 
 
-lda_bus = LDA.LDA(alpha=alpha, n_topics=n_topics, n_features=n_features, max_df=max_df, min_df=min_df, max_iter=max_iter,)
+lda_bus = LDA.LDA(alpha=alpha,  eta=eta, n_topics=n_topics, 
+                n_features=n_features, max_df=max_df, min_df=min_df, max_iter=max_iter,)
 lda_bus.vectorizecounts(docs_bus)
 lda_bus.fitLDA()
 LDA.SaveLDAModel('../output/LDA_model_bus.pickle', lda_bus)
