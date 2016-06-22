@@ -23,7 +23,7 @@ from gensim.models import doc2vec
 # 5. Externally, for top ranked users, visualize each bar... 
 
 path = "/".join(os.path.realpath(__file__).split("/")[:-2]) 
-doc2vec_model = doc2vec.Doc2Vec.load(path+'/output/doc2vec_bars_100.model')
+doc2vec_model = doc2vec.Doc2Vec.load(path+'/output/doc2vec_bars_200_neg_10_win_5.model')
 bus_lda = LDA.LoadLDAModel(path+'/output/LDA_model_bus.pickle')
 bus_lda_topics = pd.read_pickle(path+'/output/business_LDA_vectors.pickle')
 normed_topic_vecs = np.vstack(map(lambda topic_vec: topic_vec/np.sqrt(np.dot(topic_vec, topic_vec)),

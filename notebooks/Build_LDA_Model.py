@@ -11,12 +11,12 @@ import LDA
 from random import shuffle
 
 
-n_topics=100
+n_topics=120
 n_features=5000
 max_df=.35
 min_df=2
 max_iter=10
-alpha=30./float(n_topics)
+alpha=60./float(n_topics)
 eta = 10./float(n_topics)
 # Load the bar review dataset 
 review = pd.read_pickle('../output/bar_reviews_cleaned_and_tokenized_SF.pickle')
@@ -69,6 +69,9 @@ for i_bus, bus_id in enumerate(business_set):
     reviews_merged_bus[bus_id] = " ".join(list(chain.from_iterable( 
                                     chain.from_iterable( review.cleaned_tokenized[review.business_id==bus_id] ))))    
 docs_bus = reviews_merged_bus.values()
+
+with open('../output/reviews_merged_bus.pickle', 'wb') as f: 
+    pickle.dump(reviews_merged_bus, f)
 
 with open('../output/docs_bars_bus.pickle', 'wb') as f: 
     pickle.dump(docs_bus, f)

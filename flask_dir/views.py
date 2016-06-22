@@ -19,17 +19,23 @@ from flask import jsonify
 import sys
 sys.path.append('./vectorsearch/')
 import vectorsearch
-df_businesses = pd.read_pickle(path+'/input/yelp_academic_dataset_business_SF.pickle')
 
-
+from bs4 import BeautifulSoup
+import re
+import urllib2
+from wordcloud import WordCloud
 
 city_state_list = sorted(pickle.load(open(path+'/output/city_state_list.pickle', 'rb')))[1:]
+df_businesses = pd.read_pickle(path+'/input/yelp_academic_dataset_business_SF.pickle')
+bus_reviews = pickle.load(open(path+'/output/reviews_merged_bus.pickle', 'rb'))
 
-
-
+from matplotlib import pyplot as plt
 from datetime import timedelta
 from flask import make_response, request, current_app
 from functools import update_wrapper
+
+from multiprocessing import pool 
+
 
 
 def crossdomain(origin=None, methods=None, headers=None,
@@ -164,24 +170,31 @@ def cesareans_output():
   #vectorsearch.visualize_topic(rev_topic, num_topics=top_n, save_path='/home/carlson/web/'+img_path_query)
   # Find the top businesses.
   top_businesses = [] 
+  words_paths = [] 
 
-  for i, bus_id in enumerate(top_bus_id[:15]):
+  for i, bus_id in enumerate(top_bus_id[:20]):
       # This is the full topic array for the business. 
       bus_topic_vec = vectorsearch.bus_lda_topics[vectorsearch.bus_lda_topics.business_id==bus_id].topic_vector.values[0]
 
       img_path = '/images/insight/'+bus_id+'.png'
-      print 'Generating image ', img_path
+      #print 'Generating image ', img_path
       lat = df_businesses.latitude[df_businesses.business_id==bus_id].values[0]
       lon = df_businesses.longitude[df_businesses.business_id==bus_id].values[0]
       URL = df_businesses.URL[df_businesses.business_id==bus_id].values[0]
       image_URL = df_businesses.image_URL[df_businesses.business_id==bus_id].values[0]
-
+      words = bus_reviews[bus_id]
+      words_paths.append((words, img_path))
       #vectorsearch.visualize_topic(bus_topic_vec, num_topics=top_n, save_path='/home/carlson/web/'+img_path, top_topics=top_n_topics)
       # Append to list that gets passed to web page...
       top_businesses.append(dict(bus_id=bus_id, similarity=top_bus_sim[i], image_path='http://planck.ucsc.edu/'+img_path,
-                            bus_name=df_businesses.name[df_businesses.business_id==bus_id].values[0],
+                            bus_name="%i. "%(i+1) + df_businesses.name[df_businesses.business_id==bus_id].values[0],
                             lat=lat, lon=lon, URL=URL, image_URL=image_URL))
 
+  # Generate word clouds
+  p = pool.Pool(12)
+  p.map(gen_word_cloud, words_paths)
+  p.close()
+  p.join()
 
 
   centroid_lat = np.average([biz['lat'] for biz in top_businesses])
@@ -190,19 +203,19 @@ def cesareans_output():
   # Generate map....
   map_path = img_path[:-4]+'.html'
   print "\nPATH TO MAP, lat, lon", map_path, '\n', centroid_lat, centroid_lon
-  map_osm = folium.Map(location=[centroid_lat, centroid_lon], zoom_start=13, detect_retina=True, 
-                    tiles='stamentoner', attr='Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.')               
-
   # map_osm = folium.Map(location=[centroid_lat, centroid_lon], zoom_start=13, detect_retina=True, 
-  #                   tiles='http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', attr='Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.')               
+  #                   tiles='stamentoner', attr='Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.')               
+
+  map_osm = folium.Map(location=[centroid_lat, centroid_lon], zoom_start=13, detect_retina=True, 
+                    tiles='http://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png', attr='&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>')               
 
   # map_osm.add_tile_layer(tile_url='http://tile.stamen.com/toner-labels/{z}/{x}/{y}.png', attr='labels',
   #                        active=True, overlay=True)
 
-  for business in top_businesses[:15]:
+  for business in top_businesses[:]:
 
-    html = r'''<div align="center"> <font size="4"><b>'''+business['bus_name']+'''</b></font> <br><img src="'''+business['image_path']+'''" alt="NOPE" style="width:250px;height:250px;"></div>'''
-    iframe = folium.element.IFrame(html=html,width=300,height=300)
+    html = r'''<div align="center"> <font size="4"><a href="'''+business['URL'] +'''"> <b>'''+business['bus_name']+'''</b></a></font> <br><img src="'''+business['image_path']+'''" alt="NOPE" style="width:250px;height:125px;"></div>'''
+    iframe = folium.element.IFrame(html=html,width=300,height=175)
     popup = folium.Popup(html=iframe)
     
     icon = folium.Icon(color="blue", icon="ok")
@@ -230,13 +243,16 @@ def cesareans_output():
 
   map_osm.save('/home/carlson/web/'+map_path)
 
-
+  append_mousemove_js('/home/carlson/web/'+map_path)
 
 
   return render_template("output.html", review_text=review_text, topic_listings=topic_listings, top_businesses=top_businesses,
                           image_path_query='http://planck.ucsc.edu/'+img_path_query, map_path='http://planck.ucsc.edu/'+map_path,
                           city_state_list=city_state_dict)
   #return render_template("output.html", births=[1,5,2,], the_results=" ")
+
+
+
 
 
 
@@ -278,16 +294,103 @@ def query_lat_lon():
 
     bus_topics = np.array([vectorsearch.bus_lda_topics[vectorsearch.bus_lda_topics.business_id==biz].topic_vector.values[0] 
                                           for biz in nearby_bids])
-    bus_topics = weights*bus_topics.T
-    if len(bus_topics.shape)<2:
-      return None
-    print bus_topics.shape
-    bus_topics = np.sum(bus_topics, axis=1)
-    bus_topics /= np.sum(bus_topics)
+    try:
+      bus_topics = weights*bus_topics.T
+      if len(bus_topics.shape)<2:
+        return jsonify(lat="")
+      print bus_topics.shape
+      bus_topics = np.sum(bus_topics, axis=1)
+      bus_topics /= np.sum(bus_topics)
 
-    topic_idx = bus_topics.argsort()[-6:][::-1]
+      topic_idx = bus_topics.argsort()[-6:][::-1]
 
-    topic_words = ["  ".join(vectorsearch.GetTopicWords(i, n_top_words=3)).title() for i in topic_idx]
+      topic_words = ["  ".join(vectorsearch.GetTopicWords(i, n_top_words=3)).title() for i in topic_idx]
 
-    return jsonify(lat=lat1, lon=lon1, mean_topic=list(bus_topics[topic_idx]), topic_words=topic_words)
+      return jsonify(lat=lat1, lon=lon1, mean_topic=list(bus_topics[topic_idx]), topic_words=topic_words)
+    except:
+      return jsonify(lat="")
 
+def append_mousemove_js(mapfile, ):
+    soup = BeautifulSoup(open(mapfile, 'rb'), "lxml")
+    
+    mapname=""
+    for line in open(mapfile, 'rb').readlines():
+      if "var map_" in line:
+          map_name = line.split()[1]
+          break
+    
+    js='''
+      <script>
+      var last_mousemove = new Date();
+                  '''+map_name+'''.on('mousemove', function(e) {
+                      var req = new XMLHttpRequest()
+                      req.onreadystatechange = function()
+                      {
+                          if (req.readyState == 4)
+                          {
+                              if (req.status != 200)
+                              {
+                                  //error handling code here
+                              }
+                              else
+                              {
+
+                                  var response = JSON.parse(req.responseText)
+
+                                  // console.log(response.mean_topic);
+                                  // console.log(response.topic_words);
+
+                                  var arr = [];
+
+                                  for(var x in response.topic_words){
+                                    arr.push( {letter:response.topic_words[x], frequency:response.mean_topic[x]} );
+                                  }
+                                  
+                                  //draw(arr);
+                                  parent.postMessage(arr,"*");  //  `*` on any domain         
+
+                              }
+                          }
+                      }
+                      
+
+                      // Rate Limiting
+                      //console.log((new Date() - last_mousemove));
+                      if ((new Date() - last_mousemove) < 300)
+                      {
+                          return ; 
+                      }
+                      last_mousemove = new Date();
+
+                      var lat = e.latlng.lat
+                      var lon = e.latlng.lng
+                      req.open('GET', 'http://planck.ucsc.edu:5000/ajax?lat='+String(lat)+'&lon='+String(lon))
+                      req.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
+
+                      req.send()
+                      
+                      return false
+                  });
+      </script>
+      </html>
+      '''
+    
+    with open(mapfile, 'wb') as f:
+        f.write(str(soup).replace("</html>",js))
+
+import wordcloud as wc 
+def gen_word_cloud(words_path):
+    text, path = words_path
+    
+    # Generate a word cloud image
+    wordcloud = WordCloud().generate(text)
+
+
+    # take relative word frequencies into account, lower max_font_size
+    wordcloud = WordCloud(width=250, height=125, prefer_horizontal=1, max_font_size=60, max_words=20, 
+                          min_font_size=14, relative_scaling=1, background_color=None, mode="RGBA",
+                          color_func=wc.get_single_color_func("#242426"), stopwords=['bar', "the", "place"]).generate(text)
+    plt.figure(figsize=(2.5,1.25), dpi=100)
+    plt.imshow(wordcloud)
+    plt.axis("off")
+    plt.savefig('/home/carlson/web/'+path, transparent=True, bbox_inches='tight')

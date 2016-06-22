@@ -5774,3 +5774,2171 @@ Queried...  ImmutableMultiDict([('lat', u'37.77804178967593'), ('lon', u'-122.43
 [I 15:43:21.018 NotebookApp] Kernel interrupted: c0aac8be-09db-4ba8-a0cf-383215268472
 [I 15:43:59.380 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
 [I 15:54:23.094 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 16:40:46.292 NotebookApp] Kernel started: 37902f93-6f4a-42c5-9850-aad3ce8271f6
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 16:41:10.321 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:43:41.879 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:44:46.924 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:45:05.418 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 16:46:22.810 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 16:48:22.868 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 16:50:22.828 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 16:51:13.113 NotebookApp] Saving file at /notebooks/08 - Validation.ipynb
+[I 16:52:46.353 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:53:59.084 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:54:07.505 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:54:19.162 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:54:46.359 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:55:34.978 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:56:46.957 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:56:58.983 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:58:46.980 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 16:59:40.929 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:02:46.373 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:04:46.387 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:06:46.395 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:08:46.396 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:10:46.391 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:12:46.417 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:14:46.435 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:16:37.352 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:16:56.619 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:17:00.381 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:17:28.568 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:18:02.931 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:18:06.115 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:19:11.031 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:19:39.459 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:20:03.753 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:20:22.421 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:21:59.927 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:22:46.445 NotebookApp] Saving file at /notebooks/Untitled.ipynb
+[I 17:46:16.356 NotebookApp] Kernel shutdown: 131d4d3b-3ad2-4219-8e70-8c635646f3f6
+[I 17:46:17.796 NotebookApp] Kernel shutdown: c0aac8be-09db-4ba8-a0cf-383215268472
+[I 17:46:18.302 NotebookApp] Kernel shutdown: 37902f93-6f4a-42c5-9850-aad3ce8271f6
+path /data/insight_yelp/input/
+Traceback (most recent call last):
+  File "./run.py", line 2, in <module>
+    from flask_dir import app
+  File "/data/insight_yelp/flask_dir/__init__.py", line 3, in <module>
+    from flask_dir import views
+  File "/data/insight_yelp/flask_dir/views.py", line 21, in <module>
+    import vectorsearch
+  File "./vectorsearch/vectorsearch.py", line 26, in <module>
+    doc2vec_model = doc2vec.Doc2Vec.load(path+'doc2vec_bars_200_neg_10_win_5.model')
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/gensim/models/word2vec.py", line 1485, in load
+    model = super(Word2Vec, cls).load(*args, **kwargs)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/gensim/utils.py", line 248, in load
+    obj = unpickle(fname)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/gensim/utils.py", line 910, in unpickle
+    with smart_open(fname) as f:
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/smart_open/smart_open_lib.py", line 119, in smart_open
+    return file_smart_open(parsed_uri.uri_path, mode)
+  File "/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/smart_open/smart_open_lib.py", line 427, in file_smart_open
+    return open(fname, mode)
+IOError: [Errno 2] No such file or directory: '/data/insight_yelpdoc2vec_bars_200_neg_10_win_5.model'
+path /data/insight_yelp/input/
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+65.87.19.170 - - [21/Jun/2016 19:01:32] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:01:33] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [21/Jun/2016 19:01:33] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [21/Jun/2016 19:01:33] "GET /static/css/stylish-portfolio.css HTTP/1.1" 304 -
+65.87.19.170 - - [21/Jun/2016 19:01:33] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [21/Jun/2016 19:01:33] "GET /static/img/bg.jpg HTTP/1.1" 304 -
+Similarity took 0.0538971424103 seconds
+Generating image  /images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Generating image  /images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Generating image  /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Generating image  /images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Generating image  /images/insight/a5658b39eb9ca8fb65acb2f34aa2afbc9d714edc.png
+Generating image  /images/insight/580157b0f10882401b55a9d85e483c244386101d.png
+Generating image  /images/insight/0aebf9cb332edffad14c6fce6795e8c015640a27.png
+Generating image  /images/insight/c3e68624f69cc28a6de26d07f3958e28166d2fb3.png
+Generating image  /images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.png
+Generating image  /images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Generating image  /images/insight/2b3018272dcdf54c94bf988339598c2e987cf6a1.png
+Generating image  /images/insight/d339d8b2e23423c46c091d56adb996a3dc783c8e.png
+
+PATH TO MAP, lat, lon /images/insight/d339d8b2e23423c46c091d56adb996a3dc783c8e.html 
+37.7859784039 -122.413000228
+65.87.19.170 - - [21/Jun/2016 19:01:38] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:01:39] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:01:40] "GET /ajax?lat=37.81032643553478&lon=-122.49773025512694 HTTP/1.1" 500 -
+(120, 17)
+65.87.19.170 - - [21/Jun/2016 19:01:40] "GET /ajax?lat=37.78292608704408&lon=-122.43850708007811 HTTP/1.1" 200 -
+(120, 44)
+65.87.19.170 - - [21/Jun/2016 19:01:41] "GET /ajax?lat=37.7738356083287&lon=-122.42340087890624 HTTP/1.1" 200 -
+(120, 41)
+65.87.19.170 - - [21/Jun/2016 19:01:41] "GET /ajax?lat=37.780483978703025&lon=-122.41996765136719 HTTP/1.1" 200 -
+(120, 107)
+65.87.19.170 - - [21/Jun/2016 19:01:41] "GET /ajax?lat=37.78713175115391&lon=-122.41121292114258 HTTP/1.1" 200 -
+(120, 109)
+65.87.19.170 - - [21/Jun/2016 19:01:42] "GET /ajax?lat=37.783468766829&lon=-122.40606307983398 HTTP/1.1" 200 -
+(120, 87)
+65.87.19.170 - - [21/Jun/2016 19:01:42] "GET /ajax?lat=37.784554114444994&lon=-122.40074157714844 HTTP/1.1" 200 -
+(120, 134)
+65.87.19.170 - - [21/Jun/2016 19:01:42] "GET /ajax?lat=37.789437981475004&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 113)
+65.87.19.170 - - [21/Jun/2016 19:01:43] "GET /ajax?lat=37.78618210598413&lon=-122.40966796874999 HTTP/1.1" 200 -
+(120, 84)
+65.87.19.170 - - [21/Jun/2016 19:01:43] "GET /ajax?lat=37.78129802378191&lon=-122.41052627563477 HTTP/1.1" 200 -
+(120, 57)
+65.87.19.170 - - [21/Jun/2016 19:01:43] "GET /ajax?lat=37.77573520373188&lon=-122.41704940795898 HTTP/1.1" 200 -
+(120, 46)
+65.87.19.170 - - [21/Jun/2016 19:01:43] "GET /ajax?lat=37.77397129533325&lon=-122.42408752441405 HTTP/1.1" 200 -
+(120, 34)
+65.87.19.170 - - [21/Jun/2016 19:01:44] "GET /ajax?lat=37.77736338951601&lon=-122.42425918579102 HTTP/1.1" 200 -
+(120, 79)
+65.87.19.170 - - [21/Jun/2016 19:01:44] "GET /ajax?lat=37.78292608704408&lon=-122.41275787353516 HTTP/1.1" 200 -
+(120, 104)
+65.87.19.170 - - [21/Jun/2016 19:01:44] "GET /ajax?lat=37.788895345521766&lon=-122.40983963012695 HTTP/1.1" 200 -
+(120, 130)
+65.87.19.170 - - [21/Jun/2016 19:01:45] "GET /ajax?lat=37.791879793952084&lon=-122.40623474121092 HTTP/1.1" 200 -
+(120, 111)
+65.87.19.170 - - [21/Jun/2016 19:01:45] "GET /ajax?lat=37.79350762410675&lon=-122.402286529541 HTTP/1.1" 200 -
+(120, 107)
+65.87.19.170 - - [21/Jun/2016 19:01:45] "GET /ajax?lat=37.792422407988575&lon=-122.40005493164062 HTTP/1.1" 200 -
+(120, 105)
+65.87.19.170 - - [21/Jun/2016 19:01:46] "GET /ajax?lat=37.792422407988575&lon=-122.3997116088867 HTTP/1.1" 200 -
+(120, 94)
+65.87.19.170 - - [21/Jun/2016 19:01:46] "GET /ajax?lat=37.791472830809646&lon=-122.39748001098633 HTTP/1.1" 200 -
+(120, 100)
+65.87.19.170 - - [21/Jun/2016 19:01:47] "GET /ajax?lat=37.78753873820529&lon=-122.40056991577148 HTTP/1.1" 200 -
+(120, 126)
+65.87.19.170 - - [21/Jun/2016 19:01:47] "GET /ajax?lat=37.7852324486112&lon=-122.40571975708006 HTTP/1.1" 200 -
+(120, 82)
+65.87.19.170 - - [21/Jun/2016 19:01:47] "GET /ajax?lat=37.782519074590496&lon=-122.41104125976564 HTTP/1.1" 200 -
+(120, 37)
+65.87.19.170 - - [21/Jun/2016 19:01:48] "GET /ajax?lat=37.7822477317096&lon=-122.42546081542967 HTTP/1.1" 200 -
+(120, 16)
+65.87.19.170 - - [21/Jun/2016 19:01:48] "GET /ajax?lat=37.782519074590496&lon=-122.42992401123045 HTTP/1.1" 200 -
+(120, 14)
+65.87.19.170 - - [21/Jun/2016 19:01:48] "GET /ajax?lat=37.782383403274565&lon=-122.43198394775389 HTTP/1.1" 200 -
+(120, 14)
+65.87.19.170 - - [21/Jun/2016 19:01:49] "GET /ajax?lat=37.782383403274565&lon=-122.43284225463867 HTTP/1.1" 200 -
+(120, 17)
+65.87.19.170 - - [21/Jun/2016 19:01:49] "GET /ajax?lat=37.7822477317096&lon=-122.43352890014648 HTTP/1.1" 200 -
+(120, 27)
+65.87.19.170 - - [21/Jun/2016 19:01:49] "GET /ajax?lat=37.77152889115204&lon=-122.43455886840819 HTTP/1.1" 200 -
+(120, 40)
+65.87.19.170 - - [21/Jun/2016 19:01:49] "GET /ajax?lat=37.76379407899244&lon=-122.43490219116211 HTTP/1.1" 200 -
+(120, 36)
+65.87.19.170 - - [21/Jun/2016 19:01:50] "GET /ajax?lat=37.762165594399924&lon=-122.43490219116211 HTTP/1.1" 200 -
+(120, 35)
+65.87.19.170 - - [21/Jun/2016 19:01:51] "GET /ajax?lat=37.761487048570935&lon=-122.43507385253906 HTTP/1.1" 200 -
+(120, 35)
+65.87.19.170 - - [21/Jun/2016 19:01:52] "GET /ajax?lat=37.76135133865817&lon=-122.43507385253906 HTTP/1.1" 200 -
+(120, 33)
+65.87.19.170 - - [21/Jun/2016 19:01:52] "GET /ajax?lat=37.76053707395286&lon=-122.43438720703125 HTTP/1.1" 200 -
+(120, 58)
+65.87.19.170 - - [21/Jun/2016 19:01:53] "GET /ajax?lat=37.75958708713444&lon=-122.42855072021484 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:01:53] "GET /ajax?lat=37.76040136229719&lon=-122.42391586303711 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:01:53] "GET /ajax?lat=37.76135133865817&lon=-122.42082595825194 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:01:54] "GET /ajax?lat=37.761622758234715&lon=-122.42013931274413 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:01:54] "GET /ajax?lat=37.765422527729875&lon=-122.41430282592772 HTTP/1.1" 500 -
+(120, 37)
+65.87.19.170 - - [21/Jun/2016 19:01:54] "GET /ajax?lat=37.77057904551523&lon=-122.4129295349121 HTTP/1.1" 200 -
+(120, 32)
+65.87.19.170 - - [21/Jun/2016 19:01:54] "GET /ajax?lat=37.769629187677&lon=-122.40692138671874 HTTP/1.1" 200 -
+(120, 13)
+65.87.19.170 - - [21/Jun/2016 19:01:55] "GET /ajax?lat=37.76867931763743&lon=-122.40091323852539 HTTP/1.1" 200 -
+(120, 12)
+65.87.19.170 - - [21/Jun/2016 19:01:55] "GET /ajax?lat=37.76908640629127&lon=-122.39850997924803 HTTP/1.1" 200 -
+(120, 11)
+65.87.19.170 - - [21/Jun/2016 19:01:55] "GET /ajax?lat=37.77071473849609&lon=-122.39696502685547 HTTP/1.1" 200 -
+(120, 16)
+65.87.19.170 - - [21/Jun/2016 19:01:56] "GET /ajax?lat=37.7971701108238&lon=-122.38906860351562 HTTP/1.1" 200 -
+(120, 2)
+65.87.19.170 - - [21/Jun/2016 19:01:56] "GET /ajax?lat=37.80530832011811&lon=-122.3935317993164 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [21/Jun/2016 19:01:57] "GET /ajax?lat=37.80503706092163&lon=-122.39593505859376 HTTP/1.1" 200 -
+(120, 2)
+65.87.19.170 - - [21/Jun/2016 19:01:57] "GET /ajax?lat=37.80530832011811&lon=-122.39593505859376 HTTP/1.1" 200 -
+(120, 2)
+65.87.19.170 - - [21/Jun/2016 19:01:57] "GET /ajax?lat=37.80571520704471&lon=-122.39576339721678 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [21/Jun/2016 19:01:58] "GET /ajax?lat=37.80856335276034&lon=-122.39936828613281 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [21/Jun/2016 19:01:58] "GET /ajax?lat=37.81317440339608&lon=-122.41121292114258 HTTP/1.1" 200 -
+(120, 7)
+65.87.19.170 - - [21/Jun/2016 19:01:58] "GET /ajax?lat=37.81344563270115&lon=-122.41722106933594 HTTP/1.1" 200 -
+(120, 7)
+65.87.19.170 - - [21/Jun/2016 19:01:59] "GET /ajax?lat=37.81385247479046&lon=-122.41910934448242 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:01:59] "GET /ajax?lat=37.815208598896255&lon=-122.42477416992186 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:01:59] "GET /ajax?lat=37.81534420993673&lon=-122.4326705932617 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:02:00] "GET /ajax?lat=37.81385247479046&lon=-122.43438720703125 HTTP/1.1" 500 -
+(120, 1)
+65.87.19.170 - - [21/Jun/2016 19:02:00] "GET /ajax?lat=37.81208947621171&lon=-122.43198394775389 HTTP/1.1" 200 -
+(120, 6)
+65.87.19.170 - - [21/Jun/2016 19:02:00] "GET /ajax?lat=37.80978395301097&lon=-122.42752075195314 HTTP/1.1" 200 -
+(120, 10)
+65.87.19.170 - - [21/Jun/2016 19:02:01] "GET /ajax?lat=37.809512710254495&lon=-122.42116928100586 HTTP/1.1" 200 -
+(120, 10)
+65.87.19.170 - - [21/Jun/2016 19:02:02] "GET /ajax?lat=37.809648331757295&lon=-122.42013931274413 HTTP/1.1" 200 -
+(120, 10)
+65.87.19.170 - - [21/Jun/2016 19:02:02] "GET /ajax?lat=37.81114015184754&lon=-122.41687774658202 HTTP/1.1" 200 -
+(120, 7)
+65.87.19.170 - - [21/Jun/2016 19:02:02] "GET /ajax?lat=37.809512710254495&lon=-122.4093246459961 HTTP/1.1" 200 -
+(120, 5)
+65.87.19.170 - - [21/Jun/2016 19:02:02] "GET /ajax?lat=37.80842772926481&lon=-122.40589141845703 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [21/Jun/2016 19:02:03] "GET /ajax?lat=37.80842772926481&lon=-122.40074157714844 HTTP/1.1" 200 -
+(120, 1)
+65.87.19.170 - - [21/Jun/2016 19:02:03] "GET /ajax?lat=37.8065289741725&lon=-122.39542007446289 HTTP/1.1" 200 -
+(120, 1)
+65.87.19.170 - - [21/Jun/2016 19:02:03] "GET /ajax?lat=37.805850835522065&lon=-122.39439010620116 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:02:04] "GET /ajax?lat=37.802595683318025&lon=-122.38082885742189 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:02:04] "GET /ajax?lat=37.832429207817725&lon=-122.41687774658202 HTTP/1.1" 500 -
+Similarity took 0.0337409973145 seconds
+65.87.19.170 - - [21/Jun/2016 19:02:11] "GET /ajax?lat=37.836767625079275&lon=-122.36331939697266 HTTP/1.1" 500 -
+Generating image  /images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.png
+Generating image  /images/insight/01c8996645a3b0e2022b2b233f2f0f5981e7e844.png
+Generating image  /images/insight/54ddd2b85255144764929b0549930ee63c8faf4b.png
+Generating image  /images/insight/de7ee607c77f2a398c8adff92c773d10c1ec077a.png
+Generating image  /images/insight/0c8ea398e3970b71743ab95b68cdf14588cdd407.png
+Generating image  /images/insight/e8231b90ee9d5b462111ce206b42164f02bf0736.png
+Generating image  /images/insight/c2ebd3274e6e21d2e324d0b317cc0b3a159ad038.png
+Generating image  /images/insight/f6b2a5f657db9133566287d5745e688d7fc8e4bc.png
+Generating image  /images/insight/03904e872f6a32494eb8941999d16d1fa43be4f9.png
+Generating image  /images/insight/a8e972d1728cb36e2bf0f348844edc281bdc5a69.png
+Generating image  /images/insight/5b636226f323a9da7476bd8d3d9bbb84fda1f836.png
+Generating image  /images/insight/c4ab0b7220a2a5d9006c2ab09f4c885d7ae6d1e7.png
+Generating image  /images/insight/48caf3ef3e42eba145f2f00bd68dfb8f1a2178d5.png
+Generating image  /images/insight/ebf8afc5aba5fd7b940b74582cf726a5b0dc2202.png
+Generating image  /images/insight/6258c5349880d1ec6c693b3af6a83d4e04a3bd74.png
+
+PATH TO MAP, lat, lon /images/insight/6258c5349880d1ec6c693b3af6a83d4e04a3bd74.html 
+37.7727229596 -122.435934341
+65.87.19.170 - - [21/Jun/2016 19:02:12] "GET /ajax?lat=37.81466615224322&lon=-122.45086669921875 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:02:12] "GET /ajax?lat=37.81778516606761&lon=-122.46425628662108 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:02:12] "GET /ajax?lat=37.81859880017508&lon=-122.4956703186035 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:02:13] "GET /output?text_review=Clam+chowder+&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:02:14] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:02:18] "GET /ajax?lat=37.81168262440736&lon=-122.52021789550783 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:02:19] "GET /ajax?lat=37.81900561386578&lon=-122.49000549316408 HTTP/1.1" 500 -
+Similarity took 0.0303800106049 seconds
+Generating image  /images/insight/f375972a24d3db3afe06843dc57c50f6168faff5.png
+65.87.19.170 - - [21/Jun/2016 19:02:23] "GET /ajax?lat=37.82375160792541&lon=-122.38958358764648 HTTP/1.1" 500 -
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/0ae9ded4506acbb3f57500ad793c1fa9537d6c26.png
+Generating image  /images/insight/580157b0f10882401b55a9d85e483c244386101d.png
+Generating image  /images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.png
+Generating image  /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Generating image  /images/insight/99b5d2c443282267fed765011081a2132f5e98de.png
+Generating image  /images/insight/b7ab672fcc3e8ae578630a5b387d747d5c98614c.png
+Generating image  /images/insight/0de636125776ff03ece55eecb386d4d4e30cd58b.png
+Generating image  /images/insight/36f4b2cea0e7359f9b5111e33d6b4e3125ff9fd1.png
+Generating image  /images/insight/78df742cfb6b59c2032a8e0bf1e8f1d6c69591c6.png
+Generating image  /images/insight/eeea9d0286ec15c436a99679dd3c6e3a400f4699.png
+Generating image  /images/insight/2b3018272dcdf54c94bf988339598c2e987cf6a1.png
+Generating image  /images/insight/d108001369a113b2f2e42ddda5baf0aeac256d68.png
+
+PATH TO MAP, lat, lon /images/insight/d108001369a113b2f2e42ddda5baf0aeac256d68.html 
+37.7896356511 -122.409988282
+(120, 1)
+65.87.19.170 - - [21/Jun/2016 19:02:23] "GET /ajax?lat=37.81046205554298&lon=-122.43885040283203 HTTP/1.1" 200 -
+(120, 1)
+65.87.19.170 - - [21/Jun/2016 19:02:23] "GET /ajax?lat=37.80842772926481&lon=-122.44022369384766 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:02:24] "GET /ajax?lat=37.80612209172951&lon=-122.45550155639648 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:02:24] "GET /output?text_review=Clam+chowder++with+a+view%0D%0A&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:02:24] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:02:25] "GET /ajax?lat=37.8191412179311&lon=-122.44829177856444 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:02:25] "GET /ajax?lat=37.82415839321614&lon=-122.45670318603516 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:02:26] "GET /ajax?lat=37.82497195707114&lon=-122.45807647705078 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:02:29] "GET /ajax?lat=37.84042796619096&lon=-122.41722106933594 HTTP/1.1" 500 -
+(120, 61)
+65.87.19.170 - - [21/Jun/2016 19:02:29] "GET /ajax?lat=37.8001542250124&lon=-122.40211486816406 HTTP/1.1" 200 -
+(120, 76)
+65.87.19.170 - - [21/Jun/2016 19:02:30] "GET /ajax?lat=37.79798397210339&lon=-122.40074157714844 HTTP/1.1" 200 -
+(120, 78)
+65.87.19.170 - - [21/Jun/2016 19:02:30] "GET /ajax?lat=37.796627531656064&lon=-122.39902496337889 HTTP/1.1" 200 -
+(120, 75)
+65.87.19.170 - - [21/Jun/2016 19:02:31] "GET /ajax?lat=37.79635624057777&lon=-122.39850997924803 HTTP/1.1" 200 -
+(120, 61)
+65.87.19.170 - - [21/Jun/2016 19:02:31] "GET /ajax?lat=37.797441398913286&lon=-122.39696502685547 HTTP/1.1" 200 -
+(120, 31)
+65.87.19.170 - - [21/Jun/2016 19:02:31] "GET /ajax?lat=37.800289863702076&lon=-122.39593505859376 HTTP/1.1" 200 -
+(120, 33)
+65.87.19.170 - - [21/Jun/2016 19:02:32] "GET /ajax?lat=37.8001542250124&lon=-122.39593505859376 HTTP/1.1" 200 -
+(120, 43)
+65.87.19.170 - - [21/Jun/2016 19:02:32] "GET /ajax?lat=37.796084948503236&lon=-122.39336013793945 HTTP/1.1" 200 -
+(120, 37)
+65.87.19.170 - - [21/Jun/2016 19:02:33] "GET /ajax?lat=37.79554236136536&lon=-122.39181518554686 HTTP/1.1" 200 -
+(120, 34)
+65.87.19.170 - - [21/Jun/2016 19:02:33] "GET /ajax?lat=37.79635624057777&lon=-122.39198684692384 HTTP/1.1" 200 -
+(120, 32)
+65.87.19.170 - - [21/Jun/2016 19:02:33] "GET /ajax?lat=37.79676317682161&lon=-122.39215850830078 HTTP/1.1" 200 -
+(120, 38)
+65.87.19.170 - - [21/Jun/2016 19:02:34] "GET /ajax?lat=37.79730575499307&lon=-122.39267349243164 HTTP/1.1" 200 -
+(120, 13)
+65.87.19.170 - - [21/Jun/2016 19:02:34] "GET /ajax?lat=37.80151060070086&lon=-122.39490509033203 HTTP/1.1" 200 -
+(120, 4)
+65.87.19.170 - - [21/Jun/2016 19:02:35] "GET /ajax?lat=37.80490143094975&lon=-122.3961067199707 HTTP/1.1" 200 -
+(120, 4)
+65.87.19.170 - - [21/Jun/2016 19:02:35] "GET /ajax?lat=37.805850835522065&lon=-122.39833831787108 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [21/Jun/2016 19:02:35] "GET /ajax?lat=37.80639334694058&lon=-122.40211486816406 HTTP/1.1" 200 -
+(120, 6)
+65.87.19.170 - - [21/Jun/2016 19:02:36] "GET /ajax?lat=37.80666460115532&lon=-122.40400314331055 HTTP/1.1" 200 -
+(120, 6)
+65.87.19.170 - - [21/Jun/2016 19:02:36] "GET /ajax?lat=37.80734273233311&lon=-122.40554809570311 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:02:36] "GET /ajax?lat=37.82280243352756&lon=-122.41550445556639 HTTP/1.1" 500 -
+Similarity took 0.0310568809509 seconds
+Generating image  /images/insight/f375972a24d3db3afe06843dc57c50f6168faff5.png
+Generating image  /images/insight/99b5d2c443282267fed765011081a2132f5e98de.png
+Generating image  /images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.png
+Generating image  /images/insight/9e1c2219594409bf0a7592df19e80ee801900e3d.png
+65.87.19.170 - - [21/Jun/2016 19:02:42] "GET /ajax?lat=37.8406990953439&lon=-122.37516403198242 HTTP/1.1" 500 -
+Generating image  /images/insight/f1b669b6c7007f0f770f4fd7ef10157c728c29dc.png
+Generating image  /images/insight/0ae9ded4506acbb3f57500ad793c1fa9537d6c26.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/2b3018272dcdf54c94bf988339598c2e987cf6a1.png
+Generating image  /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/861139b95ab7f2e8e1d1e247548c86e225121982.png
+Generating image  /images/insight/7f8357495272965792174739421391d810f2da64.png
+Generating image  /images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Generating image  /images/insight/580157b0f10882401b55a9d85e483c244386101d.png
+Generating image  /images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+
+PATH TO MAP, lat, lon /images/insight/3701ff773e73de24d78482896bfedd8c2f440698.html 
+37.7890005688 -122.41687896
+65.87.19.170 - - [21/Jun/2016 19:02:43] "GET /output?text_review=Clam+chowder++with+no+view%0D%0A%0D%0A+&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:02:44] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+Similarity took 0.0294759273529 seconds
+Generating image  /images/insight/f375972a24d3db3afe06843dc57c50f6168faff5.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/580157b0f10882401b55a9d85e483c244386101d.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/0ae9ded4506acbb3f57500ad793c1fa9537d6c26.png
+Generating image  /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Generating image  /images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.png
+Generating image  /images/insight/0de636125776ff03ece55eecb386d4d4e30cd58b.png
+Generating image  /images/insight/2b3018272dcdf54c94bf988339598c2e987cf6a1.png
+Generating image  /images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Generating image  /images/insight/36f4b2cea0e7359f9b5111e33d6b4e3125ff9fd1.png
+Generating image  /images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Generating image  /images/insight/78df742cfb6b59c2032a8e0bf1e8f1d6c69591c6.png
+Generating image  /images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.png
+Generating image  /images/insight/b7ab672fcc3e8ae578630a5b387d747d5c98614c.png
+
+PATH TO MAP, lat, lon /images/insight/b7ab672fcc3e8ae578630a5b387d747d5c98614c.html 
+37.7859604814 -122.413841506
+65.87.19.170 - - [21/Jun/2016 19:02:58] "GET /output?text_review=Clam+chowder++with+a+view%0D%0A%0D%0A++&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:02:59] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+Similarity took 0.0542879104614 seconds
+Generating image  /images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.png
+Generating image  /images/insight/7f8357495272965792174739421391d810f2da64.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/99b5d2c443282267fed765011081a2132f5e98de.png
+Generating image  /images/insight/4fdabb1b3b5822dc416a7434bbae5bab6010ed7b.png
+Generating image  /images/insight/42ab419d2867df95d30bb601492822d980519cf5.png
+Generating image  /images/insight/d41f5a1d80fedfa4d0b58ce09bf5141945569eab.png
+Generating image  /images/insight/4d14276b3514f2974a6cd382f3b6edb0fc93b2f2.png
+Generating image  /images/insight/51b781acede8819a2761f0dd002c142d905e7979.png
+Generating image  /images/insight/8cec7a7d2177f9711e4a2969c87c29305199613d.png
+Generating image  /images/insight/861139b95ab7f2e8e1d1e247548c86e225121982.png
+Generating image  /images/insight/b0766371a7ef6ee1b116c59898fddd11c6f7d5dd.png
+Generating image  /images/insight/756e7275fef937e17da05552c17e0609cb9f66dc.png
+Generating image  /images/insight/e5c21e851465f62a783b7436e7fbb60d7d558d3e.png
+
+PATH TO MAP, lat, lon /images/insight/e5c21e851465f62a783b7436e7fbb60d7d558d3e.html 
+37.7852654227 -122.410969787
+65.87.19.170 - - [21/Jun/2016 19:03:08] "GET /output?text_review=Clam+chowder++without++any+view%0D%0A%0D%0A+++&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:03:08] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:03:09] "GET /ajax?lat=37.82809053542981&lon=-122.38134384155272 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:03:09] "GET /ajax?lat=37.82768377181359&lon=-122.38872528076173 HTTP/1.1" 500 -
+Similarity took 0.0301671028137 seconds
+Generating image  /images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Generating image  /images/insight/83e2f2680bb1db0792efe4ff226b0f1543c1b033.png
+Generating image  /images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Generating image  /images/insight/ba18778594a8d9360f8b35091d577d6a0d756cac.png
+Generating image  /images/insight/0aebf9cb332edffad14c6fce6795e8c015640a27.png
+Generating image  /images/insight/1e74e382719541ab014babb262615cb91a3f2c60.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/a5658b39eb9ca8fb65acb2f34aa2afbc9d714edc.png
+Generating image  /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Generating image  /images/insight/b0766371a7ef6ee1b116c59898fddd11c6f7d5dd.png
+Generating image  /images/insight/a46a162416b2e353b9f19233748f4d08af662499.png
+Generating image  /images/insight/6ea6af2af6949bc2f7215bf74c06c0daeebb8769.png
+65.87.19.170 - - [21/Jun/2016 19:03:18] "GET /ajax?lat=37.83622533687414&lon=-122.38082885742189 HTTP/1.1" 500 -
+Generating image  /images/insight/dd1c90b461c2137fc1836ba38012192abda570b4.png
+
+PATH TO MAP, lat, lon /images/insight/dd1c90b461c2137fc1836ba38012192abda570b4.html 
+37.7816141911 -122.401146749
+65.87.19.170 - - [21/Jun/2016 19:03:18] "GET /ajax?lat=37.83595419127664&lon=-122.39301681518555 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:03:18] "GET /ajax?lat=37.83473402375478&lon=-122.38271713256835 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:03:19] "GET /ajax?lat=37.835276322922695&lon=-122.38117218017578 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:03:19] "GET /output?text_review=Clam+chowder++away+from+the+bay%0D%0A%0D%0A++++&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:03:19] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:03:20] "GET /ajax?lat=37.831073400102206&lon=-122.38426208496094 HTTP/1.1" 500 -
+Similarity took 0.0466899871826 seconds
+Generating image  /images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/a5658b39eb9ca8fb65acb2f34aa2afbc9d714edc.png
+Generating image  /images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.png
+Generating image  /images/insight/9a0ae5a1c6af7369d0d4fd7ae316b9d71f3b641f.png
+Generating image  /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+Generating image  /images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Generating image  /images/insight/1e74e382719541ab014babb262615cb91a3f2c60.png
+Generating image  /images/insight/0ae867cf666f138a7f31e641cc012f61413951e0.png
+Generating image  /images/insight/d339d8b2e23423c46c091d56adb996a3dc783c8e.png
+Generating image  /images/insight/0aebf9cb332edffad14c6fce6795e8c015640a27.png
+Generating image  /images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.png
+Generating image  /images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Generating image  /images/insight/e71cf3d84d35ce3125c3fc26f54a802415166eef.png
+
+PATH TO MAP, lat, lon /images/insight/e71cf3d84d35ce3125c3fc26f54a802415166eef.html 
+37.7786433814 -122.413177158
+65.87.19.170 - - [21/Jun/2016 19:03:37] "GET /output?text_review=I+want+to+eat+oysters+on+the+bay%0D%0A%0D%0A+++++&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:03:38] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:03:47] "GET /ajax?lat=37.82971756747229&lon=-122.37550735473631 HTTP/1.1" 500 -
+Similarity took 0.0330669879913 seconds
+Generating image  /images/insight/cec4d129204b6f9cc0ca6be233c314a95f29de81.png
+Generating image  /images/insight/c49f3a10ff03ed288d8622d15bd3f64ca834e5a2.png
+Generating image  /images/insight/3701ff773e73de24d78482896bfedd8c2f440698.png
+Generating image  /images/insight/21c67c10abae82858ee782124e820e6209fa2e53.png
+Generating image  /images/insight/0ae867cf666f138a7f31e641cc012f61413951e0.png
+Generating image  /images/insight/a5658b39eb9ca8fb65acb2f34aa2afbc9d714edc.png
+Generating image  /images/insight/6deb04a4a6c131a2d5df1eaa742d6a6510723242.png
+Generating image  /images/insight/d339d8b2e23423c46c091d56adb996a3dc783c8e.png
+Generating image  /images/insight/f8fa55a8dd985278fcc18b575b8a10f889d08f65.png
+Generating image  /images/insight/c45621b80bd3925e61b17b8c5000444b2a824a49.png
+Generating image  /images/insight/0995f3546cc8d56a1850642b40ab82091a09d928.png
+Generating image  /images/insight/3f6c874ec8d046b59b639566c348e85a6ff9504d.png
+Generating image  /images/insight/1e74e382719541ab014babb262615cb91a3f2c60.png
+Generating image  /images/insight/12c154b7c8b2adc146b8a1e3f0800388751caffe.png
+Generating image  /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.png
+
+PATH TO MAP, lat, lon /images/insight/f6dc409ac8c7e19b2471cd4e4cb92fba8dbf55a6.html 
+37.7816354962 -122.4098953
+65.87.19.170 - - [21/Jun/2016 19:03:49] "GET /output?text_review=I+want+to+eat+oysters+in+a+dark+closet%0D%0A%0D%0A++++++&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:03:50] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:03:51] "GET /ajax?lat=37.8327003663711&lon=-122.43610382080078 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:03:54] "GET /ajax?lat=37.83148014503288&lon=-122.47146606445311 HTTP/1.1" 500 -
+(120, 17)
+65.87.19.170 - - [21/Jun/2016 19:03:54] "GET /ajax?lat=37.78808138412046&lon=-122.43902206420898 HTTP/1.1" 200 -
+(120, 19)
+65.87.19.170 - - [21/Jun/2016 19:03:55] "GET /ajax?lat=37.7745140408613&lon=-122.43696212768555 HTTP/1.1" 200 -
+Similarity took 0.0300529003143 seconds
+Generating image  /images/insight/409701b4d6b17e12544074bbc720bae88f3559bd.png
+Generating image  /images/insight/f8f99c9dacdafe4dbe9aa01a7efd70b06b2843a3.png
+Generating image  /images/insight/fa5f68207da50351e395454fae2739256b969299.png
+Generating image  /images/insight/d93ca36c05ba39f0d972bc15366e346a6f4967cb.png
+Generating image  /images/insight/3b3b1a25037fe8a2aa47a8178b0324480e69628e.png
+Generating image  /images/insight/7a66b4a75037ebf053d42320967828a7ec6db4ba.png
+Generating image  /images/insight/48caf3ef3e42eba145f2f00bd68dfb8f1a2178d5.png
+Generating image  /images/insight/ad634d365dc5aa5317716fd81a24a5038870999c.png
+Generating image  /images/insight/64d8d28266bfd9af3723e5875fad48cebab7a3f8.png
+Generating image  /images/insight/66094d91c756122e827c6e45690c1569ca904bc9.png
+Generating image  /images/insight/600e0cb7274764ddc18b868e3e278bdb1a4a0778.png
+Generating image  /images/insight/724436d18d5d86fd982bb73234f3629326c6aed6.png
+Generating image  /images/insight/fa2c8667e81061619ee817f57313d4f5dccd3bf6.png
+Generating image  /images/insight/071891aebc92d1ed1b4d443c8ad3b2696fa270fb.png
+Generating image  /images/insight/e7b20665ff520664ab942b00510224dd1989c5e4.png
+
+PATH TO MAP, lat, lon /images/insight/e7b20665ff520664ab942b00510224dd1989c5e4.html 
+37.7770588456 -122.413774875
+65.87.19.170 - - [21/Jun/2016 19:04:04] "GET /output?text_review=DJs+and+ecstacy%0D%0A+++++++&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:04:04] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:04:05] "GET /ajax?lat=37.827412594823784&lon=-122.35868453979492 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:05] "GET /ajax?lat=37.78034830365159&lon=-122.37276077270506 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:06] "GET /ajax?lat=37.77437835485281&lon=-122.36881256103514 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:06] "GET /ajax?lat=37.75402263362956&lon=-122.42168426513672 HTTP/1.1" 500 -
+(120, 1)
+65.87.19.170 - - [21/Jun/2016 19:04:08] "GET /ajax?lat=37.72863798965106&lon=-122.39009857177734 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:04:09] "GET /ajax?lat=37.74207800321482&lon=-122.33671188354494 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:09] "GET /ajax?lat=37.73053874574077&lon=-122.37516403198242 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:11] "GET /ajax?lat=37.73114969269413&lon=-122.36868381500244 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:11] "GET /ajax?lat=37.74408022064398&lon=-122.37095832824708 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:12] "GET /ajax?lat=37.73985938124029&lon=-122.36984252929688 HTTP/1.1" 500 -
+(120, 2)
+65.87.19.170 - - [21/Jun/2016 19:04:12] "GET /ajax?lat=37.741127779382225&lon=-122.37842559814453 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:04:12] "GET /ajax?lat=37.85425428219824&lon=-122.52914428710938 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:12] "GET /ajax?lat=37.79676317682161&lon=-122.52914428710938 HTTP/1.1" 500 -
+(120, 32)
+65.87.19.170 - - [21/Jun/2016 19:04:13] "GET /ajax?lat=37.75768707689704&lon=-122.431640625 HTTP/1.1" 200 -
+(120, 36)
+65.87.19.170 - - [21/Jun/2016 19:04:13] "GET /ajax?lat=37.769629187677&lon=-122.431640625 HTTP/1.1" 200 -
+(120, 13)
+65.87.19.170 - - [21/Jun/2016 19:04:13] "GET /ajax?lat=37.767050940611725&lon=-122.40331649780273 HTTP/1.1" 200 -
+(120, 17)
+65.87.19.170 - - [21/Jun/2016 19:04:14] "GET /ajax?lat=37.75836565758392&lon=-122.39404678344727 HTTP/1.1" 200 -
+(120, 12)
+65.87.19.170 - - [21/Jun/2016 19:04:14] "GET /ajax?lat=37.752733249314126&lon=-122.38872528076173 HTTP/1.1" 200 -
+(120, 10)
+65.87.19.170 - - [21/Jun/2016 19:04:14] "GET /ajax?lat=37.75890851765176&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 10)
+65.87.19.170 - - [21/Jun/2016 19:04:15] "GET /ajax?lat=37.76155490343394&lon=-122.39885330200195 HTTP/1.1" 200 -
+(120, 45)
+65.87.19.170 - - [21/Jun/2016 19:04:15] "GET /ajax?lat=37.77892370057646&lon=-122.40365982055663 HTTP/1.1" 200 -
+(120, 91)
+65.87.19.170 - - [21/Jun/2016 19:04:15] "GET /ajax?lat=37.78292608704408&lon=-122.40949630737303 HTTP/1.1" 200 -
+(120, 92)
+65.87.19.170 - - [21/Jun/2016 19:04:16] "GET /ajax?lat=37.79438935046582&lon=-122.40880966186523 HTTP/1.1" 200 -
+(120, 58)
+65.87.19.170 - - [21/Jun/2016 19:04:16] "GET /ajax?lat=37.79065889780023&lon=-122.41910934448242 HTTP/1.1" 200 -
+(120, 58)
+65.87.19.170 - - [21/Jun/2016 19:04:16] "GET /ajax?lat=37.78611427371932&lon=-122.41910934448242 HTTP/1.1" 200 -
+(120, 43)
+65.87.19.170 - - [21/Jun/2016 19:04:16] "GET /ajax?lat=37.77356423357254&lon=-122.41395950317383 HTTP/1.1" 200 -
+(120, 47)
+65.87.19.170 - - [21/Jun/2016 19:04:17] "GET /ajax?lat=37.7709861237108&lon=-122.41464614868164 HTTP/1.1" 200 -
+(120, 49)
+65.87.19.170 - - [21/Jun/2016 19:04:17] "GET /ajax?lat=37.77200380939488&lon=-122.42348670959471 HTTP/1.1" 200 -
+(120, 75)
+65.87.19.170 - - [21/Jun/2016 19:04:18] "GET /ajax?lat=37.763522667383626&lon=-122.42528915405272 HTTP/1.1" 200 -
+(120, 74)
+65.87.19.170 - - [21/Jun/2016 19:04:18] "GET /ajax?lat=37.76616888808491&lon=-122.41825103759764 HTTP/1.1" 200 -
+(120, 77)
+65.87.19.170 - - [21/Jun/2016 19:04:18] "GET /ajax?lat=37.78292608704408&lon=-122.40211486816406 HTTP/1.1" 200 -
+(120, 75)
+65.87.19.170 - - [21/Jun/2016 19:04:21] "GET /ajax?lat=37.78292608704408&lon=-122.40194320678711 HTTP/1.1" 200 -
+(120, 21)
+65.87.19.170 - - [21/Jun/2016 19:04:21] "GET /ajax?lat=37.774446197888196&lon=-122.39739418029785 HTTP/1.1" 200 -
+(120, 58)
+65.87.19.170 - - [21/Jun/2016 19:04:22] "GET /ajax?lat=37.7791272169824&lon=-122.40906715393068 HTTP/1.1" 200 -
+(120, 54)
+65.87.19.170 - - [21/Jun/2016 19:04:22] "GET /ajax?lat=37.78102667641841&lon=-122.41790771484375 HTTP/1.1" 200 -
+(120, 42)
+65.87.19.170 - - [21/Jun/2016 19:04:22] "GET /ajax?lat=37.780891002363106&lon=-122.420654296875 HTTP/1.1" 200 -
+(120, 41)
+65.87.19.170 - - [21/Jun/2016 19:04:23] "GET /ajax?lat=37.779669924659004&lon=-122.4203109741211 HTTP/1.1" 200 -
+(120, 41)
+65.87.19.170 - - [21/Jun/2016 19:04:23] "GET /ajax?lat=37.78075532805877&lon=-122.42151260375975 HTTP/1.1" 200 -
+(120, 72)
+65.87.19.170 - - [21/Jun/2016 19:04:23] "GET /ajax?lat=37.78672476186115&lon=-122.41807937622069 HTTP/1.1" 200 -
+(120, 92)
+65.87.19.170 - - [21/Jun/2016 19:04:24] "GET /ajax?lat=37.78930232286027&lon=-122.41550445556639 HTTP/1.1" 200 -
+(120, 104)
+65.87.19.170 - - [21/Jun/2016 19:04:25] "GET /ajax?lat=37.791879793952084&lon=-122.40915298461914 HTTP/1.1" 200 -
+(120, 96)
+65.87.19.170 - - [21/Jun/2016 19:04:25] "GET /ajax?lat=37.79527106630204&lon=-122.40365982055663 HTTP/1.1" 200 -
+(120, 95)
+65.87.19.170 - - [21/Jun/2016 19:04:25] "GET /ajax?lat=37.79554236136536&lon=-122.40365982055663 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:04:26] "GET /ajax?lat=37.82280243352756&lon=-122.45807647705078 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:26] "GET /ajax?lat=37.81615787094837&lon=-122.49876022338867 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:26] "GET /ajax?lat=37.8286328834302&lon=-122.49755859375 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:04:28] "GET /ajax?lat=37.83405614418896&lon=-122.42889404296875 HTTP/1.1" 500 -
+Similarity took 0.0261228084564 seconds
+Generating image  /images/insight/056b183338b9acef8fa4188b7fa8fa3095914a48.png
+Generating image  /images/insight/3591a2b880785f153be3cdc2b7deb7a89230b3dd.png
+Generating image  /images/insight/0dbf21e41dbcfa118a883290963c658878361927.png
+Generating image  /images/insight/e740ed2cb7f7883aa702c7f7bddf884fee271366.png
+Generating image  /images/insight/b770e9f58e0c8f0c149f36b82ad3baeaa09ecd16.png
+Generating image  /images/insight/19f26cf72322e5053206e1806d9ae5270aba3162.png
+Generating image  /images/insight/7b420fb4dad55dc531c4b5b460c5ab4eaa8ec1b4.png
+Generating image  /images/insight/72f1650d371c79d42f4dd7ada880eb0de0b4da8b.png
+Generating image  /images/insight/4ebdb82c752d4ab886cc7c23a07ea723c4355215.png
+Generating image  /images/insight/837567bc3f6a44fadddb49d791f24bbeb936d68c.png
+Generating image  /images/insight/306eeeae1df8a9325977922a4a3ca88b173df724.png
+Generating image  /images/insight/76a0e18e0c3df330ec08d44e0b0d03e3bcf4ac8e.png
+Generating image  /images/insight/2cfe5e6899dd970a9828f7615e6ed04a9eaf6a80.png
+Generating image  /images/insight/ba18778594a8d9360f8b35091d577d6a0d756cac.png
+Generating image  /images/insight/41afbb2e71bbf3c6f895aa1b9536af6014af546a.png
+
+PATH TO MAP, lat, lon /images/insight/41afbb2e71bbf3c6f895aa1b9536af6014af546a.html 
+37.7754101329 -122.413079696
+65.87.19.170 - - [21/Jun/2016 19:05:21] "GET /output?text_review=%0D%0A++++++socer&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:05:21] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:05:22] "GET /ajax?lat=37.82090404811055&lon=-122.38460540771483 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:05:22] "GET /ajax?lat=37.81059767530207&lon=-122.39576339721678 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:05:23] "GET /ajax?lat=37.81032643553478&lon=-122.39576339721678 HTTP/1.1" 500 -
+(120, 89)
+65.87.19.170 - - [21/Jun/2016 19:05:24] "GET /ajax?lat=37.795678008523424&lon=-122.40022659301758 HTTP/1.1" 200 -
+(120, 51)
+65.87.19.170 - - [21/Jun/2016 19:05:24] "GET /ajax?lat=37.7761422535397&lon=-122.41893768310548 HTTP/1.1" 200 -
+(120, 48)
+65.87.19.170 - - [21/Jun/2016 19:05:29] "GET /ajax?lat=37.77288579232436&lon=-122.42237091064453 HTTP/1.1" 200 -
+(120, 70)
+65.87.19.170 - - [21/Jun/2016 19:05:32] "GET /ajax?lat=37.76392978442336&lon=-122.42305755615234 HTTP/1.1" 200 -
+(120, 56)
+65.87.19.170 - - [21/Jun/2016 19:05:33] "GET /ajax?lat=37.76882349512531&lon=-122.42305755615234 HTTP/1.1" 200 -
+(120, 66)
+65.87.19.170 - - [21/Jun/2016 19:05:34] "GET /ajax?lat=37.77081650806833&lon=-122.42246747016907 HTTP/1.1" 200 -
+(120, 67)
+65.87.19.170 - - [21/Jun/2016 19:05:35] "GET /ajax?lat=37.77068081527421&lon=-122.42254257202148 HTTP/1.1" 200 -
+(120, 62)
+65.87.19.170 - - [21/Jun/2016 19:05:35] "GET /ajax?lat=37.7709861237108&lon=-122.42146968841551 HTTP/1.1" 200 -
+(120, 54)
+65.87.19.170 - - [21/Jun/2016 19:05:36] "GET /ajax?lat=37.77152889115204&lon=-122.42125511169434 HTTP/1.1" 200 -
+(120, 36)
+65.87.19.170 - - [21/Jun/2016 19:05:36] "GET /ajax?lat=37.77760083028013&lon=-122.423357963562 HTTP/1.1" 200 -
+(120, 50)
+65.87.19.170 - - [21/Jun/2016 19:05:37] "GET /ajax?lat=37.78041614120842&lon=-122.41769313812256 HTTP/1.1" 200 -
+(120, 77)
+65.87.19.170 - - [21/Jun/2016 19:05:38] "GET /ajax?lat=37.78201030587168&lon=-122.4121570587158 HTTP/1.1" 200 -
+(120, 73)
+65.87.19.170 - - [21/Jun/2016 19:05:39] "GET /ajax?lat=37.782078141903206&lon=-122.41237163543703 HTTP/1.1" 200 -
+(120, 86)
+65.87.19.170 - - [21/Jun/2016 19:05:54] "GET /ajax?lat=37.789641468930114&lon=-122.39623546600342 HTTP/1.1" 200 -
+(120, 40)
+65.87.19.170 - - [21/Jun/2016 19:05:54] "GET /ajax?lat=37.789607554393186&lon=-122.42674827575682 HTTP/1.1" 200 -
+Similarity took 0.328387022018 seconds
+Generating image  /images/insight/98c3ea66171f1ebfb7df8fd3d4ec7d2dda711db2.png
+Generating image  /images/insight/ac8a0fc738e2cd998a78e09a6ff3a68d27a5a4cb.png
+Generating image  /images/insight/6e4faa0f2d8d821493d135ffb12142f3d2509085.png
+Generating image  /images/insight/fe736d20799770546d7e84d9e8eec88d458c6911.png
+Generating image  /images/insight/8c1651c0b18f3ee96b5ba9140065c22bd1fbdeb4.png
+Generating image  /images/insight/1d8beccd8bc502ae965c9546846c1562a5070ba2.png
+Generating image  /images/insight/815d9f19bde848a729db551d6a75df06d0012dec.png
+Generating image  /images/insight/255ffc50b0cc942e9e44b38a7ebda84fb7d3a625.png
+Generating image  /images/insight/0fcf1b294f06b0799c232531ddbaf0ae0e962758.png
+Generating image  /images/insight/df45e9cd41572a6d4580e4e5f57f76e41c14844d.png
+Generating image  /images/insight/34abd815c4dd61135d47767f11faea383b90e882.png
+Generating image  /images/insight/040f5d2924b10b0c8a40177052d50c0a6548e270.png
+Generating image  /images/insight/c2ebd3274e6e21d2e324d0b317cc0b3a159ad038.png
+Generating image  /images/insight/6a341fbac33627822e55efd3fe8613636c3aac8d.png
+Generating image  /images/insight/56659a5f9143b5c9656370713fd5232079680123.png
+
+PATH TO MAP, lat, lon /images/insight/56659a5f9143b5c9656370713fd5232079680123.html 
+37.7684110528 -122.438332207
+65.87.19.170 - - [21/Jun/2016 19:06:01] "GET /output?text_review=++++++soccer&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [21/Jun/2016 19:06:01] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [21/Jun/2016 19:06:03] "GET /ajax?lat=37.81941242531439&lon=-122.45481491088867 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:06:47] "GET /ajax?lat=37.819276821747295&lon=-122.50562667846678 HTTP/1.1" 500 -
+65.87.19.170 - - [21/Jun/2016 19:06:49] "GET /ajax?lat=37.81778516606761&lon=-122.4755859375 HTTP/1.1" 500 -
+(120, 1)
+98.210.100.33 - - [21/Jun/2016 20:12:46] "GET /ajax?lat=37.79513541839677&lon=-122.46648788452148 HTTP/1.1" 200 -
+98.210.100.33 - - [21/Jun/2016 21:07:34] "GET /ajax?lat=37.805986463750315&lon=-122.52347946166991 HTTP/1.1" 500 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:07:34] "GET /ajax?lat=37.77356423357254&lon=-122.46185302734375 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:07:35] "GET /ajax?lat=37.77329285782031&lon=-122.4601364135742 HTTP/1.1" 200 -
+(120, 11)
+98.210.100.33 - - [21/Jun/2016 21:07:36] "GET /ajax?lat=37.77329285782031&lon=-122.4539566040039 HTTP/1.1" 200 -
+(120, 13)
+98.210.100.33 - - [21/Jun/2016 21:07:36] "GET /ajax?lat=37.77356423357254&lon=-122.44949340820312 HTTP/1.1" 200 -
+(120, 16)
+98.210.100.33 - - [21/Jun/2016 21:07:37] "GET /ajax?lat=37.771393199665255&lon=-122.44382858276366 HTTP/1.1" 200 -
+(120, 20)
+98.210.100.33 - - [21/Jun/2016 21:07:37] "GET /ajax?lat=37.77329285782031&lon=-122.44348526000977 HTTP/1.1" 200 -
+(120, 13)
+98.210.100.33 - - [21/Jun/2016 21:07:37] "GET /ajax?lat=37.7766849831305&lon=-122.44245529174803 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:07:38] "GET /ajax?lat=37.77872018361018&lon=-122.44176864624022 HTTP/1.1" 200 -
+(120, 12)
+98.210.100.33 - - [21/Jun/2016 21:07:38] "GET /ajax?lat=37.779805600955584&lon=-122.44176864624022 HTTP/1.1" 200 -
+(120, 12)
+98.210.100.33 - - [21/Jun/2016 21:07:40] "GET /ajax?lat=37.77994127700315&lon=-122.44176864624022 HTTP/1.1" 200 -
+(120, 11)
+98.210.100.33 - - [21/Jun/2016 21:07:40] "GET /ajax?lat=37.77994127700315&lon=-122.4422836303711 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:07:40] "GET /ajax?lat=37.77994127700315&lon=-122.44262695312501 HTTP/1.1" 200 -
+(120, 11)
+98.210.100.33 - - [21/Jun/2016 21:07:41] "GET /ajax?lat=37.78102667641841&lon=-122.44262695312501 HTTP/1.1" 200 -
+(120, 18)
+98.210.100.33 - - [21/Jun/2016 21:07:41] "GET /ajax?lat=37.7846897817763&lon=-122.43816375732422 HTTP/1.1" 200 -
+(120, 19)
+98.210.100.33 - - [21/Jun/2016 21:07:41] "GET /ajax?lat=37.78563944612241&lon=-122.43558883666992 HTTP/1.1" 200 -
+(120, 20)
+98.210.100.33 - - [21/Jun/2016 21:07:42] "GET /ajax?lat=37.785910776551354&lon=-122.43490219116211 HTTP/1.1" 200 -
+(120, 20)
+98.210.100.33 - - [21/Jun/2016 21:07:43] "GET /ajax?lat=37.785910776551354&lon=-122.43455886840819 HTTP/1.1" 200 -
+(120, 20)
+98.210.100.33 - - [21/Jun/2016 21:07:43] "GET /ajax?lat=37.785910776551354&lon=-122.43455886840819 HTTP/1.1" 200 -
+(120, 21)
+98.210.100.33 - - [21/Jun/2016 21:07:44] "GET /ajax?lat=37.785910776551354&lon=-122.43335723876952 HTTP/1.1" 200 -
+(120, 17)
+98.210.100.33 - - [21/Jun/2016 21:07:44] "GET /ajax?lat=37.785096782276035&lon=-122.43198394775389 HTTP/1.1" 200 -
+(120, 16)
+98.210.100.33 - - [21/Jun/2016 21:07:44] "GET /ajax?lat=37.78333309725631&lon=-122.43301391601562 HTTP/1.1" 200 -
+(120, 16)
+98.210.100.33 - - [21/Jun/2016 21:07:45] "GET /ajax?lat=37.781840715520524&lon=-122.43833541870117 HTTP/1.1" 200 -
+(120, 12)
+98.210.100.33 - - [21/Jun/2016 21:07:45] "GET /ajax?lat=37.781840715520524&lon=-122.44125366210936 HTTP/1.1" 200 -
+(120, 11)
+98.210.100.33 - - [21/Jun/2016 21:07:45] "GET /ajax?lat=37.78156937014928&lon=-122.44176864624022 HTTP/1.1" 200 -
+(120, 12)
+98.210.100.33 - - [21/Jun/2016 21:07:45] "GET /ajax?lat=37.78116235022467&lon=-122.44211196899414 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:07:47] "GET /ajax?lat=37.78061965350541&lon=-122.44245529174803 HTTP/1.1" 200 -
+(120, 11)
+98.210.100.33 - - [21/Jun/2016 21:07:47] "GET /ajax?lat=37.780891002363106&lon=-122.44400024414062 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:07:48] "GET /ajax?lat=37.780891002363106&lon=-122.44503021240233 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:07:48] "GET /ajax?lat=37.78129802378191&lon=-122.44503021240233 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:07:48] "GET /ajax?lat=37.78156937014928&lon=-122.44520187377928 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:07:49] "GET /ajax?lat=37.78156937014928&lon=-122.44520187377928 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:07:49] "GET /ajax?lat=37.78156937014928&lon=-122.44520187377928 HTTP/1.1" 200 -
+(120, 9)
+98.210.100.33 - - [21/Jun/2016 21:07:50] "GET /ajax?lat=37.78170504295941&lon=-122.44520187377928 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:07:51] "GET /ajax?lat=37.78075532805877&lon=-122.44434356689452 HTTP/1.1" 200 -
+(120, 21)
+98.210.100.33 - - [21/Jun/2016 21:07:51] "GET /ajax?lat=37.778991539440696&lon=-122.42666244506835 HTTP/1.1" 200 -
+(120, 70)
+98.210.100.33 - - [21/Jun/2016 21:07:51] "GET /ajax?lat=37.783740105227224&lon=-122.41567611694337 HTTP/1.1" 200 -
+(120, 125)
+98.210.100.33 - - [21/Jun/2016 21:07:52] "GET /ajax?lat=37.78699608830537&lon=-122.40760803222655 HTTP/1.1" 200 -
+(120, 130)
+98.210.100.33 - - [21/Jun/2016 21:07:52] "GET /ajax?lat=37.78713175115391&lon=-122.4067497253418 HTTP/1.1" 200 -
+(120, 123)
+98.210.100.33 - - [21/Jun/2016 21:07:52] "GET /ajax?lat=37.787674400057654&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 125)
+98.210.100.33 - - [21/Jun/2016 21:07:54] "GET /ajax?lat=37.78794572301525&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 130)
+98.210.100.33 - - [21/Jun/2016 21:07:54] "GET /ajax?lat=37.78916666399649&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 136)
+98.210.100.33 - - [21/Jun/2016 21:07:54] "GET /ajax?lat=37.790523241426946&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 133)
+98.210.100.33 - - [21/Jun/2016 21:07:55] "GET /ajax?lat=37.79093020979957&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 133)
+98.210.100.33 - - [21/Jun/2016 21:07:55] "GET /ajax?lat=37.79093020979957&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 132)
+98.210.100.33 - - [21/Jun/2016 21:07:55] "GET /ajax?lat=37.791879793952084&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 122)
+98.210.100.33 - - [21/Jun/2016 21:07:55] "GET /ajax?lat=37.793100669930396&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 109)
+98.210.100.33 - - [21/Jun/2016 21:07:56] "GET /ajax?lat=37.794185876086175&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 86)
+98.210.100.33 - - [21/Jun/2016 21:07:56] "GET /ajax?lat=37.79622059466506&lon=-122.40606307983398 HTTP/1.1" 200 -
+(120, 66)
+98.210.100.33 - - [21/Jun/2016 21:07:56] "GET /ajax?lat=37.797441398913286&lon=-122.40640640258788 HTTP/1.1" 200 -
+(120, 55)
+98.210.100.33 - - [21/Jun/2016 21:07:57] "GET /ajax?lat=37.79879782441643&lon=-122.4067497253418 HTTP/1.1" 200 -
+(120, 53)
+98.210.100.33 - - [21/Jun/2016 21:07:57] "GET /ajax?lat=37.80001858607365&lon=-122.4067497253418 HTTP/1.1" 200 -
+(120, 50)
+98.210.100.33 - - [21/Jun/2016 21:07:57] "GET /ajax?lat=37.800832415970085&lon=-122.4067497253418 HTTP/1.1" 200 -
+(120, 42)
+98.210.100.33 - - [21/Jun/2016 21:07:58] "GET /ajax?lat=37.803002585189645&lon=-122.40537643432617 HTTP/1.1" 200 -
+(120, 21)
+98.210.100.33 - - [21/Jun/2016 21:07:58] "GET /ajax?lat=37.804087645887726&lon=-122.40331649780273 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:07:58] "GET /ajax?lat=37.80381638220771&lon=-122.4012565612793 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:07:58] "GET /ajax?lat=37.80313821864869&lon=-122.39833831787108 HTTP/1.1" 200 -
+(120, 12)
+98.210.100.33 - - [21/Jun/2016 21:07:59] "GET /ajax?lat=37.80178187284963&lon=-122.39559173583984 HTTP/1.1" 200 -
+(120, 14)
+98.210.100.33 - - [21/Jun/2016 21:07:59] "GET /ajax?lat=37.801374964252865&lon=-122.39507675170897 HTTP/1.1" 200 -
+(120, 16)
+98.210.100.33 - - [21/Jun/2016 21:07:59] "GET /ajax?lat=37.80123932755579&lon=-122.39490509033203 HTTP/1.1" 200 -
+(120, 16)
+98.210.100.33 - - [21/Jun/2016 21:08:00] "GET /ajax?lat=37.80123932755579&lon=-122.39473342895508 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:00] "GET /ajax?lat=37.80123932755579&lon=-122.39456176757811 HTTP/1.1" 200 -
+(120, 22)
+98.210.100.33 - - [21/Jun/2016 21:08:00] "GET /ajax?lat=37.79934038764372&lon=-122.3928451538086 HTTP/1.1" 200 -
+(120, 20)
+98.210.100.33 - - [21/Jun/2016 21:08:01] "GET /ajax?lat=37.79784832917947&lon=-122.39112854003905 HTTP/1.1" 200 -
+(120, 20)
+98.210.100.33 - - [21/Jun/2016 21:08:01] "GET /ajax?lat=37.79771268600646&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 20)
+98.210.100.33 - - [21/Jun/2016 21:08:01] "GET /ajax?lat=37.79784832917947&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 8)
+98.210.100.33 - - [21/Jun/2016 21:08:02] "GET /ajax?lat=37.802324414158235&lon=-122.39250183105467 HTTP/1.1" 200 -
+(120, 1)
+98.210.100.33 - - [21/Jun/2016 21:08:02] "GET /ajax?lat=37.80639334694058&lon=-122.39456176757811 HTTP/1.1" 200 -
+(120, 1)
+98.210.100.33 - - [21/Jun/2016 21:08:02] "GET /ajax?lat=37.80856335276034&lon=-122.39627838134766 HTTP/1.1" 200 -
+(120, 1)
+98.210.100.33 - - [21/Jun/2016 21:08:03] "GET /ajax?lat=37.80924146650164&lon=-122.39730834960938 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:08:03] "GET /ajax?lat=37.809377088502615&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:08:03] "GET /ajax?lat=37.809648331757295&lon=-122.39816665649414 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:08:04] "GET /ajax?lat=37.809648331757295&lon=-122.39833831787108 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:08:04] "GET /ajax?lat=37.80978395301097&lon=-122.398681640625 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:08:04] "GET /ajax?lat=37.81019081527746&lon=-122.3997116088867 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:08:05] "GET /ajax?lat=37.81019081527746&lon=-122.40005493164062 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:08:05] "GET /ajax?lat=37.81195385919268&lon=-122.40211486816406 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:08:06] "GET /ajax?lat=37.8124963257741&lon=-122.40657806396484 HTTP/1.1" 200 -
+(120, 6)
+98.210.100.33 - - [21/Jun/2016 21:08:06] "GET /ajax?lat=37.81127577036112&lon=-122.40846633911133 HTTP/1.1" 200 -
+(120, 7)
+98.210.100.33 - - [21/Jun/2016 21:08:06] "GET /ajax?lat=37.81086891407298&lon=-122.40983963012695 HTTP/1.1" 200 -
+(120, 7)
+98.210.100.33 - - [21/Jun/2016 21:08:07] "GET /ajax?lat=37.81073329481209&lon=-122.41069793701172 HTTP/1.1" 200 -
+(120, 7)
+98.210.100.33 - - [21/Jun/2016 21:08:07] "GET /ajax?lat=37.81059767530207&lon=-122.41104125976564 HTTP/1.1" 200 -
+(120, 6)
+98.210.100.33 - - [21/Jun/2016 21:08:07] "GET /ajax?lat=37.81059767530207&lon=-122.41138458251953 HTTP/1.1" 200 -
+(120, 6)
+98.210.100.33 - - [21/Jun/2016 21:08:08] "GET /ajax?lat=37.81059767530207&lon=-122.41172790527345 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:08:08] "GET /ajax?lat=37.81059767530207&lon=-122.41310119628906 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:08:08] "GET /ajax?lat=37.81059767530207&lon=-122.41361618041991 HTTP/1.1" 200 -
+(120, 12)
+98.210.100.33 - - [21/Jun/2016 21:08:09] "GET /ajax?lat=37.81059767530207&lon=-122.41395950317383 HTTP/1.1" 200 -
+(120, 14)
+98.210.100.33 - - [21/Jun/2016 21:08:09] "GET /ajax?lat=37.81059767530207&lon=-122.41464614868164 HTTP/1.1" 200 -
+(120, 14)
+98.210.100.33 - - [21/Jun/2016 21:08:09] "GET /ajax?lat=37.8080208572836&lon=-122.41979598999023 HTTP/1.1" 200 -
+(120, 42)
+98.210.100.33 - - [21/Jun/2016 21:08:10] "GET /ajax?lat=37.789031004883654&lon=-122.4264907836914 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:10] "GET /ajax?lat=37.78292608704408&lon=-122.43387222290038 HTTP/1.1" 200 -
+(120, 26)
+98.210.100.33 - - [21/Jun/2016 21:08:11] "GET /ajax?lat=37.77654930110635&lon=-122.43215560913086 HTTP/1.1" 200 -
+(120, 47)
+98.210.100.33 - - [21/Jun/2016 21:08:11] "GET /ajax?lat=37.76637243960176&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 42)
+98.210.100.33 - - [21/Jun/2016 21:08:11] "GET /ajax?lat=37.76555823017286&lon=-122.43473052978517 HTTP/1.1" 200 -
+(120, 40)
+98.210.100.33 - - [21/Jun/2016 21:08:11] "GET /ajax?lat=37.76420119453823&lon=-122.43473052978517 HTTP/1.1" 200 -
+(120, 39)
+98.210.100.33 - - [21/Jun/2016 21:08:12] "GET /ajax?lat=37.763115548102924&lon=-122.43473052978517 HTTP/1.1" 200 -
+(120, 39)
+98.210.100.33 - - [21/Jun/2016 21:08:12] "GET /ajax?lat=37.76297984117803&lon=-122.43473052978517 HTTP/1.1" 200 -
+(120, 40)
+98.210.100.33 - - [21/Jun/2016 21:08:14] "GET /ajax?lat=37.76447260365713&lon=-122.43473052978517 HTTP/1.1" 200 -
+(120, 41)
+98.210.100.33 - - [21/Jun/2016 21:08:14] "GET /ajax?lat=37.76501541890696&lon=-122.43473052978517 HTTP/1.1" 200 -
+(120, 40)
+98.210.100.33 - - [21/Jun/2016 21:08:15] "GET /ajax?lat=37.76460830784308&lon=-122.43387222290038 HTTP/1.1" 200 -
+(120, 47)
+98.210.100.33 - - [21/Jun/2016 21:08:15] "GET /ajax?lat=37.76365837331252&lon=-122.43198394775389 HTTP/1.1" 200 -
+(120, 61)
+98.210.100.33 - - [21/Jun/2016 21:08:15] "GET /ajax?lat=37.76284413400416&lon=-122.43009567260741 HTTP/1.1" 200 -
+(120, 66)
+98.210.100.33 - - [21/Jun/2016 21:08:16] "GET /ajax?lat=37.76230130281876&lon=-122.42958068847656 HTTP/1.1" 200 -
+(120, 81)
+98.210.100.33 - - [21/Jun/2016 21:08:16] "GET /ajax?lat=37.761894176815304&lon=-122.42803573608397 HTTP/1.1" 200 -
+(120, 65)
+98.210.100.33 - - [21/Jun/2016 21:08:16] "GET /ajax?lat=37.76284413400416&lon=-122.42340087890624 HTTP/1.1" 200 -
+(120, 64)
+98.210.100.33 - - [21/Jun/2016 21:08:17] "GET /ajax?lat=37.763115548102924&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 67)
+98.210.100.33 - - [21/Jun/2016 21:08:17] "GET /ajax?lat=37.763386961205704&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 66)
+98.210.100.33 - - [21/Jun/2016 21:08:18] "GET /ajax?lat=37.763522667383626&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 73)
+98.210.100.33 - - [21/Jun/2016 21:08:19] "GET /ajax?lat=37.76474401178003&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 72)
+98.210.100.33 - - [21/Jun/2016 21:08:19] "GET /ajax?lat=37.76582963431182&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 69)
+98.210.100.33 - - [21/Jun/2016 21:08:19] "GET /ajax?lat=37.76406548960529&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 65)
+98.210.100.33 - - [21/Jun/2016 21:08:19] "GET /ajax?lat=37.766508140301774&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 66)
+98.210.100.33 - - [21/Jun/2016 21:08:20] "GET /ajax?lat=37.766643840752764&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 64)
+98.210.100.33 - - [21/Jun/2016 21:08:20] "GET /ajax?lat=37.767050940611725&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 60)
+98.210.100.33 - - [21/Jun/2016 21:08:20] "GET /ajax?lat=37.76732233927271&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 60)
+98.210.100.33 - - [21/Jun/2016 21:08:21] "GET /ajax?lat=37.76732233927271&lon=-122.42271423339842 HTTP/1.1" 200 -
+(120, 65)
+98.210.100.33 - - [21/Jun/2016 21:08:21] "GET /ajax?lat=37.767050940611725&lon=-122.42082595825194 HTTP/1.1" 200 -
+(120, 63)
+98.210.100.33 - - [21/Jun/2016 21:08:22] "GET /ajax?lat=37.766915240907736&lon=-122.41807937622069 HTTP/1.1" 200 -
+(120, 61)
+98.210.100.33 - - [21/Jun/2016 21:08:22] "GET /ajax?lat=37.767050940611725&lon=-122.41756439208983 HTTP/1.1" 200 -
+(120, 59)
+98.210.100.33 - - [21/Jun/2016 21:08:23] "GET /ajax?lat=37.76718664006672&lon=-122.41739273071288 HTTP/1.1" 200 -
+(120, 61)
+98.210.100.33 - - [21/Jun/2016 21:08:23] "GET /ajax?lat=37.76759373693769&lon=-122.41739273071288 HTTP/1.1" 200 -
+(120, 62)
+98.210.100.33 - - [21/Jun/2016 21:08:23] "GET /ajax?lat=37.76813652927959&lon=-122.41722106933594 HTTP/1.1" 200 -
+(120, 59)
+98.210.100.33 - - [21/Jun/2016 21:08:23] "GET /ajax?lat=37.7688150141044&lon=-122.41687774658202 HTTP/1.1" 200 -
+(120, 48)
+98.210.100.33 - - [21/Jun/2016 21:08:24] "GET /ajax?lat=37.76949349270407&lon=-122.41601943969727 HTTP/1.1" 200 -
+(120, 41)
+98.210.100.33 - - [21/Jun/2016 21:08:24] "GET /ajax?lat=37.7697648824009&lon=-122.41464614868164 HTTP/1.1" 200 -
+(120, 36)
+98.210.100.33 - - [21/Jun/2016 21:08:24] "GET /ajax?lat=37.770307658806495&lon=-122.41172790527345 HTTP/1.1" 200 -
+(120, 33)
+98.210.100.33 - - [21/Jun/2016 21:08:25] "GET /ajax?lat=37.77261441408201&lon=-122.40949630737303 HTTP/1.1" 200 -
+(120, 44)
+98.210.100.33 - - [21/Jun/2016 21:08:25] "GET /ajax?lat=37.77559951996455&lon=-122.4093246459961 HTTP/1.1" 200 -
+(120, 45)
+98.210.100.33 - - [21/Jun/2016 21:08:26] "GET /ajax?lat=37.77654930110635&lon=-122.4093246459961 HTTP/1.1" 200 -
+(120, 45)
+98.210.100.33 - - [21/Jun/2016 21:08:26] "GET /ajax?lat=37.7766849831305&lon=-122.4093246459961 HTTP/1.1" 200 -
+(120, 49)
+98.210.100.33 - - [21/Jun/2016 21:08:26] "GET /ajax?lat=37.777634750327046&lon=-122.4100112915039 HTTP/1.1" 200 -
+(120, 52)
+98.210.100.33 - - [21/Jun/2016 21:08:27] "GET /ajax?lat=37.778991539440696&lon=-122.41069793701172 HTTP/1.1" 200 -
+(120, 57)
+98.210.100.33 - - [21/Jun/2016 21:08:27] "GET /ajax?lat=37.77994127700315&lon=-122.41069793701172 HTTP/1.1" 200 -
+(120, 59)
+98.210.100.33 - - [21/Jun/2016 21:08:27] "GET /ajax?lat=37.78007695280165&lon=-122.41069793701172 HTTP/1.1" 200 -
+(120, 60)
+98.210.100.33 - - [21/Jun/2016 21:08:28] "GET /ajax?lat=37.78007695280165&lon=-122.41086959838866 HTTP/1.1" 200 -
+(120, 54)
+98.210.100.33 - - [21/Jun/2016 21:08:28] "GET /ajax?lat=37.779805600955584&lon=-122.41086959838866 HTTP/1.1" 200 -
+(120, 49)
+98.210.100.33 - - [21/Jun/2016 21:08:28] "GET /ajax?lat=37.77817746896081&lon=-122.41138458251953 HTTP/1.1" 200 -
+(120, 48)
+98.210.100.33 - - [21/Jun/2016 21:08:29] "GET /ajax?lat=37.7766849831305&lon=-122.41207122802734 HTTP/1.1" 200 -
+(120, 43)
+98.210.100.33 - - [21/Jun/2016 21:08:29] "GET /ajax?lat=37.77559951996455&lon=-122.4129295349121 HTTP/1.1" 200 -
+(120, 43)
+98.210.100.33 - - [21/Jun/2016 21:08:29] "GET /ajax?lat=37.77532815168286&lon=-122.41361618041991 HTTP/1.1" 200 -
+(120, 46)
+98.210.100.33 - - [21/Jun/2016 21:08:30] "GET /ajax?lat=37.77519246716849&lon=-122.41395950317383 HTTP/1.1" 200 -
+(120, 46)
+98.210.100.33 - - [21/Jun/2016 21:08:30] "GET /ajax?lat=37.77519246716849&lon=-122.41413116455077 HTTP/1.1" 200 -
+(120, 47)
+98.210.100.33 - - [21/Jun/2016 21:08:31] "GET /ajax?lat=37.77505678240509&lon=-122.41430282592772 HTTP/1.1" 200 -
+(120, 47)
+98.210.100.33 - - [21/Jun/2016 21:08:31] "GET /ajax?lat=37.77505678240509&lon=-122.41430282592772 HTTP/1.1" 200 -
+(120, 43)
+98.210.100.33 - - [21/Jun/2016 21:08:31] "GET /ajax?lat=37.77573520373188&lon=-122.41327285766602 HTTP/1.1" 200 -
+(120, 48)
+98.210.100.33 - - [21/Jun/2016 21:08:32] "GET /ajax?lat=37.77709202770888&lon=-122.4125862121582 HTTP/1.1" 200 -
+(120, 50)
+98.210.100.33 - - [21/Jun/2016 21:08:32] "GET /ajax?lat=37.77817746896081&lon=-122.41241455078125 HTTP/1.1" 200 -
+(120, 45)
+98.210.100.33 - - [21/Jun/2016 21:08:32] "GET /ajax?lat=37.77790611014198&lon=-122.41241455078125 HTTP/1.1" 200 -
+(120, 48)
+98.210.100.33 - - [21/Jun/2016 21:08:33] "GET /ajax?lat=37.77682066490566&lon=-122.41241455078125 HTTP/1.1" 200 -
+(120, 47)
+98.210.100.33 - - [21/Jun/2016 21:08:33] "GET /ajax?lat=37.77654930110635&lon=-122.41241455078125 HTTP/1.1" 200 -
+(120, 44)
+98.210.100.33 - - [21/Jun/2016 21:08:33] "GET /ajax?lat=37.77641361883315&lon=-122.41241455078125 HTTP/1.1" 200 -
+(120, 44)
+98.210.100.33 - - [21/Jun/2016 21:08:34] "GET /ajax?lat=37.776277936310926&lon=-122.41275787353516 HTTP/1.1" 200 -
+(120, 43)
+98.210.100.33 - - [21/Jun/2016 21:08:34] "GET /ajax?lat=37.7761422535397&lon=-122.41275787353516 HTTP/1.1" 200 -
+(120, 43)
+98.210.100.33 - - [21/Jun/2016 21:08:35] "GET /ajax?lat=37.7761422535397&lon=-122.41275787353516 HTTP/1.1" 200 -
+(120, 45)
+98.210.100.33 - - [21/Jun/2016 21:08:35] "GET /ajax?lat=37.7761422535397&lon=-122.41344451904295 HTTP/1.1" 200 -
+(120, 49)
+98.210.100.33 - - [21/Jun/2016 21:08:35] "GET /ajax?lat=37.7761422535397&lon=-122.41413116455077 HTTP/1.1" 200 -
+(120, 54)
+98.210.100.33 - - [21/Jun/2016 21:08:35] "GET /ajax?lat=37.7761422535397&lon=-122.41498947143556 HTTP/1.1" 200 -
+(120, 52)
+98.210.100.33 - - [21/Jun/2016 21:08:36] "GET /ajax?lat=37.7761422535397&lon=-122.41550445556639 HTTP/1.1" 200 -
+(120, 56)
+98.210.100.33 - - [21/Jun/2016 21:08:36] "GET /ajax?lat=37.7761422535397&lon=-122.41601943969727 HTTP/1.1" 200 -
+(120, 57)
+98.210.100.33 - - [21/Jun/2016 21:08:36] "GET /ajax?lat=37.7761422535397&lon=-122.41636276245117 HTTP/1.1" 200 -
+(120, 41)
+98.210.100.33 - - [21/Jun/2016 21:08:37] "GET /ajax?lat=37.778855861649966&lon=-122.41910934448242 HTTP/1.1" 200 -
+(120, 41)
+98.210.100.33 - - [21/Jun/2016 21:08:37] "GET /ajax?lat=37.78034830365159&lon=-122.42013931274413 HTTP/1.1" 200 -
+(120, 43)
+98.210.100.33 - - [21/Jun/2016 21:08:37] "GET /ajax?lat=37.78102667641841&lon=-122.420654296875 HTTP/1.1" 200 -
+(120, 50)
+98.210.100.33 - - [21/Jun/2016 21:08:38] "GET /ajax?lat=37.782383403274565&lon=-122.42082595825194 HTTP/1.1" 200 -
+(120, 47)
+98.210.100.33 - - [21/Jun/2016 21:08:38] "GET /ajax?lat=37.78306175736384&lon=-122.42082595825194 HTTP/1.1" 200 -
+(120, 47)
+98.210.100.33 - - [21/Jun/2016 21:08:39] "GET /ajax?lat=37.7831974274346&lon=-122.4209976196289 HTTP/1.1" 200 -
+(120, 47)
+98.210.100.33 - - [21/Jun/2016 21:08:39] "GET /ajax?lat=37.78550378053437&lon=-122.4209976196289 HTTP/1.1" 200 -
+(120, 44)
+98.210.100.33 - - [21/Jun/2016 21:08:40] "GET /ajax?lat=37.78713175115391&lon=-122.42185592651367 HTTP/1.1" 200 -
+(120, 36)
+98.210.100.33 - - [21/Jun/2016 21:08:40] "GET /ajax?lat=37.78781006166099&lon=-122.42408752441405 HTTP/1.1" 200 -
+(120, 38)
+98.210.100.33 - - [21/Jun/2016 21:08:40] "GET /ajax?lat=37.788624026050876&lon=-122.42460250854492 HTTP/1.1" 200 -
+(120, 38)
+98.210.100.33 - - [21/Jun/2016 21:08:41] "GET /ajax?lat=37.788895345521766&lon=-122.42546081542967 HTTP/1.1" 200 -
+(120, 38)
+98.210.100.33 - - [21/Jun/2016 21:08:41] "GET /ajax?lat=37.788895345521766&lon=-122.42734909057616 HTTP/1.1" 200 -
+(120, 26)
+98.210.100.33 - - [21/Jun/2016 21:08:41] "GET /ajax?lat=37.788895345521766&lon=-122.42889404296875 HTTP/1.1" 200 -
+(120, 22)
+98.210.100.33 - - [21/Jun/2016 21:08:41] "GET /ajax?lat=37.78875968591083&lon=-122.42975234985352 HTTP/1.1" 200 -
+(120, 19)
+98.210.100.33 - - [21/Jun/2016 21:08:42] "GET /ajax?lat=37.78794572301525&lon=-122.43043899536133 HTTP/1.1" 200 -
+(120, 18)
+98.210.100.33 - - [21/Jun/2016 21:08:42] "GET /ajax?lat=37.78618210598413&lon=-122.43095397949219 HTTP/1.1" 200 -
+(120, 14)
+98.210.100.33 - - [21/Jun/2016 21:08:42] "GET /ajax?lat=37.7846897817763&lon=-122.43095397949219 HTTP/1.1" 200 -
+(120, 14)
+98.210.100.33 - - [21/Jun/2016 21:08:43] "GET /ajax?lat=37.784282779035216&lon=-122.43112564086914 HTTP/1.1" 200 -
+(120, 14)
+98.210.100.33 - - [21/Jun/2016 21:08:44] "GET /ajax?lat=37.784282779035216&lon=-122.43129730224608 HTTP/1.1" 200 -
+(120, 14)
+98.210.100.33 - - [21/Jun/2016 21:08:44] "GET /ajax?lat=37.782790416475244&lon=-122.43284225463867 HTTP/1.1" 200 -
+(120, 16)
+98.210.100.33 - - [21/Jun/2016 21:08:45] "GET /ajax?lat=37.78129802378191&lon=-122.43490219116211 HTTP/1.1" 200 -
+(120, 13)
+98.210.100.33 - - [21/Jun/2016 21:08:45] "GET /ajax?lat=37.778991539440696&lon=-122.43558883666992 HTTP/1.1" 200 -
+(120, 14)
+98.210.100.33 - - [21/Jun/2016 21:08:45] "GET /ajax?lat=37.77559951996455&lon=-122.43902206420898 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:46] "GET /ajax?lat=37.773699921075114&lon=-122.44159698486328 HTTP/1.1" 200 -
+(120, 19)
+98.210.100.33 - - [21/Jun/2016 21:08:46] "GET /ajax?lat=37.77193596411837&lon=-122.44503021240233 HTTP/1.1" 200 -
+(120, 16)
+98.210.100.33 - - [21/Jun/2016 21:08:46] "GET /ajax?lat=37.7697648824009&lon=-122.44863510131836 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:47] "GET /ajax?lat=37.76908640629127&lon=-122.45018005371094 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:47] "GET /ajax?lat=37.76867931763743&lon=-122.45086669921875 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:47] "GET /ajax?lat=37.76854362092148&lon=-122.45138168334961 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:48] "GET /ajax?lat=37.76840792395651&lon=-122.45189666748047 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:48] "GET /ajax?lat=37.76827222674256&lon=-122.45241165161131 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:48] "GET /ajax?lat=37.767865133606655&lon=-122.4539566040039 HTTP/1.1" 200 -
+(120, 14)
+98.210.100.33 - - [21/Jun/2016 21:08:48] "GET /ajax?lat=37.76772943539666&lon=-122.45481491088867 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:49] "GET /ajax?lat=37.7674580382297&lon=-122.45532989501953 HTTP/1.1" 200 -
+(120, 15)
+98.210.100.33 - - [21/Jun/2016 21:08:49] "GET /ajax?lat=37.7674580382297&lon=-122.45584487915039 HTTP/1.1" 200 -
+(120, 11)
+98.210.100.33 - - [21/Jun/2016 21:08:49] "GET /ajax?lat=37.7674580382297&lon=-122.45859146118164 HTTP/1.1" 200 -
+(120, 9)
+98.210.100.33 - - [21/Jun/2016 21:08:50] "GET /ajax?lat=37.7674580382297&lon=-122.46271133422852 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:08:50] "GET /ajax?lat=37.76813652927959&lon=-122.46700286865234 HTTP/1.1" 200 -
+(120, 10)
+98.210.100.33 - - [21/Jun/2016 21:08:51] "GET /ajax?lat=37.76813652927959&lon=-122.46923446655273 HTTP/1.1" 200 -
+(120, 9)
+98.210.100.33 - - [21/Jun/2016 21:08:52] "GET /ajax?lat=37.76813652927959&lon=-122.47283935546874 HTTP/1.1" 200 -
+(120, 5)
+98.210.100.33 - - [21/Jun/2016 21:08:52] "GET /ajax?lat=37.76827222674256&lon=-122.47472763061522 HTTP/1.1" 200 -
+(120, 5)
+98.210.100.33 - - [21/Jun/2016 21:08:52] "GET /ajax?lat=37.76827222674256&lon=-122.47610092163085 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:08:53] "GET /ajax?lat=37.76827222674256&lon=-122.47987747192381 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:08:53] "GET /ajax?lat=37.76813652927959&lon=-122.48159408569336 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:08:53] "GET /ajax?lat=37.76813652927959&lon=-122.48313903808594 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:08:54] "GET /ajax?lat=37.76813652927959&lon=-122.48348236083984 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:08:54] "GET /ajax?lat=37.7674580382297&lon=-122.48931884765626 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:08:55] "GET /ajax?lat=37.766508140301774&lon=-122.49189376831053 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:08:55] "GET /ajax?lat=37.76610103745479&lon=-122.493953704834 HTTP/1.1" 200 -
+98.210.100.33 - - [21/Jun/2016 21:08:55] "GET /ajax?lat=37.765286825037926&lon=-122.49670028686523 HTTP/1.1" 500 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:08:56] "GET /ajax?lat=37.76487971546801&lon=-122.49893188476561 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:08:56] "GET /ajax?lat=37.76433689922218&lon=-122.5001335144043 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:56] "GET /ajax?lat=37.763386961205704&lon=-122.50116348266603 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:56] "GET /ajax?lat=37.763115548102924&lon=-122.50185012817383 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:57] "GET /ajax?lat=37.76297984117803&lon=-122.5027084350586 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:57] "GET /ajax?lat=37.76284413400416&lon=-122.5033950805664 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:57] "GET /ajax?lat=37.7624370109886&lon=-122.50408172607422 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:58] "GET /ajax?lat=37.761894176815304&lon=-122.50476837158203 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:58] "GET /ajax?lat=37.761622758234715&lon=-122.50562667846678 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:58] "GET /ajax?lat=37.76135133865817&lon=-122.50648498535156 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:59] "GET /ajax?lat=37.76121562849642&lon=-122.50682830810545 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:59] "GET /ajax?lat=37.76107991808567&lon=-122.50699996948241 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:08:59] "GET /ajax?lat=37.76107991808567&lon=-122.50734329223633 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:09:00] "GET /ajax?lat=37.760808496517235&lon=-122.50802993774414 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:09:00] "GET /ajax?lat=37.76067278535954&lon=-122.50905990600587 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:09:00] "GET /ajax?lat=37.759994225836245&lon=-122.50940322875977 HTTP/1.1" 200 -
+(120, 5)
+98.210.100.33 - - [21/Jun/2016 21:09:01] "GET /ajax?lat=37.75795850991872&lon=-122.51008987426758 HTTP/1.1" 200 -
+(120, 4)
+98.210.100.33 - - [21/Jun/2016 21:09:01] "GET /ajax?lat=37.755244134885736&lon=-122.51077651977538 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:09:01] "GET /ajax?lat=37.75307256315459&lon=-122.51077651977538 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:09:01] "GET /ajax?lat=37.752122480480075&lon=-122.51094818115233 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:09:02] "GET /ajax?lat=37.75103665677118&lon=-122.51094818115233 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:09:02] "GET /ajax?lat=37.74967935472825&lon=-122.51094818115233 HTTP/1.1" 200 -
+(120, 1)
+98.210.100.33 - - [21/Jun/2016 21:09:02] "GET /ajax?lat=37.74818629372592&lon=-122.51077651977538 HTTP/1.1" 200 -
+(120, 1)
+98.210.100.33 - - [21/Jun/2016 21:09:03] "GET /ajax?lat=37.74574303801685&lon=-122.51026153564452 HTTP/1.1" 200 -
+(120, 1)
+98.210.100.33 - - [21/Jun/2016 21:09:03] "GET /ajax?lat=37.74397841428505&lon=-122.50648498535156 HTTP/1.1" 200 -
+(120, 1)
+98.210.100.33 - - [21/Jun/2016 21:09:03] "GET /ajax?lat=37.74329970164701&lon=-122.50064849853516 HTTP/1.1" 200 -
+(120, 1)
+98.210.100.33 - - [21/Jun/2016 21:09:04] "GET /ajax?lat=37.74289247107679&lon=-122.49601364135742 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:09:04] "GET /ajax?lat=37.74139927315054&lon=-122.48914718627928 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:09:05] "GET /ajax?lat=37.741127779382225&lon=-122.48811721801758 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:09:05] "GET /ajax?lat=37.74085628461814&lon=-122.48794555664061 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:09:05] "GET /ajax?lat=37.740584788858285&lon=-122.48743057250977 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:09:06] "GET /ajax?lat=37.740449040604936&lon=-122.4872589111328 HTTP/1.1" 200 -
+98.210.100.33 - - [21/Jun/2016 21:09:06] "GET /ajax?lat=37.793778925645704&lon=-122.493953704834 HTTP/1.1" 500 -
+98.210.100.33 - - [21/Jun/2016 21:09:07] "GET /ajax?lat=37.793778925645704&lon=-122.493953704834 HTTP/1.1" 500 -
+98.210.100.33 - - [21/Jun/2016 21:11:37] "GET /ajax?lat=37.771393199665255&lon=-122.52262115478514 HTTP/1.1" 500 -
+(120, 1)
+98.210.100.33 - - [21/Jun/2016 21:11:42] "GET /ajax?lat=37.77152889115204&lon=-122.4930953979492 HTTP/1.1" 200 -
+(120, 3)
+98.210.100.33 - - [21/Jun/2016 21:11:42] "GET /ajax?lat=37.771664582389825&lon=-122.46253967285156 HTTP/1.1" 200 -
+98.210.100.33 - - [21/Jun/2016 21:11:42] "GET /ajax?lat=37.788624026050876&lon=-122.51060485839844 HTTP/1.1" 500 -
+Similarity took 0.0302109718323 seconds
+Generating image  /images/insight/040f5d2924b10b0c8a40177052d50c0a6548e270.png
+Generating image  /images/insight/57be954c2e133d19812b8d4c867e24257d0419b7.png
+Generating image  /images/insight/ee3e41a6dfae46529bd2e204974ba686371202a0.png
+Generating image  /images/insight/3bd4602e10cb06da13a94109f18aabe934c5d652.png
+Generating image  /images/insight/01226297e0f2d33a9cc5fa961cd192f5f669e557.png
+Generating image  /images/insight/3fcdc9503825deb3550f3ed4dc4cc8dc2b90e7a1.png
+Generating image  /images/insight/f371449c48c184254cb27ef2389dbd32a4cf3e9b.png
+Generating image  /images/insight/866303ab35022e74f1ae1bc44a55b938ee9415f1.png
+Generating image  /images/insight/ac8a0fc738e2cd998a78e09a6ff3a68d27a5a4cb.png
+Generating image  /images/insight/7e624f7011cac5ab514f91524df0c3e3a40b8b67.png
+Generating image  /images/insight/7e239278cf433fb416c0e4a1ca93188aba2e74d1.png
+Generating image  /images/insight/c663ee4ca1b2ff04c99247d67512bd5820bd41f8.png
+Generating image  /images/insight/b3d5656540398e7646a1dc4eedfe50677b75b294.png
+Generating image  /images/insight/05bf876d3eabbc811df5095f64d95ddd7a8ca06e.png
+Generating image  /images/insight/0d151ffe4ad2b298b0775e8805f93d0e1152de36.png
+
+PATH TO MAP, lat, lon /images/insight/0d151ffe4ad2b298b0775e8805f93d0e1152de36.html 
+37.779869231 -122.430887131
+98.210.100.33 - - [21/Jun/2016 21:11:51] "GET /ajax?lat=37.819548028632376&lon=-122.41430282592772 HTTP/1.1" 500 -
+98.210.100.33 - - [21/Jun/2016 21:11:52] "GET /output?text_review=balls&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+98.210.100.33 - - [21/Jun/2016 21:11:52] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+98.210.100.33 - - [21/Jun/2016 21:11:54] "GET /ajax?lat=37.8271414168374&lon=-122.43112564086914 HTTP/1.1" 500 -
+98.210.100.33 - - [21/Jun/2016 21:11:55] "GET /ajax?lat=37.81195385919268&lon=-122.5162696838379 HTTP/1.1" 500 -
+98.210.100.33 - - [21/Jun/2016 21:11:56] "GET /ajax?lat=37.825921103566564&lon=-122.50305175781249 HTTP/1.1" 500 -
+Similarity took 0.0473430156708 seconds
+Generating image  /images/insight/3533472c4100a127c56ee814dac0ecc525455fbf.png
+Generating image  /images/insight/140de4cfbc910c44be5a253a0bc05f4dd41a718a.png
+Generating image  /images/insight/466f3b0ffea2ac5b9549cdc305fa37f3f77a7607.png
+Generating image  /images/insight/e8e73f981bc77ccb32ec11ab4e13820db383c504.png
+Generating image  /images/insight/bb5b9af09e6d0281f98e75126814b384a4065792.png
+Generating image  /images/insight/828d599eafcd7361d09aabf79deedb55a6c98cb9.png
+Generating image  /images/insight/48caf3ef3e42eba145f2f00bd68dfb8f1a2178d5.png
+Generating image  /images/insight/475670799fb3cd2eaadbb9797e8c6e7e9fb45f8f.png
+Generating image  /images/insight/84bd52e6d7cf1b3fe6202a60707444bb1c3455b3.png
+Generating image  /images/insight/8ff52063c913b803f72db80a90dcae91054fc978.png
+Generating image  /images/insight/06bbebf8fa810e709d27378597501d8c854ce2ed.png
+Generating image  /images/insight/78df742cfb6b59c2032a8e0bf1e8f1d6c69591c6.png
+Generating image  /images/insight/0aa699f8256df0390cb4d78a0d5e5a31b3c40184.png
+Generating image  /images/insight/aa251be2c0bd828263f3254567865c54aa3973cd.png
+Generating image  /images/insight/8cec7a7d2177f9711e4a2969c87c29305199613d.png
+
+PATH TO MAP, lat, lon /images/insight/8cec7a7d2177f9711e4a2969c87c29305199613d.html 
+37.7630342409 -122.423935362
+98.210.100.33 - - [21/Jun/2016 21:12:03] "GET /output?text_review=balls%2C+dick%2C+cock&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+98.210.100.33 - - [21/Jun/2016 21:12:04] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+98.210.100.33 - - [21/Jun/2016 21:12:05] "GET /ajax?lat=37.81371686100979&lon=-122.39988327026369 HTTP/1.1" 500 -
+98.210.100.33 - - [21/Jun/2016 21:12:07] "GET /ajax?lat=37.808698976006795&lon=-122.45773315429689 HTTP/1.1" 500 -
+(120, 9)
+98.210.100.33 - - [21/Jun/2016 21:12:27] "GET /ajax?lat=37.81303878836988&lon=-122.41910934448242 HTTP/1.1" 200 -
+98.210.100.33 - - [21/Jun/2016 21:12:27] "GET /ajax?lat=37.81195385919268&lon=-122.37911224365234 HTTP/1.1" 500 -
+Similarity took 0.0479419231415 seconds
+Generating image  /images/insight/6a341fbac33627822e55efd3fe8613636c3aac8d.png
+Generating image  /images/insight/724436d18d5d86fd982bb73234f3629326c6aed6.png
+Generating image  /images/insight/df0e33810143bba87673cfddf54f60a2f76766c3.png
+Generating image  /images/insight/96bccfd0be984366785b5bb2b82e2dcc58afdcaf.png
+Generating image  /images/insight/90ee5471fab8a23196a95dc09bce2f1dc538df54.png
+Generating image  /images/insight/01226297e0f2d33a9cc5fa961cd192f5f669e557.png
+Generating image  /images/insight/1d8beccd8bc502ae965c9546846c1562a5070ba2.png
+Generating image  /images/insight/624c6c0a58f50b8b4fa1c007a563f8ce473fe318.png
+Generating image  /images/insight/02ef18a93c6b829f0c78790ce5709a3887fcd139.png
+Generating image  /images/insight/c663ee4ca1b2ff04c99247d67512bd5820bd41f8.png
+Generating image  /images/insight/57be954c2e133d19812b8d4c867e24257d0419b7.png
+Generating image  /images/insight/8977f15e38d7762624aac4c20f49893a74c17699.png
+Generating image  /images/insight/466f3b0ffea2ac5b9549cdc305fa37f3f77a7607.png
+Generating image  /images/insight/2845c7ac19b7da05e4ec0171e5f07f5c226fde65.png
+Generating image  /images/insight/a6e86de55360cfbe76a9b651f0d2d2b3bf867280.png
+
+PATH TO MAP, lat, lon /images/insight/a6e86de55360cfbe76a9b651f0d2d2b3bf867280.html 
+37.7720052906 -122.430258466
+98.210.100.33 - - [21/Jun/2016 21:12:29] "GET /output?text_review=hairy%2C+oiled+men&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+98.210.100.33 - - [21/Jun/2016 21:12:29] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+98.210.100.33 - - [21/Jun/2016 21:12:31] "GET /ajax?lat=37.8222600426766&lon=-122.41207122802734 HTTP/1.1" 500 -
+Similarity took 0.0328540802002 seconds
+Generating image  /images/insight/9439fa9caaf199ae3641cf788714019fbe654dad.png
+Generating image  /images/insight/acfbf39cd61fae8c67729b409317d7fd6ad5a368.png
+Generating image  /images/insight/00407129111ad4a3685826a659ed05f115140fa8.png
+Generating image  /images/insight/2fea3eff1bbc99f42171eadb711fb1769214c839.png
+Generating image  /images/insight/6ea6af2af6949bc2f7215bf74c06c0daeebb8769.png
+Generating image  /images/insight/a561d21276e16528c2b18cf26090ae09938e9e8f.png
+Generating image  /images/insight/ad9e945fe308628a518d9a84e2190c2384aedece.png
+Generating image  /images/insight/9b9a12bdb09177d16ad52a682ece7743ba101313.png
+Generating image  /images/insight/512fb79dce44d4f0a0c6d94a6875880b720ffa0e.png
+Generating image  /images/insight/9916d48daa40cf01c32c66710a19bf86f4af0d53.png
+Generating image  /images/insight/03904e872f6a32494eb8941999d16d1fa43be4f9.png
+Generating image  /images/insight/f3567c8fe3b95c587d713964142135966fcf4bcd.png
+Generating image  /images/insight/bcd83a422c0d04f4cb7b286c17ec992bfe6a109d.png
+Generating image  /images/insight/eee5c9c6cd77f50befb4c9af7bf6537383d6d4cb.png
+Generating image  /images/insight/3d8c3542739dd74775118d04b5d34d37e87b46b1.png
+
+PATH TO MAP, lat, lon /images/insight/3d8c3542739dd74775118d04b5d34d37e87b46b1.html 
+37.7742703485 -122.417031218
+98.210.100.33 - - [21/Jun/2016 21:14:44] "GET /ajax?lat=37.821175249016726&lon=-122.43026733398438 HTTP/1.1" 500 -
+98.210.100.33 - - [21/Jun/2016 21:14:45] "GET /output?text_review=I+want+a+sophisticated+and+classy+establishment&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+98.210.100.33 - - [21/Jun/2016 21:14:45] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+(120, 2)
+98.210.100.33 - - [21/Jun/2016 21:15:08] "GET /ajax?lat=37.778448826783546&lon=-122.49755859375 HTTP/1.1" 200 -
+[I 21:16:05.919 NotebookApp] 302 GET / (98.210.100.33) 0.29ms
+[I 21:16:19.124 NotebookApp] Creating new notebook in /notebooks
+[I 21:16:21.869 NotebookApp] Kernel started: 060ad8b9-8a33-45ac-a989-91f21c575f12
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 21:18:22.088 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+24.6.90.144 - - [21/Jun/2016 21:27:41] "GET / HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:27:41] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:27:41] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:27:41] "GET /static/css/stylish-portfolio.css HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:27:41] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:27:42] "GET /static/img/bg.jpg HTTP/1.1" 200 -
+Similarity took 0.0331001281738 seconds
+Generating image  /images/insight/ee5c859b529ce56fb6b9a0fb665e354a09a4a191.png
+Generating image  /images/insight/bfa81ce8a0fdbdb9fb824b6dad253de29ce354a1.png
+Generating image  /images/insight/ac9db90538e3a7afd62cf3cec0a40c955e3a5c12.png
+Generating image  /images/insight/bb5b9af09e6d0281f98e75126814b384a4065792.png
+Generating image  /images/insight/bddb83de2a5327349320cdaaf19f456d50c6fabd.png
+Generating image  /images/insight/2efd1b82081315c304c672f99f5387fad6edd1fd.png
+Generating image  /images/insight/2ee3f8f5454113419430ef16ae62585114f2662b.png
+Generating image  /images/insight/6e0732532e0e8ba537fe415f62ff7cbc2d5a7dd9.png
+Generating image  /images/insight/e8e73f981bc77ccb32ec11ab4e13820db383c504.png
+Generating image  /images/insight/6741046418e16fe3f10f1d6fae3871f5ce57e206.png
+Generating image  /images/insight/cd7642445e15272649c4b9cc1150971a786a325b.png
+Generating image  /images/insight/644d7b4029e120db1c4cd8b2797928f5a9aea876.png
+Generating image  /images/insight/c1e6dc0960ad0d236f01a16a530f0135dc8e17ad.png
+Generating image  /images/insight/248212c9ed532b464353b91306ce892350801a8b.png
+Generating image  /images/insight/365cf306c0ac3f297d30a568a1c80ece2e0edd48.png
+
+PATH TO MAP, lat, lon /images/insight/365cf306c0ac3f297d30a568a1c80ece2e0edd48.html 
+37.7648188836 -122.432562893
+24.6.90.144 - - [21/Jun/2016 21:28:09] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+a+smoky+dive+bar HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:28:09] "GET /static/css/bootstrap.css HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:28:09] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:28:12] "GET /ajax?lat=37.74872922848495&lon=-122.46923446655273 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:15] "GET /ajax?lat=37.74872922848495&lon=-122.46940612792967 HTTP/1.1" 500 -
+(120, 3)
+24.6.90.144 - - [21/Jun/2016 21:28:19] "GET /ajax?lat=37.76582963431182&lon=-122.51352310180663 HTTP/1.1" 200 -
+(120, 3)
+24.6.90.144 - - [21/Jun/2016 21:28:20] "GET /ajax?lat=37.74927215926059&lon=-122.48090744018555 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:28:21] "GET /ajax?lat=37.73379707124429&lon=-122.512149810791 HTTP/1.1" 500 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:28:22] "GET /ajax?lat=37.72918106779786&lon=-122.39850997924803 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:28:23] "GET /ajax?lat=37.793643275000754&lon=-122.35284805297852 HTTP/1.1" 500 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:28:23] "GET /ajax?lat=37.784554114444994&lon=-122.4584197998047 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [21/Jun/2016 21:28:24] "GET /ajax?lat=37.750358008861774&lon=-122.4707794189453 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:28:24] "GET /ajax?lat=37.75483697004109&lon=-122.46374130249023 HTTP/1.1" 500 -
+(120, 8)
+24.6.90.144 - - [21/Jun/2016 21:28:24] "GET /ajax?lat=37.77003627110171&lon=-122.46271133422852 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:28:25] "GET /ajax?lat=37.77125750792944&lon=-122.46803283691405 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [21/Jun/2016 21:28:27] "GET /ajax?lat=37.77722770873696&lon=-122.50476837158203 HTTP/1.1" 200 -
+(120, 10)
+24.6.90.144 - - [21/Jun/2016 21:28:28] "GET /ajax?lat=37.76297984117803&lon=-122.45103836059569 HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:28:28] "GET /ajax?lat=37.771664582389825&lon=-122.4232292175293 HTTP/1.1" 200 -
+(120, 45)
+24.6.90.144 - - [21/Jun/2016 21:28:29] "GET /ajax?lat=37.78116235022467&lon=-122.4213409423828 HTTP/1.1" 200 -
+(120, 48)
+24.6.90.144 - - [21/Jun/2016 21:28:29] "GET /ajax?lat=37.78387577405278&lon=-122.41910934448242 HTTP/1.1" 200 -
+(120, 70)
+24.6.90.144 - - [21/Jun/2016 21:28:29] "GET /ajax?lat=37.784554114444994&lon=-122.41687774658202 HTTP/1.1" 200 -
+(120, 78)
+24.6.90.144 - - [21/Jun/2016 21:28:30] "GET /ajax?lat=37.78496111569183&lon=-122.41636276245117 HTTP/1.1" 200 -
+(120, 80)
+24.6.90.144 - - [21/Jun/2016 21:28:30] "GET /ajax?lat=37.785096782276035&lon=-122.41601943969727 HTTP/1.1" 200 -
+(120, 86)
+24.6.90.144 - - [21/Jun/2016 21:28:30] "GET /ajax?lat=37.78536811469731&lon=-122.41550445556639 HTTP/1.1" 200 -
+(120, 106)
+24.6.90.144 - - [21/Jun/2016 21:28:31] "GET /ajax?lat=37.78699608830537&lon=-122.41172790527345 HTTP/1.1" 200 -
+(120, 114)
+24.6.90.144 - - [21/Jun/2016 21:28:31] "GET /ajax?lat=37.78808138412046&lon=-122.40863800048828 HTTP/1.1" 200 -
+(120, 113)
+24.6.90.144 - - [21/Jun/2016 21:28:32] "GET /ajax?lat=37.78821704497665&lon=-122.40863800048828 HTTP/1.1" 200 -
+(120, 89)
+24.6.90.144 - - [21/Jun/2016 21:28:33] "GET /ajax?lat=37.796084948503236&lon=-122.40331649780273 HTTP/1.1" 200 -
+(120, 118)
+24.6.90.144 - - [21/Jun/2016 21:28:34] "GET /ajax?lat=37.79296501804014&lon=-122.40623474121092 HTTP/1.1" 200 -
+(120, 111)
+24.6.90.144 - - [21/Jun/2016 21:28:35] "GET /ajax?lat=37.79120152080271&lon=-122.40846633911133 HTTP/1.1" 200 -
+(120, 41)
+24.6.90.144 - - [21/Jun/2016 21:28:35] "GET /ajax?lat=37.77709202770888&lon=-122.4203109741211 HTTP/1.1" 200 -
+(120, 46)
+24.6.90.144 - - [21/Jun/2016 21:28:36] "GET /ajax?lat=37.774106982088796&lon=-122.42374420166016 HTTP/1.1" 200 -
+(120, 60)
+24.6.90.144 - - [21/Jun/2016 21:28:37] "GET /ajax?lat=37.786046441392244&lon=-122.4187660217285 HTTP/1.1" 200 -
+(120, 58)
+24.6.90.144 - - [21/Jun/2016 21:28:42] "GET /ajax?lat=37.78631777032694&lon=-122.4187660217285 HTTP/1.1" 200 -
+(120, 41)
+24.6.90.144 - - [21/Jun/2016 21:28:43] "GET /ajax?lat=37.74913642694012&lon=-122.42082595825194 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:28:43] "GET /ajax?lat=37.74954362315467&lon=-122.4203109741211 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:45] "GET /ajax?lat=37.750358008861774&lon=-122.41910934448242 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:46] "GET /ajax?lat=37.75062946877242&lon=-122.41807937622069 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:46] "GET /ajax?lat=37.75130811419219&lon=-122.41790771484375 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:46] "GET /ajax?lat=37.75144384252926&lon=-122.41790771484375 HTTP/1.1" 500 -
+(120, 34)
+24.6.90.144 - - [21/Jun/2016 21:28:47] "GET /ajax?lat=37.747507619675595&lon=-122.42340087890624 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [21/Jun/2016 21:28:47] "GET /ajax?lat=37.74126352639086&lon=-122.41910934448242 HTTP/1.1" 200 -
+(120, 22)
+24.6.90.144 - - [21/Jun/2016 21:28:47] "GET /ajax?lat=37.74126352639086&lon=-122.41498947143556 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:28:48] "GET /ajax?lat=37.763115548102924&lon=-122.40486145019531 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:48] "GET /ajax?lat=37.76284413400416&lon=-122.40554809570311 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:48] "GET /ajax?lat=37.763115548102924&lon=-122.41241455078125 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:49] "GET /ajax?lat=37.76053707395286&lon=-122.41945266723631 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:50] "GET /ajax?lat=37.76040136229719&lon=-122.41945266723631 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:51] "GET /ajax?lat=37.75646561597495&lon=-122.4203109741211 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:51] "GET /ajax?lat=37.753615462062676&lon=-122.42082595825194 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:51] "GET /ajax?lat=37.75171529845649&lon=-122.41996765136719 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:52] "GET /ajax?lat=37.75198675338784&lon=-122.41910934448242 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:28:52] "GET /ajax?lat=37.75144384252926&lon=-122.41928100585938 HTTP/1.1" 500 -
+(120, 43)
+24.6.90.144 - - [21/Jun/2016 21:28:52] "GET /ajax?lat=37.74927215926059&lon=-122.41979598999023 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:28:53] "GET /ajax?lat=37.751579570617366&lon=-122.4151611328125 HTTP/1.1" 500 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:28:53] "GET /ajax?lat=37.75347973770911&lon=-122.40966796874999 HTTP/1.1" 200 -
+(120, 10)
+24.6.90.144 - - [21/Jun/2016 21:28:56] "GET /ajax?lat=37.75225820732335&lon=-122.40812301635742 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [21/Jun/2016 21:28:57] "GET /ajax?lat=37.75334401310656&lon=-122.39507675170897 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:28:57] "GET /ajax?lat=37.75646561597495&lon=-122.38872528076173 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:28:59] "GET /ajax?lat=37.7566013348511&lon=-122.38855361938475 HTTP/1.1" 200 -
+(120, 20)
+24.6.90.144 - - [21/Jun/2016 21:28:59] "GET /ajax?lat=37.77329285782031&lon=-122.39542007446289 HTTP/1.1" 200 -
+(120, 32)
+24.6.90.144 - - [21/Jun/2016 21:29:00] "GET /ajax?lat=37.781840715520524&lon=-122.39181518554686 HTTP/1.1" 200 -
+(120, 32)
+24.6.90.144 - - [21/Jun/2016 21:29:01] "GET /ajax?lat=37.78211205989562&lon=-122.39164352416992 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:29:02] "GET /ajax?lat=37.77057904551523&lon=-122.47283935546874 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:29:02] "GET /ajax?lat=37.765693932366844&lon=-122.47781753540039 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:29:03] "GET /ajax?lat=37.76596533600783&lon=-122.47781753540039 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:29:04] "GET /ajax?lat=37.78021262835114&lon=-122.46665954589844 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:29:04] "GET /ajax?lat=37.78211205989562&lon=-122.46511459350586 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [21/Jun/2016 21:29:05] "GET /ajax?lat=37.781840715520524&lon=-122.46906280517578 HTTP/1.1" 200 -
+(120, 13)
+24.6.90.144 - - [21/Jun/2016 21:29:05] "GET /ajax?lat=37.778448826783546&lon=-122.46391296386719 HTTP/1.1" 200 -
+(120, 12)
+24.6.90.144 - - [21/Jun/2016 21:29:07] "GET /ajax?lat=37.777634750327046&lon=-122.464599609375 HTTP/1.1" 200 -
+(120, 3)
+24.6.90.144 - - [21/Jun/2016 21:29:07] "GET /ajax?lat=37.76230130281876&lon=-122.51249313354492 HTTP/1.1" 200 -
+(120, 6)
+24.6.90.144 - - [21/Jun/2016 21:29:08] "GET /ajax?lat=37.75795850991872&lon=-122.508544921875 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:29:09] "GET /ajax?lat=37.751579570617366&lon=-122.5111198425293 HTTP/1.1" 200 -
+(120, 3)
+24.6.90.144 - - [21/Jun/2016 21:29:09] "GET /ajax?lat=37.75171529845649&lon=-122.48571395874023 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:29:09] "GET /ajax?lat=37.797441398913286&lon=-122.35765457153319 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:29:21] "GET /ajax?lat=37.801646236899785&lon=-122.37722396850586 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:29:22] "GET /ajax?lat=37.802324414158235&lon=-122.48880386352539 HTTP/1.1" 500 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:29:24] "GET /ajax?lat=37.750765198354316&lon=-122.51026153564452 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:29:25] "GET /ajax?lat=37.7745140408613&lon=-122.36246109008789 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:29:32] "GET /ajax?lat=37.80625771945958&lon=-122.35164642333983 HTTP/1.1" 500 -
+(120, 81)
+24.6.90.144 - - [21/Jun/2016 21:29:32] "GET /ajax?lat=37.79215110146844&lon=-122.41189956665039 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:30:17] "GET /ajax?lat=37.791879793952084&lon=-122.50459671020508 HTTP/1.1" 500 -
+(120, 12)
+24.6.90.144 - - [21/Jun/2016 21:30:17] "GET /ajax?lat=37.78414711095678&lon=-122.46477127075194 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:30:17] "GET /ajax?lat=37.7566013348511&lon=-122.45223999023436 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:30:19] "GET /ajax?lat=37.75062946877242&lon=-122.4481201171875 HTTP/1.1" 500 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:30:20] "GET /ajax?lat=37.74615025290319&lon=-122.44829177856444 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:30:20] "GET /ajax?lat=37.7464217282493&lon=-122.44829177856444 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:30:21] "GET /ajax?lat=37.7460145148567&lon=-122.44846343994139 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:30:21] "GET /ajax?lat=37.746285990700734&lon=-122.44829177856444 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:30:22] "GET /ajax?lat=37.74574303801685&lon=-122.44829177856444 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:30:22] "GET /ajax?lat=37.745335820889935&lon=-122.44743347167969 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:30:22] "GET /ajax?lat=37.74859349516863&lon=-122.44880676269531 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:30:23] "GET /ajax?lat=37.74872922848495&lon=-122.44846343994139 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:30:23] "GET /ajax?lat=37.74438563888049&lon=-122.44794845581055 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:30:23] "GET /ajax?lat=37.71207219310847&lon=-122.44142532348633 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:30:24] "GET /ajax?lat=37.71587450674273&lon=-122.4403953552246 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:30:25] "GET /ajax?lat=37.7071832174446&lon=-122.4397087097168 HTTP/1.1" 500 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:30:25] "GET /ajax?lat=37.71275119199666&lon=-122.4393653869629 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:30:26] "GET /ajax?lat=37.712886991027666&lon=-122.4393653869629 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [21/Jun/2016 21:30:26] "GET /ajax?lat=37.745878776561256&lon=-122.44417190551758 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:30:26] "GET /ajax?lat=37.74438563888049&lon=-122.4455451965332 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [21/Jun/2016 21:30:27] "GET /ajax?lat=37.74723614831276&lon=-122.4455451965332 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [21/Jun/2016 21:30:27] "GET /ajax?lat=37.747507619675595&lon=-122.44537353515625 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [21/Jun/2016 21:30:28] "GET /ajax?lat=37.747371884118664&lon=-122.44537353515625 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:30:28] "GET /ajax?lat=37.748322027789115&lon=-122.44503021240233 HTTP/1.1" 500 -
+(120, 36)
+24.6.90.144 - - [21/Jun/2016 21:30:28] "GET /ajax?lat=37.77559951996455&lon=-122.42391586303711 HTTP/1.1" 200 -
+(120, 31)
+24.6.90.144 - - [21/Jun/2016 21:30:29] "GET /ajax?lat=37.77790611014198&lon=-122.42494583129883 HTTP/1.1" 200 -
+(120, 32)
+24.6.90.144 - - [21/Jun/2016 21:30:31] "GET /ajax?lat=37.77695634643178&lon=-122.43112564086914 HTTP/1.1" 200 -
+(120, 13)
+24.6.90.144 - - [21/Jun/2016 21:30:32] "GET /ajax?lat=37.774785412131216&lon=-122.44125366210936 HTTP/1.1" 200 -
+(120, 22)
+24.6.90.144 - - [21/Jun/2016 21:30:32] "GET /ajax?lat=37.778584505321376&lon=-122.38632202148438 HTTP/1.1" 200 -
+(120, 31)
+24.6.90.144 - - [21/Jun/2016 21:30:32] "GET /ajax?lat=37.77573520373188&lon=-122.40365982055663 HTTP/1.1" 200 -
+(120, 31)
+24.6.90.144 - - [21/Jun/2016 21:30:33] "GET /ajax?lat=37.77559951996455&lon=-122.40365982055663 HTTP/1.1" 200 -
+(120, 29)
+24.6.90.144 - - [21/Jun/2016 21:30:33] "GET /ajax?lat=37.77559951996455&lon=-122.40348815917969 HTTP/1.1" 200 -
+(120, 31)
+24.6.90.144 - - [21/Jun/2016 21:30:34] "GET /ajax?lat=37.7766849831305&lon=-122.40365982055663 HTTP/1.1" 200 -
+(120, 34)
+24.6.90.144 - - [21/Jun/2016 21:30:34] "GET /ajax?lat=37.80354511753136&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 51)
+24.6.90.144 - - [21/Jun/2016 21:30:34] "GET /ajax?lat=37.801374964252865&lon=-122.40400314331055 HTTP/1.1" 200 -
+(120, 61)
+24.6.90.144 - - [21/Jun/2016 21:30:36] "GET /ajax?lat=37.800289863702076&lon=-122.40383148193361 HTTP/1.1" 200 -
+(120, 98)
+24.6.90.144 - - [21/Jun/2016 21:30:36] "GET /ajax?lat=37.79255806087506&lon=-122.4103546142578 HTTP/1.1" 200 -
+(120, 90)
+24.6.90.144 - - [21/Jun/2016 21:30:36] "GET /ajax?lat=37.79228675485302&lon=-122.41086959838866 HTTP/1.1" 200 -
+(120, 54)
+24.6.90.144 - - [21/Jun/2016 21:30:37] "GET /ajax?lat=37.79215110146844&lon=-122.41910934448242 HTTP/1.1" 200 -
+(120, 46)
+24.6.90.144 - - [21/Jun/2016 21:30:37] "GET /ajax?lat=37.790523241426946&lon=-122.420654296875 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [21/Jun/2016 21:30:38] "GET /ajax?lat=37.80639334694058&lon=-122.43593215942381 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [21/Jun/2016 21:30:39] "GET /ajax?lat=37.8065289741725&lon=-122.43576049804688 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [21/Jun/2016 21:30:39] "GET /ajax?lat=37.80639334694058&lon=-122.43593215942381 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [21/Jun/2016 21:30:39] "GET /ajax?lat=37.77302148107203&lon=-122.44983673095705 HTTP/1.1" 200 -
+(120, 13)
+24.6.90.144 - - [21/Jun/2016 21:30:39] "GET /ajax?lat=37.77329285782031&lon=-122.44829177856444 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [21/Jun/2016 21:30:40] "GET /ajax?lat=37.77288579232436&lon=-122.44777679443358 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [21/Jun/2016 21:30:40] "GET /ajax?lat=37.77695634643178&lon=-122.4326705932617 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [21/Jun/2016 21:30:41] "GET /ajax?lat=37.77559951996455&lon=-122.43198394775389 HTTP/1.1" 200 -
+(120, 33)
+24.6.90.144 - - [21/Jun/2016 21:30:41] "GET /ajax?lat=37.77112181594461&lon=-122.43043899536133 HTTP/1.1" 200 -
+(120, 33)
+24.6.90.144 - - [21/Jun/2016 21:30:42] "GET /ajax?lat=37.77125750792944&lon=-122.42992401123045 HTTP/1.1" 200 -
+(120, 63)
+24.6.90.144 - - [21/Jun/2016 21:30:43] "GET /ajax?lat=37.76718664006672&lon=-122.41979598999023 HTTP/1.1" 200 -
+(120, 69)
+24.6.90.144 - - [21/Jun/2016 21:30:43] "GET /ajax?lat=37.765286825037926&lon=-122.41979598999023 HTTP/1.1" 200 -
+(120, 70)
+24.6.90.144 - - [21/Jun/2016 21:30:44] "GET /ajax?lat=37.763522667383626&lon=-122.41979598999023 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:30:44] "GET /ajax?lat=37.755244134885736&lon=-122.42048263549805 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:30:45] "GET /ajax?lat=37.750765198354316&lon=-122.4209976196289 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:30:46] "GET /ajax?lat=37.75510841351983&lon=-122.41464614868164 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:30:46] "GET /ajax?lat=37.75402263362956&lon=-122.41601943969727 HTTP/1.1" 500 -
+(120, 28)
+24.6.90.144 - - [21/Jun/2016 21:30:46] "GET /ajax?lat=37.745471560181194&lon=-122.41653442382812 HTTP/1.1" 200 -
+(120, 23)
+24.6.90.144 - - [21/Jun/2016 21:30:48] "GET /ajax?lat=37.74139927315054&lon=-122.41722106933594 HTTP/1.1" 200 -
+(120, 32)
+24.6.90.144 - - [21/Jun/2016 21:30:48] "GET /ajax?lat=37.75945137373587&lon=-122.43507385253906 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:30:49] "GET /ajax?lat=37.751851026046666&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 18)
+24.6.90.144 - - [21/Jun/2016 21:30:49] "GET /ajax?lat=37.77587088725018&lon=-122.43576049804688 HTTP/1.1" 200 -
+(120, 18)
+24.6.90.144 - - [21/Jun/2016 21:30:50] "GET /ajax?lat=37.77152889115204&lon=-122.44211196899414 HTTP/1.1" 200 -
+(120, 16)
+24.6.90.144 - - [21/Jun/2016 21:30:50] "GET /ajax?lat=37.771664582389825&lon=-122.44657516479494 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [21/Jun/2016 21:30:51] "GET /ajax?lat=37.77532815168286&lon=-122.43181228637695 HTTP/1.1" 200 -
+(120, 30)
+24.6.90.144 - - [21/Jun/2016 21:30:51] "GET /ajax?lat=37.77193596411837&lon=-122.43009567260741 HTTP/1.1" 200 -
+(120, 30)
+24.6.90.144 - - [21/Jun/2016 21:30:51] "GET /ajax?lat=37.771664582389825&lon=-122.43043899536133 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:31:06] "GET /ajax?lat=37.748457761603355&lon=-122.45223999023436 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:31:07] "GET /ajax?lat=37.752529660262965&lon=-122.45309829711913 HTTP/1.1" 500 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:31:07] "GET /ajax?lat=37.74818629372592&lon=-122.45206832885742 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:31:08] "GET /ajax?lat=37.748457761603355&lon=-122.45241165161131 HTTP/1.1" 200 -
+Similarity took 0.0336232185364 seconds
+Generating image  /images/insight/2d6513210eb62b336ebea2f8a4d970260ee2d96d.png
+Generating image  /images/insight/ddcc2eec6814b7555288d1e6e98958e83e0cd9fa.png
+Generating image  /images/insight/bd723a29586c624efb319e3405beebe42d8ce5f2.png
+Generating image  /images/insight/b78bcb4dab3ab88a74fed6145a6e55e6d60a6f21.png
+Generating image  /images/insight/e6196b5601bb449a4c3c1424010ce39523f9cdcd.png
+Generating image  /images/insight/604e4ea821e1a5a4bfae43f4786b90a9db3c9d7a.png
+Generating image  /images/insight/9439fa9caaf199ae3641cf788714019fbe654dad.png
+Generating image  /images/insight/c43570f91474d02ffc7c4b1cf7b8d4e8acd083b1.png
+Generating image  /images/insight/eee5c9c6cd77f50befb4c9af7bf6537383d6d4cb.png
+Generating image  /images/insight/f3567c8fe3b95c587d713964142135966fcf4bcd.png
+Generating image  /images/insight/194e79c17293e5ff4068bdeb8dfab2158d7374bf.png
+Generating image  /images/insight/14088c4e485e22bed0636a1469ffddb06bf3a94a.png
+Generating image  /images/insight/ec26059d32cc8ad253fd03d0357b245ab725c308.png
+Generating image  /images/insight/8da3968767cb02d4cff63a0ec77df3af7727f2b4.png
+Generating image  /images/insight/13407802ca5b2d8b0b477b22ccce5051038dffa1.png
+
+PATH TO MAP, lat, lon /images/insight/13407802ca5b2d8b0b477b22ccce5051038dffa1.html 
+37.7799508998 -122.424659306
+24.6.90.144 - - [21/Jun/2016 21:31:39] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+a+drag+show+sushi+bar HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:31:40] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+(120, 6)
+24.6.90.144 - - [21/Jun/2016 21:31:41] "GET /ajax?lat=37.76230130281876&lon=-122.4542999267578 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:31:44] "GET /ajax?lat=37.767050940611725&lon=-122.45086669921875 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [21/Jun/2016 21:31:44] "GET /ajax?lat=37.80856335276034&lon=-122.43301391601562 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [21/Jun/2016 21:31:45] "GET /ajax?lat=37.7996116677629&lon=-122.43249893188477 HTTP/1.1" 200 -
+(120, 24)
+24.6.90.144 - - [21/Jun/2016 21:31:46] "GET /ajax?lat=37.79988294688579&lon=-122.431640625 HTTP/1.1" 200 -
+(120, 23)
+24.6.90.144 - - [21/Jun/2016 21:31:47] "GET /ajax?lat=37.80178187284963&lon=-122.42992401123045 HTTP/1.1" 200 -
+(120, 30)
+24.6.90.144 - - [21/Jun/2016 21:31:47] "GET /ajax?lat=37.80001858607365&lon=-122.42872238159178 HTTP/1.1" 200 -
+(120, 31)
+24.6.90.144 - - [21/Jun/2016 21:31:48] "GET /ajax?lat=37.79893346559687&lon=-122.42803573608397 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:31:48] "GET /ajax?lat=37.76555823017286&lon=-122.37911224365234 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:31:56] "GET /ajax?lat=37.81453053995718&lon=-122.34374999999999 HTTP/1.1" 500 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:31:56] "GET /ajax?lat=37.79527106630204&lon=-122.46150970458983 HTTP/1.1" 200 -
+(120, 10)
+24.6.90.144 - - [21/Jun/2016 21:31:57] "GET /ajax?lat=37.78536811469731&lon=-122.46253967285156 HTTP/1.1" 200 -
+(120, 10)
+24.6.90.144 - - [21/Jun/2016 21:31:58] "GET /ajax?lat=37.78645343442073&lon=-122.46442794799805 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:31:58] "GET /ajax?lat=37.79432152573488&lon=-122.48485565185547 HTTP/1.1" 500 -
+(120, 21)
+24.6.90.144 - - [21/Jun/2016 21:31:59] "GET /ajax?lat=37.80178187284963&lon=-122.44073867797852 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [21/Jun/2016 21:31:59] "GET /ajax?lat=37.798526541308384&lon=-122.43112564086914 HTTP/1.1" 200 -
+(120, 29)
+24.6.90.144 - - [21/Jun/2016 21:32:00] "GET /ajax?lat=37.79906910652822&lon=-122.43061065673827 HTTP/1.1" 200 -
+(120, 24)
+24.6.90.144 - - [21/Jun/2016 21:32:00] "GET /ajax?lat=37.803002585189645&lon=-122.43335723876952 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [21/Jun/2016 21:32:00] "GET /ajax?lat=37.803002585189645&lon=-122.43232727050781 HTTP/1.1" 200 -
+(120, 17)
+24.6.90.144 - - [21/Jun/2016 21:32:01] "GET /ajax?lat=37.802460048862656&lon=-122.44159698486328 HTTP/1.1" 200 -
+Similarity took 0.0338668823242 seconds
+Generating image  /images/insight/8cec7a7d2177f9711e4a2969c87c29305199613d.png
+Generating image  /images/insight/c2c6038eb87175e4fe8d3eca4628c45cd6033d18.png
+Generating image  /images/insight/a6e86de55360cfbe76a9b651f0d2d2b3bf867280.png
+Generating image  /images/insight/df0e33810143bba87673cfddf54f60a2f76766c3.png
+Generating image  /images/insight/f6b2a5f657db9133566287d5745e688d7fc8e4bc.png
+Generating image  /images/insight/724436d18d5d86fd982bb73234f3629326c6aed6.png
+Generating image  /images/insight/6a341fbac33627822e55efd3fe8613636c3aac8d.png
+Generating image  /images/insight/a561d21276e16528c2b18cf26090ae09938e9e8f.png
+Generating image  /images/insight/2efd1b82081315c304c672f99f5387fad6edd1fd.png
+Generating image  /images/insight/3b3b1a25037fe8a2aa47a8178b0324480e69628e.png
+Generating image  /images/insight/54ddd2b85255144764929b0549930ee63c8faf4b.png
+Generating image  /images/insight/84bd52e6d7cf1b3fe6202a60707444bb1c3455b3.png
+Generating image  /images/insight/02ef18a93c6b829f0c78790ce5709a3887fcd139.png
+Generating image  /images/insight/624c6c0a58f50b8b4fa1c007a563f8ce473fe318.png
+Generating image  /images/insight/79d2d85129fb0d434570ceb3ef63713e9e494b63.png
+
+PATH TO MAP, lat, lon /images/insight/79d2d85129fb0d434570ceb3ef63713e9e494b63.html 
+37.7724476761 -122.41930554
+24.6.90.144 - - [21/Jun/2016 21:32:21] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+a+drag+show+club+bar HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:32:21] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:32:22] "GET /ajax?lat=37.755244134885736&lon=-122.45292663574217 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:32:23] "GET /ajax?lat=37.75605845785265&lon=-122.45292663574217 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:32:24] "GET /ajax?lat=37.77682066490566&lon=-122.36005783081055 HTTP/1.1" 500 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:32:24] "GET /ajax?lat=37.81303878836988&lon=-122.4067497253418 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:32:40] "GET /ajax?lat=37.79920474721051&lon=-122.34306335449217 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:32:41] "GET /ajax?lat=37.7624370109886&lon=-122.34838485717772 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:32:41] "GET /ajax?lat=37.76067278535954&lon=-122.40331649780273 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:32:42] "GET /ajax?lat=37.75890851765176&lon=-122.41739273071288 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:32:42] "GET /ajax?lat=37.75863708811579&lon=-122.41979598999023 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:32:43] "GET /ajax?lat=37.76582963431182&lon=-122.4125862121582 HTTP/1.1" 500 -
+(120, 88)
+24.6.90.144 - - [21/Jun/2016 21:32:43] "GET /ajax?lat=37.7846897817763&lon=-122.40039825439452 HTTP/1.1" 200 -
+(120, 52)
+24.6.90.144 - - [21/Jun/2016 21:32:43] "GET /ajax?lat=37.77926289427511&lon=-122.41121292114258 HTTP/1.1" 200 -
+(120, 82)
+24.6.90.144 - - [21/Jun/2016 21:32:45] "GET /ajax?lat=37.78102667641841&lon=-122.41069793701172 HTTP/1.1" 200 -
+(120, 45)
+24.6.90.144 - - [21/Jun/2016 21:32:45] "GET /ajax?lat=37.77600657051943&lon=-122.40966796874999 HTTP/1.1" 200 -
+(120, 40)
+24.6.90.144 - - [21/Jun/2016 21:32:45] "GET /ajax?lat=37.77112181594461&lon=-122.41241455078125 HTTP/1.1" 200 -
+(120, 46)
+24.6.90.144 - - [21/Jun/2016 21:32:45] "GET /ajax?lat=37.771393199665255&lon=-122.41498947143556 HTTP/1.1" 200 -
+(120, 46)
+24.6.90.144 - - [21/Jun/2016 21:32:46] "GET /ajax?lat=37.77057904551523&lon=-122.41498947143556 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:32:46] "GET /ajax?lat=37.75551557687061&lon=-122.41121292114258 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:32:46] "GET /ajax?lat=37.75768707689704&lon=-122.41945266723631 HTTP/1.1" 500 -
+(120, 68)
+24.6.90.144 - - [21/Jun/2016 21:32:51] "GET /ajax?lat=37.765286825037926&lon=-122.4203109741211 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:32:52] "GET /ajax?lat=37.805986463750315&lon=-122.46236801147462 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:32:52] "GET /ajax?lat=37.81398808832203&lon=-122.44880676269531 HTTP/1.1" 500 -
+Similarity took 0.0294671058655 seconds
+Generating image  /images/insight/96bccfd0be984366785b5bb2b82e2dcc58afdcaf.png
+Generating image  /images/insight/8cec7a7d2177f9711e4a2969c87c29305199613d.png
+Generating image  /images/insight/6a341fbac33627822e55efd3fe8613636c3aac8d.png
+Generating image  /images/insight/f6b2a5f657db9133566287d5745e688d7fc8e4bc.png
+Generating image  /images/insight/724436d18d5d86fd982bb73234f3629326c6aed6.png
+Generating image  /images/insight/624c6c0a58f50b8b4fa1c007a563f8ce473fe318.png
+Generating image  /images/insight/3b3b1a25037fe8a2aa47a8178b0324480e69628e.png
+Generating image  /images/insight/d108001369a113b2f2e42ddda5baf0aeac256d68.png
+Generating image  /images/insight/02ef18a93c6b829f0c78790ce5709a3887fcd139.png
+Generating image  /images/insight/df0e33810143bba87673cfddf54f60a2f76766c3.png
+Generating image  /images/insight/befe5db423af67fd14ffb3f0407d1ac92f6eb045.png
+Generating image  /images/insight/79d2d85129fb0d434570ceb3ef63713e9e494b63.png
+Generating image  /images/insight/c2c6038eb87175e4fe8d3eca4628c45cd6033d18.png
+Generating image  /images/insight/fa58ab2ef7047837c2f4272d4caea2519397a15e.png
+Generating image  /images/insight/e3642fad01f5791fbd39361c0499785f10918c07.png
+
+PATH TO MAP, lat, lon /images/insight/e3642fad01f5791fbd39361c0499785f10918c07.html 
+37.7763273825 -122.419260838
+24.6.90.144 - - [21/Jun/2016 21:33:08] "GET /output?text_review=I+want+a+drag+show+club+food+bar+&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:33:08] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:33:12] "GET /ajax?lat=37.81751395270554&lon=-122.48605728149415 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:33:12] "GET /ajax?lat=37.80693585437371&lon=-122.5001335144043 HTTP/1.1" 500 -
+(120, 105)
+24.6.90.144 - - [21/Jun/2016 21:33:13] "GET /ajax?lat=37.790251927933284&lon=-122.40915298461914 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:33:19] "GET /ajax?lat=37.81792077237497&lon=-122.35456466674805 HTTP/1.1" 500 -
+(120, 5)
+24.6.90.144 - - [21/Jun/2016 21:33:19] "GET /ajax?lat=37.802460048862656&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 95)
+24.6.90.144 - - [21/Jun/2016 21:33:19] "GET /ajax?lat=37.792829365900836&lon=-122.4103546142578 HTTP/1.1" 200 -
+(120, 52)
+24.6.90.144 - - [21/Jun/2016 21:33:20] "GET /ajax?lat=37.79201544783479&lon=-122.41996765136719 HTTP/1.1" 200 -
+(120, 101)
+24.6.90.144 - - [21/Jun/2016 21:33:20] "GET /ajax?lat=37.78645343442073&lon=-122.41275787353516 HTTP/1.1" 200 -
+(120, 101)
+24.6.90.144 - - [21/Jun/2016 21:33:21] "GET /ajax?lat=37.78645343442073&lon=-122.4125862121582 HTTP/1.1" 200 -
+(120, 110)
+24.6.90.144 - - [21/Jun/2016 21:33:21] "GET /ajax?lat=37.78645343442073&lon=-122.41086959838866 HTTP/1.1" 200 -
+(120, 111)
+24.6.90.144 - - [21/Jun/2016 21:33:21] "GET /ajax?lat=37.78618210598413&lon=-122.41018295288085 HTTP/1.1" 200 -
+(120, 117)
+24.6.90.144 - - [21/Jun/2016 21:33:22] "GET /ajax?lat=37.78631777032694&lon=-122.40898132324217 HTTP/1.1" 200 -
+(120, 122)
+24.6.90.144 - - [21/Jun/2016 21:33:22] "GET /ajax?lat=37.787674400057654&lon=-122.40846633911133 HTTP/1.1" 200 -
+(120, 109)
+24.6.90.144 - - [21/Jun/2016 21:33:23] "GET /ajax?lat=37.78821704497665&lon=-122.40983963012695 HTTP/1.1" 200 -
+(120, 96)
+24.6.90.144 - - [21/Jun/2016 21:33:23] "GET /ajax?lat=37.786860425207784&lon=-122.41395950317383 HTTP/1.1" 200 -
+(120, 55)
+24.6.90.144 - - [21/Jun/2016 21:33:23] "GET /ajax?lat=37.7766849831305&lon=-122.41498947143556 HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:33:24] "GET /ajax?lat=37.77519246716849&lon=-122.4151611328125 HTTP/1.1" 200 -
+(120, 44)
+24.6.90.144 - - [21/Jun/2016 21:33:24] "GET /ajax?lat=37.77193596411837&lon=-122.41310119628906 HTTP/1.1" 200 -
+(120, 44)
+24.6.90.144 - - [21/Jun/2016 21:33:25] "GET /ajax?lat=37.77180027337861&lon=-122.4129295349121 HTTP/1.1" 200 -
+(120, 21)
+24.6.90.144 - - [21/Jun/2016 21:33:25] "GET /ajax?lat=37.78984495582488&lon=-122.42958068847656 HTTP/1.1" 200 -
+(120, 49)
+24.6.90.144 - - [21/Jun/2016 21:33:26] "GET /ajax?lat=37.77926289427511&lon=-122.4067497253418 HTTP/1.1" 200 -
+(120, 57)
+24.6.90.144 - - [21/Jun/2016 21:33:26] "GET /ajax?lat=37.79920474721051&lon=-122.40623474121092 HTTP/1.1" 200 -
+(120, 59)
+24.6.90.144 - - [21/Jun/2016 21:33:26] "GET /ajax?lat=37.79839089938073&lon=-122.40571975708006 HTTP/1.1" 200 -
+(120, 60)
+24.6.90.144 - - [21/Jun/2016 21:33:27] "GET /ajax?lat=37.79825525720401&lon=-122.40589141845703 HTTP/1.1" 200 -
+(120, 57)
+24.6.90.144 - - [21/Jun/2016 21:33:27] "GET /ajax?lat=37.7709861237108&lon=-122.42477416992186 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:33:27] "GET /ajax?lat=37.75280111220671&lon=-122.44108200073241 HTTP/1.1" 200 -
+(120, 27)
+24.6.90.144 - - [21/Jun/2016 21:33:28] "GET /ajax?lat=37.75755136001271&lon=-122.43558883666992 HTTP/1.1" 200 -
+(120, 31)
+24.6.90.144 - - [21/Jun/2016 21:33:28] "GET /ajax?lat=37.75863708811579&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 32)
+24.6.90.144 - - [21/Jun/2016 21:34:02] "GET /ajax?lat=37.75945137373587&lon=-122.43370056152344 HTTP/1.1" 200 -
+(120, 29)
+24.6.90.144 - - [21/Jun/2016 21:34:03] "GET /ajax?lat=37.77057904551523&lon=-122.43661880493163 HTTP/1.1" 200 -
+(120, 23)
+24.6.90.144 - - [21/Jun/2016 21:34:03] "GET /ajax?lat=37.77288579232436&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 21)
+24.6.90.144 - - [21/Jun/2016 21:34:04] "GET /ajax?lat=37.77329285782031&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 22)
+24.6.90.144 - - [21/Jun/2016 21:34:04] "GET /ajax?lat=37.77302148107203&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 24)
+24.6.90.144 - - [21/Jun/2016 21:34:04] "GET /ajax?lat=37.77302148107203&lon=-122.43370056152344 HTTP/1.1" 200 -
+(120, 26)
+24.6.90.144 - - [21/Jun/2016 21:34:05] "GET /ajax?lat=37.77261441408201&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [21/Jun/2016 21:34:05] "GET /ajax?lat=37.772750103327695&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 22)
+24.6.90.144 - - [21/Jun/2016 21:34:06] "GET /ajax?lat=37.77302148107203&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 23)
+24.6.90.144 - - [21/Jun/2016 21:34:06] "GET /ajax?lat=37.77288579232436&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 22)
+24.6.90.144 - - [21/Jun/2016 21:34:40] "GET /ajax?lat=37.773157169570695&lon=-122.4342155456543 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:34:41] "GET /ajax?lat=37.8124963257741&lon=-122.36280441284178 HTTP/1.1" 500 -
+Similarity took 0.0345549583435 seconds
+Generating image  /images/insight/9916d48daa40cf01c32c66710a19bf86f4af0d53.png
+Generating image  /images/insight/7d239956d8c4a746e24ebbd93a55dc0be293630f.png
+Generating image  /images/insight/12c154b7c8b2adc146b8a1e3f0800388751caffe.png
+Generating image  /images/insight/159d1f1b3368aa2b0f4474b8d3842a956524dd76.png
+Generating image  /images/insight/0e4a1e2a885170217c6c5967cbd1764101c6ae19.png
+Generating image  /images/insight/9322d327cc5cedb39c31da986735ca24bbf77b52.png
+Generating image  /images/insight/c89fbd9e2847686f39e462055e3c57255274ff9e.png
+Generating image  /images/insight/8d71baa141b52a3174b11a588267de97880b3848.png
+Generating image  /images/insight/6cd629655da60fae4ea2dc7f9fac3c50566140c4.png
+Generating image  /images/insight/774679baffbebefd1b493841e7a15af35d731daf.png
+Generating image  /images/insight/01c8996645a3b0e2022b2b233f2f0f5981e7e844.png
+Generating image  /images/insight/44bfc5152257e6ed1260325ec22005356915e349.png
+Generating image  /images/insight/7a66b4a75037ebf053d42320967828a7ec6db4ba.png
+Generating image  /images/insight/d56fce29b23877fad877e625f652690d5c3d675e.png
+Generating image  /images/insight/3b3b1a25037fe8a2aa47a8178b0324480e69628e.png
+
+PATH TO MAP, lat, lon /images/insight/3b3b1a25037fe8a2aa47a8178b0324480e69628e.html 
+37.7827057816 -122.406569693
+24.6.90.144 - - [21/Jun/2016 21:34:59] "GET /output?text_review=cocktail+lounge+speakeasy&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:35:00] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:35:03] "GET /ajax?lat=37.8229380306175&lon=-122.35130310058594 HTTP/1.1" 500 -
+(120, 9)
+24.6.90.144 - - [21/Jun/2016 21:35:04] "GET /ajax?lat=37.7916084854395&lon=-122.38477706909181 HTTP/1.1" 200 -
+(120, 27)
+24.6.90.144 - - [21/Jun/2016 21:35:04] "GET /ajax?lat=37.779398571318765&lon=-122.39112854003905 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:35:05] "GET /ajax?lat=37.77234303484361&lon=-122.38803863525392 HTTP/1.1" 200 -
+(120, 12)
+24.6.90.144 - - [21/Jun/2016 21:35:05] "GET /ajax?lat=37.7709861237108&lon=-122.39713668823241 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [21/Jun/2016 21:35:06] "GET /ajax?lat=37.7688150141044&lon=-122.39336013793945 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:35:06] "GET /ajax?lat=37.76433689922218&lon=-122.3964500427246 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:35:07] "GET /ajax?lat=37.76487971546801&lon=-122.39627838134766 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:35:07] "GET /ajax?lat=37.76420119453823&lon=-122.3964500427246 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:35:08] "GET /ajax?lat=37.76447260365713&lon=-122.39627838134766 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:35:08] "GET /ajax?lat=37.76447260365713&lon=-122.3964500427246 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:35:08] "GET /ajax?lat=37.76420119453823&lon=-122.39627838134766 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:35:09] "GET /ajax?lat=37.76433689922218&lon=-122.3964500427246 HTTP/1.1" 200 -
+(120, 114)
+24.6.90.144 - - [21/Jun/2016 21:35:09] "GET /ajax?lat=37.78875968591083&lon=-122.40846633911133 HTTP/1.1" 200 -
+(120, 60)
+24.6.90.144 - - [21/Jun/2016 21:35:10] "GET /ajax?lat=37.79784832917947&lon=-122.40623474121092 HTTP/1.1" 200 -
+(120, 123)
+24.6.90.144 - - [21/Jun/2016 21:35:11] "GET /ajax?lat=37.78957363984067&lon=-122.40657806396484 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:35:14] "GET /ajax?lat=37.82049724488286&lon=-122.44382858276366 HTTP/1.1" 500 -
+(120, 37)
+24.6.90.144 - - [21/Jun/2016 21:35:14] "GET /ajax?lat=37.77831314799669&lon=-122.39679336547852 HTTP/1.1" 200 -
+(120, 82)
+24.6.90.144 - - [21/Jun/2016 21:35:14] "GET /ajax?lat=37.79676317682161&lon=-122.40262985229492 HTTP/1.1" 200 -
+(120, 105)
+24.6.90.144 - - [21/Jun/2016 21:35:15] "GET /ajax?lat=37.788624026050876&lon=-122.40966796874999 HTTP/1.1" 200 -
+(120, 118)
+24.6.90.144 - - [21/Jun/2016 21:35:16] "GET /ajax?lat=37.78808138412046&lon=-122.40795135498047 HTTP/1.1" 200 -
+(120, 91)
+24.6.90.144 - - [21/Jun/2016 21:35:16] "GET /ajax?lat=37.79554236136536&lon=-122.402286529541 HTTP/1.1" 200 -
+(120, 129)
+24.6.90.144 - - [21/Jun/2016 21:35:16] "GET /ajax?lat=37.78753873820529&lon=-122.40657806396484 HTTP/1.1" 200 -
+(120, 102)
+24.6.90.144 - - [21/Jun/2016 21:35:16] "GET /ajax?lat=37.785096782276035&lon=-122.41069793701172 HTTP/1.1" 200 -
+(120, 125)
+24.6.90.144 - - [21/Jun/2016 21:35:17] "GET /ajax?lat=37.78957363984067&lon=-122.40640640258788 HTTP/1.1" 200 -
+(120, 88)
+24.6.90.144 - - [21/Jun/2016 21:35:17] "GET /ajax?lat=37.795406713958236&lon=-122.39919662475587 HTTP/1.1" 200 -
+(120, 16)
+24.6.90.144 - - [21/Jun/2016 21:35:17] "GET /ajax?lat=37.76854362092148&lon=-122.44571685791014 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:35:18] "GET /ajax?lat=37.766508140301774&lon=-122.45000839233398 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:35:18] "GET /ajax?lat=37.766643840752764&lon=-122.45000839233398 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:35:19] "GET /ajax?lat=37.76447260365713&lon=-122.45464324951172 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:35:19] "GET /ajax?lat=37.766643840752764&lon=-122.45000839233398 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:35:19] "GET /ajax?lat=37.76637243960176&lon=-122.45018005371094 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:35:20] "GET /ajax?lat=37.76637243960176&lon=-122.45018005371094 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:36:45] "GET /ajax?lat=37.766915240907736&lon=-122.45000839233398 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:36:45] "GET /ajax?lat=37.815615431270395&lon=-122.43541717529298 HTTP/1.1" 500 -
+Similarity took 0.0264110565186 seconds
+Generating image  /images/insight/6a341fbac33627822e55efd3fe8613636c3aac8d.png
+Generating image  /images/insight/02ef18a93c6b829f0c78790ce5709a3887fcd139.png
+Generating image  /images/insight/8cec7a7d2177f9711e4a2969c87c29305199613d.png
+Generating image  /images/insight/ebbe4c0b2c3f4c246c07a75fb014c82dfd6c4f30.png
+Generating image  /images/insight/1daad68d30f5ad2288c7ac865be408e0efa3b759.png
+Generating image  /images/insight/fb9b2737b3c70afa80405f23318692485f7fdca2.png
+Generating image  /images/insight/79d2d85129fb0d434570ceb3ef63713e9e494b63.png
+Generating image  /images/insight/02f893a920b2e32b04605c8d21abdf3678eb8bf3.png
+24.6.90.144 - - [21/Jun/2016 21:36:56] "GET /ajax?lat=37.8191412179311&lon=-122.40091323852539 HTTP/1.1" 500 -
+Generating image  /images/insight/c2c6038eb87175e4fe8d3eca4628c45cd6033d18.png
+Generating image  /images/insight/211506a32d1b90217e5c92615369275fb0543055.png
+Generating image  /images/insight/95fd00ea8439f309ff151f5b52f3137dd4ef3e84.png
+Generating image  /images/insight/ecccb07637e3ada3b1bf25a03a34dc167dcc9782.png
+Generating image  /images/insight/1d8beccd8bc502ae965c9546846c1562a5070ba2.png
+Generating image  /images/insight/66d7ad17c952287aa2bb4ad9d9b91eee07efdda9.png
+Generating image  /images/insight/3891f8c4202d471686ad822b5ac733a52a89ada2.png
+
+PATH TO MAP, lat, lon /images/insight/3891f8c4202d471686ad822b5ac733a52a89ada2.html 
+37.7715639996 -122.427737406
+24.6.90.144 - - [21/Jun/2016 21:36:56] "GET /output?text_review=sex+bar%0D%0A&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:36:57] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+(120, 28)
+24.6.90.144 - - [21/Jun/2016 21:36:58] "GET /ajax?lat=37.798662182986945&lon=-122.42511749267578 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [21/Jun/2016 21:36:58] "GET /ajax?lat=37.759994225836245&lon=-122.46082305908202 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:36:59] "GET /ajax?lat=37.75646561597495&lon=-122.45206832885742 HTTP/1.1" 500 -
+(120, 35)
+24.6.90.144 - - [21/Jun/2016 21:36:59] "GET /ajax?lat=37.76487971546801&lon=-122.4378204345703 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [21/Jun/2016 21:37:00] "GET /ajax?lat=37.7627084265813&lon=-122.4517250061035 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:37:00] "GET /ajax?lat=37.76582963431182&lon=-122.45275497436523 HTTP/1.1" 200 -
+(120, 9)
+24.6.90.144 - - [21/Jun/2016 21:37:01] "GET /ajax?lat=37.76284413400416&lon=-122.4517250061035 HTTP/1.1" 200 -
+(120, 9)
+24.6.90.144 - - [21/Jun/2016 21:37:01] "GET /ajax?lat=37.76284413400416&lon=-122.45155334472656 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [21/Jun/2016 21:37:02] "GET /ajax?lat=37.7627084265813&lon=-122.45189666748047 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [21/Jun/2016 21:37:02] "GET /ajax?lat=37.7627084265813&lon=-122.45189666748047 HTTP/1.1" 200 -
+(120, 9)
+24.6.90.144 - - [21/Jun/2016 21:37:03] "GET /ajax?lat=37.76284413400416&lon=-122.4517250061035 HTTP/1.1" 200 -
+(120, 6)
+24.6.90.144 - - [21/Jun/2016 21:37:03] "GET /ajax?lat=37.762165594399924&lon=-122.45241165161131 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:37:04] "GET /ajax?lat=37.75375118616727&lon=-122.51747131347655 HTTP/1.1" 500 -
+(120, 5)
+24.6.90.144 - - [21/Jun/2016 21:37:04] "GET /ajax?lat=37.76392978442336&lon=-122.47610092163085 HTTP/1.1" 200 -
+(120, 18)
+24.6.90.144 - - [21/Jun/2016 21:37:05] "GET /ajax?lat=37.77017196507861&lon=-122.44468688964844 HTTP/1.1" 200 -
+(120, 18)
+24.6.90.144 - - [21/Jun/2016 21:37:06] "GET /ajax?lat=37.77003627110171&lon=-122.44468688964844 HTTP/1.1" 200 -
+(120, 17)
+24.6.90.144 - - [21/Jun/2016 21:37:06] "GET /ajax?lat=37.770443352285376&lon=-122.44468688964844 HTTP/1.1" 200 -
+(120, 18)
+24.6.90.144 - - [21/Jun/2016 21:37:06] "GET /ajax?lat=37.77017196507861&lon=-122.44468688964844 HTTP/1.1" 200 -
+(120, 27)
+24.6.90.144 - - [21/Jun/2016 21:37:07] "GET /ajax?lat=37.77559951996455&lon=-122.431640625 HTTP/1.1" 200 -
+(120, 40)
+24.6.90.144 - - [21/Jun/2016 21:37:07] "GET /ajax?lat=37.78808138412046&lon=-122.4264907836914 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [21/Jun/2016 21:37:07] "GET /ajax?lat=37.79893346559687&lon=-122.42151260375975 HTTP/1.1" 200 -
+(120, 48)
+24.6.90.144 - - [21/Jun/2016 21:37:08] "GET /ajax?lat=37.79174413982033&lon=-122.42185592651367 HTTP/1.1" 200 -
+(120, 62)
+24.6.90.144 - - [21/Jun/2016 21:37:08] "GET /ajax?lat=37.78753873820529&lon=-122.41893768310548 HTTP/1.1" 200 -
+(120, 46)
+24.6.90.144 - - [21/Jun/2016 21:37:08] "GET /ajax?lat=37.792422407988575&lon=-122.42202758789061 HTTP/1.1" 200 -
+(120, 30)
+24.6.90.144 - - [21/Jun/2016 21:37:09] "GET /ajax?lat=37.79771268600646&lon=-122.42185592651367 HTTP/1.1" 200 -
+(120, 45)
+24.6.90.144 - - [21/Jun/2016 21:37:09] "GET /ajax?lat=37.793643275000754&lon=-122.42168426513672 HTTP/1.1" 200 -
+(120, 46)
+24.6.90.144 - - [21/Jun/2016 21:37:09] "GET /ajax?lat=37.79106586542567&lon=-122.42151260375975 HTTP/1.1" 200 -
+(120, 58)
+24.6.90.144 - - [21/Jun/2016 21:37:09] "GET /ajax?lat=37.78848836594184&lon=-122.41979598999023 HTTP/1.1" 200 -
+(120, 63)
+24.6.90.144 - - [21/Jun/2016 21:37:10] "GET /ajax?lat=37.78848836594184&lon=-122.4196243286133 HTTP/1.1" 200 -
+(120, 62)
+24.6.90.144 - - [21/Jun/2016 21:37:10] "GET /ajax?lat=37.78875968591083&lon=-122.4196243286133 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [21/Jun/2016 21:37:11] "GET /ajax?lat=37.81019081527746&lon=-122.43490219116211 HTTP/1.1" 200 -
+(120, 5)
+24.6.90.144 - - [21/Jun/2016 21:37:11] "GET /ajax?lat=37.79527106630204&lon=-122.44588851928712 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:37:12] "GET /ajax?lat=37.793643275000754&lon=-122.44606018066406 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:37:12] "GET /ajax?lat=37.793643275000754&lon=-122.44606018066406 HTTP/1.1" 200 -
+(120, 48)
+24.6.90.144 - - [21/Jun/2016 21:37:12] "GET /ajax?lat=37.80096805341439&lon=-122.40159988403319 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:37:12] "GET /ajax?lat=37.80530832011811&lon=-122.38821029663086 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:37:14] "GET /ajax?lat=37.816564698091184&lon=-122.38100051879883 HTTP/1.1" 500 -
+(120, 36)
+24.6.90.144 - - [21/Jun/2016 21:37:14] "GET /ajax?lat=37.794457175134525&lon=-122.4258041381836 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:37:14] "GET /ajax?lat=37.80774960805068&lon=-122.468204498291 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:37:15] "GET /ajax?lat=37.81737834565083&lon=-122.47266769409178 HTTP/1.1" 500 -
+Similarity took 0.0301699638367 seconds
+Generating image  /images/insight/6a341fbac33627822e55efd3fe8613636c3aac8d.png
+Generating image  /images/insight/02ef18a93c6b829f0c78790ce5709a3887fcd139.png
+Generating image  /images/insight/96bccfd0be984366785b5bb2b82e2dcc58afdcaf.png
+Generating image  /images/insight/fb9b2737b3c70afa80405f23318692485f7fdca2.png
+Generating image  /images/insight/624c6c0a58f50b8b4fa1c007a563f8ce473fe318.png
+Generating image  /images/insight/8cec7a7d2177f9711e4a2969c87c29305199613d.png
+Generating image  /images/insight/79d2d85129fb0d434570ceb3ef63713e9e494b63.png
+Generating image  /images/insight/2845c7ac19b7da05e4ec0171e5f07f5c226fde65.png
+Generating image  /images/insight/02f893a920b2e32b04605c8d21abdf3678eb8bf3.png
+Generating image  /images/insight/1d8beccd8bc502ae965c9546846c1562a5070ba2.png
+Generating image  /images/insight/c663ee4ca1b2ff04c99247d67512bd5820bd41f8.png
+Generating image  /images/insight/b0dcb960abf89f2c61fe1e30c80547770fbefb69.png
+Generating image  /images/insight/314ef64d5af4af9600349d72012395964b8acad8.png
+Generating image  /images/insight/916424f452ce7e402246ce5032d29b1a56bdd655.png
+Generating image  /images/insight/5821dada650e7fa092ea0af59e0814ad5b38791d.png
+
+PATH TO MAP, lat, lon /images/insight/5821dada650e7fa092ea0af59e0814ad5b38791d.html 
+37.7715456448 -122.441085423
+24.6.90.144 - - [21/Jun/2016 21:37:23] "GET /output?text_review=sex+erotica+bar%0D%0A+&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:37:24] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:37:25] "GET /ajax?lat=37.801103690609615&lon=-122.44537353515625 HTTP/1.1" 200 -
+Similarity took 0.0327050685883 seconds
+Generating image  /images/insight/7ad16ab2de58681fd61013685fb369c2b2002e80.png
+Generating image  /images/insight/96bccfd0be984366785b5bb2b82e2dcc58afdcaf.png
+Generating image  /images/insight/6a341fbac33627822e55efd3fe8613636c3aac8d.png
+Generating image  /images/insight/8cec7a7d2177f9711e4a2969c87c29305199613d.png
+Generating image  /images/insight/02ef18a93c6b829f0c78790ce5709a3887fcd139.png
+24.6.90.144 - - [21/Jun/2016 21:37:33] "GET /ajax?lat=37.81222509298159&lon=-122.37258911132812 HTTP/1.1" 500 -
+Generating image  /images/insight/211506a32d1b90217e5c92615369275fb0543055.png
+Generating image  /images/insight/a8e972d1728cb36e2bf0f348844edc281bdc5a69.png
+Generating image  /images/insight/1daad68d30f5ad2288c7ac865be408e0efa3b759.png
+Generating image  /images/insight/e66ff9c95ab8002cdb936e86231a1f515a48670d.png
+Generating image  /images/insight/624c6c0a58f50b8b4fa1c007a563f8ce473fe318.png
+Generating image  /images/insight/6cb81f94cc4c086cb025d93a8bde6d7e096fbe15.png
+Generating image  /images/insight/338c50ef48506c9e14da9117f355fdd32a6af806.png
+Generating image  /images/insight/1d8beccd8bc502ae965c9546846c1562a5070ba2.png
+Generating image  /images/insight/b0dcb960abf89f2c61fe1e30c80547770fbefb69.png
+Generating image  /images/insight/5dd1704ce39a71e005c80f0687bca3c775dc1605.png
+
+PATH TO MAP, lat, lon /images/insight/5dd1704ce39a71e005c80f0687bca3c775dc1605.html 
+37.7703306139 -122.426058551
+24.6.90.144 - - [21/Jun/2016 21:37:34] "GET /output?text_review=sex+erotica+bdsm%0D%0A%0D%0A++&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:37:34] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:37:42] "GET /ajax?lat=37.80476580072879&lon=-122.34512329101561 HTTP/1.1" 500 -
+(120, 45)
+24.6.90.144 - - [21/Jun/2016 21:37:42] "GET /ajax?lat=37.784282779035216&lon=-122.39250183105467 HTTP/1.1" 200 -
+(120, 119)
+24.6.90.144 - - [21/Jun/2016 21:37:43] "GET /ajax?lat=37.78618210598413&lon=-122.40348815917969 HTTP/1.1" 200 -
+(120, 119)
+24.6.90.144 - - [21/Jun/2016 21:37:44] "GET /ajax?lat=37.786860425207784&lon=-122.40348815917969 HTTP/1.1" 200 -
+(120, 126)
+24.6.90.144 - - [21/Jun/2016 21:37:44] "GET /ajax?lat=37.78930232286027&lon=-122.4031448364258 HTTP/1.1" 200 -
+(120, 102)
+24.6.90.144 - - [21/Jun/2016 21:37:45] "GET /ajax?lat=37.78306175736384&lon=-122.40640640258788 HTTP/1.1" 200 -
+(120, 86)
+24.6.90.144 - - [21/Jun/2016 21:37:45] "GET /ajax?lat=37.796084948503236&lon=-122.3997116088867 HTTP/1.1" 200 -
+(120, 90)
+24.6.90.144 - - [21/Jun/2016 21:37:45] "GET /ajax?lat=37.78306175736384&lon=-122.4045181274414 HTTP/1.1" 200 -
+(120, 54)
+24.6.90.144 - - [21/Jun/2016 21:37:46] "GET /ajax?lat=37.77994127700315&lon=-122.40657806396484 HTTP/1.1" 200 -
+(120, 100)
+24.6.90.144 - - [21/Jun/2016 21:37:46] "GET /ajax?lat=37.78753873820529&lon=-122.40091323852539 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:37:46] "GET /ajax?lat=37.76501541890696&lon=-122.41224288940428 HTTP/1.1" 500 -
+(120, 28)
+24.6.90.144 - - [21/Jun/2016 21:37:47] "GET /ajax?lat=37.77288579232436&lon=-122.40692138671874 HTTP/1.1" 200 -
+(120, 74)
+24.6.90.144 - - [21/Jun/2016 21:37:47] "GET /ajax?lat=37.76297984117803&lon=-122.41910934448242 HTTP/1.1" 200 -
+(120, 57)
+24.6.90.144 - - [21/Jun/2016 21:37:47] "GET /ajax?lat=37.767050940611725&lon=-122.41584777832031 HTTP/1.1" 200 -
+(120, 70)
+24.6.90.144 - - [21/Jun/2016 21:37:48] "GET /ajax?lat=37.76392978442336&lon=-122.42340087890624 HTTP/1.1" 200 -
+(120, 66)
+24.6.90.144 - - [21/Jun/2016 21:37:48] "GET /ajax?lat=37.766915240907736&lon=-122.4196243286133 HTTP/1.1" 200 -
+(120, 36)
+24.6.90.144 - - [21/Jun/2016 21:37:48] "GET /ajax?lat=37.76908640629127&lon=-122.41361618041991 HTTP/1.1" 200 -
+(120, 37)
+24.6.90.144 - - [21/Jun/2016 21:37:49] "GET /ajax?lat=37.771393199665255&lon=-122.41052627563477 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:37:50] "GET /ajax?lat=37.757144207865885&lon=-122.39112854003905 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [21/Jun/2016 21:37:50] "GET /ajax?lat=37.75727992549716&lon=-122.39112854003905 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:37:51] "GET /ajax?lat=37.75741564287944&lon=-122.39112854003905 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:37:51] "GET /ajax?lat=37.756872771856465&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [21/Jun/2016 21:37:51] "GET /ajax?lat=37.75727992549716&lon=-122.39112854003905 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:37:52] "GET /ajax?lat=37.75755136001271&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:37:52] "GET /ajax?lat=37.757008489985665&lon=-122.39112854003905 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:37:53] "GET /ajax?lat=37.756872771856465&lon=-122.39112854003905 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:37:53] "GET /ajax?lat=37.757008489985665&lon=-122.39130020141603 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:37:53] "GET /ajax?lat=37.75741564287944&lon=-122.39112854003905 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [21/Jun/2016 21:38:01] "GET /ajax?lat=37.757144207865885&lon=-122.39164352416992 HTTP/1.1" 200 -
+(120, 37)
+24.6.90.144 - - [21/Jun/2016 21:38:01] "GET /ajax?lat=37.77017196507861&lon=-122.41395950317383 HTTP/1.1" 200 -
+(120, 44)
+24.6.90.144 - - [21/Jun/2016 21:38:02] "GET /ajax?lat=37.77152889115204&lon=-122.4129295349121 HTTP/1.1" 200 -
+(120, 42)
+24.6.90.144 - - [21/Jun/2016 21:38:03] "GET /ajax?lat=37.771664582389825&lon=-122.41241455078125 HTTP/1.1" 200 -
+(120, 40)
+24.6.90.144 - - [21/Jun/2016 21:38:05] "GET /ajax?lat=37.77207165460913&lon=-122.41224288940428 HTTP/1.1" 200 -
+(120, 124)
+24.6.90.144 - - [21/Jun/2016 21:38:05] "GET /ajax?lat=37.787674400057654&lon=-122.40434646606444 HTTP/1.1" 200 -
+(120, 122)
+24.6.90.144 - - [21/Jun/2016 21:38:05] "GET /ajax?lat=37.78821704497665&lon=-122.4041748046875 HTTP/1.1" 200 -
+(120, 124)
+24.6.90.144 - - [21/Jun/2016 21:38:06] "GET /ajax?lat=37.78848836594184&lon=-122.40400314331055 HTTP/1.1" 200 -
+(120, 125)
+24.6.90.144 - - [21/Jun/2016 21:38:07] "GET /ajax?lat=37.788624026050876&lon=-122.40383148193361 HTTP/1.1" 200 -
+(120, 128)
+24.6.90.144 - - [21/Jun/2016 21:38:07] "GET /ajax?lat=37.78875968591083&lon=-122.40383148193361 HTTP/1.1" 200 -
+(120, 119)
+24.6.90.144 - - [21/Jun/2016 21:38:07] "GET /ajax?lat=37.789031004883654&lon=-122.40297317504881 HTTP/1.1" 200 -
+(120, 111)
+24.6.90.144 - - [21/Jun/2016 21:38:08] "GET /ajax?lat=37.79201544783479&lon=-122.39953994750977 HTTP/1.1" 200 -
+(120, 101)
+24.6.90.144 - - [21/Jun/2016 21:38:08] "GET /ajax?lat=37.79432152573488&lon=-122.40177154541014 HTTP/1.1" 200 -
+(120, 100)
+24.6.90.144 - - [21/Jun/2016 21:38:09] "GET /ajax?lat=37.79432152573488&lon=-122.40194320678711 HTTP/1.1" 200 -
+(120, 19)
+24.6.90.144 - - [21/Jun/2016 21:38:09] "GET /ajax?lat=37.790116270812874&lon=-122.43009567260741 HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [21/Jun/2016 21:38:09] "GET /ajax?lat=37.79065889780023&lon=-122.41996765136719 HTTP/1.1" 200 -
+(120, 46)
+24.6.90.144 - - [21/Jun/2016 21:38:10] "GET /ajax?lat=37.79215110146844&lon=-122.42185592651367 HTTP/1.1" 200 -
+(120, 47)
+24.6.90.144 - - [21/Jun/2016 21:38:11] "GET /ajax?lat=37.79269371351246&lon=-122.42237091064453 HTTP/1.1" 200 -
+(120, 20)
+24.6.90.144 - - [21/Jun/2016 21:38:11] "GET /ajax?lat=37.78957363984067&lon=-122.43541717529298 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [21/Jun/2016 21:38:11] "GET /ajax?lat=37.782519074590496&lon=-122.44485855102539 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [21/Jun/2016 21:38:11] "GET /ajax?lat=37.78577511146142&lon=-122.4429702758789 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [21/Jun/2016 21:38:12] "GET /ajax?lat=37.7831974274346&lon=-122.45927810668945 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [21/Jun/2016 21:38:12] "GET /ajax?lat=37.78211205989562&lon=-122.46150970458983 HTTP/1.1" 200 -
+(120, 13)
+24.6.90.144 - - [21/Jun/2016 21:38:13] "GET /ajax?lat=37.751579570617366&lon=-122.43009567260741 HTTP/1.1" 200 -
+(120, 39)
+24.6.90.144 - - [21/Jun/2016 21:38:13] "GET /ajax?lat=37.760944207425936&lon=-122.43198394775389 HTTP/1.1" 200 -
+(120, 35)
+24.6.90.144 - - [21/Jun/2016 21:38:34] "GET /ajax?lat=37.7624370109886&lon=-122.43541717529298 HTTP/1.1" 200 -
+(120, 9)
+24.6.90.144 - - [21/Jun/2016 21:38:34] "GET /ajax?lat=37.766508140301774&lon=-122.46065139770508 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:38:35] "GET /ajax?lat=37.75782279353237&lon=-122.45773315429689 HTTP/1.1" 500 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:38:36] "GET /ajax?lat=37.721306044876805&lon=-122.44434356689452 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:38:36] "GET /ajax?lat=37.70922032983514&lon=-122.4481201171875 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:36] "GET /ajax?lat=37.70976355034888&lon=-122.4491500854492 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:37] "GET /ajax?lat=37.70922032983514&lon=-122.44829177856444 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:38] "GET /ajax?lat=37.70894871808501&lon=-122.4481201171875 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:38] "GET /ajax?lat=37.70935613533687&lon=-122.4481201171875 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:39] "GET /ajax?lat=37.70840549159836&lon=-122.4481201171875 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:40] "GET /ajax?lat=37.710170963121044&lon=-122.44829177856444 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:40] "GET /ajax?lat=37.70989935485515&lon=-122.4481201171875 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:41] "GET /ajax?lat=37.678386041261184&lon=-122.43730545043944 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:41] "GET /ajax?lat=37.67118499989647&lon=-122.43558883666992 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:41] "GET /ajax?lat=37.67322310137697&lon=-122.43576049804688 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:42] "GET /ajax?lat=37.67132087507&lon=-122.43558883666992 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:42] "GET /ajax?lat=37.67132087507&lon=-122.43558883666992 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:42] "GET /ajax?lat=37.674174196244515&lon=-122.43198394775389 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:43] "GET /ajax?lat=37.683141062785495&lon=-122.42271423339842 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:43] "GET /ajax?lat=37.663439703773534&lon=-122.43730545043944 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:44] "GET /ajax?lat=37.663575593127305&lon=-122.43730545043944 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:44] "GET /ajax?lat=37.663575593127305&lon=-122.4374771118164 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:44] "GET /ajax?lat=37.663983259695975&lon=-122.43730545043944 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:45] "GET /ajax?lat=37.663439703773534&lon=-122.4374771118164 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:45] "GET /ajax?lat=37.65528588731535&lon=-122.43404388427733 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:45] "GET /ajax?lat=37.663439703773534&lon=-122.43730545043944 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:46] "GET /ajax?lat=37.670369743630786&lon=-122.4367904663086 HTTP/1.1" 500 -
+(120, 3)
+24.6.90.144 - - [21/Jun/2016 21:38:46] "GET /ajax?lat=37.70922032983514&lon=-122.4403953552246 HTTP/1.1" 200 -
+(120, 3)
+24.6.90.144 - - [21/Jun/2016 21:38:47] "GET /ajax?lat=37.70922032983514&lon=-122.44108200073241 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:38:47] "GET /ajax?lat=37.72592253917786&lon=-122.45206832885742 HTTP/1.1" 200 -
+(120, 2)
+24.6.90.144 - - [21/Jun/2016 21:38:47] "GET /ajax?lat=37.72117026127688&lon=-122.45103836059569 HTTP/1.1" 200 -
+(120, 3)
+24.6.90.144 - - [21/Jun/2016 21:38:48] "GET /ajax?lat=37.72361432799384&lon=-122.45241165161131 HTTP/1.1" 200 -
+(120, 3)
+24.6.90.144 - - [21/Jun/2016 21:38:48] "GET /ajax?lat=37.72375010711357&lon=-122.45241165161131 HTTP/1.1" 200 -
+24.6.90.144 - - [21/Jun/2016 21:38:48] "GET /ajax?lat=37.75565129748959&lon=-122.45241165161131 HTTP/1.1" 500 -
+24.6.90.144 - - [21/Jun/2016 21:38:49] "GET /ajax?lat=37.75877280300828&lon=-122.4542999267578 HTTP/1.1" 500 -
+(120, 1)
+24.6.90.144 - - [21/Jun/2016 21:38:49] "GET /ajax?lat=37.75958708713444&lon=-122.4542999267578 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [21/Jun/2016 21:38:50] "GET /ajax?lat=37.75945137373587&lon=-122.4542999267578 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [21/Jun/2016 21:38:50] "GET /ajax?lat=37.759994225836245&lon=-122.4542999267578 HTTP/1.1" 200 -
+(120, 22)
+24.6.90.144 - - [21/Jun/2016 21:38:51] "GET /ajax?lat=37.77437835485281&lon=-122.39044189453124 HTTP/1.1" 200 -
+[I 21:48:00.870 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 060ad8b9-8a33-45ac-a989-91f21c575f12 restarted
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 22:32:22.227 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:34:22.199 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:34:31.834 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:34:36.707 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:34:38.131 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:36:22.281 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:47:18.520 NotebookApp] Kernel started: b75ceea8-7923-435a-a316-78b5ad34398a
+/home/carlson/anaconda/envs/insight/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 22:48:22.487 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:49:32.278 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:50:22.319 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:52:22.329 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:52:38.471 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:54:22.330 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:56:22.588 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 22:58:22.474 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 23:00:22.497 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 23:02:22.651 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 23:16:22.616 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 23:16:23.522 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 23:18:22.700 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 00:22:22.582 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 00:24:22.885 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 00:34:06.962 NotebookApp] 302 GET / (98.210.100.33) 0.64ms
+[I 00:36:17.905 NotebookApp] Saving file at /notebooks/WordClouds.ipynb
+[I 00:38:17.888 NotebookApp] Saving file at /notebooks/WordClouds.ipynb

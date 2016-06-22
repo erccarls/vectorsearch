@@ -2319,10 +2319,10 @@ th {
   border-bottom-width: 2px;
 }
 .table-striped > tbody > tr:nth-of-type(odd) {
-  background-color: #f9f9f9;
+  background-color: rgb(36, 36, 38);  
 }
 .table-hover > tbody > tr:hover {
-  background-color: #f5f5f5;
+  background-color: rgb(36, 36, 38);
 }
 table col[class*="col-"] {
   position: static;
@@ -2354,7 +2354,7 @@ table th[class*="col-"] {
 .table-hover > tbody > tr.active:hover > td,
 .table-hover > tbody > tr:hover > .active,
 .table-hover > tbody > tr.active:hover > th {
-  background-color: #e8e8e8;
+  background-color: rgb(36, 36, 38);
 }
 .table > thead > tr > td.success,
 .table > tbody > tr > td.success,
@@ -2396,7 +2396,7 @@ table th[class*="col-"] {
 .table-hover > tbody > tr.info:hover > td,
 .table-hover > tbody > tr:hover > .info,
 .table-hover > tbody > tr.info:hover > th {
-  background-color: #c4e3f3;
+  background-color: rgb(36, 36, 38);
 }
 .table > thead > tr > td.warning,
 .table > tbody > tr > td.warning,
