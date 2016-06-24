@@ -38,7 +38,7 @@
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  margin: 0 0 -30px 0;
+  margin: 0 0 0 0;
   padding-top: 0px;
 }
 #left_col_map {
@@ -46,16 +46,16 @@
    width:30%;
    /*height:100%;*/
    /*overflow-y: scroll;*/
-   height: 100vmax;
-   overflow: auto;  //code added
+   height: calc(100vh - 65px);
+   overflow-y: auto;  //code added
 }
 #right_col_map {
-   float:right;
-   width:70%;
-   min-height: 100%;
-   height: auto !important;
-    margin: 0 0 -30px 0;
-    padding-top: 5px;
+  float:right;
+  width:70%;
+  min-height: 100%;
+  height: auto !important;
+  margin: 0 0 -30px 0;
+  padding-top: 5px;
  }
 iframe {
     display: block;
@@ -171,7 +171,7 @@ iframe {
       <form  action="/output" method="GET">
       <div class="column-center">
             
-                    <textarea align="right" rows="2" cols="50" id="text_review" name='text_review'>{{review_text}} </textarea>
+                    <textarea align="right" rows="2" cols="50" id="text_review" name='text_review' style="font-size: 18px;">{{review_text}} </textarea>
                     <select class="selectpicker" data-live-search="true" id="sel_city" name="sel_city" style="width:auto;">
                       <option selected>San Francisco, CA</option>
                         {% for city_state in city_state_list %}
@@ -456,6 +456,8 @@ eventer(messageEvent,function(e) {
 },false);
 
  </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src='../static/js/complete.ly.1.0.1.min.js'></script>
 
 </body>
 

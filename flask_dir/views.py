@@ -35,8 +35,8 @@ from flask import make_response, request, current_app
 from functools import update_wrapper
 
 from multiprocessing import pool 
-
-
+from nltk.corpus import stopwords
+stops = set(stopwords.words("english") + stopwords.words("spanish"))
 
 def crossdomain(origin=None, methods=None, headers=None,
                 max_age=21600, attach_to_all=True,
@@ -140,6 +140,8 @@ def cesareans_output():
   top_n_topics = rev_topic.argsort()[-top_n:][::-1]
   # print rev_topic # Print the topic vector. 
 
+  with open("query_history.txt", "a") as myfile:
+    myfile.write("\n!@# " + review_text)
 
   bus_ids_in_city_state = get_bus_ids_city_state(city.strip(), state.strip())
 
@@ -388,8 +390,8 @@ def gen_word_cloud(words_path):
 
     # take relative word frequencies into account, lower max_font_size
     wordcloud = WordCloud(width=250, height=125, prefer_horizontal=1, max_font_size=60, max_words=20, 
-                          min_font_size=14, relative_scaling=1, background_color=None, mode="RGBA",
-                          color_func=wc.get_single_color_func("#242426"), stopwords=['bar', "the", "place"]).generate(text)
+                          min_font_size=20, relative_scaling=1, background_color=None, mode="RGBA",
+                          color_func=wc.get_single_color_func("#242426"), stopwords=['bar', "the", "place"]+list(stops)).generate(text)
     plt.figure(figsize=(2.5,1.25), dpi=100)
     plt.imshow(wordcloud)
     plt.axis("off")
