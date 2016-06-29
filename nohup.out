@@ -408,3 +408,1739 @@ PATH TO MAP, lat, lon /images/insight/7b420fb4dad55dc531c4b5b460c5ab4eaa8ec1b4.h
 24.6.90.144 - - [24/Jun/2016 16:06:21] "GET /ajax?lat=37.808698976006795&lon=-122.43558883666992 HTTP/1.1" 200 -
 24.6.90.144 - - [24/Jun/2016 16:06:21] "GET /ajax?lat=37.80924146650164&lon=-122.44468688964844 HTTP/1.1" 200 -
 24.6.90.144 - - [24/Jun/2016 16:06:22] "GET /ajax?lat=37.809648331757295&lon=-122.44468688964844 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 16:08:28] "GET / HTTP/1.1" 200 -
+Similarity took 0.0276830196381 seconds
+
+PATH TO MAP, lat, lon /images/insight/856b46b7ada295d3908613345d5cc00ee0c5c31d.html 
+37.7867995161 -122.413347341
+24.6.90.144 - - [24/Jun/2016 16:08:34] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [24/Jun/2016 16:08:34] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 16:08:37] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:09:29] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:09:29] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:09:29] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:09:29] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:09:29] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:09:29] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:09:30] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:09:30] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:09:30] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:09:30] "GET /static/css/bootstrap.css.map HTTP/1.1" 404 -
+(120, 96)
+24.6.90.144 - - [24/Jun/2016 16:10:15] "GET /ajax?lat=37.79432152573488&lon=-122.39919662475587 HTTP/1.1" 200 -
+(120, 126)
+24.6.90.144 - - [24/Jun/2016 16:10:15] "GET /ajax?lat=37.78808138412046&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 19)
+24.6.90.144 - - [24/Jun/2016 16:10:16] "GET /ajax?lat=37.782519074590496&lon=-122.4290657043457 HTTP/1.1" 200 -
+(120, 44)
+24.6.90.144 - - [24/Jun/2016 16:10:16] "GET /ajax?lat=37.792829365900836&lon=-122.42443084716797 HTTP/1.1" 200 -
+(120, 50)
+24.6.90.144 - - [24/Jun/2016 16:10:16] "GET /ajax?lat=37.7971701108238&lon=-122.41207122802734 HTTP/1.1" 200 -
+(120, 24)
+24.6.90.144 - - [24/Jun/2016 16:10:17] "GET /ajax?lat=37.77329285782031&lon=-122.40589141845703 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [24/Jun/2016 16:10:17] "GET /ajax?lat=37.77017196507861&lon=-122.40348815917969 HTTP/1.1" 200 -
+(120, 32)
+24.6.90.144 - - [24/Jun/2016 16:10:17] "GET /ajax?lat=37.796627531656064&lon=-122.42494583129883 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 16:10:21] "GET /ajax?lat=37.79947602782785&lon=-122.36692428588866 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 16:11:50] "GET /ajax?lat=37.8370387676869&lon=-122.37327575683594 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 16:11:57] "GET /ajax?lat=37.77017196507861&lon=-122.37499237060547 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 16:11:57] "GET /ajax?lat=37.69278602729969&lon=-122.34272003173828 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 16:25:22] "GET / HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 16:25:22] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+24.6.90.144 - - [24/Jun/2016 16:25:22] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+24.6.90.144 - - [24/Jun/2016 16:25:22] "GET /static/css/stylish-portfolio.css HTTP/1.1" 304 -
+24.6.90.144 - - [24/Jun/2016 16:25:22] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+24.6.90.144 - - [24/Jun/2016 16:25:23] "GET /static/css/bootstrap.min.css.map HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:25:23] "GET /static/img/bg.jpg HTTP/1.1" 304 -
+24.6.90.144 - - [24/Jun/2016 16:25:25] "GET /slides HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 16:25:28] "GET /slides.html HTTP/1.1" 404 -
+24.6.90.144 - - [24/Jun/2016 18:08:42] "GET / HTTP/1.1" 200 -
+Similarity took 0.0270071029663 seconds
+
+PATH TO MAP, lat, lon /images/insight/36f4b2cea0e7359f9b5111e33d6b4e3125ff9fd1.html 
+37.7858124384 -122.419142216
+24.6.90.144 - - [24/Jun/2016 18:08:53] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [24/Jun/2016 18:08:53] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 18:08:55] "GET /ajax?lat=37.75375118616727&lon=-122.4455451965332 HTTP/1.1" 200 -
+(120, 10)
+24.6.90.144 - - [24/Jun/2016 18:08:55] "GET /ajax?lat=37.777634750327046&lon=-122.46047973632812 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [24/Jun/2016 18:08:56] "GET /ajax?lat=37.7766849831305&lon=-122.45962142944335 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [24/Jun/2016 18:08:56] "GET /ajax?lat=37.7822477317096&lon=-122.46168136596681 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [24/Jun/2016 18:08:56] "GET /ajax?lat=37.77872018361018&lon=-122.46683120727538 HTTP/1.1" 200 -
+(120, 13)
+24.6.90.144 - - [24/Jun/2016 18:08:57] "GET /ajax?lat=37.778584505321376&lon=-122.46683120727538 HTTP/1.1" 200 -
+(120, 5)
+24.6.90.144 - - [24/Jun/2016 18:08:57] "GET /ajax?lat=37.77817746896081&lon=-122.44880676269531 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [24/Jun/2016 18:08:58] "GET /ajax?lat=37.77926289427511&lon=-122.4422836303711 HTTP/1.1" 200 -
+(120, 5)
+24.6.90.144 - - [24/Jun/2016 18:08:58] "GET /ajax?lat=37.77464972662077&lon=-122.45790481567383 HTTP/1.1" 200 -
+(120, 18)
+24.6.90.144 - - [24/Jun/2016 18:08:58] "GET /ajax?lat=37.77112181594461&lon=-122.45121002197266 HTTP/1.1" 200 -
+(120, 18)
+24.6.90.144 - - [24/Jun/2016 18:09:00] "GET /ajax?lat=37.77152889115204&lon=-122.45138168334961 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [24/Jun/2016 18:09:01] "GET /ajax?lat=37.77464972662077&lon=-122.45601654052734 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [24/Jun/2016 18:09:01] "GET /ajax?lat=37.78197638783258&lon=-122.45824813842772 HTTP/1.1" 200 -
+(120, 9)
+24.6.90.144 - - [24/Jun/2016 18:09:02] "GET /ajax?lat=37.78482544885859&lon=-122.45550155639648 HTTP/1.1" 200 -
+(120, 10)
+24.6.90.144 - - [24/Jun/2016 18:09:02] "GET /ajax?lat=37.7852324486112&lon=-122.4565315246582 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [24/Jun/2016 18:09:03] "GET /ajax?lat=37.790251927933284&lon=-122.46494293212889 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [24/Jun/2016 18:09:04] "GET /ajax?lat=37.78984495582488&lon=-122.46631622314455 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 18:09:04] "GET /ajax?lat=37.79215110146844&lon=-122.46957778930665 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [24/Jun/2016 18:09:05] "GET /ajax?lat=37.791472830809646&lon=-122.46734619140625 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 18:09:07] "GET /ajax?lat=37.792422407988575&lon=-122.46751785278319 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 18:09:08] "GET /ajax?lat=37.793643275000754&lon=-122.468204498291 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [24/Jun/2016 18:09:08] "GET /ajax?lat=37.79106586542567&lon=-122.46133804321289 HTTP/1.1" 200 -
+(120, 21)
+24.6.90.144 - - [24/Jun/2016 18:09:09] "GET /ajax?lat=37.78916666399649&lon=-122.43404388427733 HTTP/1.1" 200 -
+(120, 19)
+24.6.90.144 - - [24/Jun/2016 18:09:11] "GET /ajax?lat=37.78835270558378&lon=-122.43232727050781 HTTP/1.1" 200 -
+(120, 19)
+24.6.90.144 - - [24/Jun/2016 18:09:12] "GET /ajax?lat=37.77220734485087&lon=-122.43867874145509 HTTP/1.1" 200 -
+(120, 27)
+24.6.90.144 - - [24/Jun/2016 18:09:12] "GET /ajax?lat=37.77220734485087&lon=-122.4342155456543 HTTP/1.1" 200 -
+(120, 24)
+24.6.90.144 - - [24/Jun/2016 18:09:12] "GET /ajax?lat=37.77695634643178&lon=-122.43301391601562 HTTP/1.1" 200 -
+(120, 13)
+24.6.90.144 - - [24/Jun/2016 18:09:13] "GET /ajax?lat=37.77926289427511&lon=-122.43387222290038 HTTP/1.1" 200 -
+(120, 12)
+24.6.90.144 - - [24/Jun/2016 18:09:13] "GET /ajax?lat=37.779669924659004&lon=-122.4397087097168 HTTP/1.1" 200 -
+(120, 12)
+24.6.90.144 - - [24/Jun/2016 18:09:13] "GET /ajax?lat=37.7795342481134&lon=-122.44176864624022 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [24/Jun/2016 18:09:14] "GET /ajax?lat=37.7761422535397&lon=-122.44279861450195 HTTP/1.1" 200 -
+(120, 12)
+24.6.90.144 - - [24/Jun/2016 18:09:14] "GET /ajax?lat=37.77519246716849&lon=-122.4393653869629 HTTP/1.1" 200 -
+(120, 27)
+24.6.90.144 - - [24/Jun/2016 18:09:14] "GET /ajax?lat=37.77709202770888&lon=-122.43232727050781 HTTP/1.1" 200 -
+(120, 27)
+24.6.90.144 - - [24/Jun/2016 18:09:22] "GET /ajax?lat=37.77817746896081&lon=-122.4294090270996 HTTP/1.1" 200 -
+(120, 36)
+24.6.90.144 - - [24/Jun/2016 18:09:22] "GET /ajax?lat=37.77994127700315&lon=-122.42237091064453 HTTP/1.1" 200 -
+(120, 38)
+24.6.90.144 - - [24/Jun/2016 18:09:23] "GET /ajax?lat=37.778855861649966&lon=-122.42237091064453 HTTP/1.1" 200 -
+(120, 39)
+24.6.90.144 - - [24/Jun/2016 18:09:23] "GET /ajax?lat=37.778855861649966&lon=-122.42185592651367 HTTP/1.1" 200 -
+(120, 17)
+24.6.90.144 - - [24/Jun/2016 18:09:24] "GET /ajax?lat=37.793778925645704&lon=-122.38786697387694 HTTP/1.1" 200 -
+(120, 31)
+24.6.90.144 - - [24/Jun/2016 18:09:24] "GET /ajax?lat=37.797441398913286&lon=-122.39250183105467 HTTP/1.1" 200 -
+(120, 38)
+24.6.90.144 - - [24/Jun/2016 18:09:26] "GET /ajax?lat=37.79771268600646&lon=-122.39404678344727 HTTP/1.1" 200 -
+(120, 95)
+24.6.90.144 - - [24/Jun/2016 18:09:26] "GET /ajax?lat=37.78998061344339&lon=-122.39816665649414 HTTP/1.1" 200 -
+(120, 107)
+24.6.90.144 - - [24/Jun/2016 18:09:26] "GET /ajax?lat=37.791472830809646&lon=-122.39902496337889 HTTP/1.1" 200 -
+(120, 96)
+24.6.90.144 - - [24/Jun/2016 18:09:29] "GET /ajax?lat=37.792218928191865&lon=-122.39859580993652 HTTP/1.1" 200 -
+(120, 74)
+24.6.90.144 - - [24/Jun/2016 18:09:29] "GET /ajax?lat=37.79774659682308&lon=-122.39992618560791 HTTP/1.1" 200 -
+(120, 74)
+24.6.90.144 - - [24/Jun/2016 18:09:30] "GET /ajax?lat=37.797644864326585&lon=-122.39992618560791 HTTP/1.1" 200 -
+(120, 74)
+24.6.90.144 - - [24/Jun/2016 18:09:30] "GET /ajax?lat=37.79761095346328&lon=-122.39988327026369 HTTP/1.1" 200 -
+(120, 74)
+24.6.90.144 - - [24/Jun/2016 18:09:31] "GET /ajax?lat=37.79771268600646&lon=-122.39992618560791 HTTP/1.1" 200 -
+(120, 74)
+24.6.90.144 - - [24/Jun/2016 18:09:31] "GET /ajax?lat=37.797644864326585&lon=-122.39996910095215 HTTP/1.1" 200 -
+(120, 38)
+24.6.90.144 - - [24/Jun/2016 18:09:31] "GET /ajax?lat=37.80364684190173&lon=-122.40898132324217 HTTP/1.1" 200 -
+(120, 98)
+24.6.90.144 - - [24/Jun/2016 18:09:32] "GET /ajax?lat=37.78879360083693&lon=-122.41228580474852 HTTP/1.1" 200 -
+(120, 88)
+24.6.90.144 - - [24/Jun/2016 18:09:32] "GET /ajax?lat=37.79093020979957&lon=-122.41335868835449 HTTP/1.1" 200 -
+(120, 108)
+24.6.90.144 - - [24/Jun/2016 18:09:32] "GET /ajax?lat=37.79215110146844&lon=-122.40052700042726 HTTP/1.1" 200 -
+(120, 86)
+24.6.90.144 - - [24/Jun/2016 18:09:33] "GET /ajax?lat=37.79628841765255&lon=-122.40147113800049 HTTP/1.1" 200 -
+(120, 56)
+24.6.90.144 - - [24/Jun/2016 18:09:33] "GET /ajax?lat=37.79784832917947&lon=-122.4083375930786 HTTP/1.1" 200 -
+(120, 46)
+24.6.90.144 - - [24/Jun/2016 18:09:33] "GET /ajax?lat=37.79957775780249&lon=-122.41039752960206 HTTP/1.1" 200 -
+(120, 41)
+24.6.90.144 - - [24/Jun/2016 18:09:34] "GET /ajax?lat=37.800289863702076&lon=-122.41104125976564 HTTP/1.1" 200 -
+(120, 40)
+24.6.90.144 - - [24/Jun/2016 18:09:34] "GET /ajax?lat=37.80090023472337&lon=-122.41125583648682 HTTP/1.1" 200 -
+(120, 33)
+24.6.90.144 - - [24/Jun/2016 18:09:35] "GET /ajax?lat=37.80184969073116&lon=-122.41245746612549 HTTP/1.1" 200 -
+(120, 31)
+24.6.90.144 - - [24/Jun/2016 18:09:35] "GET /ajax?lat=37.80249395749988&lon=-122.41207122802734 HTTP/1.1" 200 -
+(120, 26)
+24.6.90.144 - - [24/Jun/2016 18:09:36] "GET /ajax?lat=37.804087645887726&lon=-122.41370201110841 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [24/Jun/2016 18:09:36] "GET /ajax?lat=37.803206035284816&lon=-122.41640567779541 HTTP/1.1" 200 -
+(120, 25)
+24.6.90.144 - - [24/Jun/2016 18:10:05] "GET /ajax?lat=37.80357902567038&lon=-122.4177360534668 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:14:16] "GET /ajax?lat=37.82337871943924&lon=-122.42009639739989 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:14:16] "GET /ajax?lat=37.819819234520956&lon=-122.41902351379395 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [24/Jun/2016 22:14:17] "GET /ajax?lat=37.809953479227794&lon=-122.42434501647949 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [24/Jun/2016 22:14:17] "GET /ajax?lat=37.805477856609954&lon=-122.42249965667725 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [24/Jun/2016 22:14:18] "GET /ajax?lat=37.80551176386163&lon=-122.42361545562744 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:14:18] "GET /ajax?lat=37.81622567562788&lon=-122.43717670440672 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:14:18] "GET /ajax?lat=37.81775126445185&lon=-122.43352890014648 HTTP/1.1" 200 -
+Similarity took 0.0378119945526 seconds
+
+PATH TO MAP, lat, lon /images/insight/7f8357495272965792174739421391d810f2da64.html 
+37.7794505332 -122.415770754
+24.6.90.144 - - [24/Jun/2016 22:14:33] "GET /output?text_review=asti%0D%0A&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:14:34] "GET /static/css/bootstrap.css HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:14:34] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:14:34] "GET /static/js/complete.ly.1.0.1.min.js HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [24/Jun/2016 22:14:34] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:15:09] "GET /ajax?lat=37.87363386968189&lon=-122.44829177856444 HTTP/1.1" 200 -
+Similarity took 0.0278489589691 seconds
+
+PATH TO MAP, lat, lon /images/insight/b0dcb960abf89f2c61fe1e30c80547770fbefb69.html 
+37.7691702094 -122.432448326
+24.6.90.144 - - [24/Jun/2016 22:15:13] "GET /output?text_review=where+is+the+the+best+place+to+drink+expensive+beer+in+a+neighborhood+with+lots+of+homeless+people+&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [24/Jun/2016 22:15:13] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:15:18] "GET /ajax?lat=37.863063817362665&lon=-122.41069793701172 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:15:20] "GET /ajax?lat=37.85696502054439&lon=-122.41327285766602 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:15:20] "GET /ajax?lat=37.818191984242375&lon=-122.55849838256836 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:15:21] "GET /ajax?lat=37.81046205554298&lon=-122.57240295410156 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:15:36] "GET /ajax?lat=37.77777043035903&lon=-122.58304595947266 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:15:36] "GET /ajax?lat=37.80924146650164&lon=-122.36709594726562 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:15:37] "GET /ajax?lat=37.86211514878027&lon=-122.5059700012207 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:16:10] "GET /ajax?lat=37.81629348024509&lon=-122.58613586425781 HTTP/1.1" 200 -
+Similarity took 0.0259578227997 seconds
+24.6.90.144 - - [24/Jun/2016 22:16:19] "GET /ajax?lat=37.863605908212776&lon=-122.45258331298828 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:16:19] "GET /ajax?lat=37.830124319877235&lon=-122.5502586364746 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:16:20] "GET /ajax?lat=37.830124319877235&lon=-122.55077362060547 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:16:20] "GET /ajax?lat=37.83405614418896&lon=-122.545108795166 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:16:20] "GET /ajax?lat=37.85777822261064&lon=-122.52399444580077 HTTP/1.1" 200 -
+
+PATH TO MAP, lat, lon /images/insight/142e49871c5614b8bee56793cb015fe146fcc45c.html 
+37.7694082199 -122.415923975
+24.6.90.144 - - [24/Jun/2016 22:16:21] "GET /output?text_review=where+is+the+the+best+place+to+drink+craft+beer+in+a+neighborhood+with+lots+of+homeless+people++&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [24/Jun/2016 22:16:22] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:16:33] "GET /ajax?lat=37.74384267225534&lon=-122.56914138793945 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:16:34] "GET /ajax?lat=37.74072053686268&lon=-122.53944396972656 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:16:34] "GET /ajax?lat=37.761487048570935&lon=-122.41378784179688 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [24/Jun/2016 22:16:54] "GET /ajax?lat=37.86292829402713&lon=-122.45189666748047 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:05] "GET /ajax?lat=37.85845588414612&lon=-122.42237091064453 HTTP/1.1" 200 -
+Similarity took 0.036199092865 seconds
+24.6.90.144 - - [24/Jun/2016 22:17:08] "GET /ajax?lat=37.86333486328616&lon=-122.40074157714844 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:08] "GET /ajax?lat=37.84435924135944&lon=-122.40537643432617 HTTP/1.1" 200 -
+
+PATH TO MAP, lat, lon /images/insight/e81322b136b1a669e34116180f41b2d564627666.html 
+37.7798041268 -122.414840683
+24.6.90.144 - - [24/Jun/2016 22:17:10] "GET /ajax?lat=37.84557924966551&lon=-122.40709304809572 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:10] "GET /ajax?lat=37.84463035606055&lon=-122.40898132324217 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:10] "GET /output?text_review=I+want+a+club+with+neon+hulahoopers+and+a+dj&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+24.6.90.144 - - [24/Jun/2016 22:17:11] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:13] "GET /ajax?lat=37.86428351616802&lon=-122.55867004394531 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:44] "GET /ajax?lat=37.87309185260284&lon=-122.52399444580077 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:45] "GET /ajax?lat=37.85100126460798&lon=-122.5308609008789 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:47] "GET /ajax?lat=37.865774231738364&lon=-122.50167846679686 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:47] "GET /ajax?lat=37.87376937332855&lon=-122.47764587402344 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:47] "GET /ajax?lat=37.85737162269894&lon=-122.47352600097658 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:53] "GET /ajax?lat=37.82578551195746&lon=-122.45189666748047 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:58] "GET /ajax?lat=37.83853003421407&lon=-122.4766159057617 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:17:59] "GET /ajax?lat=37.856829485994474&lon=-122.4161911010742 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:18:00] "GET /ajax?lat=37.853441041257064&lon=-122.4196243286133 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:18:00] "GET /ajax?lat=37.85859141570558&lon=-122.4264907836914 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:35:24] "GET /ajax?lat=37.86157304696478&lon=-122.43043899536133 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:35:24] "GET /ajax?lat=37.86970415551112&lon=-122.4400520324707 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:35:26] "GET /ajax?lat=37.87282084256788&lon=-122.5308609008789 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:35:27] "GET /ajax?lat=37.86143752088788&lon=-122.53532409667967 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:35:27] "GET /ajax?lat=37.7371910078431&lon=-122.54613876342773 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:35:27] "GET /ajax?lat=37.696996815589635&lon=-122.46408462524413 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:35:28] "GET /ajax?lat=37.69074846324672&lon=-122.52622604370117 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:35:33] "GET /ajax?lat=37.76379407899244&lon=-122.56811141967772 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:35:33] "GET /ajax?lat=37.84232584933158&lon=-122.53841400146483 HTTP/1.1" 200 -
+24.6.90.144 - - [24/Jun/2016 22:35:33] "GET /ajax?lat=37.830666652929224&lon=-122.51970291137695 HTTP/1.1" 200 -
+24.6.90.144 - - [25/Jun/2016 11:18:41] "GET / HTTP/1.1" 200 -
+24.6.90.144 - - [25/Jun/2016 11:18:41] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+24.6.90.144 - - [25/Jun/2016 11:18:41] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+24.6.90.144 - - [25/Jun/2016 11:18:41] "GET /static/css/stylish-portfolio.css HTTP/1.1" 200 -
+24.6.90.144 - - [25/Jun/2016 11:18:42] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+24.6.90.144 - - [25/Jun/2016 11:18:42] "GET /static/img/bg.jpg HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:04:45] "GET / HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:04:45] "GET /static/css/stylish-portfolio.css HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:04:45] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:04:45] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:04:45] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:04:45] "GET /static/img/bg.jpg HTTP/1.1" 200 -
+Similarity took 0.0381209850311 seconds
+
+PATH TO MAP, lat, lon /images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.html 
+37.7856898017 -122.414684933
+67.164.75.185 - - [25/Jun/2016 12:04:52] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:04:52] "GET /static/css/bootstrap.css HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:04:52] "GET /static/js/complete.ly.1.0.1.min.js HTTP/1.1" 200 -
+(120, 53)
+67.164.75.185 - - [25/Jun/2016 12:04:53] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:05] "GET /ajax?lat=37.820632846207864&lon=-122.42391586303711 HTTP/1.1" 200 -
+(120, 32)
+67.164.75.185 - - [25/Jun/2016 12:05:05] "GET /ajax?lat=37.79554236136536&lon=-122.4196243286133 HTTP/1.1" 200 -
+(120, 51)
+67.164.75.185 - - [25/Jun/2016 12:05:05] "GET /ajax?lat=37.79323632157157&lon=-122.41910934448242 HTTP/1.1" 200 -
+(120, 57)
+67.164.75.185 - - [25/Jun/2016 12:05:06] "GET /ajax?lat=37.790116270812874&lon=-122.41979598999023 HTTP/1.1" 200 -
+(120, 48)
+67.164.75.185 - - [25/Jun/2016 12:05:06] "GET /ajax?lat=37.783468766829&lon=-122.42013931274413 HTTP/1.1" 200 -
+(120, 23)
+67.164.75.185 - - [25/Jun/2016 12:05:07] "GET /ajax?lat=37.779805600955584&lon=-122.38786697387694 HTTP/1.1" 200 -
+(120, 50)
+67.164.75.185 - - [25/Jun/2016 12:05:07] "GET /ajax?lat=37.78034830365159&lon=-122.39748001098633 HTTP/1.1" 200 -
+(120, 50)
+67.164.75.185 - - [25/Jun/2016 12:05:08] "GET /ajax?lat=37.78034830365159&lon=-122.39765167236327 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:08] "GET /ajax?lat=37.75768707689704&lon=-122.41481781005858 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+67.164.75.185 - - [25/Jun/2016 12:05:09] "GET /ajax?lat=37.75863708811579&lon=-122.4187660217285 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+(120, 20)
+67.164.75.185 - - [25/Jun/2016 12:05:09] "GET /ajax?lat=37.76135133865817&lon=-122.39147186279297 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:09] "GET /ajax?lat=37.7635226673836&lon=-122.40262985229492 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+67.164.75.185 - - [25/Jun/2016 12:05:10] "GET /ajax?lat=37.76447260365713&lon=-122.40348815917969 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+(120, 18)
+67.164.75.185 - - [25/Jun/2016 12:05:11] "GET /ajax?lat=37.77587088725018&lon=-122.43661880493163 HTTP/1.1" 200 -
+(120, 12)
+67.164.75.185 - - [25/Jun/2016 12:05:11] "GET /ajax?lat=37.778991539440696&lon=-122.43867874145509 HTTP/1.1" 200 -
+(120, 33)
+67.164.75.185 - - [25/Jun/2016 12:05:11] "GET /ajax?lat=37.79784832917945&lon=-122.42837905883789 HTTP/1.1" 200 -
+(120, 14)
+67.164.75.185 - - [25/Jun/2016 12:05:12] "GET /ajax?lat=37.80774960805068&lon=-122.41979598999023 HTTP/1.1" 200 -
+(120, 76)
+67.164.75.185 - - [25/Jun/2016 12:05:12] "GET /ajax?lat=37.79757704258442&lon=-122.40245819091795 HTTP/1.1" 200 -
+(120, 81)
+67.164.75.185 - - [25/Jun/2016 12:05:13] "GET /ajax?lat=37.79310066993037&lon=-122.39662170410156 HTTP/1.1" 200 -
+(120, 5)
+67.164.75.185 - - [25/Jun/2016 12:05:13] "GET /ajax?lat=37.76827222674256&lon=-122.38924026489256 HTTP/1.1" 200 -
+(120, 13)
+67.164.75.185 - - [25/Jun/2016 12:05:14] "GET /ajax?lat=37.76474401178003&lon=-122.38992691040038 HTTP/1.1" 200 -
+(120, 20)
+67.164.75.185 - - [25/Jun/2016 12:05:15] "GET /ajax?lat=37.763115548102924&lon=-122.39078521728516 HTTP/1.1" 200 -
+(120, 35)
+67.164.75.185 - - [25/Jun/2016 12:05:15] "GET /ajax?lat=37.76935779748215&lon=-122.43129730224608 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:15] "GET /ajax?lat=37.83202246811909&lon=-122.44537353515625 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:15] "GET /ajax?lat=37.87810535842238&lon=-122.53738403320312 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:16] "GET /ajax?lat=37.980468742815034&lon=-122.62664794921874 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:16] "GET /ajax?lat=37.98100996893789&lon=-122.67265319824217 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:16] "GET /ajax?lat=37.990210202299636&lon=-122.72758483886719 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:17] "GET /ajax?lat=37.922805315344064&lon=-122.6070785522461 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:18] "GET /ajax?lat=37.88284754987505&lon=-122.50236511230467 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:19] "GET /ajax?lat=37.89029894809523&lon=-122.48279571533203 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:19] "GET /ajax?lat=37.86374143030225&lon=-122.48056411743163 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:20] "GET /ajax?lat=37.82822612280363&lon=-122.47249603271484 HTTP/1.1" 200 -
+(120, 1)
+67.164.75.185 - - [25/Jun/2016 12:05:20] "GET /ajax?lat=37.78957363984067&lon=-122.47009277343749 HTTP/1.1" 200 -
+(120, 2)
+67.164.75.185 - - [25/Jun/2016 12:05:21] "GET /ajax?lat=37.789844955824854&lon=-122.45567321777342 HTTP/1.1" 200 -
+(120, 96)
+67.164.75.185 - - [25/Jun/2016 12:05:21] "GET /ajax?lat=37.789031004883654&lon=-122.41413116455077 HTTP/1.1" 200 -
+(120, 90)
+67.164.75.185 - - [25/Jun/2016 12:05:21] "GET /ajax?lat=37.78875968591083&lon=-122.41567611694337 HTTP/1.1" 200 -
+(120, 36)
+67.164.75.185 - - [25/Jun/2016 12:05:22] "GET /ajax?lat=37.795678008523424&lon=-122.42408752441405 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:22] "GET /ajax?lat=37.81710713079405&lon=-122.43352890014648 HTTP/1.1" 200 -
+67.164.75.185 - - [25/Jun/2016 12:05:22] "GET /ajax?lat=37.822124444341064&lon=-122.435245513916 HTTP/1.1" 200 -
+(120, 10)
+67.164.75.185 - - [25/Jun/2016 12:05:23] "GET /ajax?lat=37.8052405054124&lon=-122.40486145019531 HTTP/1.1" 200 -
+(120, 13)
+67.164.75.185 - - [25/Jun/2016 12:05:23] "GET /ajax?lat=37.805104875814145&lon=-122.40468978881836 HTTP/1.1" 200 -
+(120, 36)
+67.164.75.185 - - [25/Jun/2016 12:05:24] "GET /ajax?lat=37.793778925645704&lon=-122.39164352416992 HTTP/1.1" 200 -
+(120, 17)
+67.164.75.185 - - [25/Jun/2016 12:05:24] "GET /ajax?lat=37.790658897800206&lon=-122.38846778869627 HTTP/1.1" 200 -
+(120, 92)
+67.164.75.185 - - [25/Jun/2016 12:05:24] "GET /ajax?lat=37.78923449345951&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 92)
+67.164.75.185 - - [25/Jun/2016 12:05:25] "GET /ajax?lat=37.78930232286027&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 90)
+67.164.75.185 - - [25/Jun/2016 12:05:25] "GET /ajax?lat=37.789098834471204&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 73)
+67.164.75.185 - - [25/Jun/2016 12:05:25] "GET /ajax?lat=37.78645343442073&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 92)
+67.164.75.185 - - [25/Jun/2016 12:05:26] "GET /ajax?lat=37.78930232286027&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 73)
+67.164.75.185 - - [25/Jun/2016 12:05:26] "GET /ajax?lat=37.7994082077669&lon=-122.40262985229492 HTTP/1.1" 200 -
+(120, 15)
+67.164.75.185 - - [25/Jun/2016 12:05:27] "GET /ajax?lat=37.807274919495555&lon=-122.41456031799316 HTTP/1.1" 200 -
+(120, 31)
+67.164.75.185 - - [25/Jun/2016 12:05:27] "GET /ajax?lat=37.80381638220768&lon=-122.41018295288085 HTTP/1.1" 200 -
+66.249.84.137 - - [25/Jun/2016 22:42:50] "GET /favicon.ico HTTP/1.1" 404 -
+66.249.84.139 - - [26/Jun/2016 13:39:09] "GET / HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 13:39:26] "GET / HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 13:39:26] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 13:39:26] "GET /static/css/stylish-portfolio.css HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 13:39:26] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 13:39:26] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 13:39:27] "GET /static/img/bg.jpg HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 13:39:27] "GET /favicon.ico HTTP/1.1" 404 -
+24.6.90.144 - - [26/Jun/2016 15:56:59] "GET / HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 15:56:59] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+24.6.90.144 - - [26/Jun/2016 15:56:59] "GET /static/css/stylish-portfolio.css HTTP/1.1" 304 -
+24.6.90.144 - - [26/Jun/2016 15:56:59] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+24.6.90.144 - - [26/Jun/2016 15:56:59] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+24.6.90.144 - - [26/Jun/2016 15:57:00] "GET /static/img/bg.jpg HTTP/1.1" 304 -
+24.6.90.144 - - [26/Jun/2016 15:57:00] "GET /favicon.ico HTTP/1.1" 404 -
+Similarity took 0.0377209186554 seconds
+
+PATH TO MAP, lat, lon /images/insight/9e1c2219594409bf0a7592df19e80ee801900e3d.html 
+37.7852982632 -122.412299711
+24.6.90.144 - - [26/Jun/2016 15:57:38] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 15:57:39] "GET /static/css/bootstrap.css HTTP/1.1" 304 -
+24.6.90.144 - - [26/Jun/2016 15:57:39] "GET /static/js/complete.ly.1.0.1.min.js HTTP/1.1" 304 -
+(120, 53)
+24.6.90.144 - - [26/Jun/2016 15:57:39] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 15:57:40] "GET /ajax?lat=37.83093781796035&lon=-122.4898338317871 HTTP/1.1" 200 -
+(120, 10)
+24.6.90.144 - - [26/Jun/2016 15:57:41] "GET /ajax?lat=37.80001858607365&lon=-122.44588851928712 HTTP/1.1" 200 -
+(120, 19)
+24.6.90.144 - - [26/Jun/2016 15:57:41] "GET /ajax?lat=37.78808138412046&lon=-122.43061065673827 HTTP/1.1" 200 -
+(120, 16)
+24.6.90.144 - - [26/Jun/2016 15:57:41] "GET /ajax?lat=37.784282779035216&lon=-122.42992401123045 HTTP/1.1" 200 -
+(120, 34)
+24.6.90.144 - - [26/Jun/2016 15:57:42] "GET /ajax?lat=37.77695634643178&lon=-122.4264907836914 HTTP/1.1" 200 -
+(120, 42)
+24.6.90.144 - - [26/Jun/2016 15:57:42] "GET /ajax?lat=37.77505678240509&lon=-122.42305755615234 HTTP/1.1" 200 -
+(120, 42)
+24.6.90.144 - - [26/Jun/2016 15:57:43] "GET /ajax?lat=37.77505678240509&lon=-122.42305755615234 HTTP/1.1" 200 -
+(120, 38)
+24.6.90.144 - - [26/Jun/2016 15:57:43] "GET /ajax?lat=37.77695634643178&lon=-122.42237091064453 HTTP/1.1" 200 -
+(120, 43)
+24.6.90.144 - - [26/Jun/2016 15:57:44] "GET /ajax?lat=37.7791272169824&lon=-122.41928100585938 HTTP/1.1" 200 -
+(120, 54)
+24.6.90.144 - - [26/Jun/2016 15:57:44] "GET /ajax?lat=37.779398571318765&lon=-122.41155624389647 HTTP/1.1" 200 -
+(120, 54)
+24.6.90.144 - - [26/Jun/2016 15:57:44] "GET /ajax?lat=37.7795342481134&lon=-122.41104125976564 HTTP/1.1" 200 -
+(120, 85)
+24.6.90.144 - - [26/Jun/2016 15:57:45] "GET /ajax?lat=37.781840715520524&lon=-122.4093246459961 HTTP/1.1" 200 -
+(120, 69)
+24.6.90.144 - - [26/Jun/2016 15:57:45] "GET /ajax?lat=37.766643840752764&lon=-122.4213409423828 HTTP/1.1" 200 -
+(120, 73)
+24.6.90.144 - - [26/Jun/2016 15:57:45] "GET /ajax?lat=37.76501541890696&lon=-122.42219924926756 HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 15:57:46] "GET /ajax?lat=37.76135133865817&lon=-122.42219924926756 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:57:46] "GET /ajax?lat=37.76040136229719&lon=-122.42219924926756 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:57:46] "GET /ajax?lat=37.75890851765176&lon=-122.42219924926756 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:57:47] "GET /ajax?lat=37.756872771856465&lon=-122.42254257202148 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:57:47] "GET /ajax?lat=37.75551557687061&lon=-122.41825103759764 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:57:48] "GET /ajax?lat=37.755244134885736&lon=-122.41807937622069 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:57:48] "GET /ajax?lat=37.75565129748959&lon=-122.42666244506835 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+(120, 45)
+24.6.90.144 - - [26/Jun/2016 15:57:48] "GET /ajax?lat=37.75741564287944&lon=-122.42700576782227 HTTP/1.1" 200 -
+(120, 67)
+24.6.90.144 - - [26/Jun/2016 15:57:49] "GET /ajax?lat=37.75958708713444&lon=-122.42614746093749 HTTP/1.1" 200 -
+(120, 65)
+24.6.90.144 - - [26/Jun/2016 15:57:49] "GET /ajax?lat=37.76040136229719&lon=-122.42546081542967 HTTP/1.1" 200 -
+(120, 39)
+24.6.90.144 - - [26/Jun/2016 15:57:49] "GET /ajax?lat=37.76067278535954&lon=-122.43129730224608 HTTP/1.1" 200 -
+(120, 35)
+24.6.90.144 - - [26/Jun/2016 15:57:50] "GET /ajax?lat=37.761487048570935&lon=-122.43507385253906 HTTP/1.1" 200 -
+(120, 33)
+24.6.90.144 - - [26/Jun/2016 15:57:50] "GET /ajax?lat=37.76175846764949&lon=-122.4367904663086 HTTP/1.1" 200 -
+(120, 33)
+24.6.90.144 - - [26/Jun/2016 15:57:50] "GET /ajax?lat=37.761894176815304&lon=-122.43713378906249 HTTP/1.1" 200 -
+(120, 34)
+24.6.90.144 - - [26/Jun/2016 15:57:50] "GET /ajax?lat=37.76677954095475&lon=-122.43764877319336 HTTP/1.1" 200 -
+(120, 31)
+24.6.90.144 - - [26/Jun/2016 15:57:51] "GET /ajax?lat=37.76867931763743&lon=-122.43764877319336 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [26/Jun/2016 15:57:52] "GET /ajax?lat=37.80856335276034&lon=-122.43833541870117 HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 15:58:00] "GET /ajax?lat=37.833784990618575&lon=-122.4481201171875 HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 15:58:01] "GET /ajax?lat=37.832429207817725&lon=-122.44794845581055 HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 15:58:01] "GET /ajax?lat=37.76230130281876&lon=-122.402286529541 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:58:02] "GET /ajax?lat=37.76175846764949&lon=-122.41361618041991 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:58:05] "GET /ajax?lat=37.760944207425936&lon=-122.41241455078125 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:58:05] "GET /ajax?lat=37.76107991808567&lon=-122.41241455078125 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:58:06] "GET /ajax?lat=37.761622758234715&lon=-122.41241455078125 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:58:08] "GET /ajax?lat=37.762776280323834&lon=-122.41241455078125 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:58:11] "GET /ajax?lat=37.762776280323834&lon=-122.41241455078125 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:58:13] "GET /ajax?lat=37.763013767932584&lon=-122.41533279418945 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:58:19] "GET /ajax?lat=37.76297984117803&lon=-122.41438865661621 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+(120, 5)
+24.6.90.144 - - [26/Jun/2016 15:58:20] "GET /ajax?lat=37.758433515310266&lon=-122.40031242370604 HTTP/1.1" 200 -
+(120, 16)
+24.6.90.144 - - [26/Jun/2016 15:58:21] "GET /ajax?lat=37.758162084031426&lon=-122.39224433898926 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [26/Jun/2016 15:58:22] "GET /ajax?lat=37.75782279353237&lon=-122.39001274108888 HTTP/1.1" 200 -
+(120, 16)
+24.6.90.144 - - [26/Jun/2016 15:58:23] "GET /ajax?lat=37.75822994194451&lon=-122.39087104797363 HTTP/1.1" 200 -
+(120, 16)
+24.6.90.144 - - [26/Jun/2016 15:58:24] "GET /ajax?lat=37.75822994194451&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 16)
+24.6.90.144 - - [26/Jun/2016 15:58:25] "GET /ajax?lat=37.75822994194451&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 16)
+24.6.90.144 - - [26/Jun/2016 15:58:25] "GET /ajax?lat=37.75802636801855&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [26/Jun/2016 15:58:26] "GET /ajax?lat=37.757754935245835&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [26/Jun/2016 15:58:26] "GET /ajax?lat=37.757754935245835&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [26/Jun/2016 15:58:27] "GET /ajax?lat=37.75768707689704&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [26/Jun/2016 15:58:27] "GET /ajax?lat=37.75707634895691&lon=-122.39052772521971 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [26/Jun/2016 15:58:28] "GET /ajax?lat=37.756872771856465&lon=-122.39044189453124 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [26/Jun/2016 15:58:28] "GET /ajax?lat=37.75537985600267&lon=-122.38992691040038 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [26/Jun/2016 15:58:29] "GET /ajax?lat=37.754769109015825&lon=-122.38949775695801 HTTP/1.1" 200 -
+(120, 13)
+24.6.90.144 - - [26/Jun/2016 15:58:29] "GET /ajax?lat=37.7536833241461&lon=-122.38898277282715 HTTP/1.1" 200 -
+(120, 13)
+24.6.90.144 - - [26/Jun/2016 15:58:29] "GET /ajax?lat=37.75286897503704&lon=-122.38898277282715 HTTP/1.1" 200 -
+(120, 12)
+24.6.90.144 - - [26/Jun/2016 15:58:31] "GET /ajax?lat=37.75280111220671&lon=-122.38898277282715 HTTP/1.1" 200 -
+(120, 12)
+24.6.90.144 - - [26/Jun/2016 15:58:31] "GET /ajax?lat=37.75280111220671&lon=-122.38898277282715 HTTP/1.1" 200 -
+(120, 12)
+24.6.90.144 - - [26/Jun/2016 15:58:32] "GET /ajax?lat=37.75280111220671&lon=-122.38898277282715 HTTP/1.1" 200 -
+(120, 12)
+24.6.90.144 - - [26/Jun/2016 15:58:38] "GET /ajax?lat=37.75280111220671&lon=-122.38898277282715 HTTP/1.1" 200 -
+(120, 15)
+24.6.90.144 - - [26/Jun/2016 15:58:38] "GET /ajax?lat=37.75605845785265&lon=-122.39198684692384 HTTP/1.1" 200 -
+(120, 16)
+24.6.90.144 - - [26/Jun/2016 15:58:38] "GET /ajax?lat=37.7574835014772&lon=-122.39310264587401 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [26/Jun/2016 15:58:39] "GET /ajax?lat=37.7674580382297&lon=-122.39996910095215 HTTP/1.1" 200 -
+(120, 14)
+24.6.90.144 - - [26/Jun/2016 15:58:39] "GET /ajax?lat=37.767661586198294&lon=-122.4001407623291 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [26/Jun/2016 15:58:40] "GET /ajax?lat=37.76779728453276&lon=-122.40254402160645 HTTP/1.1" 200 -
+(120, 11)
+24.6.90.144 - - [26/Jun/2016 15:58:40] "GET /ajax?lat=37.76800083156762&lon=-122.40262985229492 HTTP/1.1" 200 -
+(120, 12)
+24.6.90.144 - - [26/Jun/2016 15:58:51] "GET /ajax?lat=37.76772943539666&lon=-122.40262985229492 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [26/Jun/2016 15:58:51] "GET /ajax?lat=37.7416707659231&lon=-122.39679336547852 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [26/Jun/2016 15:58:52] "GET /ajax?lat=37.72673718477409&lon=-122.39147186279297 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [26/Jun/2016 15:58:52] "GET /ajax?lat=37.72660141113032&lon=-122.39130020141603 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [26/Jun/2016 15:58:52] "GET /ajax?lat=37.726058314066165&lon=-122.39044189453124 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [26/Jun/2016 15:58:53] "GET /ajax?lat=37.72592253917786&lon=-122.3902702331543 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [26/Jun/2016 15:58:55] "GET /ajax?lat=37.725786764040656&lon=-122.3902702331543 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [26/Jun/2016 15:58:55] "GET /ajax?lat=37.72565098865453&lon=-122.39181518554686 HTTP/1.1" 200 -
+(120, 1)
+24.6.90.144 - - [26/Jun/2016 15:58:59] "GET /ajax?lat=37.72537943713555&lon=-122.39233016967773 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [26/Jun/2016 15:58:59] "GET /ajax?lat=37.745878776561256&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [26/Jun/2016 15:59:00] "GET /ajax?lat=37.745471560181194&lon=-122.39765167236327 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [26/Jun/2016 15:59:01] "GET /ajax?lat=37.745878776561256&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 6)
+24.6.90.144 - - [26/Jun/2016 15:59:01] "GET /ajax?lat=37.75375118616727&lon=-122.40503311157225 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [26/Jun/2016 15:59:01] "GET /ajax?lat=37.754565525566484&lon=-122.40571975708006 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:02] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:02] "GET /ajax?lat=37.75470124792829&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:03] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:03] "GET /ajax?lat=37.754565525566484&lon=-122.40537643432617 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:04] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:04] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:05] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:05] "GET /ajax?lat=37.75470124792829&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:05] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:06] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:06] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:06] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:07] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:07] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:08] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:08] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:08] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 7)
+24.6.90.144 - - [26/Jun/2016 15:59:09] "GET /ajax?lat=37.754565525566484&lon=-122.40554809570311 HTTP/1.1" 200 -
+(120, 8)
+24.6.90.144 - - [26/Jun/2016 15:59:09] "GET /ajax?lat=37.754565525566484&lon=-122.40571975708006 HTTP/1.1" 200 -
+(120, 9)
+24.6.90.144 - - [26/Jun/2016 15:59:09] "GET /ajax?lat=37.75470124792829&lon=-122.40623474121092 HTTP/1.1" 200 -
+(120, 4)
+24.6.90.144 - - [26/Jun/2016 15:59:10] "GET /ajax?lat=37.75429408009598&lon=-122.40383148193361 HTTP/1.1" 200 -
+24.6.90.144 - - [26/Jun/2016 15:59:10] "GET /ajax?lat=37.75890851765176&lon=-122.40331649780273 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:59:11] "GET /ajax?lat=37.75850137297435&lon=-122.40348815917969 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+24.6.90.144 - - [26/Jun/2016 15:59:11] "GET /ajax?lat=37.75890851765176&lon=-122.40331649780273 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+(120, 12)
+24.6.90.144 - - [26/Jun/2016 15:59:12] "GET /ajax?lat=37.780483978703025&lon=-122.44056701660155 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:39:56] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:39:57] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:39:57] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:39:57] "GET /static/css/stylish-portfolio.css HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:39:57] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:39:57] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:39:57] "GET /static/img/bg.jpg HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:40:12] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:40:13] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:40:13] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:40:13] "GET /static/css/stylish-portfolio.css HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:40:13] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:40:13] "GET /static/img/bg.jpg HTTP/1.1" 304 -
+Similarity took 0.0316460132599 seconds
+
+PATH TO MAP, lat, lon /images/insight/e3655bbdcff586a76a85443a2ed7cb04ca2838a1.html 
+37.7798628416 -122.413131524
+65.87.19.170 - - [27/Jun/2016 09:42:31] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:42:31] "GET /static/css/bootstrap.css HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:42:31] "GET /static/js/complete.ly.1.0.1.min.js HTTP/1.1" 304 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 09:42:31] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:42:39] "GET /ajax?lat=37.75565129748959&lon=-122.45738983154297 HTTP/1.1" 200 -
+(120, 15)
+65.87.19.170 - - [27/Jun/2016 09:42:39] "GET /ajax?lat=37.76759373693769&lon=-122.45292663574217 HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 09:42:40] "GET /ajax?lat=37.77437835485281&lon=-122.41584777832031 HTTP/1.1" 200 -
+(120, 89)
+65.87.19.170 - - [27/Jun/2016 09:42:40] "GET /ajax?lat=37.78496111569183&lon=-122.41430282592772 HTTP/1.1" 200 -
+(120, 41)
+65.87.19.170 - - [27/Jun/2016 09:42:41] "GET /ajax?lat=37.78563944612241&lon=-122.42237091064453 HTTP/1.1" 200 -
+(120, 24)
+65.87.19.170 - - [27/Jun/2016 09:42:41] "GET /ajax?lat=37.7795342481134&lon=-122.4294090270996 HTTP/1.1" 200 -
+(120, 14)
+65.87.19.170 - - [27/Jun/2016 09:42:41] "GET /ajax?lat=37.784282779035216&lon=-122.43129730224608 HTTP/1.1" 200 -
+(120, 86)
+65.87.19.170 - - [27/Jun/2016 09:42:41] "GET /ajax?lat=37.78496111569183&lon=-122.41464614868164 HTTP/1.1" 200 -
+(120, 93)
+65.87.19.170 - - [27/Jun/2016 09:42:42] "GET /ajax?lat=37.78835270558378&lon=-122.41430282592772 HTTP/1.1" 200 -
+(120, 60)
+65.87.19.170 - - [27/Jun/2016 09:42:42] "GET /ajax?lat=37.78536811469731&lon=-122.41859436035156 HTTP/1.1" 200 -
+(120, 92)
+65.87.19.170 - - [27/Jun/2016 09:42:42] "GET /ajax?lat=37.785910776551354&lon=-122.41413116455077 HTTP/1.1" 200 -
+(120, 58)
+65.87.19.170 - - [27/Jun/2016 09:42:43] "GET /ajax?lat=37.78645343442073&lon=-122.41910934448242 HTTP/1.1" 200 -
+(120, 31)
+65.87.19.170 - - [27/Jun/2016 09:42:43] "GET /ajax?lat=37.78496111569183&lon=-122.42443084716797 HTTP/1.1" 200 -
+(120, 27)
+65.87.19.170 - - [27/Jun/2016 09:42:45] "GET /ajax?lat=37.78007695280165&lon=-122.42597579956053 HTTP/1.1" 200 -
+(120, 45)
+65.87.19.170 - - [27/Jun/2016 09:42:45] "GET /ajax?lat=37.77247872458732&lon=-122.41430282592772 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:42:45] "GET /ajax?lat=37.7674580382297&lon=-122.41361618041991 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/carlson/anaconda/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/data/insight_yelp/flask_dir/views.py", line 65, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "/data/insight_yelp/flask_dir/views.py", line 298, in query_lat_lon
+    for biz in nearby_bids])
+IndexError: index 0 is out of bounds for axis 0 with size 0
+(120, 4)
+65.87.19.170 - - [27/Jun/2016 09:42:46] "GET /ajax?lat=37.75646561597495&lon=-122.40211486816406 HTTP/1.1" 200 -
+(120, 2)
+65.87.19.170 - - [27/Jun/2016 09:42:46] "GET /ajax?lat=37.75171529845649&lon=-122.40383148193361 HTTP/1.1" 200 -
+(120, 6)
+65.87.19.170 - - [27/Jun/2016 09:42:47] "GET /ajax?lat=37.75198675338784&lon=-122.40606307983398 HTTP/1.1" 200 -
+(120, 59)
+65.87.19.170 - - [27/Jun/2016 09:42:47] "GET /ajax?lat=37.769900576875834&lon=-122.4232292175293 HTTP/1.1" 200 -
+(120, 69)
+65.87.19.170 - - [27/Jun/2016 09:42:48] "GET /ajax?lat=37.766643840752764&lon=-122.41807937622069 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:42:48] "GET /ajax?lat=37.83337825839438&lon=-122.4232292175293 HTTP/1.1" 200 -
+Similarity took 0.0543010234833 seconds
+
+PATH TO MAP, lat, lon /images/insight/3f6c874ec8d046b59b639566c348e85a6ff9504d.html 
+37.7815799548 -122.410513387
+65.87.19.170 - - [27/Jun/2016 09:42:58] "GET /output?text_review=I+want+to+eat+oysters+in+a+dark+closet&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 09:42:59] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:46:13] "GET /ajax?lat=37.73501890634278&lon=-122.47575759887695 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:46:14] "GET /ajax?lat=37.73501890634278&lon=-122.47575759887695 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:46:15] "GET /ajax?lat=37.73501890634278&lon=-122.47575759887695 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:46:15] "GET /ajax?lat=37.735154664553534&lon=-122.47575759887695 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:16] "GET /ajax?lat=37.80978395301097&lon=-122.50494003295897 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:16] "GET /ajax?lat=37.80354511753136&lon=-122.47695922851562 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:18] "GET /ajax?lat=37.83595419127664&lon=-122.43198394775389 HTTP/1.1" 200 -
+Similarity took 0.0517110824585 seconds
+
+PATH TO MAP, lat, lon /images/insight/ba18778594a8d9360f8b35091d577d6a0d756cac.html 
+37.7873106442 -122.412543366
+65.87.19.170 - - [27/Jun/2016 09:46:27] "GET /output?text_review=I+want+to+eat+oysters+with+a+view+of+the+bay%0D%0A&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 09:46:28] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:33] "GET /ajax?lat=37.84097022350018&lon=-122.42254257202148 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:34] "GET /ajax?lat=37.790116270812874&lon=-122.50785827636719 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:35] "GET /ajax?lat=37.809648331757295&lon=-122.44983673095705 HTTP/1.1" 200 -
+(120, 24)
+65.87.19.170 - - [27/Jun/2016 09:46:35] "GET /ajax?lat=37.80218877920469&lon=-122.42717742919922 HTTP/1.1" 200 -
+(120, 34)
+65.87.19.170 - - [27/Jun/2016 09:46:35] "GET /ajax?lat=37.79811961477825&lon=-122.41567611694337 HTTP/1.1" 200 -
+(120, 39)
+65.87.19.170 - - [27/Jun/2016 09:46:36] "GET /ajax?lat=37.80042550214271&lon=-122.41138458251953 HTTP/1.1" 200 -
+(120, 29)
+65.87.19.170 - - [27/Jun/2016 09:46:36] "GET /ajax?lat=37.79974730744888&lon=-122.41807937622069 HTTP/1.1" 200 -
+(120, 47)
+65.87.19.170 - - [27/Jun/2016 09:46:36] "GET /ajax?lat=37.79391457604158&lon=-122.41928100585938 HTTP/1.1" 200 -
+(120, 67)
+65.87.19.170 - - [27/Jun/2016 09:46:37] "GET /ajax?lat=37.79269371351246&lon=-122.41601943969727 HTTP/1.1" 200 -
+(120, 45)
+65.87.19.170 - - [27/Jun/2016 09:46:37] "GET /ajax?lat=37.7968988217381&lon=-122.4151611328125 HTTP/1.1" 200 -
+(120, 86)
+65.87.19.170 - - [27/Jun/2016 09:46:37] "GET /ajax?lat=37.796627531656064&lon=-122.40468978881836 HTTP/1.1" 200 -
+(120, 56)
+65.87.19.170 - - [27/Jun/2016 09:46:38] "GET /ajax?lat=37.796084948503236&lon=-122.39593505859376 HTTP/1.1" 200 -
+(120, 48)
+65.87.19.170 - - [27/Jun/2016 09:46:38] "GET /ajax?lat=37.796084948503236&lon=-122.39473342895508 HTTP/1.1" 200 -
+(120, 29)
+65.87.19.170 - - [27/Jun/2016 09:46:38] "GET /ajax?lat=37.7971701108238&lon=-122.39198684692384 HTTP/1.1" 200 -
+(120, 22)
+65.87.19.170 - - [27/Jun/2016 09:46:39] "GET /ajax?lat=37.7971701108238&lon=-122.39078521728516 HTTP/1.1" 200 -
+(120, 12)
+65.87.19.170 - - [27/Jun/2016 09:46:39] "GET /ajax?lat=37.80042550214271&lon=-122.39181518554686 HTTP/1.1" 200 -
+(120, 11)
+65.87.19.170 - - [27/Jun/2016 09:46:39] "GET /ajax?lat=37.80205314400207&lon=-122.39507675170897 HTTP/1.1" 200 -
+(120, 10)
+65.87.19.170 - - [27/Jun/2016 09:46:40] "GET /ajax?lat=37.802595683318025&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 12)
+65.87.19.170 - - [27/Jun/2016 09:46:40] "GET /ajax?lat=37.803002585189645&lon=-122.398681640625 HTTP/1.1" 200 -
+(120, 14)
+65.87.19.170 - - [27/Jun/2016 09:46:41] "GET /ajax?lat=37.80340948481954&lon=-122.40022659301758 HTTP/1.1" 200 -
+(120, 20)
+65.87.19.170 - - [27/Jun/2016 09:46:41] "GET /ajax?lat=37.80422327735411&lon=-122.40297317504881 HTTP/1.1" 200 -
+(120, 32)
+65.87.19.170 - - [27/Jun/2016 09:46:42] "GET /ajax?lat=37.80422327735411&lon=-122.40606307983398 HTTP/1.1" 200 -
+(120, 28)
+65.87.19.170 - - [27/Jun/2016 09:46:42] "GET /ajax?lat=37.80463017025873&lon=-122.40692138671874 HTTP/1.1" 200 -
+(120, 20)
+65.87.19.170 - - [27/Jun/2016 09:46:42] "GET /ajax?lat=37.80422327735411&lon=-122.40365982055663 HTTP/1.1" 200 -
+(120, 26)
+65.87.19.170 - - [27/Jun/2016 09:46:43] "GET /ajax?lat=37.80340948481954&lon=-122.40262985229492 HTTP/1.1" 200 -
+(120, 5)
+65.87.19.170 - - [27/Jun/2016 09:46:43] "GET /ajax?lat=37.805172690644405&lon=-122.402286529541 HTTP/1.1" 200 -
+(120, 19)
+65.87.19.170 - - [27/Jun/2016 09:46:43] "GET /ajax?lat=37.803002585189645&lon=-122.39988327026369 HTTP/1.1" 200 -
+(120(, 7)
+120, 17)
+(120, 39)
+65.87.19.170 - - [27/Jun/2016 09:46:46] "GET /ajax?lat=37.805850835522065&lon=-122.40365982055663 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:46] "GET /ajax?lat=37.802460048862656&lon=-122.39885330200195 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:46] "GET /ajax?lat=37.803273851858656&lon=-122.40726470947266 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:46:46] "GET /ajax?lat=37.80639334694058&lon=-122.40142822265625 HTTP/1.1" 200 -
+(120, 16)
+65.87.19.170 - - [27/Jun/2016 09:46:47] "GET /ajax?lat=37.80788523279169&lon=-122.41653442382812 HTTP/1.1" 200 -
+(120, 14)
+65.87.19.170 - - [27/Jun/2016 09:46:47] "GET /ajax?lat=37.80530832011811&lon=-122.42237091064453 HTTP/1.1" 200 -
+(120, 16)
+65.87.19.170 - - [27/Jun/2016 09:46:48] "GET /ajax?lat=37.805850835522065&lon=-122.41945266723631 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:49] "GET /ajax?lat=37.84164803953047&lon=-122.39147186279297 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:49] "GET /ajax?lat=37.83853003421407&lon=-122.39301681518555 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:50] "GET /ajax?lat=37.824700770115996&lon=-122.41207122802734 HTTP/1.1" 200 -
+(120, 64)
+65.87.19.170 - - [27/Jun/2016 09:46:50] "GET /ajax?lat=37.781433697090094&lon=-122.40194320678711 HTTP/1.1" 200 -
+(120, 59)
+65.87.19.170 - - [27/Jun/2016 09:46:51] "GET /ajax?lat=37.78821704497665&lon=-122.39473342895508 HTTP/1.1" 200 -
+(120, 86)
+65.87.19.170 - - [27/Jun/2016 09:46:51] "GET /ajax?lat=37.796084948503236&lon=-122.39953994750977 HTTP/1.1" 200 -
+(120, 106)
+65.87.19.170 - - [27/Jun/2016 09:46:52] "GET /ajax?lat=37.793100669930396&lon=-122.39953994750977 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:55] "GET /ajax?lat=37.84110578720457&lon=-122.4429702758789 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:46:59] "GET /ajax?lat=37.83649648147502&lon=-122.43919372558592 HTTP/1.1" 200 -
+Similarity took 0.0363328456879 seconds
+
+PATH TO MAP, lat, lon /images/insight/9916d48daa40cf01c32c66710a19bf86f4af0d53.html 
+37.7814472723 -122.411809147
+65.87.19.170 - - [27/Jun/2016 09:47:03] "GET /output?text_review=I+want+to+eat+oysters+in+a+dark+closet%0D%0A+&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 09:47:03] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:47:14] "GET /ajax?lat=37.83595419127664&lon=-122.38546371459961 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:47:14] "GET /ajax?lat=37.822124444341064&lon=-122.43284225463867 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:47:17] "GET /ajax?lat=37.81941242531439&lon=-122.50734329223633 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:47:18] "GET /ajax?lat=37.81778516606761&lon=-122.50408172607422 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:47:20] "GET /ajax?lat=37.81778516606761&lon=-122.50408172607422 HTTP/1.1" 200 -
+(120, 4)
+65.87.19.170 - - [27/Jun/2016 09:50:23] "GET /ajax?lat=37.73379707124429&lon=-122.47489929199219 HTTP/1.1" 200 -
+(120, 4)
+65.87.19.170 - - [27/Jun/2016 09:50:24] "GET /ajax?lat=37.73379707124429&lon=-122.47472763061522 HTTP/1.1" 200 -
+(120, 1)
+65.87.19.170 - - [27/Jun/2016 09:50:25] "GET /ajax?lat=37.753208288255074&lon=-122.49172210693358 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:50:26] "GET / HTTP/1.1" 200 -
+Similarity took 0.0659420490265 seconds
+
+PATH TO MAP, lat, lon /images/insight/2b3018272dcdf54c94bf988339598c2e987cf6a1.html 
+37.7845060413 -122.414950675
+65.87.19.170 - - [27/Jun/2016 09:52:18] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 09:52:19] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:52:26] "GET /ajax?lat=37.75822994194451&lon=-122.45756149291991 HTTP/1.1" 200 -
+(120, 26)
+65.87.19.170 - - [27/Jun/2016 09:52:27] "GET /ajax?lat=37.77532815168286&lon=-122.39662170410156 HTTP/1.1" 200 -
+(120, 60)
+65.87.19.170 - - [27/Jun/2016 09:52:27] "GET /ajax?lat=37.79215110146844&lon=-122.39404678344727 HTTP/1.1" 200 -
+(120, 59)
+65.87.19.170 - - [27/Jun/2016 09:52:27] "GET /ajax?lat=37.79920474721051&lon=-122.40589141845703 HTTP/1.1" 200 -
+(120, 37)
+65.87.19.170 - - [27/Jun/2016 09:52:28] "GET /ajax?lat=37.80178187284963&lon=-122.41018295288085 HTTP/1.1" 200 -
+(120, 28)
+65.87.19.170 - - [27/Jun/2016 09:52:28] "GET /ajax?lat=37.802595683318025&lon=-122.41430282592772 HTTP/1.1" 200 -
+(120, 51)
+65.87.19.170 - - [27/Jun/2016 09:52:28] "GET /ajax?lat=37.79988294688579&lon=-122.40846633911133 HTTP/1.1" 200 -
+(120, 60)
+65.87.19.170 - - [27/Jun/2016 09:52:29] "GET /ajax?lat=37.79920474721051&lon=-122.39833831787108 HTTP/1.1" 200 -
+(120, 5)
+65.87.19.170 - - [27/Jun/2016 09:52:29] "GET /ajax?lat=37.80476580072879&lon=-122.39730834960938 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:52:29] "GET /ajax?lat=37.80761398306056&lon=-122.39748001098633 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:52:30] "GET /ajax?lat=37.80788523279169&lon=-122.39850997924803 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:52:30] "GET /ajax?lat=37.80720710659572&lon=-122.398681640625 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:52:30] "GET /ajax?lat=37.80720710659572&lon=-122.39919662475587 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:52:31] "GET /ajax?lat=37.80720710659572&lon=-122.39919662475587 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:52:31] "GET /ajax?lat=37.805986463750315&lon=-122.40108489990233 HTTP/1.1" 200 -
+(120, 6)
+65.87.19.170 - - [27/Jun/2016 09:52:31] "GET /ajax?lat=37.80639334694058&lon=-122.40434646606444 HTTP/1.1" 200 -
+(120, 5)
+65.87.19.170 - - [27/Jun/2016 09:52:32] "GET /ajax?lat=37.805172690644405&lon=-122.40211486816406 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:52:32] "GET /ajax?lat=37.80625771945958&lon=-122.39765167236327 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:52:32] "GET /ajax?lat=37.80856335276034&lon=-122.40108489990233 HTTP/1.1" 200 -
+(120, 7)
+65.87.19.170 - - [27/Jun/2016 09:52:33] "GET /ajax?lat=37.805986463750315&lon=-122.40400314331055 HTTP/1.1" 200 -
+(120, 4)
+65.87.19.170 - - [27/Jun/2016 09:52:36] "GET /ajax?lat=37.805850835522065&lon=-122.402286529541 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:52:36] "GET /ajax?lat=37.808292105520174&lon=-122.40159988403319 HTTP/1.1" 200 -
+(120, 4)
+65.87.19.170 - - [27/Jun/2016 09:52:36] "GET /ajax?lat=37.80761398306056&lon=-122.40245819091795 HTTP/1.1" 200 -
+(120, 4)
+65.87.19.170 - - [27/Jun/2016 09:52:37] "GET /ajax?lat=37.804358908571395&lon=-122.39542007446289 HTTP/1.1" 200 -
+(120, 2)
+65.87.19.170 - - [27/Jun/2016 09:52:37] "GET /ajax?lat=37.805172690644405&lon=-122.39490509033203 HTTP/1.1" 200 -
+(120, 5)
+65.87.19.170 - - [27/Jun/2016 09:52:37] "GET /ajax?lat=37.805172690644405&lon=-122.39713668823241 HTTP/1.1" 200 -
+(120, 5)
+65.87.19.170 - - [27/Jun/2016 09:52:37] "GET /ajax?lat=37.804358908571395&lon=-122.39713668823241 HTTP/1.1" 200 -
+(120, 8)
+65.87.19.170 - - [27/Jun/2016 09:52:38] "GET /ajax?lat=37.80381638220771&lon=-122.39713668823241 HTTP/1.1" 200 -
+(120, 8)
+65.87.19.170 - - [27/Jun/2016 09:52:39] "GET /ajax?lat=37.80381638220771&lon=-122.39713668823241 HTTP/1.1" 200 -
+(120, 7)
+65.87.19.170 - - [27/Jun/2016 09:52:39] "GET /ajax?lat=37.80340948481954&lon=-122.39713668823241 HTTP/1.1" 200 -
+(120, 7)
+65.87.19.170 - - [27/Jun/2016 09:52:44] "GET /ajax?lat=37.803002585189645&lon=-122.39713668823241 HTTP/1.1" 200 -
+Similarity took 0.0263288021088 seconds
+
+PATH TO MAP, lat, lon /images/insight/8ee1fbf76eb72ab1a5fcd9e3c6ab8211d0fb5b2f.html 
+37.781878477 -122.41152029
+65.87.19.170 - - [27/Jun/2016 09:52:54] "GET /output?text_review=I+want+to+eat+oysters+in+a+dark+closet&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 09:52:55] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:56:02] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:56:03] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:56:03] "GET /static/css/stylish-portfolio.css HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:56:03] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:56:03] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [27/Jun/2016 09:56:03] "GET /static/img/bg.jpg HTTP/1.1" 304 -
+Similarity took 0.0384929180145 seconds
+
+PATH TO MAP, lat, lon /images/insight/99b5d2c443282267fed765011081a2132f5e98de.html 
+37.7851033794 -122.409589121
+65.87.19.170 - - [27/Jun/2016 09:57:41] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 09:57:41] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+(120, 1)
+65.87.19.170 - - [27/Jun/2016 09:57:45] "GET /ajax?lat=37.75890851765176&lon=-122.44726181030273 HTTP/1.1" 200 -
+(120, 34)
+65.87.19.170 - - [27/Jun/2016 09:57:45] "GET /ajax?lat=37.77003627110171&lon=-122.40709304809572 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:57:46] "GET /ajax?lat=37.78306175736384&lon=-122.37567901611328 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:57:47] "GET /ajax?lat=37.783604436152636&lon=-122.38288879394531 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:57:47] "GET /ajax?lat=37.783468766829&lon=-122.38280296325685 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:57:50] "GET /ajax?lat=37.783672270721034&lon=-122.38288879394531 HTTP/1.1" 200 -
+(120, 26)
+65.87.19.170 - - [27/Jun/2016 09:57:51] "GET /ajax?lat=37.79208327468276&lon=-122.39009857177734 HTTP/1.1" 200 -
+(120, 23)
+65.87.19.170 - - [27/Jun/2016 09:57:51] "GET /ajax?lat=37.79676317682161&lon=-122.38975524902342 HTTP/1.1" 200 -
+(120, 31)
+65.87.19.170 - - [27/Jun/2016 09:57:51] "GET /ajax?lat=37.79649188624144&lon=-122.39155769348145 HTTP/1.1" 200 -
+(120, 33)
+65.87.19.170 - - [27/Jun/2016 09:57:52] "GET /ajax?lat=37.79520324238054&lon=-122.39087104797363 HTTP/1.1" 200 -
+(120, 32)
+65.87.19.170 - - [27/Jun/2016 09:57:52] "GET /ajax?lat=37.79676317682161&lon=-122.39198684692384 HTTP/1.1" 200 -
+(120, 37)
+65.87.19.170 - - [27/Jun/2016 09:57:52] "GET /ajax?lat=37.79839089938073&lon=-122.39344596862793 HTTP/1.1" 200 -
+(120, 24)
+65.87.19.170 - - [27/Jun/2016 09:57:53] "GET /ajax?lat=37.80042550214271&lon=-122.39516258239745 HTTP/1.1" 200 -
+(120, 7)
+65.87.19.170 - - [27/Jun/2016 09:57:53] "GET /ajax?lat=37.80293476836673&lon=-122.39687919616699 HTTP/1.1" 200 -
+(120, 5)
+65.87.19.170 - - [27/Jun/2016 09:57:53] "GET /ajax?lat=37.80503706092163&lon=-122.39833831787108 HTTP/1.1" 200 -
+((120120, 3, )
+4()
+120, 4)
+(120, 4)
+65.87.19.170 - - [27/Jun/2016 09:57:55] "GET /ajax?lat=37.807546170472115&lon=-122.400484085083 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:57:55] "GET /ajax?lat=37.80808866943617&lon=-122.40323066711426 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:57:55] "GET /ajax?lat=37.80768179558675&lon=-122.40194320678711 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:57:55] "GET /ajax?lat=37.8080208572836&lon=-122.4041748046875 HTTP/1.1" 200 -
+(120, 5)
+65.87.19.170 - - [27/Jun/2016 09:57:55] "GET /ajax?lat=37.80693585437371&lon=-122.40391731262207 HTTP/1.1" 200 -
+(120, 5)
+65.87.19.170 - - [27/Jun/2016 09:57:55] "GET /ajax?lat=37.80612209172951&lon=-122.40297317504881 HTTP/1.1" 200 -
+(120, 4)
+((120120, 8)
+, 4)
+65.87.19.170 - - [27/Jun/2016 09:57:57] "GET /ajax?lat=37.80313821864869&lon=-122.39773750305174 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:57:57] "GET /ajax?lat=37.80571520704471&lon=-122.402286529541 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:57:57] "GET /ajax?lat=37.80537613476155&lon=-122.40117073059083 HTTP/1.1" 200 -
+(120, 15)
+65.87.19.170 - - [27/Jun/2016 09:57:57] "GET /ajax?lat=37.80151060070086&lon=-122.39627838134766 HTTP/1.1" 200 -
+(120(120, , (3625)
+120), 28)
+
+(120, 44)
+65.87.19.170 - - [27/Jun/2016 09:57:59] "GET /ajax?lat=37.8001542250124&lon=-122.3946475982666 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:57:59] "GET /ajax?lat=37.79974730744888&lon=-122.3946475982666 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:57:59] "GET /ajax?lat=37.7971701108238&lon=-122.3946475982666 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:57:59] "GET /ajax?lat=37.79947602782785&lon=-122.39533424377441 HTTP/1.1" 200 -
+(120, 37)
+65.87.19.170 - - [27/Jun/2016 09:58:02] "GET /ajax?lat=37.79900128609368&lon=-122.39473342895508 HTTP/1.1" 200 -
+(120, 38)
+65.87.19.170 - - [27/Jun/2016 09:58:02] "GET /ajax?lat=37.79934038764372&lon=-122.39550590515137 HTTP/1.1" 200 -
+(120, 42)
+65.87.19.170 - - [27/Jun/2016 09:58:02] "GET /ajax?lat=37.79934038764372&lon=-122.39584922790526 HTTP/1.1" 200 -
+(120, 7)
+(120, 4)
+(120, 5)
+(120, 33)
+65.87.19.170 - - [27/Jun/2016 09:58:03] "GET /ajax?lat=37.80720710659572&lon=-122.40434646606444 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:03] "GET /ajax?lat=37.805104875814145&lon=-122.39945411682129 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:03] "GET /ajax?lat=37.800222044388384&lon=-122.39593505859376 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:03] "GET /ajax?lat=37.80293476836673&lon=-122.39687919616699 HTTP/1.1" 200 -
+(120, 6)
+(120, 7)
+65.87.19.170 - - [27/Jun/2016 09:58:04] "GET /ajax?lat=37.80781742045232&lon=-122.40812301635742 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:04] "GET /ajax?lat=37.80781742045232&lon=-122.40666389465332 HTTP/1.1" 200 -
+(120, 9)
+65.87.19.170 - - [27/Jun/2016 09:58:04] "GET /ajax?lat=37.80842772926481&lon=-122.40992546081543 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 09:58:04] "GET /ajax?lat=37.806325533231224&lon=-122.40185737609865 HTTP/1.1" 200 -
+(120, 11)
+65.87.19.170 - - [27/Jun/2016 09:58:05] "GET /ajax?lat=37.802256596712596&lon=-122.39790916442873 HTTP/1.1" 200 -
+(120, 13)
+(120, 12)
+65.87.19.170 - - [27/Jun/2016 09:58:05] "GET /ajax?lat=37.80178187284963&lon=-122.39705085754393 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:05] "GET /ajax?lat=37.80178187284963&lon=-122.39713668823241 HTTP/1.1" 200 -
+(120, 21)
+65.87.19.170 - - [27/Jun/2016 09:58:06] "GET /ajax?lat=37.80144278250799&lon=-122.39696502685547 HTTP/1.1" 200 -
+(120, 23)
+65.87.19.170 - - [27/Jun/2016 09:58:06] "GET /ajax?lat=37.80144278250799&lon=-122.39782333374022 HTTP/1.1" 200 -
+(120, 12)
+65.87.19.170 - - [27/Jun/2016 09:58:06] "GET /ajax?lat=37.80286695148153&lon=-122.39876747131348 HTTP/1.1" 200 -
+(120, 4)
+65.87.19.170 - - [27/Jun/2016 09:58:06] "GET /ajax?lat=37.80476580072879&lon=-122.40031242370604 HTTP/1.1" 200 -
+(120, 4)
+65.87.19.170 - - [27/Jun/2016 09:58:09] "GET /ajax?lat=37.8046979855249&lon=-122.40065574645996 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:10] "GET /ajax?lat=37.81195385919268&lon=-122.38872528076173 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:10] "GET /ajax?lat=37.81195385919268&lon=-122.38889694213867 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:12] "GET /ajax?lat=37.820565045576494&lon=-122.41069793701172 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:14] "GET /ajax?lat=37.816361284800045&lon=-122.40923881530762 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:16] "GET /ajax?lat=37.81642908929269&lon=-122.40923881530762 HTTP/1.1" 200 -
+Similarity took 0.0270409584045 seconds
+
+PATH TO MAP, lat, lon /images/insight/c3e68624f69cc28a6de26d07f3958e28166d2fb3.html 
+37.7817284745 -122.414753673
+65.87.19.170 - - [27/Jun/2016 09:58:23] "GET /output?text_review=I+want+to+eat+oysters+in+a+dark+closet&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 09:58:23] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:32] "GET /ajax?lat=37.835818618104156&lon=-122.3434066772461 HTTP/1.1" 200 -
+(120, 21)
+65.87.19.170 - - [27/Jun/2016 09:58:33] "GET /ajax?lat=37.7996116677629&lon=-122.39336013793945 HTTP/1.1" 200 -
+(120, 43)
+65.87.19.170 - - [27/Jun/2016 09:58:33] "GET /ajax?lat=37.798662182986945&lon=-122.39524841308595 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:33] "GET /ajax?lat=37.7940502261884&lon=-122.37619400024415 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:34] "GET /ajax?lat=37.7940502261884&lon=-122.37619400024415 HTTP/1.1" 200 -
+(120, 5)
+65.87.19.170 - - [27/Jun/2016 09:58:34] "GET /ajax?lat=37.79215110146844&lon=-122.38306045532227 HTTP/1.1" 200 -
+(120, 7)
+65.87.19.170 - - [27/Jun/2016 09:58:45] "GET /ajax?lat=37.79065889780023&lon=-122.38460540771483 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:45] "GET /ajax?lat=37.79215110146844&lon=-122.36486434936522 HTTP/1.1" 200 -
+(120, 96)
+65.87.19.170 - - [27/Jun/2016 09:58:45] "GET /ajax?lat=37.78699608830537&lon=-122.40022659301758 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:46] "GET /ajax?lat=37.826192286037355&lon=-122.36246109008789 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:47] "GET /ajax?lat=37.83825889708791&lon=-122.43352890014648 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:48] "GET /ajax?lat=37.83825889708791&lon=-122.43352890014648 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:48] "GET /ajax?lat=37.83825889708791&lon=-122.43352890014648 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 09:58:48] "GET /ajax?lat=37.83825889708791&lon=-122.43352890014648 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 11:28:19] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:54:47] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:54:47] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:54:47] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:54:47] "GET /static/css/stylish-portfolio.css HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:54:47] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:54:48] "GET /static/img/bg.jpg HTTP/1.1" 200 -
+Similarity took 0.0258948802948 seconds
+
+PATH TO MAP, lat, lon /images/insight/0f7fd128adf286d8cf6792a1fb3c50c194344843.html 
+37.7862208505 -122.410433435
+65.87.19.170 - - [27/Jun/2016 13:56:06] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:56:07] "GET /static/css/bootstrap.css HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:56:07] "GET /static/js/complete.ly.1.0.1.min.js HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 13:56:08] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+(120, 38)
+65.87.19.170 - - [27/Jun/2016 13:56:14] "GET /ajax?lat=37.761894176815304&lon=-122.43318557739256 HTTP/1.1" 200 -
+(120, 33)
+65.87.19.170 - - [27/Jun/2016 13:56:14] "GET /ajax?lat=37.7745140408613&lon=-122.42717742919922 HTTP/1.1" 200 -
+(120, 63)
+65.87.19.170 - - [27/Jun/2016 13:56:15] "GET /ajax?lat=37.7852324486112&lon=-122.41790771484375 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:56:15] "GET /ajax?lat=37.773428545820956&lon=-122.37842559814453 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:56:16] "GET /ajax?lat=37.78808138412046&lon=-122.37499237060547 HTTP/1.1" 200 -
+(120, 2)
+65.87.19.170 - - [27/Jun/2016 13:56:16] "GET /ajax?lat=37.79296501804014&lon=-122.38134384155272 HTTP/1.1" 200 -
+(120, 8)
+65.87.19.170 - - [27/Jun/2016 13:56:16] "GET /ajax?lat=37.79825525720401&lon=-122.38683700561523 HTTP/1.1" 200 -
+(120, 11)
+65.87.19.170 - - [27/Jun/2016 13:56:17] "GET /ajax?lat=37.800289863702076&lon=-122.39044189453124 HTTP/1.1" 200 -
+(120, 12)
+65.87.19.170 - - [27/Jun/2016 13:56:17] "GET /ajax?lat=37.80042550214271&lon=-122.39095687866211 HTTP/1.1" 200 -
+(120, 12)
+65.87.19.170 - - [27/Jun/2016 13:56:18] "GET /ajax?lat=37.80069677827669&lon=-122.39164352416992 HTTP/1.1" 200 -
+(120, 12)
+65.87.19.170 - - [27/Jun/2016 13:56:18] "GET /ajax?lat=37.80151060070089&lon=-122.39336013793945 HTTP/1.1" 200 -
+(120, 10)
+65.87.19.170 - - [27/Jun/2016 13:56:19] "GET /ajax?lat=37.80218877920469&lon=-122.3935317993164 HTTP/1.1" 200 -
+(120, 2)
+65.87.19.170 - - [27/Jun/2016 13:56:19] "GET /ajax?lat=37.80571520704471&lon=-122.39490509033203 HTTP/1.1" 200 -
+(120, 1)
+65.87.19.170 - - [27/Jun/2016 13:56:19] "GET /ajax?lat=37.80788523279169&lon=-122.39679336547852 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 13:56:19] "GET /ajax?lat=37.80815648152641&lon=-122.39902496337889 HTTP/1.1" 200 -
+(120, 3)
+65.87.19.170 - - [27/Jun/2016 13:56:20] "GET /ajax?lat=37.80625771945958&lon=-122.402286529541 HTTP/1.1" 200 -
+(120, 12)
+65.87.19.170 - - [27/Jun/2016 13:56:20] "GET /ajax?lat=37.8019175085504&lon=-122.39542007446289 HTTP/1.1" 200 -
+(120, 11)
+65.87.19.170 - - [27/Jun/2016 13:56:20] "GET /ajax?lat=37.79920474721051&lon=-122.38889694213867 HTTP/1.1" 200 -
+(120, 17)
+65.87.19.170 - - [27/Jun/2016 13:56:21] "GET /ajax?lat=37.79635624057777&lon=-122.38786697387694 HTTP/1.1" 200 -
+(120, 20)
+65.87.19.170 - - [27/Jun/2016 13:56:21] "GET /ajax?lat=37.79296501804014&lon=-122.38872528076173 HTTP/1.1" 200 -
+(120, 15)
+65.87.19.170 - - [27/Jun/2016 13:56:21] "GET /ajax?lat=37.79893346559687&lon=-122.38924026489256 HTTP/1.1" 200 -
+(120, 11)
+65.87.19.170 - - [27/Jun/2016 13:56:22] "GET /ajax?lat=37.80056114033423&lon=-122.39078521728516 HTTP/1.1" 200 -
+(120, 6)
+65.87.19.170 - - [27/Jun/2016 13:56:22] "GET /ajax?lat=37.803002585189645&lon=-122.39336013793945 HTTP/1.1" 200 -
+(120, 6)
+65.87.19.170 - - [27/Jun/2016 13:56:22] "GET /ajax?lat=37.804087645887726&lon=-122.39902496337889 HTTP/1.1" 200 -
+(120, 46)
+65.87.19.170 - - [27/Jun/2016 13:56:23] "GET /ajax?lat=37.801103690609615&lon=-122.40142822265625 HTTP/1.1" 200 -
+(120, 63)
+65.87.19.170 - - [27/Jun/2016 13:56:23] "GET /ajax?lat=37.80001858607365&lon=-122.39988327026369 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:56:23] "GET /ajax?lat=37.817649559511125&lon=-122.39559173583984 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 13:56:24] "GET /ajax?lat=37.82049724488286&lon=-122.3935317993164 HTTP/1.1" 200 -
+Similarity took 0.0268459320068 seconds
+
+PATH TO MAP, lat, lon /images/insight/e71cf3d84d35ce3125c3fc26f54a802415166eef.html 
+37.7822295023 -122.408710955
+65.87.19.170 - - [27/Jun/2016 13:56:39] "GET /output?text_review=I+want+to+eat+oysters+in+a+dark+closet&sel_city=San+Francisco%2C+CA HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [27/Jun/2016 13:56:41] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+65.87.19.170 - - [27/Jun/2016 18:29:28] "GET / HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:26] "GET / HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:26] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:26] "GET /static/css/stylish-portfolio.css HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:26] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:26] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:27] "GET /static/img/bg.jpg HTTP/1.1" 200 -
+Similarity took 0.0249559879303 seconds
+
+PATH TO MAP, lat, lon /images/insight/a5658b39eb9ca8fb65acb2f34aa2afbc9d714edc.html 
+37.7876214323 -122.414083563
+67.169.181.90 - - [28/Jun/2016 00:00:32] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:32] "GET /static/css/bootstrap.css HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:33] "GET /static/js/complete.ly.1.0.1.min.js HTTP/1.1" 200 -
+(120, 53)
+67.169.181.90 - - [28/Jun/2016 00:00:34] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:36] "GET /ajax?lat=37.823616012330255&lon=-122.44468688964844 HTTP/1.1" 200 -
+(120, 2)
+67.169.181.90 - - [28/Jun/2016 00:00:36] "GET /ajax?lat=37.81344563270115&lon=-122.42357254028322 HTTP/1.1" 200 -
+((120, 30)120, 
+20)
+(120, 14)
+67.169.181.90 - - [28/Jun/2016 00:00:36] "GET /ajax?lat=37.805850835522065&lon=-122.40983963012695 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:36] "GET /ajax?lat=37.79811961477822&lon=-122.42443084716797 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:36] "GET /ajax?lat=37.80897022175241&lon=-122.41413116455077 HTTP/1.1" 200 -
+(120, 15)
+67.169.181.90 - - [28/Jun/2016 00:00:37] "GET /ajax?lat=37.810326435534755&lon=-122.41722106933594 HTTP/1.1" 200 -
+(120, 1)
+67.169.181.90 - - [28/Jun/2016 00:00:37] "GET /ajax?lat=37.81425931463781&lon=-122.40640640258788 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:37] "GET /ajax?lat=37.8203616433087&lon=-122.41052627563477 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:38] "GET /ajax?lat=37.83039548690152&lon=-122.41670608520508 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:39] "GET /ajax?lat=37.83500517383701&lon=-122.41241455078125 HTTP/1.1" 200 -
+(120, 15)
+67.169.181.90 - - [28/Jun/2016 00:00:39] "GET /ajax?lat=37.80991957401557&lon=-122.41790771484375 HTTP/1.1" 200 -
+(120, 11)
+67.169.181.90 - - [28/Jun/2016 00:00:40] "GET /ajax?lat=37.81127577036112&lon=-122.41584777832031 HTTP/1.1" 200 -
+(120, 69)
+67.169.181.90 - - [28/Jun/2016 00:00:40] "GET /ajax?lat=37.79323632157157&lon=-122.39576339721678 HTTP/1.1" 200 -
+(120, 28)
+67.169.181.90 - - [28/Jun/2016 00:00:40] "GET /ajax?lat=37.77722770873696&lon=-122.39439010620116 HTTP/1.1" 200 -
+(120, 29)
+67.169.181.90 - - [28/Jun/2016 00:00:41] "GET /ajax?lat=37.77641361883315&lon=-122.39902496337889 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:41] "GET /ajax?lat=37.808292105520145&lon=-122.4846839904785 HTTP/1.1" 200 -
+(120, 11)
+67.169.181.90 - - [28/Jun/2016 00:00:41] "GET /ajax?lat=37.788895345521766&lon=-122.38786697387694 HTTP/1.1" 200 -
+(120, 55)
+67.169.181.90 - - [28/Jun/2016 00:00:42] "GET /ajax?lat=37.798662182986924&lon=-122.39713668823241 HTTP/1.1" 200 -
+(120, 65)
+67.169.181.90 - - [28/Jun/2016 00:00:44] "GET /ajax?lat=37.79622059466506&lon=-122.39765167236327 HTTP/1.1" 200 -
+(120, 6)
+67.169.181.90 - - [28/Jun/2016 00:00:44] "GET /ajax?lat=37.8040876458877&lon=-122.39936828613281 HTTP/1.1" 200 -
+(120, 28)
+67.169.181.90 - - [28/Jun/2016 00:00:44] "GET /ajax?lat=37.80395201417224&lon=-122.40400314331055 HTTP/1.1" 200 -
+(120, 116)
+67.169.181.90 - - [28/Jun/2016 00:00:45] "GET /ajax?lat=37.7933719729637&lon=-122.40537643432617 HTTP/1.1" 200 -
+(120, 93)
+67.169.181.90 - - [28/Jun/2016 00:00:45] "GET /ajax?lat=37.78441844686463&lon=-122.41224288940428 HTTP/1.1" 200 -
+(120, 48)
+67.169.181.90 - - [28/Jun/2016 00:00:46] "GET /ajax?lat=37.77709202770888&lon=-122.41224288940428 HTTP/1.1" 200 -
+(120, 5)
+67.169.181.90 - - [28/Jun/2016 00:00:46] "GET /ajax?lat=37.7795342481134&lon=-122.49017715454102 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:47] "GET /ajax?lat=37.792829365900836&lon=-122.49738693237305 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:47] "GET /ajax?lat=37.79310066993037&lon=-122.46854782104492 HTTP/1.1" 200 -
+(120, 2)
+67.169.181.90 - - [28/Jun/2016 00:00:48] "GET /ajax?lat=37.790116270812874&lon=-122.45738983154297 HTTP/1.1" 200 -
+(120, 33)
+67.169.181.90 - - [28/Jun/2016 00:00:50] "GET /ajax?lat=37.77777043035903&lon=-122.43026733398438 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:53] "GET /ajax?lat=37.86780697709982&lon=-122.36640930175781 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:54] "GET /ajax?lat=37.88542175450914&lon=-122.44537353515625 HTTP/1.1" 200 -
+67.169.181.90 - - [28/Jun/2016 00:00:54] "GET /ajax?lat=37.8203616433087&lon=-122.41550445556639 HTTP/1.1" 200 -
+(120, 4)
+67.169.181.90 - - [28/Jun/2016 00:00:54] "GET /ajax?lat=37.74710041225793&lon=-122.43850708007811 HTTP/1.1" 200 -
+65.87.19.170 - - [28/Jun/2016 10:13:33] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [28/Jun/2016 10:13:33] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+65.87.19.170 - - [28/Jun/2016 10:13:33] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+65.87.19.170 - - [28/Jun/2016 10:13:33] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+65.87.19.170 - - [28/Jun/2016 10:13:33] "GET /static/css/stylish-portfolio.css HTTP/1.1" 200 -
+65.87.19.170 - - [28/Jun/2016 10:13:33] "GET /static/img/bg.jpg HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:42:34] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:42:36] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:42:36] "GET /static/css/stylish-portfolio.css HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:42:36] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:42:36] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:42:36] "GET /static/img/bg.jpg HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:43:49] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:45:16] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:45:17] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:45:17] "GET /static/css/stylish-portfolio.css HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:45:17] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:45:17] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:45:17] "GET /static/img/bg.jpg HTTP/1.1" 304 -
+ * Detected change in '/data/insight_yelp/run.py', reloading
+ * Restarting with inotify reloader
+path /data/insight_yelp/input/
+65.87.19.170 - - [29/Jun/2016 16:46:46] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:46:46] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:46:46] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:46:46] "GET /static/css/stylish-portfolio.css HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:46:46] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:46:47] "GET /static/img/bg.jpg HTTP/1.1" 304 -
+Similarity took 0.027909040451 seconds
+
+PATH TO MAP, lat, lon /images/insight/a561d21276e16528c2b18cf26090ae09938e9e8f.html 
+37.7826990888 -122.41745751
+65.87.19.170 - - [29/Jun/2016 16:46:54] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:46:55] "GET /static/css/bootstrap.css HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:46:55] "GET /static/js/complete.ly.1.0.1.min.js HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [29/Jun/2016 16:46:56] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+(120, 38)
+65.87.19.170 - - [29/Jun/2016 16:47:39] "GET /ajax?lat=37.77587088725018&lon=-122.42511749267578 HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:47:41] "GET / HTTP/1.1" 200 -
+65.87.19.170 - - [29/Jun/2016 16:47:42] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:47:42] "GET /static/css/stylish-portfolio.css HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:47:42] "GET /static/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:47:42] "GET /static/js/bootstrap.min.js HTTP/1.1" 304 -
+65.87.19.170 - - [29/Jun/2016 16:47:42] "GET /static/img/bg.jpg HTTP/1.1" 304 -
+Similarity took 0.0354061126709 seconds
+
+PATH TO MAP, lat, lon /images/insight/4d6dbfd4d119796b1a3093df040ae77d35f77ce0.html 
+37.7839070587 -122.410891698
+65.87.19.170 - - [29/Jun/2016 16:48:03] "GET /output?sel_city=San+Francisco%2C+CA&text_review=I+want+to+eat+oysters+with+a+view+of+the+bay HTTP/1.1" 200 -
+(120, 53)
+65.87.19.170 - - [29/Jun/2016 16:48:04] "GET /ajax?lat=37.7836341646&lon=-122.418980494 HTTP/1.1" 200 -
+(120, 25)
+65.87.19.170 - - [29/Jun/2016 16:48:07] "GET /ajax?lat=37.77709202770888&lon=-122.38889694213867 HTTP/1.1" 200 -
