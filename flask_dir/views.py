@@ -162,6 +162,7 @@ def cesareans_output():
       names.append(name)
       valid_biz.append(bus_id)
       biz_sims.append(top_bus_sim[i_bus])
+      print name, top_bus_sim[i_bus] 
 
   top_bus_id  = valid_biz
   top_bus_sim = biz_sims
